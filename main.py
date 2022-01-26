@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 url = 'https://www.indeed.com/jobs?'
-site = 'https://www.indeed.com/'
+site = 'https://www.indeed.com'
 params = {
     'q': 'python developer',
     'l': 'United States',
@@ -67,6 +67,7 @@ def get_all_items():
     # * company link
     # * company address
 
+    jobs_list = []
     for item in contents:
         title =  item.find('h2', {'class': 'jobTitle'}).text
         company = item.find('span', {'class': 'companyName'})
@@ -75,7 +76,15 @@ def get_all_items():
             company_link =  site + company.find('a')['href']
         except:
             company_link = 'N/A'
-        print(company_link)
+
+        # sorting data
+        data_dict = {
+         'title': title,
+         'company name': company_name,
+         'link': company_link
+        }
+        jobs_list.append(data_dict)
+    print('Jumlah Datanya adalah ', len(jobs_list))
 
 
 if __name__ == '__main__':
