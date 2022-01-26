@@ -18,10 +18,10 @@ res = requests.get(url, params=params, headers=headers)
 print(res.status_code)
 soup = BeautifulSoup(res.text, 'html.parser')
 
-def get_total_pages():
+def get_total_pages(query, location):
     params = {
-    'q': 'python developer',
-    'l': 'United States',
+    'q': query,
+    'l': location,
     '_ga': '2.103645448.948588261.1643193635-35629996.1642520933'
     }
     res = requests.get(url, params=params, headers=headers)
@@ -46,10 +46,11 @@ def get_total_pages():
     total = int(max(total_pages))
     return total
 
-def get_all_items():
+def get_all_items(query, location, start, page):
     params = {
-    'q': 'python developer',
-    'l': 'United States',
+    'q': query,
+    'l': location,
+    'start': start,
     '_ga': '2.103645448.948588261.1643193635-35629996.1642520933'
     }
     res = requests.get(url, params=params, headers=headers)
@@ -92,17 +93,51 @@ def get_all_items():
         os.mkdir('data_json')
     except FileExistsError:
        pass
-    with open('data_json/data.json', 'w+') as f:
+    with open(f'data_json/{query}_in_{location}_page_{page}.json', 'w+') as f:
         json.dump(jobs_list, f)
         f.close()
     print('Data berhasil di simpan di data_json/data.json')
+    return jobs_list
 
-    #writing csv file
-    df = pd.DataFrame(jobs_list)
-    df.to_csv('data.csv', index=False)
-    df.to_excel('data.xlsx', index=False)
-    print('Data berhasil di simpan di data_csv/data.csv')
+def create_document(dataFrame, filename):
+    try:
+       os.mkdir('data_result')
+    except FileExistsError:
+       pass
+    df = pd.DataFrame(dataFrame)
+    df.to_csv(f'data_result/{filename}.csv', index=False)
+    df.to_excel(f'data_result/{filename}.xlsx', index=False)
+
+    print(f'File {filename}.csv and {filename}.xlsx has been created')
+
+def run():
+    query = input('Masukkan kata kunci: ')
+    location = input('Masukkan lokasi: ')
+
+    total = get_total_pages(query, location)
+    counter = 0
+
+    final_result = []
+    for page in range(total):
+        page += 1
+        counter += 10
+        final_result += get_all_items(query, location, counter, page)
+
+     # formating data
+    try:
+        os.mkdir('reports')
+    except FileExistsError:
+       pass
+
+    with open(f'reports/{query}_in_{location}.json', 'w+') as f:
+        json.dump(final_result, f)
+        f.close()
+    print('Data berhasil di simpan di reports')
+
+    # create document
+    create_document(final_result, f'{query}_in_{location}')
 
 if __name__ == '__main__':
     # get_total_pages()
-    get_all_items()
+    # get_all_items()
+    run()
