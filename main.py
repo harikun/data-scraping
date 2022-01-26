@@ -33,8 +33,17 @@ def get_total_pages():
         f.close()
 
     # Scraping Step
+    total_pages = []
     soup = BeautifulSoup(res.text, 'html.parser')
-    print(soup.prettify())
+    pagination = soup.find('ul', {'class': 'pagination-list'})
+    pages = pagination.find_all('li')
+    for page in pages:
+        total_pages.append(page.text)
+
+    total = int(max(total_pages))
+    return total
+
+
 
 if __name__ == '__main__':
     get_total_pages()
