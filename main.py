@@ -1,4 +1,5 @@
 import os
+import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -59,7 +60,7 @@ def get_all_items():
 
     #Scraping process
     contents = soup.find_all('table', {'class': 'jobCard_mainContent big6_visualChanges'})
-    print(contents)
+    # print(contents)
 
     #pick item
     # * title
@@ -84,8 +85,16 @@ def get_all_items():
          'link': company_link
         }
         jobs_list.append(data_dict)
-    print('Jumlah Datanya adalah ', len(jobs_list))
-
+    # print('Jumlah Datanya adalah ', len(jobs_list))
+    #writing json file
+    try:
+        os.mkdir('data_json')
+    except FileExistsError:
+       pass
+    with open('data_json/data.json', 'w+') as f:
+        json.dump(jobs_list, f)
+        f.close()
+    print('Data berhasil di simpan di data_json/data.json')
 
 if __name__ == '__main__':
     # get_total_pages()
