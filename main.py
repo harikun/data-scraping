@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 url = 'https://www.indeed.com/jobs?'
@@ -95,6 +96,12 @@ def get_all_items():
         json.dump(jobs_list, f)
         f.close()
     print('Data berhasil di simpan di data_json/data.json')
+
+    #writing csv file
+    df = pd.DataFrame(jobs_list)
+    df.to_csv('data.csv', index=False)
+    df.to_excel('data.xlsx', index=False)
+    print('Data berhasil di simpan di data_csv/data.csv')
 
 if __name__ == '__main__':
     # get_total_pages()
