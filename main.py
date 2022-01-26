@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 url = 'https://www.indeed.com/jobs?'
+site = 'https://www.indeed.com/'
 params = {
     'q': 'python developer',
     'l': 'United States',
@@ -43,7 +44,40 @@ def get_total_pages():
     total = int(max(total_pages))
     return total
 
+def get_all_items():
+    params = {
+    'q': 'python developer',
+    'l': 'United States',
+    '_ga': '2.103645448.948588261.1643193635-35629996.1642520933'
+    }
+    res = requests.get(url, params=params, headers=headers)
+
+    with open('temp/temp.html', 'w') as f:
+        f.write(res.text)
+        f.close()
+    soup = BeautifulSoup(res.text, 'html.parser')
+
+    #Scraping process
+    contents = soup.find_all('table', {'class': 'jobCard_mainContent big6_visualChanges'})
+    print(contents)
+
+    #pick item
+    # * title
+    # * company name
+    # * company link
+    # * company address
+
+    for item in contents:
+        title =  item.find('h2', {'class': 'jobTitle'}).text
+        company = item.find('span', {'class': 'companyName'})
+        company_name = company.text
+        try:
+            company_link =  site + company.find('a')['href']
+        except:
+            company_link = 'N/A'
+        print(company_link)
 
 
 if __name__ == '__main__':
-    get_total_pages()
+    # get_total_pages()
+    get_all_items()
