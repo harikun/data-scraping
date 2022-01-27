@@ -23,7 +23,7 @@ contents = soup.find_all('article', {'class': 'list-content__item'})
 
 news_list = []
 for item in contents:
-    title = item.find('h3', {'class': 'media__title'}).text
+    title = item.find('h3', {'class': 'media__title'}).text.strip("\n")
     link = item.find('a')['href']
     time = item.find('div', {'class': 'media__date'})
     time_detail = time.find('span')['title']
