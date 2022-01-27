@@ -1,3 +1,5 @@
+import os
+import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -10,7 +12,7 @@ print(res.status_code)
 soup = BeautifulSoup(res.text, 'html.parser')
 
 #Scraping process
-contents = soup.find('div', {'class': 'grid-row list-content'})
+contents = soup.find_all('article', {'class': 'list-content__item'})
 # print(contents)
 
 #pick item
@@ -19,20 +21,32 @@ contents = soup.find('div', {'class': 'grid-row list-content'})
  # * News Time
  # * News Image
 
-titles = contents.find_all('a', {'class': 'media__link'})
-images = contents.find_all('div', {'class': 'media__image'})
-dates = contents.find_all('div', {'class': 'media__date'})
+news_list = []
+for item in contents:
+    title = item.find('h3', {'class': 'media__title'}).text
+    link = item.find('a')['href']
+    time = item.find('div', {'class': 'media__date'})
+    time_detail = time.find('span')['title']
+    image = item.find('img')['src']
 
-for title in titles:
-    print(title.text)
-# data_dict = {
-#  'title': titles
-# }
-# Sorting the data
-# for title in titles:
-#     print(title.text)
-# for image in images:
-#     print(image.img['src'])
-#     print(image.a['href'])
-# for date in dates:
-#     print(date.span['title'])
+    # Sorting Data
+    data_dict ={
+        'title': title,
+        'link': link,
+        'time': time_detail,
+        'image': image
+    }
+    news_list.append(data_dict)
+
+# print('Jumlah Datanya adalah ', len(news_list))
+#writing to json file
+try:
+    os.mkdir('data_json')
+except FileExistsError:
+    pass
+with open('data_json/detik.json', 'w') as f:
+    json.dump(news_list, f)
+    f.close()
+print('Successfully written to json file')
+
+
