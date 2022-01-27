@@ -48,24 +48,24 @@ def get_all_items():
     soup = BeautifulSoup(res.text, 'html.parser')
 
     contents = soup.find_all('div', {'class': 'row results--row results--capsuleList'})
-    print(len(contents))
 
-# scraping process
-# 1. get the page number
-# 2. get the page url
-# 3. get the page content
-# 4. get the page title
-# 5. get the page price
-# 6. get the page location
-# 7. get the page rating
-# 8. get the page review count
-# 9. get the page image url
-# 10. get the page description
-# 11. get the page phone number
-# 12. get the page website
-# 13. get the page address
-# 14. get the page hours
-# 15. get the page categories
+  # pick item
+  # * title
+  # * classification
+  # * ctas (call to action)
+  # * maps link
+
+  # * price
+  # * location
+  # * rating
+  # * review count
+  # * image url
+  # 1* description
+  # 1* phone number
+  # 1* website
+  # 1* address
+  # 1* hours
+  # 1* categories
 if __name__ == '__main__':
     # get_total_pages()
     get_all_items()
