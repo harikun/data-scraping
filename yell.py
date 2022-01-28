@@ -47,8 +47,13 @@ def get_all_items():
 
     for content in headers_container:
         title = content.find('h2', {'class': 'businessCapsule--name text-h2'}).text
-        print(title)
-  # pick item #
+        classification = content.find('span', {'class': 'businessCapsule--classification'}).text
+        ctas_web = content.find('a', {'class': 'btn btn-yellow businessCapsule--ctaItem'}).get('href')
+        ctas_phone = content.find('span', {'class': 'business--telephoneNumber'}).text
+        maps_link = site + content.find('a', {'class': 'col-sm-24 businessCapsule--address businessCapsule--link'}).get('href')
+        opening_hours =  content.find('div', {'class': 'col-sm-24 businessCapsule--openingHours'})
+        print(opening_hours)
+
   # * title
   # * classification
   # * ctas (call to action)
