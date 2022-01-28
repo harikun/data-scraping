@@ -14,9 +14,6 @@ headers = {
  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
 }
 
-res = requests.get(url, params=params, headers=headers)
-soup = BeautifulSoup(res.text, 'html.parser')
-
 def get_total_pages():
     params = {
     'scrambleSeed' : '544673055',
@@ -45,9 +42,12 @@ def get_all_items():
     res = requests.get(url, params=params, headers=headers)
     soup = BeautifulSoup(res.text, 'html.parser')
 
-    contents = soup.find('div', {'class': 'row results--row results--capsuleList'})
-    contents_row = contents.find_all('div', {'class': 'col-sm-24'})
-    # print(contents_row)
+    # Scraping Process
+    headers_container = soup.find_all('div', {'class': 'row businessCapsule--mainRow'})
+
+    for content in headers_container:
+        title = content.find('h2', {'class': 'businessCapsule--name text-h2'}).text
+        print(title)
   # pick item #
   # * title
   # * classification
@@ -62,13 +62,6 @@ def get_all_items():
     # * rating average
     # * rating total
  # * services
-
-    Restaurants_list = []
-    no = 0
-    # print(contents_row)
-    for item in contents_row:
-        article = item.find('article', {'class': 'col-sm-24 businessCapsule businessCapsule-standard js-localBusiness'})
-        print(no, article)
 
 if __name__ == '__main__':
     # get_total_pages()
