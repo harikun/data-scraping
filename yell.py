@@ -25,15 +25,6 @@ def get_total_pages():
     }
     res = requests.get(url, params=params, headers=headers)
 
-    # try:
-    #     os.mkdir('temp')
-    # except FileExistsError:
-    #     pass
-
-    # with open('temp/temp_yell.html', 'w') as f:
-    #     f.write(res.text)
-    #     f.close()
-
     # Scraping Step
     total_pages = []
     soup = BeautifulSoup(res.text, 'html.parser')
@@ -42,7 +33,6 @@ def get_total_pages():
     for page in pages:
         total_pages.append(page.text)
     total = int(max(total_pages))
-    # print(total + 1)
     return total
 
 def get_all_items(page):
@@ -91,15 +81,8 @@ def get_all_items(page):
             'services': services
         }
         data_list.append(data_dict)
-    #write to json file
-    # try:
-    #     os.mkdir('data_json')
-    # except FileExistsError:
-    #     pass
-    # with open('data_json/data_yell.json', 'w') as f:
-    #     json.dump(data_list, f)
-    #     f.close()
-    # print('Data berhasil di simpan di data_json/data_yell.json')
+
+    print(f'Data berhasil halaman ke-{page} berhasil di scraping')
     return data_list
 
 def run():
@@ -115,10 +98,10 @@ def run():
     except OSError:
         pass
 
-    with open('data_json/yell_final.json', 'w+') as f:
+    with open('data_json/yell.json', 'w+') as f:
         json.dump(final_result, f)
         f.close()
-    print('Data berhasil di simpan di data_json/yell_final.json')
+    print('Data berhasil di simpan di data_json/yell.json')
 
   # * title
   # * classification
