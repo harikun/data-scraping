@@ -1,5 +1,3 @@
-from concurrent.futures import process
-from email import header
 import os
 import json
 import requests
@@ -47,25 +45,31 @@ def get_all_items():
     res = requests.get(url, params=params, headers=headers)
     soup = BeautifulSoup(res.text, 'html.parser')
 
-    contents = soup.find_all('div', {'class': 'row results--row results--capsuleList'})
-
-  # pick item
+    contents = soup.find('div', {'class': 'row results--row results--capsuleList'})
+    contents_row = contents.find_all('div', {'class': 'col-sm-24'})
+    # print(contents_row)
+  # pick item #
   # * title
   # * classification
   # * ctas (call to action)
+    # * website
+    # * phone
   # * maps link
-
-  # * price
-  # * location
+  # * opening hours
+  # * address
   # * rating
-  # * review count
-  # * image url
-  # 1* description
-  # 1* phone number
-  # 1* website
-  # 1* address
-  # 1* hours
-  # 1* categories
+    # * reviews link
+    # * rating average
+    # * rating total
+ # * services
+
+    Restaurants_list = []
+    no = 0
+    # print(contents_row)
+    for item in contents_row:
+        article = item.find('article', {'class': 'col-sm-24 businessCapsule businessCapsule-standard js-localBusiness'})
+        print(no, article)
+
 if __name__ == '__main__':
     # get_total_pages()
     get_all_items()
