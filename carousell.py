@@ -10,7 +10,7 @@ params = {
  'addRecent' : 'false',
  'canChangeKeyword' : 'false',
  'includeSuggestions' : 'false',
- 'searchId': '687FqQ',
+ 'searchId': 'z6XT3v',
 }
 headers = {
  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
@@ -18,3 +18,16 @@ headers = {
 res = requests.get(url, params=params)
 soup = BeautifulSoup(res.text, 'html.parser')
 #scraping process
+# ambil kelas besarnya dulu
+iphone_container = soup.find(attrs={'class': 'D_E'})
+# iphone_container = soup.find_all('div', {'class': 'D_tX D_G'})
+# ambil kelas kecilnya
+card_iphone = iphone_container.find_all('div', {'class': 'D_s_'})
+for data in card_iphone:
+    # print(data)
+   seller = data.find('p').text
+   time_post = data.find('div', {'class': 'D_sO'}).text
+   img_link = data.find('img').get('src')
+   product_name = data.find('img').get('title')
+   print(img_link)
+
