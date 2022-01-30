@@ -29,5 +29,7 @@ for data in card_iphone:
    time_post = data.find('div', {'class': 'D_sO'}).text
    img_link = data.find('img').get('src')
    product_name = data.find('img').get('title')
-   print(img_link)
+   price = data.find_all('div', {'class': 'D__I'})
+   print(price)
+
 
