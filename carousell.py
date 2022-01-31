@@ -43,7 +43,29 @@ for data in card_iphone:
     }
    id += 1
    iphone_list.append(data_dict)
-print(iphone_list)
+# print(iphone_list)
+# create a json file
+try:
+    os.mkdir('data_json')
+except OSError:
+    pass
+
+with open('data_json/carousell.json', 'w+') as f:
+    json.dump(iphone_list, f)
+    f.close()
+print('Data berhasil di simpan di data_json/carousell.json')
+
+#create file excel dan csv
+try:
+    os.mkdir('data_excel')
+except FileExistsError:
+      pass
+df = pd.DataFrame(iphone_list)
+df.to_csv(f'data_excel/carousell.csv', index=False)
+df.to_excel(f'data_excel/carousell.xlsx', index=False)
+
+print(f'File carousell.csv and carousell.xlsx has been created')
+
 
 
 
