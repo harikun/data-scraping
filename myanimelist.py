@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 
 
 limit = 0
+no = 1
 url = 'https://myanimelist.net/topanime.php'
 params = {
     'limit': limit,
@@ -27,7 +28,6 @@ try:
   #get all items
   content = soup.find('table', {'class': 'top-ranking-table'})
   all_content = content.find_all('tr', {'class': 'ranking-list'})
-  no = 1
   myanimelist = []
   for item in all_content:
       try:
