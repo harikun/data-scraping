@@ -12,8 +12,6 @@ params = {
     '_ga': '2.103645448.948588261.1643193635-35629996.1642520933'
 }
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'}
-# https://www.indeed.com/jobs?q=Python+Developer&l=New+York+State&_ga=2.103645448.948588261.1643193635-35629996.1642520933
-# user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 res = requests.get(url, params=params, headers=headers)
 print(res.status_code)
 soup = BeautifulSoup(res.text, 'html.parser')
@@ -62,7 +60,6 @@ def get_all_items(query, location, start, page):
 
     #Scraping process
     contents = soup.find_all('table', {'class': 'jobCard_mainContent big6_visualChanges'})
-    # print(contents)
 
     #pick item
     # * title
@@ -87,7 +84,6 @@ def get_all_items(query, location, start, page):
          'link': company_link
         }
         jobs_list.append(data_dict)
-    # print('Jumlah Datanya adalah ', len(jobs_list))
     #writing json file
     try:
         os.mkdir('data_json')
