@@ -1,21 +1,15 @@
 import requests
 import json
+from bs4 import BeautifulSoup
 
-url = 'https://www.instagram.com/graphql/query'
-variables = {
- "shortcode":"CZRax8PlDEW",
- "include_reel":True,
- "first":24
+url = 'https://www.instagram.com/graphql/query/?'
+params={
+      'query_hash': 'd5d763b1e2acf209d62d22d184488e57',
+      'variables': '{"shortcode":"CZY5GBaljKG","include_reel":true,"first":24}'
 }
-query_hash =  'd5d763b1e2acf209d62d22d184488e57'
-params = {
-   'query_hash': query_hash,
-   'variables': json.dumps(variables)
+headers = {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
 }
-
-res = requests.get(url, params=params).json()
-print(res)
-# users = res['data']['shortcode_media']['edge_liked_by']['edges']
-# for user in users:
-#     username = user['node']['username']
-#     print(username)
+res = requests.get(url, params=params, headers=headers)
+soup = BeautifulSoup(res.text, 'html.parser')
+print(soup)
