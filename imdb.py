@@ -15,9 +15,10 @@ soup = BeautifulSoup(res.text, 'html.parser')
 content = soup.find_all('div', {'class': 'lister-item mode-detail'})
 for item in content:
     item_header = item.find('h3', {'class': 'lister-item-header'})
-    no = item_header.find('span', {'class': 'lister-item-index'}).text
+    no_text = item_header.find('span', {'class': 'lister-item-index'}).text
+    no = int(no_text.strip('.'))
     title = item_header.find('a').text
-    year = item_header.find('span', {'class': 'lister-item-year text-muted unbold'}).text
+    year = item_header.find('span', {'class': 'lister-item-year text-muted unbold'}).text.replace('(', '').replace(')', '')
     try:
      certificate = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'certificate'}).text
     except:
@@ -29,5 +30,9 @@ for item in content:
     rating = float(rating_widget)
     description = item.find('p', {'class': ''}).text
     star_actor = item.find_all('p', {'class': 'text-muted text-small'})
-    print(star_actor[1])
+    director_actor = star_actor[1].text.strip()
+    vote_text = star_actor[2].find('span', {'name': 'nv'}).text
+    vote = int(vote_text.replace(',', ''))
+    release_date = item.find('div', {'class': 'list-description'}).find('p').text.strip()
+    print(no, year)
     # print(certificate, run_time, genre)
