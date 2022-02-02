@@ -2,63 +2,91 @@
 import json
 import requests
 import pandas as pd
+from os.path import basename
 from bs4 import BeautifulSoup
 
-url = 'https://www.imdb.com/list/ls016522954/?'
-params={
- 'ref_':'nv_tvv_dv',
- 'sort': 'list_order,asc',
- 'mode': 'detail',
- 'page': '1'
-}
-res = requests.get(url, params=params)
-soup = BeautifulSoup(res.text, 'html.parser')
+def get_export_all_item():
+ url = 'https://www.imdb.com/list/ls016522954/?'
+ params={
+  'ref_':'nv_tvv_dv',
+  'sort': 'list_order,asc',
+  'mode': 'detail',
+  'page': '1'
+ }
+ res = requests.get(url, params=params)
+ soup = BeautifulSoup(res.text, 'html.parser')
 
-content = soup.find_all('div', {'class': 'lister-item mode-detail'})
-imdb_list = []
-for item in content:
-    item_header = item.find('h3', {'class': 'lister-item-header'})
-    no_text = item_header.find('span', {'class': 'lister-item-index'}).text
-    no = int(no_text.strip('.'))
-    title = item_header.find('a').text
-    year = item_header.find('span', {'class': 'lister-item-year text-muted unbold'}).text.replace('(', '').replace(')', '')
-    try:
-     certificate = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'certificate'}).text
-    except:
-     certificate = 'Unrated'
-    run_time_text = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'runtime'}).text
-    run_time = int(run_time_text.split(' ')[0])
-    genre = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'genre'}).text.strip()
-    rating_widget = item.find('div', {'class': 'ipl-rating-widget'}).find('span', {'class': 'ipl-rating-star__rating'}).text
-    rating = float(rating_widget)
-    description = item.find('p', {'class': ''}).text
-    star_actor = item.find_all('p', {'class': 'text-muted text-small'})
-    director_actor = star_actor[1].text.strip()
-    vote_text = star_actor[2].find('span', {'name': 'nv'}).text
-    vote = int(vote_text.replace(',', ''))
-    release_date = item.find('div', {'class': 'list-description'}).find('p').text.strip()
+ content = soup.find_all('div', {'class': 'lister-item mode-detail'})
+ imdb_list = []
+ for item in content:
+     item_header = item.find('h3', {'class': 'lister-item-header'})
+     no_text = item_header.find('span', {'class': 'lister-item-index'}).text
+     no = int(no_text.strip('.'))
+     title = item_header.find('a').text
+     year = item_header.find('span', {'class': 'lister-item-year text-muted unbold'}).text.replace('(', '').replace(')', '')
+     try:
+      certificate = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'certificate'}).text
+     except:
+      certificate = 'Unrated'
+     run_time_text = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'runtime'}).text
+     run_time = int(run_time_text.split(' ')[0])
+     genre = item.find('p', {'class': 'text-muted text-small'}).find('span', {'class': 'genre'}).text.strip()
+     rating_widget = item.find('div', {'class': 'ipl-rating-widget'}).find('span', {'class': 'ipl-rating-star__rating'}).text
+     rating = float(rating_widget)
+     description = item.find('p', {'class': ''}).text
+     star_actor = item.find_all('p', {'class': 'text-muted text-small'})
+     director_actor = star_actor[1].text.strip()
+     vote_text = star_actor[2].find('span', {'name': 'nv'}).text
+     vote = int(vote_text.replace(',', ''))
+     release_date = item.find('div', {'class': 'list-description'}).find('p').text.strip()
 
-    data_dict = {
-        'no': no,
-        'title': title,
-        'year': year,
-        'certificate': certificate,
-        'run time': run_time,
-        'genre': genre,
-        'rating': rating,
-        'description': description,
-        'director and actor': director_actor,
-        'vote': vote,
-        'release date': release_date
-    }
-    imdb_list.append(data_dict)
+     data_dict = {
+         'no': no,
+         'title': title,
+         'year': year,
+         'certificate': certificate,
+         'run time': run_time,
+         'genre': genre,
+         'rating': rating,
+         'description': description,
+         'director and actor': director_actor,
+         'vote': vote,
+         'release date': release_date
+     }
+     imdb_list.append(data_dict)
 
-with open('data_json/imdb.json', 'w') as f:
-    json.dump(imdb_list, f, indent=4)
-    f.close()
+ with open('data_json/imdb.json', 'w') as f:
+     json.dump(imdb_list, f, indent=4)
+     f.close()
 
-df = pd.DataFrame(imdb_list)
-df.to_csv('data_csv/imdb.csv', index=False)
-print(f'imdb.csv saved')
-df.to_excel('data_excel/imdb.xlsx', index=False)
-print(f'imdb.xlsx saved')
+ df = pd.DataFrame(imdb_list)
+ df.to_csv('data_csv/imdb.csv', index=False)
+ print(f'imdb.csv saved')
+ df.to_excel('data_excel/imdb.xlsx', index=False)
+ print(f'imdb.xlsx saved')
+
+def download_poster():
+ url = 'https://www.imdb.com/list/ls016522954/?'
+ params={
+  'ref_':'nv_tvv_dv',
+  'sort': 'list_order,asc',
+  'mode': 'detail',
+  'page': '1'
+ }
+ res = requests.get(url, params=params)
+ soup = BeautifulSoup(res.text, 'html.parser')
+
+ content = soup.find_all('div', {'class': 'lister-item-image'})
+ for item in content:
+     poster_url = item.find('img')['loadlate']
+     poster_name = item.find('img')['alt']
+
+     img_res = requests.get(poster_url)
+     with open(f'data_image/imdb/{poster_name}.jpg', 'wb') as f:
+         f.write(img_res.content)
+     print(f'{poster_name} saved')
+
+
+if __name__ == '__main__':
+ # get_export_all_item()
+ download_poster()
