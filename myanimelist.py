@@ -54,7 +54,15 @@ def get_all_manga():
             eps_type = eps.split(' ')[0]
             eps_total = eps.split(' (')[1].replace(' vols)', '')
             show_time = info_eps[2].strip()
-            print(eps_type, eps_total, show_time)
+            member = info_eps[3].strip()
+            total_member = member.split(' ')[0]
+            total_member = int(total_member.replace(',', ''))
+            score = item.find('span', {'class': 'score-label'}).text
+            score_float = float(score)
+
+            #sorting_data
+            no += 1
+
         limit += 50
 
 get_all_manga()
