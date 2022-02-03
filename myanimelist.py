@@ -1,4 +1,5 @@
 import json
+from turtle import title
 import requests
 import time
 import pandas as pd
@@ -28,8 +29,31 @@ def get_total_page():
     except:
         print(' except Total page: ', limit)
 
-get_total_page()
+# get_total_page() result is: 57300
+def get_all_manga():
+    limit = 0
+    no = 1
+    mymanga_list = []
+    while (limit < 100):
+        url = 'https://myanimelist.net/topmanga.php'
+        params= { 'limit': limit }
+        res = requests.get(url, params=params)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        content = soup.find('table', {'class': 'top-ranking-table'})
+        all_content = content.find_all('tr', {'class': 'ranking-list'})
+        for item in all_content:
+            try:
+                rank = item.find('span', {'class': 'ranking-data'}).text
+            except:
+                rank = '-'
+            title = item.find('h3', {'class': 'manga_h3'}).text
+            link_page = item.find('h3', {'class': 'manga_h3'}).find('a')['href']
+            info_eps = item.find('div', {'class': 'information'}).text
+            info_eps = info_eps.split('\n')
+            print(title, link_page, info_eps)
+        limit += 50
 
+get_all_manga()
 # scraping anime from myanimelist
 # try:
 #  limit = 0
