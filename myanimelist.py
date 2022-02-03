@@ -1,7 +1,6 @@
 import json
-from turtle import title
-import requests
 import time
+import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -43,7 +42,7 @@ def get_all_manga():
         all_content = content.find_all('tr', {'class': 'ranking-list'})
         for item in all_content:
             try:
-                rank = item.find('span', {'class': 'ranking-data'}).text
+                rank = item.find('span', {'class': 'top-anime-rank-text'}).text
             except:
                 rank = '-'
             title = item.find('h3', {'class': 'manga_h3'}).text
@@ -52,7 +51,7 @@ def get_all_manga():
             info_eps = info_eps.split('\n')
             eps = info_eps[1].strip()
             eps_type = eps.split(' ')[0]
-            eps_total = eps.split(' (')[1].replace(' vols)', '')
+            vols_total = eps.split(' (')[1].replace(' vols)', '')
             show_time = info_eps[2].strip()
             member = info_eps[3].strip()
             total_member = member.split(' ')[0]
@@ -61,11 +60,39 @@ def get_all_manga():
             score_float = float(score)
 
             #sorting_data
+            data_dict = {
+                'no': no,
+                'rank': rank,
+                'title': title,
+                'type': eps_type,
+                'volume': vols_total,
+                'show time': show_time,
+                'member': total_member,
+                'score': score_float,
+                'link page': link_page,
+            }
+            mymanga_list.append(data_dict)
             no += 1
-
+        time.sleep(2)
         limit += 50
+        print(limit)
+    with open(f'data_json/mymangalist_{limit}.json', 'w') as f:
+        json.dump(mymanga_list, f)
+        f.close()
+    print(f'Successfully export my {limit}  manga to json file')
 
-get_all_manga()
+    df = pd.DataFrame(mymanga_list)
+    df.to_csv(f'data_csv/mymangalist_{limit}.csv', index=False)
+    print(f'Successfully export my {limit}  manga to csv file')
+
+    df.to_excel(f'data_xlsx/mymangalist_{limit}.xlsx', index=False)
+    print(f'Successfully export my {limit}  manga to xlsx file')
+try:
+    get_all_manga()
+except:
+    print(f'Error: {Exception}')
+
+
 # scraping anime from myanimelist
 # try:
 #  limit = 0
