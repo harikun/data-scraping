@@ -50,7 +50,11 @@ def get_all_manga():
             link_page = item.find('h3', {'class': 'manga_h3'}).find('a')['href']
             info_eps = item.find('div', {'class': 'information'}).text
             info_eps = info_eps.split('\n')
-            print(title, link_page, info_eps)
+            eps = info_eps[1].strip()
+            eps_type = eps.split(' ')[0]
+            eps_total = eps.split(' (')[1].replace(' vols)', '')
+            show_time = info_eps[2].strip()
+            print(eps_type, eps_total, show_time)
         limit += 50
 
 get_all_manga()
