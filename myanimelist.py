@@ -1,5 +1,6 @@
 import json
 import time
+from webbrowser import get
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -28,12 +29,12 @@ def get_total_page():
     except:
         print(' except Total page: ', limit)
 
-# get_total_page() result is: 57300
+# get_total_page() result is: 57300 manga
 def get_all_manga():
     limit = 0
     no = 1
     mymanga_list = []
-    while (limit < 100):
+    while (limit <  57300):
         url = 'https://myanimelist.net/topmanga.php'
         params= { 'limit': limit }
         res = requests.get(url, params=params)
@@ -57,7 +58,10 @@ def get_all_manga():
             total_member = member.split(' ')[0]
             total_member = int(total_member.replace(',', ''))
             score = item.find('span', {'class': 'score-label'}).text
-            score_float = float(score)
+            try:
+                score_float = float(score)
+            except:
+                score_float = 'N/A'
 
             #sorting_data
             data_dict = {
@@ -73,7 +77,7 @@ def get_all_manga():
             }
             mymanga_list.append(data_dict)
             no += 1
-        time.sleep(2)
+        time.sleep(1)
         limit += 50
         print(limit)
     with open(f'data_json/mymangalist_{limit}.json', 'w') as f:
@@ -85,13 +89,10 @@ def get_all_manga():
     df.to_csv(f'data_csv/mymangalist_{limit}.csv', index=False)
     print(f'Successfully export my {limit}  manga to csv file')
 
-    df.to_excel(f'data_xlsx/mymangalist_{limit}.xlsx', index=False)
+    df.to_excel(f'data_excel/mymangalist_{limit}.xlsx', index=False)
     print(f'Successfully export my {limit}  manga to xlsx file')
-try:
-    get_all_manga()
-except:
-    print(f'Error: {Exception}')
 
+get_all_manga()
 
 # scraping anime from myanimelist
 # try:
