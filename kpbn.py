@@ -70,16 +70,16 @@ for alfa in alfabet:
   }
   company_list.append(data_dict)
 
-with open(f'data_json/company_list_.json', 'w') as f:
+with open(f'data_json/kbpn.json', 'w') as f:
  f.write(json.dumps(company_list))
  f.close()
 print('Success to scrap data company list json')
 
 df = pd.DataFrame(company_list)
-df.to_csv(f'data_csv/company_list_.csv', index=False)
+df.to_csv(f'data_csv/kbpn.csv', index=False)
 print('Success to scrap data company list csv')
 
 df = pd.DataFrame(company_list)
-df.to_excel(f'data_excel/company_list_.xlsx', index=False)
+df.to_excel(f'data_excel/kbpn.xlsx', index=False)
 print('Success to scrap data company list xlsx')
 
