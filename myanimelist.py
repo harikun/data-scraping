@@ -5,6 +5,34 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 # scraping manga
+def get_all_character():
+    url = 'https://myanimelist.net/character.php'
+    limit = 0
+    params= { 'limit': limit }
+    res = requests.get(url, params=params)
+    soup = BeautifulSoup(res.text, 'html.parser')
+    next_page = soup.find('a', {'class': 'link-blue-box next'}).text
+    no = 1
+    mycharacter_list = []
+    while (next_page == 'Next 50'):
+        params= { 'limit': limit }
+        res = requests.get(url, params=params)
+        soup = BeautifulSoup(res.text, 'html.parser')
+        content = soup.find('table', {'class': 'characters-favorites-ranking-table'})
+        all_content = content.find_all('tr', {'class': 'ranking-list'})
+
+
+
+
+
+
+
+
+        next_page = soup.find('a', {'class': 'link-blue-box next'}).text
+        limit += 50
+
+
+get_all_character()
 
 def get_total_page():
     url = 'https://myanimelist.net/topmanga.php'
@@ -91,7 +119,7 @@ def get_all_manga():
     df.to_excel(f'data_excel/mymangalist_{limit}.xlsx', index=False)
     print(f'Successfully export my {limit}  manga to xlsx file')
 
-get_all_manga()
+# get_all_manga()
 
 # scraping anime from myanimelist
 # try:
