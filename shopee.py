@@ -10,5 +10,5 @@ params = {
 }
 res = requests.get(url, params=params)
 soup = BeautifulSoup(res.text, 'html.parser')
-theme = soup.find('div',{'class': 'theme--ofs'})
+theme = soup.find('div',{'class': "shop-page_product-list"})
 print(theme)
