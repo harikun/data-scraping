@@ -10,7 +10,7 @@ def get_all_character():
     limit = 0
     no = 1
     mycharacter_list = []
-    while (limit <  50):
+    while (limit <  1050):
         url = 'https://myanimelist.net/character.php'
         params= { 'limit': limit }
         res = requests.get(url, params=params)
@@ -20,6 +20,7 @@ def get_all_character():
         for item in all_content:
             try:
                 rank = item.find('span', {'class': 'pepole-rank-text'}).text
+                rank = int(rank)
             except:
                 rank = '-'
             name = item.find('a', {'class': 'fs14 fw-b'}).text
@@ -48,7 +49,8 @@ def get_all_character():
             mycharacter_list.append(data_dict)
             no += 1
         limit += 50
-    with open(f'data_json/mycharacter_{limit}.json', 'w', indent=4) as f:
+        print(limit)
+    with open(f'data_json/mycharacter_{limit}.json', 'w') as f:
         json.dump(mycharacter_list, f)
         f.close()
     print(f'Successfully export my {limit}  character to json file')
