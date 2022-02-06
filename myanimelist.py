@@ -6,36 +6,55 @@ from bs4 import BeautifulSoup
 
 # scraping manga
 def get_all_character():
-    url = 'https://myanimelist.net/character.php'
     limit = 0
-    params= { 'limit': limit }
-    res = requests.get(url, params=params)
-    soup = BeautifulSoup(res.text, 'html.parser')
-    next_page = soup.find('a', {'class': 'link-blue-box next'}).text
     no = 1
     mycharacter_list = []
-    while (next_page == 'Next 50'):
+    while (limit <  50):
+        url = 'https://myanimelist.net/character.php'
         params= { 'limit': limit }
         res = requests.get(url, params=params)
         soup = BeautifulSoup(res.text, 'html.parser')
         content = soup.find('table', {'class': 'characters-favorites-ranking-table'})
         all_content = content.find_all('tr', {'class': 'ranking-list'})
+        for item in all_content:
+            try:
+                rank = item.find('span', {'class': 'pepole-rank-text'}).text
+            except:
+                rank = '-'
+            name = item.find('a', {'class': 'fs14 fw-b'}).text
+            animeography = item.find('td', {'class': 'animeography'})
+            animeography_all = animeography.find_all('div', {'class': 'title'})
+            animeography_list = []
+            for anime in animeography_all:
+                animeography_list.append(anime.text)
+            mangaography = item.find('td', {'class': 'mangaography'})
+            mangaography_all = mangaography.find_all('div', {'class': 'title'})
+            mangaography_list = []
+            for manga in mangaography_all:
+                mangaography_list.append(manga.text)
+            favorites_text = item.find('td', {'class': 'favorites'}).text
+            favorites = int(favorites_text.replace(',', ''))
 
 
+            print(no, favorites)
 
+            #sorting_data
+            data_dict = {
+                'no': no,
+                'rank': rank,
+                'character': name,
 
-
-
-
-
-        next_page = soup.find('a', {'class': 'link-blue-box next'}).text
+            }
+            mycharacter_list.append(data_dict)
+            no += 1
         limit += 50
-
+    print(f'Successfully export my {limit}  character to json file')
 
 get_all_character()
 
 def get_total_page():
-    url = 'https://myanimelist.net/topmanga.php'
+    url = 'https://myanimelist.net/character.php'
+    # url = 'https://myanimelist.net/topmanga.php'
     limit = 0
     params= { 'limit': limit }
     res = requests.get(url, params=params)
@@ -56,7 +75,9 @@ def get_total_page():
     except:
         print(' except Total page: ', limit)
 
-# get_total_page() result is: 57300 manga
+# get_total_page()
+# result is: 57300 manga
+#result is: 1000 page character
 def get_all_manga():
     limit = 0
     no = 1
