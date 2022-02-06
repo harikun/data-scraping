@@ -1,4 +1,5 @@
 import json
+from textwrap import indent
 import time
 import requests
 import pandas as pd
@@ -35,20 +36,30 @@ def get_all_character():
             favorites_text = item.find('td', {'class': 'favorites'}).text
             favorites = int(favorites_text.replace(',', ''))
 
-
-            print(no, favorites)
-
             #sorting_data
             data_dict = {
                 'no': no,
                 'rank': rank,
                 'character': name,
-
+                'animeography': animeography_list,
+                'mangaography': mangaography_list,
+                'favorites': favorites
             }
             mycharacter_list.append(data_dict)
             no += 1
         limit += 50
+    with open(f'data_json/mycharacter_{limit}.json', 'w', indent=4) as f:
+        json.dump(mycharacter_list, f)
+        f.close()
     print(f'Successfully export my {limit}  character to json file')
+
+    df = pd.DataFrame(mycharacter_list)
+    df.to_csv(f'data_csv/mycharacter_{limit}.csv', index=False)
+    print(f'Successfully export my {limit}  character to csv file')
+
+    df = pd.DataFrame(mycharacter_list)
+    df.to_excel(f'data_excel/mycharacter_{limit}.xlsx', index=False)
+    print(f'Successfully export my {limit}  character to excel file')
 
 get_all_character()
 
