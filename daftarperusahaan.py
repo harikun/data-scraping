@@ -1,11 +1,12 @@
+import json
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 
 page = 0
-no = 1
-company_list = []
-while (page < 1):
 
+company_list = []
+while (page < 2):
  url = 'https://www.daftarperusahaan.com/bidang/'
  bidang = 'migas'
  params = {
@@ -16,7 +17,6 @@ while (page < 1):
  res = requests.get(url + bidang, params=params)
  soup = BeautifulSoup(res.text, 'html.parser')
  clear_block = soup.find('div', class_='clear-block')
-
  for link in clear_block.find_all('div', class_='node'):
   link_url = link.find('a')['href']
   res = requests.get(base_url + link_url)
@@ -44,9 +44,7 @@ while (page < 1):
    broker = ''
    pwp = ''
 
-   # sorting data
    data_dict = {
-    'no' : no,
     'name' : name,
     'address' : address,
     'telfon' : telfon,
@@ -59,7 +57,8 @@ while (page < 1):
     'npwp' : npwp
    }
    company_list.append(data_dict)
-   no += 1
  page += 1
  print(page)
- print(company_list)
+
+with open(f'data_json/daftarperusahaan.json', 'w') as outfile:
+ json.dump(company_list, outfile)
