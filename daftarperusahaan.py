@@ -70,3 +70,5 @@ print(f'{len(company_list)} data saved to csv')
 df = pd.DataFrame(company_list)
 df.to_excel('data_excel/daftarperusahaan.xlsx', index=False)
 print(f'{len(company_list)} data saved to excel')
+
+# code for scraping  telfon,	fax,	kode,	email,	website,	bidang,	broker,	npwp, only work in page 0. i dont know why.
