@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 page = 0
 
 company_list = []
-while (page < 2):
+while (page < 623):
 	url = 'https://www.daftarperusahaan.com/bidang/'
 	bidang = 'migas'
 	params = {'page' : page	}
@@ -58,5 +58,13 @@ while (page < 2):
 		page += 1
 	print(page)
 
-with open(f'data_json/daftarperusahaan.json', 'w') as outfile:
+with open(f'data_json/daftarperusahaan_{len(company_list)}.json', 'w') as outfile:
 	json.dump(company_list, outfile)
+
+df = pd.DataFrame(company_list)
+df.to_csv('data_csv/daftarperusahaan.csv', index=False)
+print(f'{len(company_list)} data saved to csv')
+
+df = pd.DataFrame(company_list)
+df.to_excel('data_excel/daftarperusahaan.xlsx', index=False)
+print(f'{len(company_list)} data saved to excel')
