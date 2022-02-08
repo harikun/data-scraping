@@ -50,7 +50,19 @@ def get_website_pts():
 	soup = BeautifulSoup(res.text, 'html.parser')
 
 	entry = soup.find('div', class_='entry')
-	print(entry)
+	li = entry.find_all('li')
+
+	no = 0
+	website_pts = []
+	for i in range(len(li)):
+		try:
+			kpdti = li[i].find('a').text.split(' ')[0]
+			pts_name = li[i].find('a').text.replace(kpdti, '').strip()
+		except:
+			kpdti = ""
+			pts_name = ""
+		print(no, pts_name)
+		no += 1
 
 get_website_pts()
 # get_pts()
