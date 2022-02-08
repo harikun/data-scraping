@@ -14,7 +14,13 @@ def get_pts():
 		no = int(tr[i].find('td').text.strip())
 		kpdti = int(tr[i].find('td').find_next_sibling('td').text.strip())
 		pts_name = tr[i].find('td').find_next_sibling('td').find_next_sibling('td').text.strip()
-
-		print(no, pts_name)
+		pts_address = tr[i].find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text.strip()
+		try:
+			pos_code = int(tr[i].find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text.strip())
+		except:
+			pos_code = ""
+		pts_phone = tr[i].find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text.strip()
+		fax = tr[i].find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text.strip()
+		print(fax)
 
 get_pts()
