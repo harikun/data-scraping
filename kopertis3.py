@@ -44,4 +44,13 @@ def get_pts():
 	print(f'{no} pts berhasil di download')
 
 
-get_pts()
+def get_website_pts():
+	url = 'http://kopertis3.or.id/v2/link-pts/'
+	res = requests.get(url)
+	soup = BeautifulSoup(res.text, 'html.parser')
+
+	entry = soup.find('div', class_='entry')
+	print(entry)
+
+get_website_pts()
+# get_pts()
