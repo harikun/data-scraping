@@ -12,8 +12,8 @@ params = {
 	"page": page
 }
 barang_lelang = []
-new_result = True
-while new_result:
+end_page = 134
+while page < end_page:
 	res = requests.get(url, params=params)
 	soup = BeautifulSoup(res.text, 'html.parser')
 
@@ -49,5 +49,5 @@ df.to_csv(f'data_csv/barang_lelang_{no}.csv', index=False)
 print(f'{no} data csv saved')
 
 df = pd.DataFrame(barang_lelang)
-df.to_excel(f'data_excelbarang_lelang_{no}.xlsx', index=False)
+df.to_excel(f'data_csv/data_excelbarang_lelang_{no}.xlsx', index=False)
 print(f'{no} data csv saved')
