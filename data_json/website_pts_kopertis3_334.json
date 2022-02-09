@@ -1,0 +1,1672 @@
+[
+    {
+        "no": 1,
+        "nama pts": "031001 Universitas Ibnu Chaldun",
+        "website": "http://ibnuchaldun.ac.id/"
+    },
+    {
+        "no": 2,
+        "nama pts": "031003 Universitas Islam Jakarta",
+        "website": "http://www.uid.ac.id/"
+    },
+    {
+        "no": 3,
+        "nama pts": "031005 Universitas Jakarta",
+        "website": ""
+    },
+    {
+        "no": 4,
+        "nama pts": "031006 Universitas Jayabaya",
+        "website": "http://www.jayabaya.ac.id/"
+    },
+    {
+        "no": 5,
+        "nama pts": "031007 Universitas Katolik Indonesia Atma Jaya",
+        "website": "http://www.atmajaya.ac.id/web/"
+    },
+    {
+        "no": 6,
+        "nama pts": "031008 Universitas Krisnadwipayana",
+        "website": "http://www.unkris.ac.id/"
+    },
+    {
+        "no": 7,
+        "nama pts": "031009 Universitas Kristen Indonesia",
+        "website": "http://www.uki.ac.id"
+    },
+    {
+        "no": 8,
+        "nama pts": "031010 Universitas Kristen Krida Wacana",
+        "website": "http://www.ukrida.ac.id/"
+    },
+    {
+        "no": 9,
+        "nama pts": "031011 Universitas Muhammadiyah Jakarta",
+        "website": "http://www.umj.ac.id"
+    },
+    {
+        "no": 10,
+        "nama pts": "031012 Universitas Nasional",
+        "website": "http://www.unas.ac.id/"
+    },
+    {
+        "no": 11,
+        "nama pts": "031013 Universitas Pancasila",
+        "website": "http://www.univpancasila.ac.id/"
+    },
+    {
+        "no": 12,
+        "nama pts": "031014 Universitas Prof Dr Moestopo (Beragama)",
+        "website": "http://moestopo.ac.id/"
+    },
+    {
+        "no": 13,
+        "nama pts": "031015 Universitas Tarumanagara",
+        "website": "http://www.tarumanagara.ac.id/"
+    },
+    {
+        "no": 14,
+        "nama pts": "031016 Universitas Trisakti",
+        "website": "http://www.trisakti.ac.id/"
+    },
+    {
+        "no": 15,
+        "nama pts": "031017 Universitas 17 Agustus 1945 Jakarta",
+        "website": "http://uta45jakarta.ac.id/"
+    },
+    {
+        "no": 16,
+        "nama pts": "031018 Universitas Borobudur",
+        "website": "http://borobudur.ac.id/"
+    },
+    {
+        "no": 17,
+        "nama pts": "031019 Universitas Mercu Buana",
+        "website": "http://www.mercubuana.ac.id/"
+    },
+    {
+        "no": 18,
+        "nama pts": "031020 Universitas Persada Indonesia Yai",
+        "website": "http://www.yai.ac.id/upi.html"
+    },
+    {
+        "no": 19,
+        "nama pts": "031021 Universitas Islam As-syafiiyah",
+        "website": "http://www.uia.ac.id/"
+    },
+    {
+        "no": 20,
+        "nama pts": "031022 Universitas Wiraswasta Indonesia",
+        "website": ""
+    },
+    {
+        "no": 21,
+        "nama pts": "031023 Universitas Darma Persada",
+        "website": "http://www.unsada.ac.id/"
+    },
+    {
+        "no": 22,
+        "nama pts": "031024 Universitas Mpu Tantular",
+        "website": "http://www.mputantular.ac.id/"
+    },
+    {
+        "no": 23,
+        "nama pts": "031025 Universitas Satya Negara Indonesia",
+        "website": "http://www.usni.ac.id/"
+    },
+    {
+        "no": 24,
+        "nama pts": "031026 Universitas Yarsi",
+        "website": "http://www.yarsi.ac.id/"
+    },
+    {
+        "no": 25,
+        "nama pts": "031027 Universitas Respati Indonesia",
+        "website": "http://www.urindo.ac.id/"
+    },
+    {
+        "no": 26,
+        "nama pts": "031029 Universitas Surapati",
+        "website": ""
+    },
+    {
+        "no": 27,
+        "nama pts": "031030 Universitas Sahid",
+        "website": "http://www.usahid.ac.id/"
+    },
+    {
+        "no": 28,
+        "nama pts": "031031 Universitas Satyagama",
+        "website": "http://www.satyagama.ac.id/"
+    },
+    {
+        "no": 29,
+        "nama pts": "031032 Universitas Islam Attahiriyah",
+        "website": "http://www.uniat.ac.id/"
+    },
+    {
+        "no": 30,
+        "nama pts": "031033 Universitas Esa Unggul",
+        "website": "http://www.esaunggul.ac.id/"
+    },
+    {
+        "no": 31,
+        "nama pts": "031034 Universitas Pelita Harapan",
+        "website": "http://www.uph.edu/"
+    },
+    {
+        "no": 32,
+        "nama pts": "031036 Universitas Bhayangkara Jakarta Raya",
+        "website": "http://www.ubharajaya.ac.id"
+    },
+    {
+        "no": 33,
+        "nama pts": "031037 Universitas Gunadarma",
+        "website": "http://www.gunadarma.ac.id"
+    },
+    {
+        "no": 34,
+        "nama pts": "031038 Universitas Bina Nusantara",
+        "website": "http://binus.ac.id/"
+    },
+    {
+        "no": 35,
+        "nama pts": "031039 Universitas Muhammadiyah Prof Dr Hamka",
+        "website": "http://www.uhamka.ac.id/"
+    },
+    {
+        "no": 36,
+        "nama pts": "031040 Universitas Azzahra",
+        "website": "http://universitasazzahra.ac.id/"
+    },
+    {
+        "no": 37,
+        "nama pts": "031041 Universitas Paramadina",
+        "website": "http://www.paramadina.ac.id/"
+    },
+    {
+        "no": 38,
+        "nama pts": "031042 Universitas Bung Karno",
+        "website": "http://www.ubk.ac.id/"
+    },
+    {
+        "no": 39,
+        "nama pts": "031043 Universitas Suryadarma",
+        "website": "http://universitassuryadarma.ac.id/"
+    },
+    {
+        "no": 40,
+        "nama pts": "031044 Universitas Al-azhar Indonesia",
+        "website": "http://uai.ac.id/"
+    },
+    {
+        "no": 41,
+        "nama pts": "031045 Universitas Budi Luhur",
+        "website": "http://www.budiluhur.ac.id/"
+    },
+    {
+        "no": 42,
+        "nama pts": "031047 Universitas Kejuangan 45 Jakarta",
+        "website": ""
+    },
+    {
+        "no": 43,
+        "nama pts": "031048 Universitas Bunda Mulia",
+        "website": "http://www.ubm.ac.id/"
+    },
+    {
+        "no": 44,
+        "nama pts": "031049 Universitas Indraprasta PGRI",
+        "website": "http://www.unindra.ac.id/"
+    },
+    {
+        "no": 45,
+        "nama pts": "031050 Universitas Tama Jagakarsa",
+        "website": "http://www.jagakarsa.ac.id/"
+    },
+    {
+        "no": 46,
+        "nama pts": "031051 Universitas Multimedia Nusantara",
+        "website": "http://www.umn.ac.id/"
+    },
+    {
+        "no": 47,
+        "nama pts": "031052 Universitas Timbul Nusantara",
+        "website": "http://utira-ibek.ac.id/"
+    },
+    {
+        "no": 48,
+        "nama pts": "031053 Universitas Bakrie",
+        "website": "http://www.bakrie.ac.id/"
+    },
+    {
+        "no": 49,
+        "nama pts": "031054 Universitas Tanri Abeng",
+        "website": "http://www.tauniversity.ac.id/"
+    },
+    {
+        "no": 50,
+        "nama pts": "031055 Universitas Trilogi",
+        "website": "http://www.stekpi.ac.id/universitas/"
+    },
+    {
+        "no": 51,
+        "nama pts": "031056 Universitas Sampoerna",
+        "website": "http://usbi.ac.id/"
+    },
+    {
+        "no": 52,
+        "nama pts": "031057 Universitas Agung Podomoro",
+        "website": "http://www.podomorouniversity.com/"
+    },
+    {
+        "no": 53,
+        "nama pts": "031059 Universitas Mohammad Husni Thamrin Jakarta",
+        "website": "http://www.thamrin.ac.id/"
+    },
+    {
+        "no": 54,
+        "nama pts": "031060 Universitas Matana",
+        "website": "http://www.matanauniversity.ac.id/"
+    },
+    {
+        "no": 55,
+        "nama pts": "031061 Universitas Nahdlatul Ulama Indonesia",
+        "website": "https://www.unuindonesia.ac.id/"
+    },
+    {
+        "no": 56,
+        "nama pts": "031062 Universitas Pertamina",
+        "website": "https://universitaspertamina.ac.id/"
+    },
+    {
+        "no": 57,
+        "nama pts": "031063 Universitas Prasetiya Mulya",
+        "website": "http://www.prasetiyamulya.ac.id/"
+    },
+    {
+        "no": 58,
+        "nama pts": "032002 Institut Kesenian Jakarta \u2013 LPKJ",
+        "website": "http://www.ikj.ac.id/"
+    },
+    {
+        "no": 59,
+        "nama pts": "032004 Institut Sains Dan Teknologi Nasional",
+        "website": "http://www.istn.ac.id/"
+    },
+    {
+        "no": 60,
+        "nama pts": "032005 Institut Ilmu Sosial Dan Ilmu Politik Jakarta",
+        "website": "http://www.iisip.ac.id/"
+    },
+    {
+        "no": 61,
+        "nama pts": "032006 Institut Teknologi Indonesia",
+        "website": "http://www.iti.ac.id/"
+    },
+    {
+        "no": 62,
+        "nama pts": "032007 Institut Teknologi Budi Utomo",
+        "website": "http://www.itbu.ac.id/"
+    },
+    {
+        "no": 63,
+        "nama pts": "032008 Institut Sains Dan Teknologi Al-Kamal",
+        "website": "http://www.ista.ac.id/"
+    },
+    {
+        "no": 64,
+        "nama pts": "032009 Institut Bisnis Dan Informatika Kwik Kian Gie",
+        "website": "http://www.kwikkiangie.ac.id/"
+    },
+    {
+        "no": 65,
+        "nama pts": "032011 Institut Keu Perbankan Dan Inf Asia Perbanas",
+        "website": "http://www.perbanasinstitute.ac.id/"
+    },
+    {
+        "no": 66,
+        "nama pts": "032012 Institut Bisnis Nusantara",
+        "website": "http://www.ibn.ac.id/"
+    },
+    {
+        "no": 67,
+        "nama pts": "032013 Institut Teknologi dan Bisnis Kalbe",
+        "website": "http://www.itbk.ac.id/"
+    },
+    {
+        "no": 68,
+        "nama pts": "032014 Institut Bisnis dan Multimedia Asmi Jakarta",
+        "website": "http://www.asmi.ac.id/"
+    },
+    {
+        "no": 69,
+        "nama pts": "032015 Institut Bisnis dan Informatika (IBI) Kosgoro 1957",
+        "website": "http://ibi-k57.ac.id/"
+    },
+    {
+        "no": 70,
+        "nama pts": "032016 Institut Bio Scientia Internasional Indonesia",
+        "website": "http://www.i3l.ac.id"
+    },
+    {
+        "no": 71,
+        "nama pts": "032017 Institut Ilmu Sosial dan Manajemen STIAMI",
+        "website": "http://www.stiami.ac.id/"
+    },
+    {
+        "no": 72,
+        "nama pts": "032018 Institut Kesehatan Indonesia",
+        "website": ""
+    },
+    {
+        "no": 73,
+        "nama pts": "033001 Sekolah Tinggi Filsafat Driyarkara",
+        "website": ""
+    },
+    {
+        "no": 74,
+        "nama pts": "033004 STISIP Widuri",
+        "website": "http://stisipwiduri.ac.id/"
+    },
+    {
+        "no": 75,
+        "nama pts": "033006 Sekolah Tinggi Teknologi Jakarta",
+        "website": ""
+    },
+    {
+        "no": 76,
+        "nama pts": "033009 Sekolah Tinggi Filsafat Theologi Jakarta",
+        "website": ""
+    },
+    {
+        "no": 77,
+        "nama pts": "033011 STKIP Purnama",
+        "website": ""
+    },
+    {
+        "no": 78,
+        "nama pts": "033012 Sekolah Tinggi Ilmu Ekonomi Indonesia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 79,
+        "nama pts": "033014 STKIP Kusumanegara",
+        "website": "http://www.stkipkusumanegara.ac.id/"
+    },
+    {
+        "no": 80,
+        "nama pts": "033015 Sekolah Tinggi Ilmu Ekonomi Swadaya",
+        "website": ""
+    },
+    {
+        "no": 81,
+        "nama pts": "033022 STMIK Jakarta STI&K",
+        "website": "http://www.jak-stik.ac.id/"
+    },
+    {
+        "no": 82,
+        "nama pts": "033024 Sekolah Tinggi Ilmu Ekonomi YAI",
+        "website": "http://www.yai.ac.id/stie.html"
+    },
+    {
+        "no": 83,
+        "nama pts": "033028 Sekolah Tinggi Ilmu Administrasi YPIAMI",
+        "website": "http://www.stia-ypiami.com/"
+    },
+    {
+        "no": 84,
+        "nama pts": "033029 Sekolah Tinggi Manajemen Transpor Trisakti",
+        "website": "http://www.stmt-trisakti.ac.id/"
+    },
+    {
+        "no": 85,
+        "nama pts": "033031 STMIK Indonesia Jakarta",
+        "website": "http://www.stmik-indonesia.ac.id/"
+    },
+    {
+        "no": 86,
+        "nama pts": "033032 Sekolah Tinggi Ilmu Ekonomi Kusumanagara",
+        "website": "http://stie-kusumanegara.ac.id/"
+    },
+    {
+        "no": 87,
+        "nama pts": "033034 STMIK Kuwera",
+        "website": ""
+    },
+    {
+        "no": 88,
+        "nama pts": "033038 Sekolah Tinggi Ilmu Ekonomi Bhakti Pembangunan",
+        "website": "http://stiebp.ac.id/"
+    },
+    {
+        "no": 89,
+        "nama pts": "033040 Sekolah Tinggi Ilmu Ekonomi Tri Dharma Widya",
+        "website": "http://www.stie-tdw.org/"
+    },
+    {
+        "no": 90,
+        "nama pts": "033041 Sekolah Tinggi Keuangan Niaga & Negara Pembangunan",
+        "website": ""
+    },
+    {
+        "no": 91,
+        "nama pts": "033044 Sekolah Tinggi Ilmu Ekonomi Nasional Indonesia",
+        "website": ""
+    },
+    {
+        "no": 92,
+        "nama pts": "033046 Sekolah Tinggi Teknologi Indonesia",
+        "website": ""
+    },
+    {
+        "no": 93,
+        "nama pts": "033050 Sekolah Tinggi Ilmu Administrasi Kawula Indonesia",
+        "website": ""
+    },
+    {
+        "no": 94,
+        "nama pts": "033052 STISIP Pusaka Nusantara",
+        "website": ""
+    },
+    {
+        "no": 95,
+        "nama pts": "033059 Sekolah Tinggi Ilmu Ekonomi Jayakarta",
+        "website": "http://www.jayakarta.ac.id/"
+    },
+    {
+        "no": 96,
+        "nama pts": "033060 Sekolah Tinggi Ilmu Ekonomi Bisnis Indonesia",
+        "website": "http://www.stiebi.ac.id/"
+    },
+    {
+        "no": 97,
+        "nama pts": "033061 Sekolah Tinggi Hukum Indonesia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 98,
+        "nama pts": "033062 Sekolah Tinggi Ilmu Ekonomi Gotong Royong",
+        "website": "http://www.stiegotongroyong.ac.id/"
+    },
+    {
+        "no": 99,
+        "nama pts": "033063 STMIK Swadharma",
+        "website": "http://www.swadharma.ac.id/"
+    },
+    {
+        "no": 100,
+        "nama pts": "033064 Sekolah Tinggi Manajemen Labora",
+        "website": "http://www.labora.ac.id/"
+    },
+    {
+        "no": 101,
+        "nama pts": "033066 Sekolah Tinggi Ilmu Ekonomi Trisakti",
+        "website": "http://www.stietrisakti.ac.id/"
+    },
+    {
+        "no": 102,
+        "nama pts": "033068 Sekolah Tinggi Manajemen Ipmi",
+        "website": "http://ipmi.ac.id/"
+    },
+    {
+        "no": 103,
+        "nama pts": "033069 Sekolah Tinggi Manajemen Ppm",
+        "website": "http://ppm-manajemen.ac.id/"
+    },
+    {
+        "no": 104,
+        "nama pts": "033070 Sekolah Tinggi Penerbangan Aviasi",
+        "website": ""
+    },
+    {
+        "no": 105,
+        "nama pts": "033072 Sekolah Tinggi Ilmu Ekonomi IGI",
+        "website": "http://www.igi.ac.id/"
+    },
+    {
+        "no": 106,
+        "nama pts": "033073 Sekolah Tinggi Ilmu Hukum IBLAM",
+        "website": "http://www.stihiblam.ac.id/"
+    },
+    {
+        "no": 107,
+        "nama pts": "033074 Sekolah Tinggi Ilmu Ekonomi IPWI Jakarta",
+        "website": "http://www.stieipwija.ac.id/"
+    },
+    {
+        "no": 108,
+        "nama pts": "033075 Sekolah Tinggi Manajemen Imni",
+        "website": ""
+    },
+    {
+        "no": 109,
+        "nama pts": "033076 Sekolah Tinggi Ilmu Ekonomi Ganesha",
+        "website": ""
+    },
+    {
+        "no": 110,
+        "nama pts": "033077 Sekolah Tinggi Manajemen Immi",
+        "website": "http://stima-immi.ac.id/"
+    },
+    {
+        "no": 111,
+        "nama pts": "033080 STMIK Jayakarta",
+        "website": "http://www.jayakarta.ac.id/"
+    },
+    {
+        "no": 112,
+        "nama pts": "033082 STIE Jakarta International College",
+        "website": "http://www.stie-jic.ac.id/"
+    },
+    {
+        "no": 113,
+        "nama pts": "033084 Sekolah Tinggi Ilmu Ekonomi Widya Jayakarta",
+        "website": "http://widyajayakarta.ac.id/"
+    },
+    {
+        "no": 114,
+        "nama pts": "033085 Sekolah Tinggi Ilmu Manajemen Lpmi",
+        "website": ""
+    },
+    {
+        "no": 115,
+        "nama pts": "033086 Sekolah Tinggi Ilmu Ekonomi Taman Siswa",
+        "website": ""
+    },
+    {
+        "no": 116,
+        "nama pts": "033087 Sekolah Tinggi Ilmu Ekonomi Trianandra",
+        "website": ""
+    },
+    {
+        "no": 117,
+        "nama pts": "033088 STMIK Muhammadiyah Jakarta",
+        "website": "http://www.stmikmj.ac.id/"
+    },
+    {
+        "no": 118,
+        "nama pts": "033092 STKIP Albana",
+        "website": ""
+    },
+    {
+        "no": 119,
+        "nama pts": "033094 Sekolah Tinggi Perpajakan Indonesia",
+        "website": "http://www.stpi-pajak.com/"
+    },
+    {
+        "no": 120,
+        "nama pts": "033095 Sekolah Tinggi Ilmu Ekonomi Dwipa Wacana",
+        "website": ""
+    },
+    {
+        "no": 121,
+        "nama pts": "033096 Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Jakarta",
+        "website": "http://stiemj.ac.id/"
+    },
+    {
+        "no": 122,
+        "nama pts": "033099 Sekolah Tinggi Ilmu Ekonomi Dr Moechtar Talib",
+        "website": "http://www.stiemt.ac.id/"
+    },
+    {
+        "no": 123,
+        "nama pts": "033101 STMIK Satyagama",
+        "website": "http://stmik.satyagama.ac.id/"
+    },
+    {
+        "no": 124,
+        "nama pts": "033103 Sekolah Tinggi Ilmu Ekonomi Ahmad Dahlan Jakarta",
+        "website": ""
+    },
+    {
+        "no": 125,
+        "nama pts": "033104 Sekolah Tinggi Teknik Pln",
+        "website": "http://www.sttpln.ac.id/"
+    },
+    {
+        "no": 126,
+        "nama pts": "033105 Sekolah Tinggi Ilmu Ekonomi Triguna",
+        "website": ""
+    },
+    {
+        "no": 127,
+        "nama pts": "033106 Sekolah Tinggi Ilmu Komunikasi Inter Studi",
+        "website": "http://www.interstudi.edu/stikom/"
+    },
+    {
+        "no": 128,
+        "nama pts": "033107 Sekolah Tinggi Ilmu Ekonomi Tunas Nusantara",
+        "website": "http://www.stietn.ac.id/"
+    },
+    {
+        "no": 129,
+        "nama pts": "033111 Sekolah Tinggi Bahasa Asing LIA Jakarta",
+        "website": "http://www.stbalia.ac.id/"
+    },
+    {
+        "no": 130,
+        "nama pts": "033112 Sekolah Tinggi Ilmu Komunikasi Lspr",
+        "website": "http://www.lspr.edu/"
+    },
+    {
+        "no": 131,
+        "nama pts": "033114 Sekolah Tinggi Pariwisata Trisakti",
+        "website": "http://www.stptrisakti.ac.id/"
+    },
+    {
+        "no": 132,
+        "nama pts": "033115 STIE Pengembangan Bisnis Dan Manajemen",
+        "website": ""
+    },
+    {
+        "no": 133,
+        "nama pts": "033116 Sekolah Tinggi Bahasa Asing Pertiwi Indonesia",
+        "website": "http://stba-pertiwi.ac.id/"
+    },
+    {
+        "no": 134,
+        "nama pts": "033117 Sekolah Tinggi Ilmu Kesehatan Sint Carolus",
+        "website": "http://www.stik-sintcarolus.ac.id/"
+    },
+    {
+        "no": 135,
+        "nama pts": "033119 Sekolah Tinggi Ilmu Ekonomi Jayakusuma",
+        "website": ""
+    },
+    {
+        "no": 136,
+        "nama pts": "033120 Sekolah Tinggi Ilmu Ekonomi Kasih Bangsa",
+        "website": "http://www.stie-kasih-bangsa.ac.id/"
+    },
+    {
+        "no": 137,
+        "nama pts": "033121 Sekolah Tinggi Ilmu Ekonomi Dharma Bumi Putra",
+        "website": ""
+    },
+    {
+        "no": 138,
+        "nama pts": "033124 Sekolah Tinggi Ilmu Ekonomi Sailendra",
+        "website": "http://sekolahsailendra.blogspot.com/"
+    },
+    {
+        "no": 139,
+        "nama pts": "033125 Sekolah Tinggi Ilmu Ekonomi Maiji",
+        "website": "http://stiemaiji.ac.id/"
+    },
+    {
+        "no": 140,
+        "nama pts": "033126 Sekolah Tinggi Ilmu Ekonomi Wiyatamandala",
+        "website": "http://www.jibes.ac.id/"
+    },
+    {
+        "no": 141,
+        "nama pts": "033128 Sekolah Tinggi Ilmu Ekonomi YPBI",
+        "website": "http://stie-ypbi.weebly.com/"
+    },
+    {
+        "no": 142,
+        "nama pts": "033129 Sekolah Tinggi Ilmu Kesehatan Indonesia Maju",
+        "website": "http://www.stikim.ac.id/"
+    },
+    {
+        "no": 143,
+        "nama pts": "033132 STIE Pariwisata Internasional",
+        "website": ""
+    },
+    {
+        "no": 144,
+        "nama pts": "033134 Sekolah Tinggi Pariwisata Sahid",
+        "website": "http://www.stpsahid.ac.id/"
+    },
+    {
+        "no": 145,
+        "nama pts": "033135 Sekolah Tinggi Ilmu Kesehatan Binawan",
+        "website": "http://www.binawan-ihs.ac.id/"
+    },
+    {
+        "no": 146,
+        "nama pts": "033136 Sekolah Tinggi Teknologi 10 November",
+        "website": ""
+    },
+    {
+        "no": 147,
+        "nama pts": "033137 Sekolah Tinggi Bahasa Asing IEC Jakarta",
+        "website": "http://www.stibaiecjakarta.ac.id/"
+    },
+    {
+        "no": 148,
+        "nama pts": "033138 Sekolah Tinggi Ilmu Maritim Ami",
+        "website": "http://www.stimar.ac.id/"
+    },
+    {
+        "no": 149,
+        "nama pts": "033139 Sekolah Tinggi Ilmu Kesehatan Pamentas",
+        "website": ""
+    },
+    {
+        "no": 150,
+        "nama pts": "033140 STMIK Widuri",
+        "website": "http://stmik.kampuswiduri.ac.id/"
+    },
+    {
+        "no": 151,
+        "nama pts": "033143 Sekolah Tinggi Manajemen Transportasi Malahayati",
+        "website": ""
+    },
+    {
+        "no": 152,
+        "nama pts": "033147 Sekolah Tinggi Ilmu Kesehatan Istara Nusantara",
+        "website": "http://www.stikes-istara.ac.id/"
+    },
+    {
+        "no": 153,
+        "nama pts": "033150 St Ilmu Komputer Cipta Karya Informatika",
+        "website": "http://stikomcki.ac.id/"
+    },
+    {
+        "no": 154,
+        "nama pts": "033151 Sekolah Tinggi Ilmu Komunikasi\u00a0ITKP",
+        "website": ""
+    },
+    {
+        "no": 155,
+        "nama pts": "033152 Sekolah Tinggi Manajemen Asuransi Trisakti",
+        "website": "http://www.ibs-trisakti.ac.id/"
+    },
+    {
+        "no": 156,
+        "nama pts": "033154 Sekolah Tinggi Ilmu Komunikasi Profesi Indonesia",
+        "website": "http://www.stikomprosia.ac.id/"
+    },
+    {
+        "no": 157,
+        "nama pts": "033156 Sekolah Tinggi Ilmu Kesehatan Medistra Indonesia",
+        "website": "http://www.stikesmedistra-indonesia.ac.id/"
+    },
+    {
+        "no": 158,
+        "nama pts": "033157 Sekolah Tinggi Ilmu Ekonomi Widya Persada",
+        "website": "http://www.stiewidyapersada.ac.id/"
+    },
+    {
+        "no": 159,
+        "nama pts": "033158 Sekolah Tinggi Ilmu Ekonomi Gandhi",
+        "website": ""
+    },
+    {
+        "no": 160,
+        "nama pts": "033160 Sekolah Tinggi Teknologi Sapta Taruna",
+        "website": "http://sttsaptataruna.ac.id/"
+    },
+    {
+        "no": 161,
+        "nama pts": "033163 Sekolah Tinggi Ilmu Komunikasi Indonesia Maju",
+        "website": "http://www.stikom-ima.ac.id/"
+    },
+    {
+        "no": 162,
+        "nama pts": "033164 STMIK Mahakarya",
+        "website": "http://stmikmahakarya.com/"
+    },
+    {
+        "no": 163,
+        "nama pts": "033165 STMIK Nusa Mandiri Jakarta",
+        "website": "http://www.nusamandiri.ac.id/"
+    },
+    {
+        "no": 164,
+        "nama pts": "033167 STIKES Kesetiakawanan Sosial Indonesia",
+        "website": ""
+    },
+    {
+        "no": 165,
+        "nama pts": "033168 STIE Indonesia Banking School",
+        "website": "http://www.ibs.ac.id/"
+    },
+    {
+        "no": 166,
+        "nama pts": "033170 STIKES Persada Husada Indonesia",
+        "website": "http://stikesphijakarta.wordpress.com/"
+    },
+    {
+        "no": 167,
+        "nama pts": "033171 Sekolah Tinggi Ilmu Kesehatan Mitra Ria Husada",
+        "website": "http://www.stikes-mrh.ac.id/"
+    },
+    {
+        "no": 168,
+        "nama pts": "033173 Sekolah Tinggi Ilmu Kesehatan Abdi Nusantara",
+        "website": "http://www.abdinusantara.ac.id"
+    },
+    {
+        "no": 169,
+        "nama pts": "033175 Sekolah Tinggi Teknologi Informasi NIIT",
+        "website": "http://stti.i-tech.ac.id/"
+    },
+    {
+        "no": 170,
+        "nama pts": "033176 Sekolah Tinggi Manajemen Resiko Dan Asuransi",
+        "website": "http://www.stimra.ac.id/"
+    },
+    {
+        "no": 171,
+        "nama pts": "033177 Sekolah Tinggi Ilmu Pemerintahan Abdi Negara",
+        "website": "http://www.stipan.ac.id/"
+    },
+    {
+        "no": 172,
+        "nama pts": "033178 STIMIK Jayabaya Jakarta",
+        "website": ""
+    },
+    {
+        "no": 173,
+        "nama pts": "033179 Sekolah Tinggi Ilmu Kesehatan Jayakarta",
+        "website": "http://stikesjayakarta.ac.id/"
+    },
+    {
+        "no": 174,
+        "nama pts": "033181 STMIK Inovasi Sains Teknologi Bisnis",
+        "website": "http://www.istb.ac.id/"
+    },
+    {
+        "no": 175,
+        "nama pts": "033182 STIBA Indonesia LPI",
+        "website": ""
+    },
+    {
+        "no": 176,
+        "nama pts": "033183 Sekolah Tinggi Ilmu Ekonomi Santa Ursula",
+        "website": ""
+    },
+    {
+        "no": 177,
+        "nama pts": "033184 Sekolah Tinggi Desain Interstudi",
+        "website": "http://www.interstudi.edu/stdi/"
+    },
+    {
+        "no": 178,
+        "nama pts": "033185 Sekolah Tinggi Pariwisata Pelita Harapan",
+        "website": ""
+    },
+    {
+        "no": 179,
+        "nama pts": "033187 STMIK Bidakara",
+        "website": ""
+    },
+    {
+        "no": 180,
+        "nama pts": "033188 STIE Unisadhuguna",
+        "website": "http://www.ubs-usg.ac.id/"
+    },
+    {
+        "no": 181,
+        "nama pts": "033189 Sekolah Tinggi Internasional Konservatori Musik In",
+        "website": ""
+    },
+    {
+        "no": 182,
+        "nama pts": "033190 Sekolah Tinggi Ilmu Kesehatan Pertamedika",
+        "website": "http://www.stikes-pertamedika.ac.id/"
+    },
+    {
+        "no": 183,
+        "nama pts": "033192 Sekolah Tinggi Ilmu Kesehatan Sismadi",
+        "website": "http://www.stikes-sismadi.ac.id/"
+    },
+    {
+        "no": 184,
+        "nama pts": "033193 STKIP Kebangkitan Nasional",
+        "website": ""
+    },
+    {
+        "no": 185,
+        "nama pts": "033194 STIKS Tarakanita",
+        "website": "http://www.stiks-tarakanita.ac.id/"
+    },
+    {
+        "no": 186,
+        "nama pts": "033195 Sekolah Tinggi Media Komunikasi Trisakti",
+        "website": "http://www.mediakomtrisakti.ac.id/"
+    },
+    {
+        "no": 187,
+        "nama pts": "033196 STMIK Eresha",
+        "website": "http://eresha.ac.id/"
+    },
+    {
+        "no": 188,
+        "nama pts": "033197 STIE Manajemen Bisnis Indonesia",
+        "website": ""
+    },
+    {
+        "no": 189,
+        "nama pts": "033198 STMIK Islam Internasional",
+        "website": "http://iiuc.ac.id/"
+    },
+    {
+        "no": 190,
+        "nama pts": "033199 Sekolah Tinggi Desain La Salle",
+        "website": "http://www.lasallecollege.ac.id/"
+    },
+    {
+        "no": 191,
+        "nama pts": "033200 STIKES Bhakti Pertiwi Indonesia",
+        "website": "http://stikesbpi.ac.id/"
+    },
+    {
+        "no": 192,
+        "nama pts": "033201 STIKES Kharisma Persada",
+        "website": "http://stikesmasda.ac.id/"
+    },
+    {
+        "no": 193,
+        "nama pts": "033202 STIE Putera Sampoerna",
+        "website": "http://www.ssb.ac.id/"
+    },
+    {
+        "no": 194,
+        "nama pts": "033203 Sekolah Tinggi Ilmu Ekonomi BPKP",
+        "website": ""
+    },
+    {
+        "no": 195,
+        "nama pts": "033205 Sekolah Tinggi Kepemerintahan dan Kebijakan Publik",
+        "website": "http://www.sgpp.ac.id/"
+    },
+    {
+        "no": 196,
+        "nama pts": "033206 Sekolah Tinggi Ilmu Manajemen dan Ilmu Komputer ESQ",
+        "website": "http://www.esqbs.ac.id"
+    },
+    {
+        "no": 197,
+        "nama pts": "033208 STIH Indonesia Jentera",
+        "website": "http://indonesiajentera.org/"
+    },
+    {
+        "no": 198,
+        "nama pts": "033209 STIKES Mitra Keluarga",
+        "website": ""
+    },
+    {
+        "no": 199,
+        "nama pts": "033210 STIH Litigasi",
+        "website": "http://stihlitigasi.ac.id/"
+    },
+    {
+        "no": 200,
+        "nama pts": "033211 Sekolah Tinggi Ilmu Manajemen Saint Mary",
+        "website": ""
+    },
+    {
+        "no": 201,
+        "nama pts": "034004 Akademi Akuntansi Borobudur",
+        "website": ""
+    },
+    {
+        "no": 202,
+        "nama pts": "034006 Akademi Akuntansi Artawiyata Indo-lpi",
+        "website": ""
+    },
+    {
+        "no": 203,
+        "nama pts": "034008 Akademi Akuntansi Jayabaya",
+        "website": ""
+    },
+    {
+        "no": 204,
+        "nama pts": "034009 Akademi Akuntansi Nasional Jakarta",
+        "website": "http://aan.unas.ac.id/"
+    },
+    {
+        "no": 205,
+        "nama pts": "034011 Akademi Akuntansi YAI Jakarta",
+        "website": "http://www.yai.ac.id/aa_yai.html"
+    },
+    {
+        "no": 206,
+        "nama pts": "034013 Akademi Bahasa Asing Borobudur",
+        "website": ""
+    },
+    {
+        "no": 207,
+        "nama pts": "034019 Akademi Keuangan Dan Perbankan LPI",
+        "website": ""
+    },
+    {
+        "no": 208,
+        "nama pts": "034024 Akademi Teknologi Grafika Indonesia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 209,
+        "nama pts": "034030 Akademi Maritim Nasional Jaya",
+        "website": ""
+    },
+    {
+        "no": 210,
+        "nama pts": "034032 Akademi Manajemen Perusahaan Jayabaya",
+        "website": ""
+    },
+    {
+        "no": 211,
+        "nama pts": "034033 Akademi Keuangan Dan Perbankan Borobudur",
+        "website": ""
+    },
+    {
+        "no": 212,
+        "nama pts": "034036 Akademi Keperawatan RS DGI Cikini",
+        "website": "http://akperrscikini.blogspot.com/"
+    },
+    {
+        "no": 213,
+        "nama pts": "034050 Akademi Bahasa Asing Nasional Jakarta",
+        "website": "http://aba.unas.ac.id/"
+    },
+    {
+        "no": 214,
+        "nama pts": "034058 Akademi Maritim Djadajat",
+        "website": ""
+    },
+    {
+        "no": 215,
+        "nama pts": "034061 Akademi Pariwisata Nasional Jakarta",
+        "website": "http://akparnas.unas.ac.id/"
+    },
+    {
+        "no": 216,
+        "nama pts": "034062 Akademi Pariwisata Indonesia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 217,
+        "nama pts": "034083 Akademi Seni Rupa Dan Desain ISWI Jakarta",
+        "website": ""
+    },
+    {
+        "no": 218,
+        "nama pts": "034084 Akademi Pariwisata Tridaya",
+        "website": ""
+    },
+    {
+        "no": 219,
+        "nama pts": "034086 Akademi Akuntansi Syafa\u2019at Indonesia",
+        "website": ""
+    },
+    {
+        "no": 220,
+        "nama pts": "034090 AMIK Andalan Jakarta",
+        "website": ""
+    },
+    {
+        "no": 221,
+        "nama pts": "034091 Akademi Bahasa Asing Saint Mary",
+        "website": "http://www.saintmary.ac.id/"
+    },
+    {
+        "no": 222,
+        "nama pts": "034093 Akademi Perbankan Yuki",
+        "website": "http://akademiperbankanyuki.ac.id/"
+    },
+    {
+        "no": 223,
+        "nama pts": "034095 Akademi Kimia Analis Caraka Nusantara",
+        "website": "http://www.akacn.ac.id/"
+    },
+    {
+        "no": 224,
+        "nama pts": "034099 Akademi Bahasa Asing Santa Ursula",
+        "website": "http://www.santaursula.ac.id/"
+    },
+    {
+        "no": 225,
+        "nama pts": "034102 Akademi Pariwisata Nusantara Jaya",
+        "website": ""
+    },
+    {
+        "no": 226,
+        "nama pts": "034103 Akademi Pariwisata Paramitha Jakarta",
+        "website": ""
+    },
+    {
+        "no": 227,
+        "nama pts": "034104 Akademi Sekretari Budi Luhur Jakarta",
+        "website": "http://astri.budiluhur.ac.id/"
+    },
+    {
+        "no": 228,
+        "nama pts": "034105 Akademi Sekretari Dan Manajemen Don Bosco",
+        "website": "http://www.asekmadb.ac.id/"
+    },
+    {
+        "no": 229,
+        "nama pts": "034106 Akademi Pariwisata Jakarta International Hotel",
+        "website": "http://www.apjih.ac.id/"
+    },
+    {
+        "no": 230,
+        "nama pts": "034109 Akademi Pariwisata Patria Indonesia",
+        "website": ""
+    },
+    {
+        "no": 231,
+        "nama pts": "034110 AMIK BSI Jakarta",
+        "website": "http://www.bsi.ac.id/"
+    },
+    {
+        "no": 232,
+        "nama pts": "034112 Akademi Komunikasi Media Radio Dan TV Jakarta",
+        "website": "http://akommrtvi.ac.id/"
+    },
+    {
+        "no": 233,
+        "nama pts": "034118 Akademi Televisi Indonesia",
+        "website": "http://atvi.ac.id/"
+    },
+    {
+        "no": 234,
+        "nama pts": "034119 Akademi Telekomunikasi Indonesia Gemilang",
+        "website": ""
+    },
+    {
+        "no": 235,
+        "nama pts": "034120 Akademi Pariwisata Jakarta",
+        "website": "http://www.akpar-jakarta.ac.id/"
+    },
+    {
+        "no": 236,
+        "nama pts": "034121 Akademi Maritim Pembangunan Jakarta",
+        "website": "http://maritimpembangunangroup.org/"
+    },
+    {
+        "no": 237,
+        "nama pts": "034124 Akademi Pariwisata Pertiwi",
+        "website": "http://akpar-pertiwi.ac.id/"
+    },
+    {
+        "no": 238,
+        "nama pts": "034125 Akademi Bahasa Asing Prawira Marta Jakarta",
+        "website": ""
+    },
+    {
+        "no": 239,
+        "nama pts": "034128 Akademi Pariwisata Matoa",
+        "website": ""
+    },
+    {
+        "no": 240,
+        "nama pts": "034129 AMIK Mpu Tantular",
+        "website": ""
+    },
+    {
+        "no": 241,
+        "nama pts": "034130 Akademi Pariwisata Gsp Internasional",
+        "website": "http://gsppluit.webs.com/"
+    },
+    {
+        "no": 242,
+        "nama pts": "034134 Akademi Pariwisata Saint Mary",
+        "website": "http://www.saintmary.ac.id/"
+    },
+    {
+        "no": 243,
+        "nama pts": "034135 Akademi Sekretari Interstudi",
+        "website": "http://aksek.interstudi.edu/"
+    },
+    {
+        "no": 244,
+        "nama pts": "034136 Akademi Sekretari & Manajemen Dharma Budhi Bhakti",
+        "website": ""
+    },
+    {
+        "no": 245,
+        "nama pts": "034137 Akademi Sekretari Dan Manajemen BSI Jakarta",
+        "website": "http://www.bsi.ac.id/"
+    },
+    {
+        "no": 246,
+        "nama pts": "034138 Akademi Sekretari Dan Manajemen Pitaloka",
+        "website": ""
+    },
+    {
+        "no": 247,
+        "nama pts": "034139 Akademi Kebidanan Keris Husada",
+        "website": ""
+    },
+    {
+        "no": 248,
+        "nama pts": "034140 Akademi Keperawatan Keris Husada",
+        "website": ""
+    },
+    {
+        "no": 249,
+        "nama pts": "034141 AMIK Laksi-31",
+        "website": "http://www.laksi31.ac.id/"
+    },
+    {
+        "no": 250,
+        "nama pts": "034142 Akademi Kebidanan Al-Fathonah",
+        "website": "http://www.al-fathonah.web.id/"
+    },
+    {
+        "no": 251,
+        "nama pts": "034145 Akademi Sekretari Saint Theresia",
+        "website": ""
+    },
+    {
+        "no": 252,
+        "nama pts": "034147 Akademi Teknik Informatika Tunas Bangsa",
+        "website": ""
+    },
+    {
+        "no": 253,
+        "nama pts": "034149 Akademi Teknik Telekomunikasi Sandhy Putra Jakarta",
+        "website": ""
+    },
+    {
+        "no": 254,
+        "nama pts": "034150 Akademi Pariwisata Krisanti Widya Mandiri",
+        "website": ""
+    },
+    {
+        "no": 255,
+        "nama pts": "034151 Akademi Pariwisata Bunda Mulia",
+        "website": ""
+    },
+    {
+        "no": 256,
+        "nama pts": "034154 Akademi Kebidanan Pelita Persada",
+        "website": ""
+    },
+    {
+        "no": 257,
+        "nama pts": "034156 Akademi Bahasa Asing BSI Jakarta",
+        "website": "http://www.bsi.ac.id/"
+    },
+    {
+        "no": 258,
+        "nama pts": "034157 Akademi Kebidanan Suluh Bangsa",
+        "website": "http://www.suluhbangsa.ac.id/"
+    },
+    {
+        "no": 259,
+        "nama pts": "034159 Akademi Kebidanan Kartika Mitra Husada",
+        "website": ""
+    },
+    {
+        "no": 260,
+        "nama pts": "034160 Akademi Kebidanan Sismadi",
+        "website": "http://www.akbidsismadi.ac.id/"
+    },
+    {
+        "no": 261,
+        "nama pts": "034161 Akademi Kebidanan Widyakarsa",
+        "website": ""
+    },
+    {
+        "no": 262,
+        "nama pts": "034162 Akademi Komunikasi BSI Jakarta",
+        "website": "http://www.bsi.ac.id/"
+    },
+    {
+        "no": 263,
+        "nama pts": "034163 Akademi Kebidanan YPDR",
+        "website": ""
+    },
+    {
+        "no": 264,
+        "nama pts": "034167 Akademi Kebidanan Prestasi Agung",
+        "website": "http://www.akbidprestasiagung.ac.id/"
+    },
+    {
+        "no": 265,
+        "nama pts": "034168 Akademi Komunikasi SAE Indonesia",
+        "website": "https://indonesia.sae.edu/id/"
+    },
+    {
+        "no": 266,
+        "nama pts": "034169 Akademi Kebidanan Mitra Persahabatan",
+        "website": ""
+    },
+    {
+        "no": 267,
+        "nama pts": "034170 Akademi Kebidanan Yaspen Tugu Ibu",
+        "website": ""
+    },
+    {
+        "no": 268,
+        "nama pts": "034171 Akademi Keperawatan Yayasan Jalan Kimia",
+        "website": "http://www.akperyjk.com/"
+    },
+    {
+        "no": 269,
+        "nama pts": "034173 Akademi Keperawatan Rumah Sakit Jakarta",
+        "website": "http://akperyrsj.ac.id/"
+    },
+    {
+        "no": 270,
+        "nama pts": "034174 Akademi Keperawatan As-Syafi iyah",
+        "website": "http://www.uia.ac.id/index.php?option=com_content&view=article&id=61&Itemid=66"
+    },
+    {
+        "no": 271,
+        "nama pts": "034175 Akademi Kebidanan Farama Mulya",
+        "website": "http://www.farama-mulya.ac.id/"
+    },
+    {
+        "no": 272,
+        "nama pts": "034177 Akademi Keperawatan Hang Tuah Jakarta",
+        "website": "http://www.akper-hangtuahjakarta.ac.id/"
+    },
+    {
+        "no": 273,
+        "nama pts": "034178 Akademi Keperawatan Pasar Rebo Jakarta",
+        "website": ""
+    },
+    {
+        "no": 274,
+        "nama pts": "034179 Akademi Keperawatan Yaspen Jakarta",
+        "website": "http://akperyaspen.com/"
+    },
+    {
+        "no": 275,
+        "nama pts": "034180 Akademi Keperawatan RSP TNI-AU Jakarta",
+        "website": ""
+    },
+    {
+        "no": 276,
+        "nama pts": "034181 Akademi Keperawatan Royhan",
+        "website": "http://akperroyhan.ac.id/"
+    },
+    {
+        "no": 277,
+        "nama pts": "034182 Akademi Farmasi Hang Tuah Jakarta",
+        "website": "http://www.akfar.ac.id/"
+    },
+    {
+        "no": 278,
+        "nama pts": "034183 Akademi Teknik Gigi Hang Tuah Jakarta",
+        "website": "http://atghangtuahjkt.blogspot.com/"
+    },
+    {
+        "no": 279,
+        "nama pts": "034186 Akademi Keperawatan Manggala Husada",
+        "website": "http://akpmh.blogspot.com/"
+    },
+    {
+        "no": 280,
+        "nama pts": "034187 Akademi Keperawatan Berkala Widya Husada",
+        "website": "http://www.akperberkala.ac.id/"
+    },
+    {
+        "no": 281,
+        "nama pts": "034190 Akademi Keperawatan RSU FK-UKI",
+        "website": ""
+    },
+    {
+        "no": 282,
+        "nama pts": "034191 Akademi Keperawatan Harum",
+        "website": "http://www.akperharum.ac.id/"
+    },
+    {
+        "no": 283,
+        "nama pts": "034194 Akademi Pariwisata Sinar Surya",
+        "website": "http://www.xinya.org/"
+    },
+    {
+        "no": 284,
+        "nama pts": "034195 Akademi Perekam Medis Dan Infokes Bhumi Husada",
+        "website": ""
+    },
+    {
+        "no": 285,
+        "nama pts": "034196 Akademi Kesehatan Swakarsa Jakarta",
+        "website": ""
+    },
+    {
+        "no": 286,
+        "nama pts": "034197 Akademi Farmasi Bhumi Husada",
+        "website": "http://akademifarmasi.com/"
+    },
+    {
+        "no": 287,
+        "nama pts": "034198 Akademi Kebidanan Bhinneka Jakarta Satu",
+        "website": "http://www.akbid-bjs.ac.id/"
+    },
+    {
+        "no": 288,
+        "nama pts": "034199 Akademi Refraksi Optisi Kartika Indera Persada",
+        "website": "http://arokartikainderapersada.com/"
+    },
+    {
+        "no": 289,
+        "nama pts": "034201 Akademi Kebidanan Yayasan Rumah Sakit Jakarta",
+        "website": "http://akbidyrsj.ac.id/"
+    },
+    {
+        "no": 290,
+        "nama pts": "034202 Akademi Farmasi Mahadhika",
+        "website": "http://akfar.mahadhika.or.id/"
+    },
+    {
+        "no": 291,
+        "nama pts": "034204 Akademi Keperawatan RS Husada",
+        "website": "http://www.akperhusada.ac.id/"
+    },
+    {
+        "no": 292,
+        "nama pts": "034205 Akademi Manajemen Keuangan BSI Jakarta",
+        "website": "http://www.bsi.ac.id/"
+    },
+    {
+        "no": 293,
+        "nama pts": "034206 Akademi Audiologi Indonesia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 294,
+        "nama pts": "034207 Akademi Kebidanan Jayakarta Sehat",
+        "website": ""
+    },
+    {
+        "no": 295,
+        "nama pts": "034208 Akademi Terapi Wicara Jakarta",
+        "website": ""
+    },
+    {
+        "no": 296,
+        "nama pts": "034209 Akademi Keperawatan Bina Insan Jakarta",
+        "website": "http://www.akperbinainsan.com/"
+    },
+    {
+        "no": 297,
+        "nama pts": "034210 Akademi Keperawatan POLRI",
+        "website": ""
+    },
+    {
+        "no": 298,
+        "nama pts": "034211 Akademi Keperawatan Husada Karya Jaya",
+        "website": ""
+    },
+    {
+        "no": 299,
+        "nama pts": "034212 Akademi Kebidanan Kartini Jakarta",
+        "website": "http://www.akbidkartinijakarta.ac.id/"
+    },
+    {
+        "no": 300,
+        "nama pts": "034213 Akademi Pariwisata Bhakti Nusantara",
+        "website": "http://akparbhaktinusantara.blogspot.com/"
+    },
+    {
+        "no": 301,
+        "nama pts": "034214 Akademi Keperawatan Fatmawati",
+        "website": "http://www.akperfatmawati.ac.id/"
+    },
+    {
+        "no": 302,
+        "nama pts": "034218 Akademi Keperawatan Sumber Waras",
+        "website": ""
+    },
+    {
+        "no": 303,
+        "nama pts": "034219 Akademi Kebidanan Budi Kemuliaan",
+        "website": ""
+    },
+    {
+        "no": 304,
+        "nama pts": "034220 Akademi Kebidanan RSPAD Gatot Soebroto",
+        "website": ""
+    },
+    {
+        "no": 305,
+        "nama pts": "034221 Akademi Farmasi IKIFA",
+        "website": ""
+    },
+    {
+        "no": 306,
+        "nama pts": "034223 Akademi Keperawatan Pelni",
+        "website": "http://akper-rspelni.ac.id/"
+    },
+    {
+        "no": 307,
+        "nama pts": "034224 Akademi Keperawatan RSPAD Gatot Subroto",
+        "website": ""
+    },
+    {
+        "no": 308,
+        "nama pts": "034225 Akademi Kesehatan Gigi Ditkesad Jakarta",
+        "website": ""
+    },
+    {
+        "no": 309,
+        "nama pts": "034226 Akademi Keperawatan Andalusia Jakarta",
+        "website": ""
+    },
+    {
+        "no": 310,
+        "nama pts": "034227 Akademi Kesehatan Lingkungan Andalusia",
+        "website": ""
+    },
+    {
+        "no": 311,
+        "nama pts": "034228 Akademi Gizi Andalusia",
+        "website": ""
+    },
+    {
+        "no": 312,
+        "nama pts": "034229 Akademi Keperawatan YPDR",
+        "website": ""
+    },
+    {
+        "no": 313,
+        "nama pts": "034230 Akademi Refraksi Optisi dan Optometry Gapopin",
+        "website": ""
+    },
+    {
+        "no": 314,
+        "nama pts": "034231 Akademi Keperawatan Antariksa",
+        "website": "http://aro-gapopin.blogspot.com/"
+    },
+    {
+        "no": 315,
+        "nama pts": "034234 Akademi Teknik Radiodiagnostik dan Radioterapi Nusantara",
+        "website": ""
+    },
+    {
+        "no": 316,
+        "nama pts": "034235 Akademi Keperawatan Yayasan Dharma Bhakti",
+        "website": ""
+    },
+    {
+        "no": 317,
+        "nama pts": "034236 Akademi Fisioterapi Universitas Kristen Indonesia",
+        "website": ""
+    },
+    {
+        "no": 318,
+        "nama pts": "034237 Akademi Refraksi Optisi Leprindo Jakarta",
+        "website": ""
+    },
+    {
+        "no": 319,
+        "nama pts": "034239 Akademi Keperawatan Andakara",
+        "website": ""
+    },
+    {
+        "no": 320,
+        "nama pts": "034240 Akademi Teknik Elektromedik Andakara",
+        "website": ""
+    },
+    {
+        "no": 321,
+        "nama pts": "034241 Akademi Bakti Kemanusiaan Palang Merah Indonesia",
+        "website": ""
+    },
+    {
+        "no": 322,
+        "nama pts": "034242 Akademi Olahraga Prestasi Nasional",
+        "website": ""
+    },
+    {
+        "no": 323,
+        "nama pts": "035002 Politeknik Swadharma",
+        "website": "http://www.poltek-swadharma.ac.id/"
+    },
+    {
+        "no": 324,
+        "nama pts": "035003 Politeknik Manufaktur Astra",
+        "website": "http://www.polman.astra.ac.id/"
+    },
+    {
+        "no": 325,
+        "nama pts": "035004 Politeknik Bunda Kandung",
+        "website": ""
+    },
+    {
+        "no": 326,
+        "nama pts": "035006 Politeknik Tugu Jakarta",
+        "website": "http://www.poltektugu.info/"
+    },
+    {
+        "no": 327,
+        "nama pts": "035008 Politeknik LP3I Jakarta",
+        "website": "http://www.politekniklp3i-jkt.ac.id/"
+    },
+    {
+        "no": 328,
+        "nama pts": "035009 Politeknik Global Indonesia",
+        "website": ""
+    },
+    {
+        "no": 329,
+        "nama pts": "035010 Politeknik Karya Husada",
+        "website": "http://khj.ac.id/"
+    },
+    {
+        "no": 330,
+        "nama pts": "035012 Politeknik Soca",
+        "website": ""
+    },
+    {
+        "no": 331,
+        "nama pts": "035013 Politeknik Orang Tua",
+        "website": ""
+    },
+    {
+        "no": 332,
+        "nama pts": "035014 Politeknik Bentara Citra Bangsa",
+        "website": ""
+    },
+    {
+        "no": 333,
+        "nama pts": "035015 Politeknik Bisnis dan Pasar Modal",
+        "website": ""
+    },
+    {
+        "no": 334,
+        "nama pts": "036001 Akademi Komunitas Kosmetik Ristra",
+        "website": ""
+    }
+]
