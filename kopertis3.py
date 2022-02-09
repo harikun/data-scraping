@@ -67,16 +67,15 @@ def get_website_pts():
         'website': website
     })
 
-    with open(f'data_json/website_pts_kopertis3_{no}.json', 'w') as outfile:
-        json.dump(website_pts, outfile, indent=4)
+ with open(f'data_json/website_pts_kopertis3_{no}.json', 'w') as outfile:
+    json.dump(website_pts, outfile, indent=4)
 
-    df = pd.DataFrame(website_pts)
-    df.to_csv(f'data_csv/website_pts_kopertis3_{no}.csv', index=False)
+ df = pd.DataFrame(website_pts)
+ df.to_csv(f'data_csv/website_pts_kopertis3_{no}.csv', index=False)
 
-    df = pd.DataFrame(website_pts)
-    df.to_excel(f'data_excel/website_pts_kopertis3_{no}.xlsx', index=False)
-    print(f'{no} website pts berhasil di download')
-
+ df = pd.DataFrame(website_pts)
+ df.to_excel(f'data_excel/website_pts_kopertis3_{no}.xlsx', index=False)
+ print(f'{no} website pts berhasil di download')
 
 get_website_pts()
 # get_pts()
