@@ -1,0 +1,3078 @@
+[
+  {
+    "kode": "041001  ",
+    "name": "Universitas Ibn Khaldun",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "041002  ",
+    "name": "Universitas Islam Bandung",
+    "region": "Kec. Bandung Wetan"
+  },
+  {
+    "kode": "041003  ",
+    "name": "Universitas Islam Nusantara",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041004  ",
+    "name": "Universitas Pakuan",
+    "region": "Kec. Kota Bogor Tengah"
+  },
+  {
+    "kode": "041005  ",
+    "name": "Universitas Islam Syekh-Yusuf",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "041006  ",
+    "name": "Universitas Katolik Parahyangan",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041007  ",
+    "name": "Universitas Kristen Maranatha",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041008  ",
+    "name": "Universitas Pasundan",
+    "region": "Kec. Sukasari"
+  },
+  {
+    "kode": "041009  ",
+    "name": "Universitas Swadaya Gunung Jati",
+    "region": "Kec. Kesambi"
+  },
+  {
+    "kode": "041010  ",
+    "name": "Universitas 17 Agustus 1945 Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "041011  ",
+    "name": "Universitas Advent Indonesia",
+    "region": "Kab. Bandung Barat"
+  },
+  {
+    "kode": "041014  ",
+    "name": "Universitas Wiralodra",
+    "region": "Kec. Indramayu"
+  },
+  {
+    "kode": "041015  ",
+    "name": "Universitas Langlang Buana",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041018  ",
+    "name": "Universitas Islam 45",
+    "region": "Kota Bekasi"
+  },
+  { "kode": "041019  ", "name": "Universitas Djuanda", "region": "Kab. Bogor" },
+  {
+    "kode": "041020  ",
+    "name": "Universitas Nusa Bangsa",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "041021  ",
+    "name": "Universitas Jenderal Achmad Yani",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "041022  ",
+    "name": "Universitas Winaya Mukti",
+    "region": "Kota Bandung"
+  },
+  { "kode": "041023  ", "name": "Universitas Galuh", "region": "Kab. Ciamis" },
+  {
+    "kode": "041024  ",
+    "name": "Universitas Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "041025  ",
+    "name": "Universitas Nurtanio",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041026  ",
+    "name": "Universitas Swiss German",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "041027  ",
+    "name": "Universitas Komputer Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041029  ",
+    "name": "Universitas Muhammadiyah Cirebon",
+    "region": "Kec. Kedawung"
+  },
+  {
+    "kode": "041030  ",
+    "name": "Universitas Suryakancana",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "041031  ",
+    "name": "Universitas Nasional Pasim",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041032  ",
+    "name": "Universitas Mathla ul Anwar",
+    "region": "Kec. Saketi"
+  },
+  {
+    "kode": "041033  ",
+    "name": "Universitas Pamulang",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "041034  ",
+    "name": "Universitas Widyatama",
+    "region": "Kec. Cibeunying Kidul"
+  },
+  {
+    "kode": "041035  ",
+    "name": "Universitas Putra Indonesia",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "041037  ",
+    "name": "Universitas Al-ghifari",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041038  ",
+    "name": "Universitas Kuningan",
+    "region": "Kab. Kuningan"
+  },
+  {
+    "kode": "041039  ",
+    "name": "Universitas Pramita Indonesia",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "041040  ",
+    "name": "Universitas Muhammadiyah Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "041041  ",
+    "name": "Universitas Presiden",
+    "region": "Kec. Cikarang Pusat"
+  },
+  { "kode": "041042  ", "name": "Universitas Subang", "region": "Kab. Subang" },
+  {
+    "kode": "041043  ",
+    "name": "Universitas Majalengka",
+    "region": "Kab. Majalengka"
+  },
+  {
+    "kode": "041044  ",
+    "name": "Universitas Sangga Buana",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041046  ",
+    "name": "Universitas Informatika Dan Bisnis Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041047  ",
+    "name": "Universitas Wanita Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041048  ",
+    "name": "Universitas Bale Bandung",
+    "region": "Kab. Bandung"
+  },
+  {
+    "kode": "041049  ",
+    "name": "Universitas Serang Raya",
+    "region": "Kec. Serang"
+  },
+  {
+    "kode": "041050  ",
+    "name": "Universitas Teknologi Nusantara Cilegon",
+    "region": "Kec. Sukaraja"
+  },
+  {
+    "kode": "041051  ",
+    "name": "Universitas Muhammadiyah Tangerang",
+    "region": "Kec. Tangerang"
+  },
+  {
+    "kode": "041053  ",
+    "name": "Universitas Pembangunan Jaya",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "041054  ",
+    "name": "Universitas Nahdlatul Ulama Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "041055  ",
+    "name": "Universitas Banten Jaya",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "041056  ",
+    "name": "Universitas Surya",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "041057  ",
+    "name": "Universitas Telkom",
+    "region": "Kec. Dayeuhkolot"
+  },
+  {
+    "kode": "041058  ",
+    "name": "Universitas Lintas Internasional Indonesia",
+    "region": "Kec. Serpong"
+  },
+  {
+    "kode": "041059  ",
+    "name": "Universitas Islam Al-Ihya Kuningan",
+    "region": "Kab. Kuningan"
+  },
+  {
+    "kode": "041060  ",
+    "name": "Universitas Buddhi Dharma",
+    "region": "Kec. Tangerang"
+  },
+  {
+    "kode": "041061  ",
+    "name": "Universitas Muhammadiyah Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "041062  ",
+    "name": "Universitas Buana Perjuangan Karawang",
+    "region": "Kec. Teluk Jambe Timur"
+  },
+  {
+    "kode": "041063  ",
+    "name": "Universitas Perjuangan Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "041064  ",
+    "name": "Universitas Muhammadiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041065  ",
+    "name": "Universitas Bina Bangsa",
+    "region": "Kec. Cipocok Jaya"
+  },
+  {
+    "kode": "041066  ",
+    "name": "Universitas Halim sanusi",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041067  ",
+    "name": "Universitas Nusa Putra",
+    "region": "Kec. Cisaat"
+  },
+  {
+    "kode": "041068  ",
+    "name": "Universitas Bhakti Kencana",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041070  ",
+    "name": "Universitas Faletehan",
+    "region": "Kec. Kramatwatu"
+  },
+  {
+    "kode": "041071  ",
+    "name": "Universitas Raharja",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "041072  ",
+    "name": "Universitas Pelita Bangsa",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "041073  ",
+    "name": "Universitas Ma'soem",
+    "region": "Kec. Jatinangor"
+  },
+  {
+    "kode": "041074  ",
+    "name": "Universitas Bina Insani",
+    "region": "Kec. Rawalumbu"
+  },
+  {
+    "kode": "041075  ",
+    "name": "Universitas Catur Insan Cendekia",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "041076  ",
+    "name": "Universitas Kartamulia Purwakarta",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "041077  ",
+    "name": "Universitas Adhirajasa Reswara Sanjaya",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041078  ",
+    "name": "Universitas Panca Sakti Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "041079  ",
+    "name": "Universitas Primagraha",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "041080  ",
+    "name": "Universitas Muhammadiyah Banten",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "041081  ",
+    "name": "Universitas Binaniaga Indonesia",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "041082  ",
+    "name": "Universitas Global Jakarta",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "041083  ",
+    "name": "Universitas Persatuan Islam",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041084  ",
+    "name": "Universitas Insan Cendekia Mandiri",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041085  ",
+    "name": "Universitas Tangerang Raya",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "041086  ",
+    "name": "Universitas Cendekia Abditama",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "041087  ",
+    "name": "Universitas 'Aisyiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "041088  ", "name": "Universitas Sutomo", "region": "Kota Serang" },
+  {
+    "kode": "041089  ",
+    "name": "Universitas Cipasung Tasikmalaya",
+    "region": "Kab. Tasikmalaya"
+  },
+  {
+    "kode": "041090  ",
+    "name": "Universitas Mandiri",
+    "region": "Kab. Subang"
+  },
+  {
+    "kode": "041091  ",
+    "name": "Universitas Monash Indonesia",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "041092  ",
+    "name": "Universitas Al-Khairiyah",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "041093  ",
+    "name": "Universitas Indonesia Membangun",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041094  ",
+    "name": "Universitas Medika Suherman",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "041095  ",
+    "name": "Universitas Indonesia Mandiri",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "041096  ",
+    "name": "Universitas Kebangsaan Republik Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041097  ",
+    "name": "Universitas Sebelas April",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "041098  ",
+    "name": "Universitas Swadaya Gunung Jati",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "041099  ",
+    "name": "Universitas Yuppentek Indonesia",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "041100  ",
+    "name": "Universitas Sali Al-Aitaam",
+    "region": "Kab. Bandung"
+  },
+  {
+    "kode": "041101  ",
+    "name": "Universitas Muhammadiyah A.R. Fachruddin",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "042001  ",
+    "name": "Institut Manajemen Koperasi Indonesia",
+    "region": "Kec. Jatinangor"
+  },
+  {
+    "kode": "042002  ",
+    "name": "Institut Teknologi Nasional Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "042005  ",
+    "name": "Institut Teknologi Sains Bandung",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "042006  ",
+    "name": "Institut Teknologi Harapan Bangsa",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "042010  ",
+    "name": "Institut Bisnis Muhammadiyah Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "042011  ",
+    "name": "Institut Manajemen Wiyata Indonesia",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "042012  ",
+    "name": "Institut Keguruan dan Ilmu Pendidikan Siliwangi",
+    "region": "Kec. Cimahi Tengah"
+  },
+  {
+    "kode": "042013  ",
+    "name": "Institut Pendidikan Indonesia Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "042015  ",
+    "name": "Institut Teknologi Tangerang Selatan",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "042016  ",
+    "name": "Institut Bisnis Dan Informatika Kesatuan",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "042017  ",
+    "name": "Institut Kesehatan Rajawali",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "042018  ",
+    "name": "Institut Teknologi dan Bisnis Bina Sarana Global",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "042019  ",
+    "name": "Institut Teknologi dan Bisnis Visi Nusantara Bogor",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "042020  ",
+    "name": "Institut Teknologi Garut",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "042021  ",
+    "name": "Institut Teknologi dan Bisnis Riyadlul Ulum",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "042022  ",
+    "name": "lnstitut Digital Ekonomi LPKIA",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "042023  ",
+    "name": "Institut Pendidikan dan Bahasa Invada",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043001  ",
+    "name": "Sekolah Tinggi Hukum Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043002  ",
+    "name": "Sekolah Tinggi Hukum Galunggung",
+    "region": "Kec. Cihideung"
+  },
+  {
+    "kode": "043003  ",
+    "name": "Sekolah Tinggi Hukum Pasundan",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043010  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Maulana Yusuf Banten",
+    "region": "Kec. Serang"
+  },
+  {
+    "kode": "043014  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043018  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Tridharma",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043022  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Ekuitas",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043024  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pertiwi",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043026  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi STEMBI",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043027  ",
+    "name": "STMIK Mardira Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043028  ",
+    "name": "Sekolah Tinggi Teknologi Yupentek",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043029  ",
+    "name": "Sekolah Tinggi Hukum Garut",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "043033  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Menara Siswa",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043034  ",
+    "name": "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Pasundan",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "043035  ",
+    "name": "Sekolah Tinggi Bahasa Asing Yapari",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043036  ",
+    "name": "STKIP PGRI Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043040  ",
+    "name": "Sekolah Tinggi Teknologi Mandala",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043042  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Bagasasi",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043043  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pasundan",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043044  ",
+    "name": "Sekolah Tinggi Teknologi Bina Tunggal",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043045  ",
+    "name": "Sekolah Tinggi Ilmu Komunikasi Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043049  ",
+    "name": "Sekolah Tinggi Teknologi Mineral Indonesia",
+    "region": "Kec. Batununggal"
+  },
+  {
+    "kode": "043050  ",
+    "name": "Sekolah Tinggi Teknologi Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "043056  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pariwisata YAPARI",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043057  ",
+    "name": "Sekolah Tinggi Matematika & Ilmu Pengetahuan Alam",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043059  ",
+    "name": "Sekolah Tinggi Teknologi Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043063  ", "name": "STMIK Bandung", "region": "Kota Bandung" },
+  {
+    "kode": "043064  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi La Tansa Mashiro",
+    "region": "Kab. Lebak"
+  },
+  { "kode": "043071  ", "name": "STMIK Likmi", "region": "Kec. Coblong" },
+  { "kode": "043073  ", "name": "STMIK IM", "region": "Kota Bandung" },
+  {
+    "kode": "043074  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Yasa Anggana",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "043075  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Triguna",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043078  ",
+    "name": "Sekolah Tinggi Pariwisata Ars Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043079  ",
+    "name": "Sekolah Tinggi Desain Indonesia Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043084  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi PGRI Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043085  ",
+    "name": "STISIP Yupentek Tangerang",
+    "region": "Kota Tangerang"
+  },
+  { "kode": "043086  ", "name": "STMIK Jabar", "region": "Kota Bandung" },
+  {
+    "kode": "043088  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Miftahul Huda",
+    "region": "Kab. Subang"
+  },
+  {
+    "kode": "043089  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Mulia Pratama",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043091  ",
+    "name": "Sekolah Tinggi Teknologi Mutu Muhammadiyah",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043093  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi YP-Karya",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043094  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043096  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Tri Bhakti",
+    "region": "Kec. Rawalumbu"
+  },
+  {
+    "kode": "043100  ",
+    "name": "Sekolah Tinggi Teknologi Cipasung",
+    "region": "Kec. Pada Kembang"
+  },
+  {
+    "kode": "043103  ",
+    "name": "STISIP Widyapuri Mandiri",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "043104  ",
+    "name": "STMIK Tulus Cendekia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043106  ",
+    "name": "Sekolah Tinggi Ilmu Hukum Gunung Jati",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043107  ",
+    "name": "Sekolah Tinggi Teknologi Texmaco",
+    "region": "Kab. Subang"
+  },
+  { "kode": "043108  ", "name": "STMIK Bani Saleh", "region": "Kota Bekasi" },
+  {
+    "kode": "043109  ",
+    "name": "STMIK Pranata Indonesia",
+    "region": "Kec. Bekasi Timur"
+  },
+  {
+    "kode": "043110  ",
+    "name": "STISIP Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  { "kode": "043111  ", "name": "STKIP Arrahmaniyah", "region": "Kota Depok" },
+  {
+    "kode": "043113  ",
+    "name": "Sekolah Tinggi Teknologi Jawa Barat",
+    "region": "Kec. Bojongsoang"
+  },
+  {
+    "kode": "043114  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Yasmi",
+    "region": "Kab. Cirebon"
+  },
+  { "kode": "043118  ", "name": "STMIK DCI", "region": "Kota Tasikmalaya" },
+  {
+    "kode": "043119  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Sutaatmadja",
+    "region": "Kab. Subang"
+  },
+  { "kode": "043121  ", "name": "STMIK Cilegon", "region": "Kota Cilegon" },
+  {
+    "kode": "043127  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Fajar",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043128  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Gema Widya Bangsa",
+    "region": "Kab. Bandung"
+  },
+  {
+    "kode": "043131  ",
+    "name": "Sekolah Tinggi Bahasa Asing JIA",
+    "region": "Kec. Bekasi Timur"
+  },
+  {
+    "kode": "043132  ",
+    "name": "Sekolah Tinggi Teknologi Industri dan Farmasi Bogor",
+    "region": "Kec. Kota Bogor Tengah"
+  },
+  {
+    "kode": "043134  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi YPN",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043135  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043137  ",
+    "name": "STMIK Amik Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043139  ", "name": "STMIK Rosma", "region": "Kab. Karawang" },
+  { "kode": "043140  ", "name": "STKIP Yasika", "region": "Kab. Majalengka" },
+  {
+    "kode": "043141  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043144  ", "name": "STMIK Pamitran", "region": "Kab. Karawang" },
+  {
+    "kode": "043148  ",
+    "name": "STISIP Syamsul Ulum",
+    "region": "Kec. Gunung Puyuh"
+  },
+  {
+    "kode": "043149  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pandu Madania",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043153  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Stan Im",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043155  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Stmy",
+    "region": "Kab. Majalengka"
+  },
+  {
+    "kode": "043156  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Dharma Agung Bandung",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043167  ",
+    "name": "Sekolah Tinggi Teknologi Wastukancana",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043170  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Latifah Mubarokiyah",
+    "region": "Kec. Pagerageung"
+  },
+  {
+    "kode": "043171  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Dewantara",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043172  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Wibawa Karta Raharja",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043176  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Kalpataru",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043177  ",
+    "name": "Sekolah Tinggi Ilmu Komputer Poltek Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043178  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043180  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043181  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Tribuana ",
+    "region": "Kec. Bekasi Timur"
+  },
+  {
+    "kode": "043182  ",
+    "name": "Sekolah Tinggi Ilmu Teknik Bina Putra",
+    "region": "Kota Banjar"
+  },
+  {
+    "kode": "043183  ",
+    "name": "STISIP Bina Putera Banjar",
+    "region": "Kota Banjar"
+  },
+  {
+    "kode": "043185  ",
+    "name": "STMIK IKMI Cirebon",
+    "region": "Kec. Kesambi"
+  },
+  {
+    "kode": "043186  ",
+    "name": "Sekolah Tinggi Kesehatan Indonesia Wirautama",
+    "region": "Kec. Ciparay"
+  },
+  {
+    "kode": "043187  ",
+    "name": "Sekolah Tinggi Seni Musik Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043188  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bina Putera Banjar",
+    "region": "Kec. Banjar"
+  },
+  {
+    "kode": "043189  ",
+    "name": "Sekolah Tinggi Teknologi Dr Kh Ez Muttaqien",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043191  ",
+    "name": "Sekolah Tinggi Farmasi Indonesia",
+    "region": "Kec. Bandung Kidul"
+  },
+  {
+    "kode": "043192  ",
+    "name": "Sekolah Tinggi Teknologi Informatika Sony Sugema",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043193  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Insan Pembangunan",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043194  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Ppi",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043195  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Paripurna",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "043196  ",
+    "name": "Sekolah Tinggi Bahasa Asing Technocrat",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043198  ",
+    "name": "STMIK Ganesha Bandung",
+    "region": "Kec. Darangdan"
+  },
+  {
+    "kode": "043199  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Dr Kh Ez Mutaqien",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043200  ",
+    "name": "STMIK Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043201  ",
+    "name": "Sekolah Tinggi Farmasi YPIB Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "043205  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Immanuel Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043207  ",
+    "name": "Sekolah Tinggi Ilmu Manajemen Budi Bakti",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043211  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Garut",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "043212  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Dharma Husada",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043213  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Indramayu",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "043214  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Sandikta",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043215  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Banten",
+    "region": "Kab. Pandeglang"
+  },
+  {
+    "kode": "043216  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Mahardika Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "043217  ",
+    "name": "Sekolah Tinggi Teknik Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043218  ",
+    "name": "Sekolah Tinggi Teknologi Fatahillah Cilegon",
+    "region": "Kab. Serang"
+  },
+  {
+    "kode": "043220  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Respati",
+    "region": "Kab. Tasikmalaya"
+  },
+  { "kode": "043223  ", "name": "STKIP Setiabudhi", "region": "Kab. Lebak" },
+  { "kode": "043224  ", "name": "STMIK Triguna Utama", "region": "Kab. Bogor" },
+  {
+    "kode": "043225  ",
+    "name": "STMIK Insan Pembangunan",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043227  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi BII Bekasi",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043231  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Banten",
+    "region": "Kab. Tangerang"
+  },
+  { "kode": "043232  ", "name": "STMIK Mercusuar", "region": "Kota Bekasi" },
+  {
+    "kode": "043233  ",
+    "name": "STMIK Dharma Putra",
+    "region": "Kec. Karawaci"
+  },
+  {
+    "kode": "043234  ",
+    "name": "Sekolah Tinggi Teknologi Ilmu Komputer (STTIKOM) Insan Unggul",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "043236  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Budi Pertiwi",
+    "region": "Kab. Karawang"
+  },
+  { "kode": "043238  ", "name": "STMIK MIC Cikarang", "region": "Kab. Bekasi" },
+  {
+    "kode": "043239  ",
+    "name": "STISIP Banten Raya",
+    "region": "Kab. Pandeglang"
+  },
+  {
+    "kode": "043240  ",
+    "name": "Sekolah Tinggi Teknologi Banten",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043241  ",
+    "name": "Sekolah Tinggi Ilmu Sosial Dan Ilmu Politik Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043242  ",
+    "name": "STMIK PGRI Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043243  ",
+    "name": "STMIK LPKIA Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043244  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bakti Tunas Husada",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043246  ",
+    "name": "Sekolah Tinggi Bahasa Asing Cipto Hadi Pranoto",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043247  ",
+    "name": "Sekolah Tinggi Ilmu Hukum Dharma Andhiga",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043249  ",
+    "name": "Sekolah Tinggi Teknik Multimedia Cendikia Abditama",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043250  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Islamiyah",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "043251  ",
+    "name": "STMIK Masa Depan",
+    "region": "Kota Tangerang"
+  },
+  { "kode": "043252  ", "name": "STISIP Setia Budhi", "region": "Kab. Lebak" },
+  {
+    "kode": "043253  ",
+    "name": "Sekolah Tinggi Teknologi Muhammadiyah Cileungsi",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043255  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Cimahi",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "043257  ",
+    "name": "Sekolah Tinggi Ilmu Bahasa Asing Invada",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043258  ",
+    "name": "Sekolah Tinggi Ilmu Komunikasi Wangsa Jaya",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043259  ",
+    "name": "Sekolah Tinggi Analis Kimia Cilegon",
+    "region": "Kab. Serang"
+  },
+  {
+    "kode": "043261  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan YPIB",
+    "region": "Kab. Majalengka"
+  },
+  {
+    "kode": "043262  ",
+    "name": "Sekolah Tinggi Teknologi Pratama Adi",
+    "region": "Kec. Arjasari"
+  },
+  {
+    "kode": "043266  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Banten",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043268  ",
+    "name": "STMIK Dharma Negara",
+    "region": "Kec. Kiaracondong"
+  },
+  {
+    "kode": "043269  ",
+    "name": "STIE Dharma Negara",
+    "region": "Kec. Kiaracondong"
+  },
+  {
+    "kode": "043270  ",
+    "name": "STIKES Wijaya Husada Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043271  ",
+    "name": "Sekolah Tinggi Farmasi Muhammadiyah Tangerang",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043272  ",
+    "name": "Sekolah Tinggi Bahasa Asing Bina Dinamika Cianjur",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043273  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Gici",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043276  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Yatsi",
+    "region": "Kec. Karawaci"
+  },
+  {
+    "kode": "043277  ",
+    "name": "STIKES Muhammadiyah Ciamis",
+    "region": "Kab. Ciamis"
+  },
+  {
+    "kode": "043282  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Widya Dharma Husada Tangerang",
+    "region": "Kec. Pamulang"
+  },
+  {
+    "kode": "043284  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Budhi Luhur Cimahi",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "043286  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043288  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Kuningan",
+    "region": "Kab. Kuningan"
+  },
+  { "kode": "043289  ", "name": "STKIP Banten", "region": "Kota Serang" },
+  {
+    "kode": "043290  ",
+    "name": "Sekolah Tinggi Teknologi Duta Bangsa",
+    "region": "Kab. Bekasi"
+  },
+  { "kode": "043291  ", "name": "STMIK WIT Cirebon", "region": "Kota Cirebon" },
+  {
+    "kode": "043292  ",
+    "name": "STIKES Faathir Husada",
+    "region": "Kec. Balaraja"
+  },
+  {
+    "kode": "043295  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bani Saleh",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043296  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Harapan Bangsa",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043298  ",
+    "name": "STIKES Karsa Husada Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "043301  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Santo Borromeus",
+    "region": "Kec. Padalarang"
+  },
+  {
+    "kode": "043305  ",
+    "name": "STMIK Pasim Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043306  ",
+    "name": "STIE Pasim Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043310  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Hidayatullah Depok",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043311  ",
+    "name": "STMIK Antar Bangsa",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043312  ",
+    "name": "Sekolah Tinggi Bahasa Asing IEC Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043314  ",
+    "name": "STIKES Ichsan Medical Centre Bintaro",
+    "region": "Kota tangerang Selatan"
+  },
+  {
+    "kode": "043315  ",
+    "name": "Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043316  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Dwimulya",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043317  ",
+    "name": "Sekolah Tinggi Analis Bakti Asih",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043318  ",
+    "name": "STIEB Perdana Mandiri",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043319  ",
+    "name": "Sekolah Tinggi Pariwisata Bogor",
+    "region": "Kota Bogor"
+  },
+  { "kode": "043321  ", "name": "STKIP Surya", "region": "Kab. Tangerang" },
+  {
+    "kode": "043322  ",
+    "name": "STKIP Muhammadiyah Bogor",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043323  ",
+    "name": "STKIP Muhammadiyah Kuningan",
+    "region": "Kab. Kuningan"
+  },
+  {
+    "kode": "043325  ",
+    "name": "Sekolah Tinggi Teknologi YBS Internasional",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043326  ",
+    "name": "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bina Mutiara",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "043327  ",
+    "name": "STISIP Guna Nusantara",
+    "region": "Kec. Cibinong"
+  },
+  {
+    "kode": "043328  ",
+    "name": "STIKES Bina Permata Medika",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043329  ",
+    "name": "Sekolah Tinggi Ilmu Hukum Painan",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043331  ",
+    "name": "Sekolah Tinggi Teknologi Terpadu Nurul Fikri",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043332  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Holistik",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043333  ",
+    "name": "STKIP Mutiara Banten",
+    "region": "Kab. Pandeglang"
+  },
+  {
+    "kode": "043334  ",
+    "name": "STKIP Nahdlatul Ulama Indramayu",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "043335  ",
+    "name": "STKIP Purwakarta",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043336  ",
+    "name": "STKIP Pangeran Dharma Kusuma Segeran Juntinyuat Indramayu",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "043337  ",
+    "name": "Sekolah Tinggi Manajemen Logistik Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043339  ",
+    "name": "STKIP Situs Banten di Serang",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043340  ",
+    "name": "STKIP PANCAKARYA ",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043341  ",
+    "name": "STISIP Trimasda Cilegon",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "043344  ",
+    "name": "STKIP Syekh Manshur ",
+    "region": "Kab. Pandeglang"
+  },
+  {
+    "kode": "043345  ",
+    "name": "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Invada Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043346  ",
+    "name": "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al-Amin Indramayu",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "043347  ",
+    "name": "STIKES An Nasher Cirebon",
+    "region": "Kec. Sumber"
+  },
+  {
+    "kode": "043348  ",
+    "name": "STIKES Prima Indonesia",
+    "region": "Kec. Babelan"
+  },
+  {
+    "kode": "043349  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Ekadharma Indonesia",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043350  ",
+    "name": "STKIP Babunnajah Pandeglang",
+    "region": "Kab. Pandeglang"
+  },
+  { "kode": "043351  ", "name": "STIKES Raflesia", "region": "Kec. Cimanggis" },
+  {
+    "kode": "043355  ",
+    "name": "Sekolah Tinggi Farmasi Muhammadiyah Cirebon",
+    "region": "Kec. Kedawung"
+  },
+  {
+    "kode": "043356  ",
+    "name": "STIKES Muhammadiyah Cirebon",
+    "region": "Kec. Harjamukti"
+  },
+  {
+    "kode": "043358  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Salsabila Serang",
+    "region": "Kec. Curug"
+  },
+  {
+    "kode": "043359  ",
+    "name": "Sekolah Tinggi Ilmu Komputer El Rahma",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043360  ",
+    "name": "STKIP Sinar Cendekia",
+    "region": "Kec. Serpong"
+  },
+  {
+    "kode": "043361  ",
+    "name": "STIKES Muhammadiyah Kuningan",
+    "region": "Kec. Cigugur"
+  },
+  {
+    "kode": "043362  ",
+    "name": "STKIP  La Tansa Mashiro",
+    "region": "Kec. Rangkasbitung"
+  },
+  {
+    "kode": "043363  ",
+    "name": "Sekolah Tinggi  Ilmu Ekonomi JIU",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043364  ",
+    "name": "Sekolah Tinggi Ilmu Hukum dan Politik Pelopor Bangsa",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043365  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bogor Husada",
+    "region": "Kec. Tanah Sereal"
+  },
+  {
+    "kode": "043366  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Khas Kempek",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043367  ",
+    "name": "STISIP Samudera Indonesia Selatan",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "043368  ",
+    "name": "Sekolah Tinggi Pendidikan Holistik Berbasis Karakter",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043369  ",
+    "name": "Sekolah Tinggi Bahasa Asing Jiu",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043371  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Pelita Ilmu Depok",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043372  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Ahmad Dahlan Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "043374  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Permata Nusantara",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "043375  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan YLPP Purwokerto",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "043376  ",
+    "name": "Sekolah Tinggi Teknologi Garut",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "043377  ",
+    "name": "Sekolah Tinggi Manajemen Informatika dan Komputer Al Muslim",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043378  ",
+    "name": "Sekolah Tinggi Manajemen Informatika dan Komputer Horizon Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043379  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Manajemen Bisnis Indonesia",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "043380  ",
+    "name": "Sekolah Tinggi Manajemen Informatika dan Komputer Al-Fath",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043381  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Horizon Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043382  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Cianjur",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "043383  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan YPSDMI",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "043384  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Dharma Agung Indonesia",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044002  ",
+    "name": "Akademi Akuntansi Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "044009  ", "name": "AMIK Wira Nusantara", "region": "Kab. Lebak" },
+  {
+    "kode": "044022  ",
+    "name": "Akademi Sekretari Manajemen Taruna Bakti",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044033  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer Hass",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044035  ",
+    "name": "Akademi Maritim Suaka Bahari",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "044045  ",
+    "name": "AMIK Bumi Nusantara",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "044049  ",
+    "name": "Akademi Sekretaris Dan Manajemen Kencana Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044050  ",
+    "name": "Akademi Pariwisata Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044051  ",
+    "name": "Akademi Perdagangan Bandung",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044052  ",
+    "name": "Akademi Maritim Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "044056  ",
+    "name": "Akademi Pariwisata Yasmi",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "044060  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer Serang",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044062  ",
+    "name": "Akademi Sekretari Dan Manajemen Tunas Harapan",
+    "region": "Kec. Kota Bogor Selatan"
+  },
+  {
+    "kode": "044064  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer Garut",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "044065  ",
+    "name": "Akademi Pariwisata Siliwangi",
+    "region": "Kota Tasikmalaya"
+  },
+  { "kode": "044068  ", "name": "AMIK Sultan Agung", "region": "Kab. Bekasi" },
+  {
+    "kode": "044069  ",
+    "name": "Akademi Sekretari Triguna",
+    "region": "Kec. Kota Bogor Timur"
+  },
+  {
+    "kode": "044070  ",
+    "name": "Akademi Sekretari Dan Manajemen Lepisi",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044071  ",
+    "name": "Akademi Sekretari Dan Manajemen Ariyanti",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044072  ",
+    "name": "Akademi Tata Boga Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044074  ",
+    "name": "Akademi Teknologi Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044075  ",
+    "name": "Akademi Industri Tekstil Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044078  ",
+    "name": "Akademi Teknologi Bogor",
+    "region": "Kec. Kota Bogor Timur"
+  },
+  {
+    "kode": "044089  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer YPAT",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "044092  ",
+    "name": "Akademi Teknologi Aeronautika Siliwangi",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044093  ",
+    "name": "Akademi Pariwisata Nasional Indonesia Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044098  ",
+    "name": "Akademi Sekretari Dan Manajemen Insulindo",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044102  ",
+    "name": "AMIK Purnama Niaga",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "044105  ",
+    "name": "Akademi Telekomunikasi Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044107  ",
+    "name": "Akademi Pariwisata Citra Buana Indonesia",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "044108  ",
+    "name": "AMIK Citra Buana Indonesia",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "044109  ",
+    "name": "Akademi Perekam Medis & Informatika Kesehatan Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044110  ",
+    "name": "Akademi Manajemen Informatika dan Komputer Wahana Mandiri",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "044111  ",
+    "name": "Akademi Pariwisata NHI Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044114  ",
+    "name": "Akademi Fisioterapi Rumah Sakit Dustira",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "044116  ",
+    "name": "Akademi Kebidanan Yayasan Husada Madani",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044118  ",
+    "name": "Akademi Minyak Dan Gas Balongan",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "044123  ",
+    "name": "AMIK Pakarti Luhur",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044126  ",
+    "name": "Akademi Telekomunikasi Nusantara",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044127  ",
+    "name": "Akademi Kebidanan Bina Husada Tangerang",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044129  ",
+    "name": "Akademi Kebidanan Assyifa Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044130  ",
+    "name": "Akademi Kebidanan Al-Ishlah Cilegon",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "044132  ",
+    "name": "Akademi Analisi Kesehatan An-Nasher",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "044133  ",
+    "name": "Akademi Bahasa Asing Internasional Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044134  ",
+    "name": "Akademi Kebidanan Karya Bunda Husada",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044137  ",
+    "name": "Akademi Kebidanan Aisyiyah Serang",
+    "region": "Kab. Serang"
+  },
+  {
+    "kode": "044143  ",
+    "name": "Akademi Keperawatan Kebonjati",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044149  ",
+    "name": "Akademi Keperawatan Bhakti Husada Cikarang",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044152  ",
+    "name": "Akademi Keperawatan YPIB Majalengka",
+    "region": "Kab. Majalengka"
+  },
+  {
+    "kode": "044154  ",
+    "name": "Akademi Keperawatan RS Dustira",
+    "region": "Kota Cimahi"
+  },
+  {
+    "kode": "044156  ",
+    "name": "Akademi Keperawatan Saifuddin Zuhri",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "044160  ",
+    "name": "Akademi Keperawatan Buntet Pesantren",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "044161  ",
+    "name": "Akademi Kebidanan Bhakti Bangsa",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044165  ",
+    "name": "Akademi Kebidanan YPSDMI",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "044170  ",
+    "name": "Akademi Kebidanan Tri Dharma Bandung",
+    "region": "Kab. Bandung Barat"
+  },
+  {
+    "kode": "044172  ",
+    "name": "Akademi Keperawatan Yatna Yuana Lebak",
+    "region": "Kab. Lebak"
+  },
+  {
+    "kode": "044173  ",
+    "name": "Akademi Keperawatan Islamic Village",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044174  ",
+    "name": "Akademi Kebidanan Isma Husada Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "044176  ",
+    "name": "Akademi Perpajakan Maria Mediatrix",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044177  ",
+    "name": "Akademi Kebidanan Bhakti Husada Cikarang",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044182  ",
+    "name": "Akademi Kebidanan Gema Nusantara Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044185  ",
+    "name": "Akademi Keperawatan Dharma Husada Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "044186  ",
+    "name": "Akademi Farmasi Al-Ishlah Cilegon",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "044187  ",
+    "name": "Akademi Radiognostik Dan Radioterapi Yapenpernus",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044188  ",
+    "name": "Akademi Kebidanan Ar-Rahmah Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044192  ",
+    "name": "Akademi Kebidanan La Tansa Mashiro",
+    "region": "Kab. Lebak"
+  },
+  {
+    "kode": "044193  ",
+    "name": "Akademi Kebidanan Cianjur",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "044196  ",
+    "name": "Akademi Kebidanan Prima Husada",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044197  ",
+    "name": "Akademi Kebidanan Citama Raya Depok",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "044198  ",
+    "name": "Akademi Kebidanan Bhakti Mitra Husada",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044199  ",
+    "name": "Akademi Kebidanan Suka Wangi Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044203  ",
+    "name": "Akademi Pariwisata Nusantara Tangerang",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044204  ",
+    "name": "Akademi Kebidanan Bunda Auni Bogor",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044206  ",
+    "name": "Akademi Kebidanan Prima Indonesia",
+    "region": "Kec. Bekasi Barat"
+  },
+  {
+    "kode": "044207  ",
+    "name": "Akademi Keperawatan Al-Ikhlas Cisarua",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044208  ",
+    "name": "Akademi Kebidanan Al-Ikhlas Cisarua",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044211  ",
+    "name": "Akademi Kebidanan Bakti Indonesia Bogor",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044215  ",
+    "name": "Akademi Kebidanan Sentra Bina Yudistira Tangerang",
+    "region": "Kec. Larangan"
+  },
+  {
+    "kode": "044219  ",
+    "name": "Akademi Kebidanan Bina Husada Serang",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044221  ",
+    "name": "Akademi Kebidanan Respati",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "044223  ",
+    "name": "Akademi Kebidanan Sayid Sabiq Indramayu",
+    "region": "Kab. Indramayu"
+  },
+  {
+    "kode": "044224  ",
+    "name": "Akademi Kebidanan Medica Obgin",
+    "region": "Kec. Kiaracondong"
+  },
+  {
+    "kode": "044225  ",
+    "name": "Akademi Kebidanan Graha Husada Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  {
+    "kode": "044226  ",
+    "name": "Akademi Kebidanan Wijaya Husada",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044228  ",
+    "name": "Akademi Kebidanan Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044229  ",
+    "name": "Akademi Kebidanan Bhakti Asih Cileduk",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044230  ",
+    "name": "Akademi Keperawatan RS Efarina",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "044231  ",
+    "name": "Akademi Kebidanan Cipta Daya Husada",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044233  ",
+    "name": "AMIK Mapan Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044235  ",
+    "name": "Akademi Perpajakan Padang (AKAP) Bekasi",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044236  ",
+    "name": "Akademi Pariwisata (AKPAR) Bina Sarana Informatika Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044237  ",
+    "name": "Akademi Akuntansi Keuangan dan Perbankan Indonesia",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044238  ",
+    "name": "Akademi Farmasi YPF",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044239  ",
+    "name": "Akademi Farmasi Bumi Siliwangi",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044241  ",
+    "name": "Akademi Kebidanan Annisa Jaya",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044242  ",
+    "name": "Akademi Manajemen Gunung Leuser",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "044243  ",
+    "name": "Akademi Pariwisata Tunas Nusantara Mandiri",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "045002  ",
+    "name": "Politeknik Pajajaran Insan Cinta Bangsa Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045003  ",
+    "name": "Politeknik Gajah Tunggal",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "045004  ",
+    "name": "Politeknik Bina Budaya Cipta",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "045006  ",
+    "name": "Politeknik Krakatau",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "045008  ",
+    "name": "Politeknik Komputer Niaga Lpkia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045009  ",
+    "name": "Politeknik Pos Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045010  ",
+    "name": "Politeknik Piksi Input Serang",
+    "region": "Kec. Kramatwatu"
+  },
+  {
+    "kode": "045012  ",
+    "name": "Politeknik Tri Mitra Karya Mandiri",
+    "region": "Kab. Karawang"
+  },
+  { "kode": "045016  ", "name": "Politeknik TEDC", "region": "Kota Cimahi" },
+  {
+    "kode": "045018  ",
+    "name": "Politeknik Praktisi Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045019  ",
+    "name": "Politeknik Gunakarya Indonesia Bekasi",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "045020  ",
+    "name": "Politeknik Sukabumi",
+    "region": "Kec. Warudoyong"
+  },
+  {
+    "kode": "045021  ",
+    "name": "Politeknik Mitra Kusuma",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "045022  ",
+    "name": "Politeknik Agroindustri",
+    "region": "Kab. Subang"
+  },
+  {
+    "kode": "045023  ",
+    "name": "Politeknik Perdana Mandiri",
+    "region": "Kab. Purwakarta"
+  },
+  { "kode": "045025  ", "name": "Politeknik Kent", "region": "Kota Bogor" },
+  {
+    "kode": "045027  ",
+    "name": "Politeknik Piksi Ganesha",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045028  ",
+    "name": "Politeknik PGRI Banten",
+    "region": "Kec. Kramatwatu"
+  },
+  {
+    "kode": "045029  ",
+    "name": "Politenik Kesehatan Yapkesbi Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "045030  ",
+    "name": "Politeknik Al-Islam Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045032  ",
+    "name": "Politeknik Kelapa Sawit Citra Widya Edukasi",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "045033  ",
+    "name": "Politeknik Kesehatan Bhakti Pertiwi Husada",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "045034  ",
+    "name": "Politeknik Kesehatan TNI-AU Ciumbuleuit",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045036  ",
+    "name": "Politeknik Geologi Dan Pertambangan Agp",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045037  ",
+    "name": "Politeknik Triguna Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "045041  ",
+    "name": "Politeknik Tunas Pemuda",
+    "region": "Kec. Rajeg"
+  },
+  {
+    "kode": "045042  ",
+    "name": "Politeknik Enjinering Indorama",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "045043  ",
+    "name": "Politeknik Meta Industri Cikarang",
+    "region": "Kec. Cikarang Utara"
+  },
+  {
+    "kode": "045044  ",
+    "name": "Politeknik Pariwisata Prima Internasional",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "045045  ",
+    "name": "Politeknik Kesehatan Aisyiyah Banten",
+    "region": "Kab. Serang"
+  },
+  {
+    "kode": "045046  ",
+    "name": "Politeknik Bhakti Asih Purwakarta",
+    "region": "Kec. Purwakarta"
+  },
+  {
+    "kode": "045047  ",
+    "name": "Politeknik Sains Seni Rekakresi",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "045048  ",
+    "name": "Politeknik Industri ATMI",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "045049  ",
+    "name": "Politeknik Tiara Bunda",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "045050  ",
+    "name": "Politeknik Bhakti Kartini",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "045051  ",
+    "name": "Politeknik Kesehatan Genesis Medicare",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "045052  ",
+    "name": "Politeknik Lembaga Pendidikan dan Pengembangan Profesi Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045053  ",
+    "name": "Politeknik Bina Madani",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "045054  ",
+    "name": "Politeknik Sali Al-Aitaam",
+    "region": "Kab. Bandung"
+  },
+  {
+    "kode": "045055  ",
+    "name": "Politeknik Bisnis Mayasari",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "045056  ",
+    "name": "Politeknik Digital Boash Indonesia",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "045057  ",
+    "name": "Politeknik Kesehatan KMC Kuningan",
+    "region": "Kab. Kuningan"
+  },
+  {
+    "kode": "046001  ",
+    "name": "Akademi Komunitas Multistrada",
+    "region": "Kec. Cikarang Timur"
+  },
+  {
+    "kode": "046002  ",
+    "name": "Akademi Komunitas Toyota Indonesia",
+    "region": "Kec. Teluk Jambe Barat"
+  },
+  {
+    "kode": "046003  ",
+    "name": "Akademi Komunitas Presiden",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "046004  ",
+    "name": "Akademi Komunitas Insan Tazakka",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "046005  ",
+    "name": "Akademi Komunitas Qurrota A'yun",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "041012  ",
+    "name": "Universitas Siliwangi",
+    "region": "Kec. Tawang"
+  },
+  {
+    "kode": "041016  ",
+    "name": "Universitas Bandung Raya",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041017  ",
+    "name": "Universitas Singaperbangsa Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "041036  ",
+    "name": "Universitas Kebangsaan",
+    "region": "Kota Bandung"
+  },
+  { "kode": "041052  ", "name": "Universitas BSI", "region": "Kota Bandung" },
+  {
+    "kode": "042008  ",
+    "name": "Institut Teknologi Telkom",
+    "region": "Kab. Bandung"
+  },
+  {
+    "kode": "042009  ",
+    "name": "Institut Manajemen Telkom",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "042014  ",
+    "name": "Institut Medika Drg. Suherman",
+    "region": "Kec. Cikarang Utara"
+  },
+  {
+    "kode": "043019  ",
+    "name": "STKIP Sebelas April",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043021  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Indonesia Membangun (Inaba)",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043030  ",
+    "name": "STKIP Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "043038  ",
+    "name": "Sekolah Tinggi Sains Dan Teknologi Indonesia",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043041  ",
+    "name": "STKIP Siliwangi",
+    "region": "Kec. Cimahi Tengah"
+  },
+  {
+    "kode": "043046  ",
+    "name": "Sekolah Tinggi Pertanian Jawa Barat",
+    "region": "Kec. Bandung Kidul"
+  },
+  {
+    "kode": "043051  ",
+    "name": "Sekolah Tinggi Teknologi Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "043061  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Binaniaga",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "043065  ",
+    "name": "Sekolah Tinggi Manajemen Bisnis Telkom",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043068  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043072  ",
+    "name": "Sekolah Tinggi Ilmu Bahasa Banten Raya",
+    "region": "Kab. Pandeglang"
+  },
+  {
+    "kode": "043081  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Sebelas April",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043082  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Penguji Sukabumi",
+    "region": "Kota Sukabumi"
+  },
+  {
+    "kode": "043083  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Budhi Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043090  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Sebelas April",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043097  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Kesatuan",
+    "region": "Kota Bogor"
+  },
+  { "kode": "043102  ", "name": "STMIK Budhi", "region": "Kota Tangerang" },
+  {
+    "kode": "043105  ",
+    "name": "STMIK Mikar",
+    "region": "Kec. Bekasi Selatan"
+  },
+  { "kode": "043112  ", "name": "STMIK Banten Jaya", "region": "Kota Serang" },
+  {
+    "kode": "043115  ",
+    "name": "Sekolah Tinggi Farmasi Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043120  ",
+    "name": "Sekolah Tinggi Manajemen Informatika dan Komputer CIC",
+    "region": "Kec. Kesambi"
+  },
+  { "kode": "043122  ", "name": "STMIK Subang", "region": "Kab. Subang" },
+  { "kode": "043123  ", "name": "STKIP Subang", "region": "Kec. Subang" },
+  {
+    "kode": "043130  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Cipasung",
+    "region": "Kec. Singaparna"
+  },
+  { "kode": "043142  ", "name": "STMIK Sumedang", "region": "Kab. Sumedang" },
+  {
+    "kode": "043145  ",
+    "name": "STMIK Kharisma Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043165  ",
+    "name": "Sekolah Tinggi Bahasa Asing Sebelas April Sumedang",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043166  ",
+    "name": "STKIP Persatuan Islam",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043169  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pelita Bangsa",
+    "region": "Kec. Cikarang Pusat"
+  },
+  {
+    "kode": "043173  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Faletehan",
+    "region": "Kota Serang"
+  },
+  { "kode": "043175  ", "name": "STMIK Raharja", "region": "Kota Tangerang" },
+  {
+    "kode": "043197  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Al-Khairiyah",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "043203  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bhakti Kencana",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043204  ",
+    "name": "Sekolah Tinggi Teknologi Banten Jaya",
+    "region": "Kec. Serang"
+  },
+  {
+    "kode": "043219  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Jenderal Achmad Yani",
+    "region": "Kec. Cimahi Selatan"
+  },
+  {
+    "kode": "043222  ",
+    "name": "STIKES Muhammadiyah Tasikmalaya",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043229  ",
+    "name": "Sekolah Tinggi Teknologi Mitra Karya",
+    "region": "Kec. Bekasi Selatan"
+  },
+  {
+    "kode": "043248  ",
+    "name": "Sekolah Tinggi Ilmu Komputer Binaniaga",
+    "region": "Kec. Kota Bogor Tengah"
+  },
+  { "kode": "043254  ", "name": "STMIK Cikarang", "region": "Kab. Bekasi" },
+  { "kode": "043263  ", "name": "STMIK Bina Insani", "region": "Kota Bekasi" },
+  {
+    "kode": "043264  ",
+    "name": "Sekolah Tinggi Teknologi Pelita Bangsa",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043265  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Cikarang",
+    "region": "Kec. Cikarang Utara"
+  },
+  {
+    "kode": "043274  ",
+    "name": "Sekolah Tinggi Bahasa Asing Buddhi",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043275  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Kridatama Bandung",
+    "region": "Kec. Bandung Kidul"
+  },
+  {
+    "kode": "043278  ",
+    "name": "Sekolah Tinggi Ilmu Komputer Al-khairiyah",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "043279  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Mitra Kencana",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "043280  ",
+    "name": "STIKES Sebelas April Sumedang",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043283  ",
+    "name": "STMIK Bina Sarana Global",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043285  ",
+    "name": "Sekolah Tinggi Bahasa Asing Cirebon",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "043297  ",
+    "name": "STMIK Nusa Mandiri Sukabumi",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "043300  ",
+    "name": "Sekolah Tinggi Ilmu Bahasa Asing Nusa Mandiri",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "043302  ",
+    "name": "Sekolah Tinggi Teknologi Nusa Putra",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "043304  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Bina Bangsa",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043307  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Rajawali",
+    "region": "Kec. Andir"
+  },
+  {
+    "kode": "043308  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Prima Graha",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043309  ",
+    "name": "STMIK Muhammadiyah Banten",
+    "region": "Kab. Serang"
+  },
+  {
+    "kode": "043313  ",
+    "name": "STIKES Kharisma Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043320  ",
+    "name": "STKIP Panca Sakti Bekasi",
+    "region": "Kota Bekasi"
+  },
+  { "kode": "043324  ", "name": "STISI TELKOM", "region": "Kab. Bandung" },
+  {
+    "kode": "043330  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043342  ", "name": "STIE ISM", "region": "Kab. Tangerang" },
+  {
+    "kode": "043343  ",
+    "name": "STKIP Pelita Pratama",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043352  ",
+    "name": "Sekolah Tinggi Teknologi Kreatif Bina Nusantara Bandung",
+    "region": "Kec. Andir"
+  },
+  {
+    "kode": "043353  ",
+    "name": "Sekolah Tinggi Ilmu Hukum Bina Bangsa",
+    "region": "Kab. Serang"
+  },
+  { "kode": "043354  ", "name": "STKIP Sera", "region": "Kec. Tangerang" },
+  {
+    "kode": "043357  ",
+    "name": "Sekolah Tinggi Komputer Al Ma soem",
+    "region": "Kec. Jatinangor"
+  },
+  {
+    "kode": "043373  ",
+    "name": "Sekolah Tinggi Ilmu Administrasi Kawula Indonesia",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044003  ",
+    "name": "Akademi Akuntansi Bina Insani",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044004  ",
+    "name": "Akademi Sekretari Dan Manajemen Bina Insani",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044028  ",
+    "name": "Akademi Manajemen Kesatuan Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044038  ",
+    "name": "Akademi Sekretari & Manajemen Industri Budhi",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044053  ",
+    "name": "AMIK Muhammadiyah Serang",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044066  ",
+    "name": "Akademi Bahasa Asing Budhi Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044080  ",
+    "name": "Akademi Akuntansi Perdana Mandiri",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "044081  ",
+    "name": "AMIK Al-Ma soem",
+    "region": "Kec. Jatinangor"
+  },
+  {
+    "kode": "044083  ",
+    "name": "Akademi Sekretari Dan Manajemen Prima Graha",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044090  ",
+    "name": "AMIK Raharja Informatika",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044122  ",
+    "name": "AMIK Al-Muslim Bekasi",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044125  ",
+    "name": "AKMI Guna Nusantara",
+    "region": "Kota Cilegon"
+  },
+  { "kode": "044131  ", "name": "AMIK BSI Bekasi", "region": "Kota Bekasi" },
+  {
+    "kode": "044135  ",
+    "name": "Akademi Kebidanan Salsabila",
+    "region": "Kec. Curug"
+  },
+  {
+    "kode": "044136  ",
+    "name": "Akademi Teknik Mesin Industri Cikarang",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "044138  ",
+    "name": "Akademi Kebidanan Kharisma Pangkal Perjuangan",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "044141  ",
+    "name": "Akademi Keperawatan PPNI Jawa Barat",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044142  ",
+    "name": "Akademi Keperawatan Aisyiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044155  ",
+    "name": "Akademi Keperawatan Raflesia",
+    "region": "Kec. Cimanggis"
+  },
+  {
+    "kode": "044157  ",
+    "name": "Akademi Keperawatan Muhammadiyah Cirebon",
+    "region": "Kab. Cirebon"
+  },
+  { "kode": "044162  ", "name": "AMIK BSI Bandung", "region": "Kota Bandung" },
+  { "kode": "044163  ", "name": "AMIK BSI Bogor", "region": "Kab. Bogor" },
+  {
+    "kode": "044164  ",
+    "name": "AMIK BSI Tangerang",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044168  ",
+    "name": "Akademi Sekretari Dan Manajemen BSI Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044169  ",
+    "name": "AMIK BSI Tasikmalaya",
+    "region": "Kab. Tasikmalaya"
+  },
+  {
+    "kode": "044175  ",
+    "name": "Akademi Kebidanan Bhakti Asih Purwakarta",
+    "region": "Kec. Purwakarta"
+  },
+  {
+    "kode": "044180  ",
+    "name": "Akademi Keperawatan Bhakti Kencana Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044184  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044189  ",
+    "name": "Akademi Pariwisata Bogor BHI",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044190  ",
+    "name": "Akademi Kebidanan Bhakti Purna Husada",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044191  ",
+    "name": "Akademi Kebidanan Pelita Ilmu Depok",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "044195  ",
+    "name": "Akademi Kebidanan Muhammadiyah Cirebon",
+    "region": "Kec. Harjamukti"
+  },
+  {
+    "kode": "044200  ",
+    "name": "Akademi Kebidanan Syahida Komunika",
+    "region": "Kota Tasikmalaya"
+  },
+  {
+    "kode": "044201  ",
+    "name": "Akademi Kebidanan Bhakti Nugraha",
+    "region": "Kab. Subang"
+  },
+  {
+    "kode": "044202  ",
+    "name": "Akademi Kebidanan Wijaya Husada Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044205  ",
+    "name": "Akademi Perdagangan Catur Insan Cendekia",
+    "region": "Kota Cirebon"
+  },
+  {
+    "kode": "044209  ",
+    "name": "Akademi Analis Kesehatan Bakti Asih",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044210  ",
+    "name": "Akademi Farmasi Muhammadiyah Cirebon",
+    "region": "Kec. Kedawung"
+  },
+  {
+    "kode": "044212  ",
+    "name": "Akademi Kebidanan Karsa Husada Garut",
+    "region": "Kec. Tarogong Kidul"
+  },
+  {
+    "kode": "044214  ",
+    "name": "Akademi Kebidanan Bogor Husada",
+    "region": "Kec. Tanah Sereal"
+  },
+  {
+    "kode": "044216  ",
+    "name": "Akademi Kebidanan Aisyiyah Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044220  ",
+    "name": "Akademi Kebidanan Tiara Bunda",
+    "region": "Kota Depok"
+  },
+  {
+    "kode": "044222  ",
+    "name": "AMIK BSI Sukabumi",
+    "region": "Kab. Sukabumi"
+  },
+  {
+    "kode": "044227  ",
+    "name": "Akademi Farmasi Muhammadiyah Kabupaten Kuningan",
+    "region": "Kec. Cigugur"
+  },
+  {
+    "kode": "044232  ",
+    "name": "AMIK BSI Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "044234  ",
+    "name": "Akademi Keperawatan Bidara Mukti",
+    "region": "Kab. Garut"
+  },
+  {
+    "kode": "045013  ",
+    "name": "Politeknik LP3I Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045031  ",
+    "name": "Politeknik Kridatama Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "045035  ", "name": "Politeknik Telkom", "region": "Kab. Bandung" },
+  {
+    "kode": "045038  ",
+    "name": "Politeknik Indramayu",
+    "region": "Kec. Lohbener"
+  },
+  {
+    "kode": "041028  ",
+    "name": "Universitas Ars Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "041045  ",
+    "name": "Universitas Purwakarta",
+    "region": "Kab. Purwakarta"
+  },
+  {
+    "kode": "043154  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Adhy Niaga",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "043202  ",
+    "name": "Sekolah Tinggi Teknologi Ar-rahmah Cianjur",
+    "region": "Kab. Cianjur"
+  },
+  {
+    "kode": "043208  ",
+    "name": "Sekolah Tinggi Teknologi Nasional Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043209  ",
+    "name": "Sekolah Tinggi Teknik Cikarang",
+    "region": "Kab. Bekasi"
+  },
+  {
+    "kode": "043226  ",
+    "name": "Sekolah Tinggi Teknologi Telematika Cakrawala",
+    "region": "Kec. Tanah Sereal"
+  },
+  {
+    "kode": "043256  ",
+    "name": "Sekolah Tinggi Ilmu Kesehatan Bakti Indonesia",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "043260  ",
+    "name": "Sekolah Tinggi Teknologi Geusan Ulun",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "043293  ",
+    "name": "Sekolah Tinggi Teknologi Muhammadiyah Karawang",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "043338  ",
+    "name": "STKIP Arastamar di Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "043370  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Painan",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044001  ",
+    "name": "Akademi Manajemen Informatika Dan Komputer Yasika",
+    "region": "Kab. Majalengka"
+  },
+  {
+    "kode": "044006  ",
+    "name": "Akademi Sekretari Dan Manajemen Bhakti",
+    "region": "Kota Cilegon"
+  },
+  {
+    "kode": "044008  ",
+    "name": "Akademi Bahasa Asing YPKK Tangerang",
+    "region": "Kec. Ciputat"
+  },
+  {
+    "kode": "044041  ",
+    "name": "Akademi Pariwisata Ars Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044054  ",
+    "name": "Akademi Kesenian Bogor",
+    "region": "Kab. Bogor"
+  },
+  {
+    "kode": "044055  ",
+    "name": "Akademi Teknologi Patriot",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044077  ",
+    "name": "Akademi Komunikasi Radio Dan Televisi Hutama",
+    "region": "Kota Bekasi"
+  },
+  {
+    "kode": "044082  ",
+    "name": "Akademi Pariwisata Sandhy Putra",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044094  ",
+    "name": "Akademi Akuntansi Keuangan Dan Perbankan Indonesia",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "044112  ",
+    "name": "AMIK PGRI Tangerang",
+    "region": "Kab. Tangerang"
+  },
+  {
+    "kode": "044140  ",
+    "name": "Akademi Keperawatan Bidaramukti",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044194  ",
+    "name": "Akademi Refraksi Optisi Polycore Indonesia",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "044217  ",
+    "name": "Akademi Kebidanan Dewi Sartika Bandung",
+    "region": "Kec. Ketapang"
+  },
+  {
+    "kode": "044240  ",
+    "name": "Akademi Manajemen Bisnis Bina Darma Swakarya",
+    "region": "Kec. Tangerang"
+  },
+  {
+    "kode": "045011  ",
+    "name": "Politeknik Manufaktur Igasa Pindad",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045040  ",
+    "name": "Sekolah Tinggi Seni Rupa dan Desain Indonesia Bandung",
+    "region": "Prov. Jawa Barat"
+  },
+  {
+    "kode": "043047  ",
+    "name": "Sekolah Tinggi Teknologi Indonesia",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043053  ", "name": "STISI Bandung", "region": "Kota Bandung" },
+  {
+    "kode": "043069  ",
+    "name": "Sekolah Tinggi Teknologi YBS Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043151  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi AKPI",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043184  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Soemita Adikoesoema",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "043237  ",
+    "name": "STMIK Sultan Agung Pamitran",
+    "region": "Kota Bekasi"
+  },
+  { "kode": "043245  ", "name": "STMIK Abdi Negara", "region": "Kota Bekasi" },
+  {
+    "kode": "043299  ",
+    "name": "STIKES HMS Bintaro",
+    "region": "Kota tangerang Selatan"
+  },
+  { "kode": "044091  ", "name": "AMIK Masa Depan", "region": "Kab. Tangerang" },
+  { "kode": "044097  ", "name": "AMIK MIC Cikarang", "region": "Kab. Bekasi" },
+  { "kode": "044117  ", "name": "AMIK BK3", "region": "Kota Tangerang" },
+  {
+    "kode": "045014  ",
+    "name": "Politeknik AKMB Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045017  ",
+    "name": "Politeknik Garuda Nusantara Bandung",
+    "region": "Kota Bandung"
+  },
+  { "kode": "043101  ", "name": "STMIK Serang", "region": "Kota Serang" },
+  {
+    "kode": "043168  ",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Serang",
+    "region": "Kota Serang"
+  },
+  {
+    "kode": "043267  ",
+    "name": "STIKES Muhammadiyah Tangerang",
+    "region": "Kota Tangerang"
+  },
+  {
+    "kode": "044145  ",
+    "name": "Akademi Keperawatan Kharisma",
+    "region": "Kab. Karawang"
+  },
+  {
+    "kode": "041069  ",
+    "name": "Universitas Mitra Karya",
+    "region": "Kec. Bekasi Selatan"
+  },
+  { "kode": "043210  ", "name": "STMIK Padjadjaran", "region": "Kota Bandung" },
+  {
+    "kode": "044034  ",
+    "name": "Akademi Pariwisata Tadika Puri",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044061  ",
+    "name": "Akademi Sekretari Dan Manajemen Al-Ma soem",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044087  ",
+    "name": "Akademi Akuntansi Era 2020",
+    "region": "Kab. Sumedang"
+  },
+  {
+    "kode": "044104  ",
+    "name": "Akademi Surtasdal-As Bogor",
+    "region": "Kota Bogor"
+  },
+  {
+    "kode": "044113  ",
+    "name": "Akademi Teknologi Telekomunikasi Bandung",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "044124  ",
+    "name": "Akademi Keuangan dan Bisnis Indonesia Internasional",
+    "region": "Kota Bandung"
+  },
+  {
+    "kode": "045001  ",
+    "name": "Politeknik Industri Dan Niaga Bandung",
+    "region": "Kota Bandung"
+  }
+]
