@@ -25,7 +25,6 @@ def get_total_pages():
     }
     res = requests.get(url, params=params, headers=headers)
 
-    # Scraping Step
     total_pages = []
     soup = BeautifulSoup(res.text, 'html.parser')
     pagination = soup.find('div', {'class': 'col-sm-14 col-md-16 col-lg-14 text-center'})
@@ -43,8 +42,6 @@ def get_all_items(page):
     'pageNum' : page
     }
     res = requests.get(url, params=params, headers=headers)
-
-    # Scraping Process
     headers_container = soup.find_all('div', {'class': 'row businessCapsule--mainRow'})
 
     data_list = []
@@ -68,7 +65,6 @@ def get_all_items(page):
         except:
             services = 'N/A'
 
-        # sorting the data
         data_dict = {
             'title': title,
             'classification': classification,
@@ -92,7 +88,6 @@ def run():
         page += 1
         final_result += get_all_items(page)
 
-    # create a json file
     try:
        os.mkdir('data_json')
     except OSError:
@@ -102,17 +97,6 @@ def run():
         json.dump(final_result, f)
         f.close()
     print('Data berhasil di simpan di data_json/yell.json')
-
-  # * title
-  # * classification
-  # * ctas (call to action)
-    # * website
-    # * phone
-  # * maps link
-  # * opening hours
-  # * address
-  # * rating
-  # * services
 
 if __name__ == '__main__':
     # get_total_pages()

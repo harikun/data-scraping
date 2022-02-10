@@ -1,7 +1,6 @@
 import os
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup
 
 url = 'http://www.floatrates.com/daily/idr.json'
 headers = {
@@ -13,9 +12,6 @@ res_json = res.json()
 
 data_rates = []
 for data in res_json.values():
-    # print(data['code'],  data['name'], data['inverseRate'], data['date'])
-
-    # sorting data
     data_dict = {
         'code': data['code'],
         'name': data['name'],
@@ -25,7 +21,6 @@ for data in res_json.values():
     data_rates.append(data_dict)
 print(f'data berhasil di scraping')
 
-#create a excel file
 try:
     os.mkdir('data_excel')
 except:

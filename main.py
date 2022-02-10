@@ -61,12 +61,6 @@ def get_all_items(query, location, start, page):
     #Scraping process
     contents = soup.find_all('table', {'class': 'jobCard_mainContent big6_visualChanges'})
 
-    #pick item
-    # * title
-    # * company name
-    # * company link
-    # * company address
-
     jobs_list = []
     for item in contents:
         title =  item.find('h2', {'class': 'jobTitle'}).text

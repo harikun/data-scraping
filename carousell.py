@@ -17,16 +17,12 @@ headers = {
 }
 res = requests.get(url, params=params)
 soup = BeautifulSoup(res.text, 'html.parser')
-#scraping process
-# ambil kelas besarnya dulu
+
 iphone_container = soup.find(attrs={'class': 'D_E'})
-# iphone_container = soup.find_all('div', {'class': 'D_tX D_G'})
-# ambil kelas kecilnya
 card_iphone = iphone_container.find_all('div', {'class': 'D_s_'})
 iphone_list = []
 id = 0
 for data in card_iphone:
-    # print(data)
    seller = data.find('p').text
    time_post = data.find('div', {'class': 'D_sO'}).text
    img_link = data.find('img').get('src')
@@ -43,8 +39,7 @@ for data in card_iphone:
     }
    id += 1
    iphone_list.append(data_dict)
-# print(iphone_list)
-# create a json file
+
 try:
     os.mkdir('data_json')
 except OSError:
@@ -55,7 +50,6 @@ with open('data_json/carousell.json', 'w+') as f:
     f.close()
 print('Data berhasil di simpan di data_json/carousell.json')
 
-#create file excel dan csv
 try:
     os.mkdir('data_excel')
 except FileExistsError:
