@@ -1,0 +1,1442 @@
+[
+    {
+        "no": 1,
+        "member id": "0001.000864.A",
+        "logo": "https://arebijatim.org/files/0001.000864.A-ERA SANTIKA-04.png",
+        "brand name": "ERA SANTIKA",
+        "company name": "PT. ERA SANTIKA PRIMA",
+        "principal and vice": "Jantje Kairopan",
+        "address": "Jl. Embong Wungu No.10 Surabaya- 60271 Telp : 547 3777",
+        "email": "erasantika2003@gmail.com"
+    },
+    {
+        "no": 2,
+        "member id": "0001.000827.A",
+        "logo": "https://arebijatim.org/files/0001.000827.A-XM Tjandra South.jpg",
+        "brand name": "XAVIER MARKS TJANDRA SOUTH",
+        "company name": "CV. ERA TJANDRA SOUTH",
+        "principal and vice": "Melly Setiawati",
+        "address": "Jl. Raya Kendangsari 64, Surabaya Telp : 843 8889",
+        "email": "info.xmtjandrasouth@gmail.com"
+    },
+    {
+        "no": 3,
+        "member id": "0001.000850.A",
+        "logo": "https://arebijatim.org/files/0001.000850.A-XM Tjandra east.jpg",
+        "brand name": "XAVIER MARKS TJANDRA EAST",
+        "company name": "PT. ERA TJANDRA TIMUR",
+        "principal and vice": "Brando Olivia",
+        "address": "Jl. Raya Kertajaya Indah Timur\r\nKomp. Ruko Mega Galaxy 14 A  No. 5 Surabaya 60116\r\nTelp : 596 5999",
+        "email": "info.xmtjandraeast@gmail.com"
+    },
+    {
+        "no": 4,
+        "member id": "0001.000901.A",
+        "logo": "https://arebijatim.org/files/0001.000901.A-homeland.jpg",
+        "brand name": "HOMELAND INDONESIA",
+        "company name": "PT. HOMELAND  INDONESIA",
+        "principal and vice": "Tan in liong & Stephanus Setiabudi",
+        "address": "Jl. Dharmahusada 115 \r\nSurabaya\r\nTelp : 5963388",
+        "email": "Sec.homeland@twentyone-development.com"
+    },
+    {
+        "no": 5,
+        "member id": "0001.000801.A",
+        "logo": "https://arebijatim.org/files/0001.000801.A-sieto2.jpg",
+        "brand name": "SIETO BOULEVARD",
+        "company name": "PT. JAVA MEGAH",
+        "principal and vice": "Steven Sieto",
+        "address": "Jl. Bukit Darmo Boulevard 8 L\r\nSurabaya\r\nTelp : 7322999",
+        "email": "sietorea@gmail.com"
+    },
+    {
+        "no": 6,
+        "member id": "0001.000828.A",
+        "logo": "https://arebijatim.org/files/0001.000828.A-XM Tjandra.png",
+        "brand name": "XAVIER MARKS TJANDRA",
+        "company name": "CV. PUTERA ERA TJANDRA",
+        "principal and vice": "Benedicto Andreas Sunyoto",
+        "address": "Jl. Bengawan No. 35\r\nSurabaya\r\nTelp : 5610889",
+        "email": "info.xmtjandra@gmail.com"
+    },
+    {
+        "no": 7,
+        "member id": "0001.000876.A",
+        "logo": "https://arebijatim.org/files/0001.000876.A-XM Darmo.png",
+        "brand name": "XAVIER MARKS DARMO",
+        "company name": "PT. MEKARSARI DUTA PENGEMBANG",
+        "principal and vice": "Iman Sutedjo",
+        "address": "Jl. Mayjend Sungkono No. 77  Blok S-6,Wonokitri Indah, Kel.Gunung Sari, Kec. Dukuh Pakis. Surabaya\r\nTelp : 5661667",
+        "email": "xmdarmo@gmail.com"
+    },
+    {
+        "no": 8,
+        "member id": "0001.000035.A",
+        "logo": "https://arebijatim.org/files/0001.000035.A-RW Indonesia.jpg",
+        "brand name": "RAY WHITE INDONESIA",
+        "company name": "PT. RAY PROPERTINDO",
+        "principal and vice": "Robby Simon",
+        "address": "Jl. Basuki Rahmat No. 48 Surabaya\r\nTelp. 031 - 5355777",
+        "email": "corporatesurabaya@raywhite.co.id"
+    },
+    {
+        "no": 9,
+        "member id": "0001.000829.A",
+        "logo": "https://arebijatim.org/files/0001.000829.A-RW Bukit Darmo Golf2.jpg",
+        "brand name": "RAY WHITE BUKIT DARMO GOLF",
+        "company name": "PT. MENARA MANNA MULIA",
+        "principal and vice": "Tritan Saputra",
+        "address": "Jl. Raya Bukit Darmo Golf R \u2013 17 Surabaya 60226\r\nTelp : 7384165",
+        "email": "office@rwbdg.com"
+    },
+    {
+        "no": 10,
+        "member id": "0001.000856.A",
+        "logo": "https://arebijatim.org/files/0001.000856.A-logo Pioneer.png",
+        "brand name": "XAVIER MARKS PIONEER",
+        "company name": "CV. PIONEER REALTINDO",
+        "principal and vice": "Cecilia Erni Septibagio",
+        "address": "Jl. Raya Dukuh Kupang No. 99A, Surabaya\r\nTelp : 566 8421",
+        "email": "info.xmpioneer@gmail.com"
+    },
+    {
+        "no": 11,
+        "member id": "0001.000830.A",
+        "logo": "https://arebijatim.org/files/0001.000830.A-rw dipo.jpg",
+        "brand name": "RAY WHITE DIPONEGORO",
+        "company name": "PT. BISNIS ANAK MUDA SUKSES",
+        "principal and vice": "Andy Suanda",
+        "address": "Jl. Diponegoro 196 E, Surabaya\r\nTelp : 5617171",
+        "email": "rwdipo@gmail.com"
+    },
+    {
+        "no": 12,
+        "member id": "0001.000802.A",
+        "logo": "https://arebijatim.org/files/0001.000802.A-brighton2.jpg",
+        "brand name": "BRIGHTON REAL ESTATE",
+        "company name": "PT. YOBELINDO GRAHA MANDIRI",
+        "principal and vice": "Widjaja Santoso",
+        "address": "Spazio Office Building Unit 218\r\nKomplek Graha Festival Kav.3 Jl. Mayjend Yono Soewoyo Surabaya\r\nTelp : 99000935",
+        "email": "relation@brighton.co.id"
+    },
+    {
+        "no": 13,
+        "member id": "0001.000886.A",
+        "logo": "https://arebijatim.org/files/0001.000886.A-RaywhiteLogoVer2-02 hitam.png",
+        "brand name": "RAY WHITE JEMURSARI",
+        "company name": "PT. GOLDEN RAY PROPECTUS",
+        "principal and vice": "Tan Padang Sugiarto",
+        "address": "Jl. Raya Jemursari 317, Surabaya\r\nTelp : 8498686",
+        "email": "raywhite.jemursari@gmail.com"
+    },
+    {
+        "no": 14,
+        "member id": "0001.000832.A",
+        "logo": "https://arebijatim.org/files/0001.000832.A-xm hr muhammad.jpg",
+        "brand name": "XAVIER MARKS HR MUHAMMAD",
+        "company name": "PT. SURYA BANGUN JAYA ABADI",
+        "principal and vice": "Suryadinata",
+        "address": "Jl. HR. Muhammad No.41, Surabaya",
+        "email": "info.xmhrmuhammad@gmail.com"
+    },
+    {
+        "no": 15,
+        "member id": "0001.000884.A",
+        "logo": "https://arebijatim.org/files/0001.000884.A-duta.jpg",
+        "brand name": "DUTA PROPERTY LAND",
+        "company name": "PT. DUTA PROPERTY LAND",
+        "principal and vice": "Andy Steven Liono",
+        "address": "Jl. Undaan Wetan No. 56, Surabaya\r\nTelp : 547000",
+        "email": "dutaproperty@ymail.com"
+    },
+    {
+        "no": 16,
+        "member id": "0001.000803.A",
+        "logo": "https://arebijatim.org/files/0001.000803.A-casa.jpg",
+        "brand name": "CASA PROPERTY",
+        "company name": "PT. CASA MITRA ANUGERAH SEJAHTERA",
+        "principal and vice": "Mery Christian, ST",
+        "address": "Jl Jemur Andayani 7 No 14 Surabaya 60237\r\nTelp : 031 8415120",
+        "email": "property.casa@yahoo.com"
+    },
+    {
+        "no": 17,
+        "member id": "0001.000833.A",
+        "logo": "https://arebijatim.org/files/0001.000833.A-cbcc.jpg",
+        "brand name": "COLDWELL BANKER COMMERCIAL CAPITAL",
+        "company name": "PT. CB CAPITAL",
+        "principal and vice": "Riza Indrawan Wibowo",
+        "address": "Jl. Ahmad Yani  288, Surabaya\r\nTelp : 8275888/58251333/8273888",
+        "email": "martinarief21@gmail.com"
+    },
+    {
+        "no": 18,
+        "member id": "0001.000870.A",
+        "logo": "https://arebijatim.org/files/0001.000870.A-inmax premiere2.jpg",
+        "brand name": "INMAX PREMIERE",
+        "company name": "PT. INMAKSINDO PRIMA GRAHA",
+        "principal and vice": "Danny Tjahyadi",
+        "address": "Jl. Galunggung 61 A, Malang\r\nTelp : 0341 \u2013 553500",
+        "email": "inmaxproperty@gmail.com"
+    },
+    {
+        "no": 19,
+        "member id": "0001.000851.A",
+        "logo": "https://arebijatim.org/files/0001.000851.A-infinity.png",
+        "brand name": "INFINITI PROPERTY",
+        "company name": "PT. INFINITI JAYA INDONESIA",
+        "principal and vice": "YAP CHIEW LIANG (Andrew Jap)",
+        "address": "Puncak CBD Ruko 6 F Mall RT.003 RW.004 Kel. Jajar Tunggal Kec. Wiyung Surabaya",
+        "email": "andrew@infinitiproperty.com"
+    },
+    {
+        "no": 20,
+        "member id": "0001.000873.A",
+        "logo": "https://arebijatim.org/files/0001.000873.A-XM Epicentrum.jpeg",
+        "brand name": "XAVIER MARKS EPICENTRUM",
+        "company name": "PT. JAYA SENTOSA PROPERTINDO",
+        "principal and vice": "Ferry Wijaya",
+        "address": "Jl. Raya Mulyosari Ruko Central Park blok AB No.2 \u2013 Surabaya \r\nTelp : 5961055",
+        "email": "info.xmepicentrum@gmail.com"
+    },
+    {
+        "no": 21,
+        "member id": "0001.000834.A",
+        "logo": "https://arebijatim.org/files/0001.000834.A-XM Tjandra Patos.png",
+        "brand name": "XAVIER MARKS TJANDRA PATOS",
+        "company name": "PT. FERRANO PROPERTI PERSADA",
+        "principal and vice": "Larasati Aghata",
+        "address": "Ruko Pakuwon City AA2 \u2013 33\r\nSurabaya\r\nTelp : 58201234",
+        "email": "info.xmtjandrapatos@gmail.com"
+    },
+    {
+        "no": 22,
+        "member id": "0001.000895.A",
+        "logo": "https://arebijatim.org/files/0001.000895.A-era ventura2.jpg",
+        "brand name": "ERA VENTURA",
+        "company name": "PT. VENTURA INVESTA PLATINUM",
+        "principal and vice": "Surianti",
+        "address": "Jl. Terusan Kawi No. 8 C\r\nMalang, 65115\r\nTelp : 0341-578857",
+        "email": "info@eraventura.com"
+    },
+    {
+        "no": 23,
+        "member id": "0001.000891.A",
+        "logo": "https://arebijatim.org/files/0001.000891.A-De mitr2a.jpg",
+        "brand name": "DE MITRA",
+        "company name": "CV. TRIFA USAHA SUKSES",
+        "principal and vice": "Farahdina Andriani, SM dan Ahmad Jakfar, SE., MM",
+        "address": "Jl. Surakarta No.12 GKB Manyar, Gresik \r\nTelp : 031-3954312/28883008",
+        "email": "de.mitraproperty@gmail.com"
+    },
+    {
+        "no": 24,
+        "member id": "0001.000898.A",
+        "logo": "https://arebijatim.org/files/0001.000898.A-winston central.jpeg",
+        "brand name": "WINSTON CENTRAL",
+        "company name": "PT. BINTANG JAYA PROPERTINDO",
+        "principal and vice": "Endra Kristanto",
+        "address": "One East Penthouse & Residence\r\nJl. Raya Kertajaya Indah No.79, Kertajaya Indah Timur, Kec. Mulyorejo, Kota Surabaya\r\nTelp. 031 - 600 10 611",
+        "email": "winston.central14@gmail.com"
+    },
+    {
+        "no": 25,
+        "member id": "0001.000857.A",
+        "logo": "https://arebijatim.org/files/0001.000857.A-winston prima.jpg",
+        "brand name": "WINSTON PRIMA",
+        "company name": "PT. PRIMA SUKSES PROPERTINDO",
+        "principal and vice": "Timotyus Tjandra",
+        "address": "Jl. Raya Bukit Darmo No. 11, Surabaya\r\nTelp. : 7322300",
+        "email": "winstonprima@gmail.com"
+    },
+    {
+        "no": 26,
+        "member id": "0001.000804.A",
+        "logo": "https://arebijatim.org/files/0001.000804.A-max capital.jpg",
+        "brand name": "MAX CAPITAL",
+        "company name": "PT. SINAR GLOBAL MAS",
+        "principal and vice": "Lie Diana Lissan",
+        "address": "Komplek Ruko Surya Inti Permata 2/C 16-17\r\nJl. HR Muhammad, Surabaya\r\nTelp. : 7316023",
+        "email": "capital_max@yahoo.co.id"
+    },
+    {
+        "no": 27,
+        "member id": "0001.000921.A",
+        "logo": "https://arebijatim.org/files/0001.000921.A-winston premier2.jpg",
+        "brand name": "WINSTON PREMIER",
+        "company name": "PT. DHARMA DUA PILAR",
+        "principal and vice": "Dendy Wibisono",
+        "address": "Ruko Pasar Modern No. 33 Lantai 3, Surabaya\r\nTelp : 031-99001009",
+        "email": "winston.premier.sby@gmail.com"
+    },
+    {
+        "no": 28,
+        "member id": "0001.000806.A",
+        "logo": "https://arebijatim.org/files/0001.000806.A-WINSTON ONEb.jpg",
+        "brand name": "WINSTON ONE",
+        "company name": "PT. SATU SETIA JAYA",
+        "principal and vice": "Piter Tampang",
+        "address": "Ruko Icon 21 Blok S \u2013 17\r\nJl. Dr. Ir. H. Soekarno Merr, Surabaya\r\nTelp. : 99005099",
+        "email": "winston1.sby@gmail.com"
+    },
+    {
+        "no": 29,
+        "member id": "0001.000858.A",
+        "logo": "https://arebijatim.org/files/0001.000858.A-MANSION3.jpg",
+        "brand name": "MANSION PROPERTY",
+        "company name": "CV. MANSION PROPERTY",
+        "principal and vice": "Robertus Sutanto",
+        "address": "Ruko Taman Gapura Blok H18, Surabaya\r\nTelp. : 51160260",
+        "email": "mansioncitraland@gmail.com"
+    },
+    {
+        "no": 30,
+        "member id": "0001.000889.A",
+        "logo": "https://arebijatim.org/files/0001.000889.A-mvp.jpg",
+        "brand name": "MVP REALTY",
+        "company name": "PT. BERKAT BERSAMA PROPERTI",
+        "principal and vice": "Dicky Irawan",
+        "address": "Jl. Raya Klampis Jaya A-31, Surabaya\r\nTelp. : 5912626",
+        "email": "adm.mvprealty@gmail.com"
+    },
+    {
+        "no": 31,
+        "member id": "0001.000859.A",
+        "logo": "https://arebijatim.org/files/0001.000859.A-logo kantor.png",
+        "brand name": "FREDDY PROPERTY INDONESIA",
+        "company name": "CV. FREDDY PROPERTY INDONESIA",
+        "principal and vice": "Freddy Sutanto",
+        "address": "Jl. Mulyosari No. 91, Surabaya\r\nTelp : 5956088",
+        "email": "office@freddyproperty.com"
+    },
+    {
+        "no": 32,
+        "member id": "0001.000909.A",
+        "logo": "https://arebijatim.org/files/0001.000909.A-eden.jpg",
+        "brand name": "EDEN PROPERTY",
+        "company name": "PT. EDEN PROPERTI INDONESIA",
+        "principal and vice": "Slamet",
+        "address": "Mangga Dua B2 No. 3-5 Jagir Wonokromo, Surabaya\r\nTelp. 8471769 / 8471768",
+        "email": "edenproperti@yahoo.com"
+    },
+    {
+        "no": 33,
+        "member id": "0001.000865.A",
+        "logo": "https://arebijatim.org/files/0001.000865.A-pillar2.jpg",
+        "brand name": "PILLAR PROPERTY",
+        "company name": "PT. PILLAR NUSA PROPERTINDO",
+        "principal and vice": "Jimmy Wardono",
+        "address": "Jl. Raya Panjang Jiwo Permai, Blok AF No.02 Panjang Jiwo Kec. Tenggilis Mejoyo Surabaya\r\nTelp. : 087855404672",
+        "email": "pillar.propertindo@gmail.com"
+    },
+    {
+        "no": 34,
+        "member id": "0001.000836.A",
+        "logo": "https://arebijatim.org/files/0001.000836.A-indolion.jpg",
+        "brand name": "INDOLION PROPERTY",
+        "company name": "PT. SUKSES INTI PROPERTINDO",
+        "principal and vice": "Lion Susanto",
+        "address": "Jl. Manyar Kertoarjo 13 No. 11, Surabaya\r\nTelp : 5924259",
+        "email": "admsby.indolionproperty@gmail.com"
+    },
+    {
+        "no": 35,
+        "member id": "0001.000837.A",
+        "logo": "https://arebijatim.org/files/0001.000837.A-jpro citraland2.jpg",
+        "brand name": "JAVA PROPERTY CITRALAND",
+        "company name": "PT. JAVA ABADI SEJAHTERA",
+        "principal and vice": "Rudy Sutanto",
+        "address": "Ruko Sentra Taman Puspa Raya Blok B-14 Citraland, Surabaya\r\nTelp : 031 99160024 / 031 99161100",
+        "email": "javaproperty.adm@gmail.com"
+    },
+    {
+        "no": 36,
+        "member id": "0001.000838.A",
+        "logo": "https://arebijatim.org/files/0001.000838.A-axell2.jpg",
+        "brand name": "AXELL INDONESIA",
+        "company name": "PT. GRAHA SAPTARANGI INDONESIA",
+        "principal and vice": "Elvan Febrianto",
+        "address": "Pakuwon Centre 23rd Floor - Unit 2363 Jl. Embong Malang, Surabaya\r\nTelp. : 031-6000 3125",
+        "email": "axellindonesia@gmail.com"
+    },
+    {
+        "no": 37,
+        "member id": "0001.000808.A",
+        "logo": "https://arebijatim.org/files/0001.000808.A-remax.jpg",
+        "brand name": "RE/MAX EAGLE",
+        "company name": "PT. BUANA JAYA MAPAN",
+        "principal and vice": "Budiono Yuwono",
+        "address": "Ruko Sentra Internasional C-18 Citraland, Surabaya\r\nTelp : 031 7421736",
+        "email": "eagle@remax.co.id"
+    },
+    {
+        "no": 38,
+        "member id": "0001.000893.A",
+        "logo": "https://arebijatim.org/files/0001.000893.A-logo Citraland Boulevard.png",
+        "brand name": "XAVIER MARKS CITRALAND BOULEVARD",
+        "company name": "PT. VIVO INDOCITRA PROPERTI",
+        "principal and vice": "Vonny Wibisono",
+        "address": "Ruko Sentra Niaga Utama H-9\r\nCitraland (sebelum club house), Surabaya\r\nTelp. : 99019900",
+        "email": "Info.xmcb@gmail.com"
+    },
+    {
+        "no": 39,
+        "member id": "0001.000883.A",
+        "logo": "https://arebijatim.org/files/0001.000883.A-RaywhiteLogoVer2-02 hitam.png",
+        "brand name": "RAY WHITE CITRALAND",
+        "company name": "PT. SUKSES BERSAMA PROPERTI",
+        "principal and vice": "Triyogo Wahyu Irawan",
+        "address": "Taman Gapura J-6 G Walk Citraland \u2013 Surabaya (60217)\r\nTelp : 031 99160099",
+        "email": "raywhitecitraland@gmail.com"
+    },
+    {
+        "no": 40,
+        "member id": "0001.000860.A",
+        "logo": "https://arebijatim.org/files/0001.000860.A-RaywhiteLogoVer2-02 hitam.png",
+        "brand name": "RAY WHITE JUANDA",
+        "company name": "PT. GRHA BHUMI UTAMA",
+        "principal and vice": "Adrian Lesmana",
+        "address": "Ruko Palm Square TF-48, Pondok Candra Indah \u2013 Sidoarjo\r\nTelp : 031 8662020",
+        "email": "office@rwjuanda.com"
+    },
+    {
+        "no": 41,
+        "member id": "0001.000839.A",
+        "logo": "https://arebijatim.org/files/0001.000839.A-nt.jpg",
+        "brand name": "GALAXY KARTINI",
+        "company name": "PT. KARUNIA GRAHA GEMILANG",
+        "principal and vice": "Agustinus Soedjono Kosasih",
+        "address": "Jl. Kartini No. 17, Surabaya\r\nTelp. : 031 568 9222",
+        "email": "galaxykartini.sby@gmail.com"
+    },
+    {
+        "no": 42,
+        "member id": "0001.000809.A",
+        "logo": "https://arebijatim.org/files/0001.000809.A-my property.jpg",
+        "brand name": "MY PROPERTY",
+        "company name": "PT. MENUJU BERKAT BERSAMA",
+        "principal and vice": "Gerry Jonathan",
+        "address": "Ruko San Antonio N1-101 Pakuwon City, Surabaya\r\nTelp.: 031 9901 2334",
+        "email": "mypropertysby@gmail.com"
+    },
+    {
+        "no": 43,
+        "member id": "0001.000840.A",
+        "logo": "https://arebijatim.org/files/0001.000840.A-xm merr.jpg",
+        "brand name": "XAVIER MARKS MERR",
+        "company name": "PT. MITRA BERSAMA SEJAHTERA",
+        "principal and vice": "Setyo Hartono",
+        "address": "Jl. Dr. Ir. H. Soekarno, \r\nRuko Icon 21 Blok S-20 Surabaya Telp : 99005010",
+        "email": "Info.xmmerr@gmail.com"
+    },
+    {
+        "no": 44,
+        "member id": "0001.000810.A",
+        "logo": "https://arebijatim.org/files/0001.000810.A-a&a.jpg",
+        "brand name": "A & A VISION",
+        "company name": "CV. A & A PROPERTY",
+        "principal and vice": "Soewito Gunawan",
+        "address": "Jl. Darmo Permai Timur 19 V, Surabaya\r\nTelp : 031 734 8484",
+        "email": "property@aindonesia.com"
+    },
+    {
+        "no": 45,
+        "member id": "0001.000841.A",
+        "logo": "https://arebijatim.org/files/0001.000841.A-magnum.jpg",
+        "brand name": "MAGNUM PROPERTY",
+        "company name": "PT. MAGNUM PANCA ABADI",
+        "principal and vice": "Farhad Ahmad Alatas",
+        "address": "Mulyosari Utara 2 no 47 Surabaya",
+        "email": "magnum_property@yahoo.com"
+    },
+    {
+        "no": 46,
+        "member id": "0001.000842.A",
+        "logo": "https://arebijatim.org/files/0001.000842.A-XM Citraland.png",
+        "brand name": "XAVIER MARKS CITRALAND",
+        "company name": "PT. MAKMUR BERSAMA PROPERTI",
+        "principal and vice": "Jonas Angkawidjaja",
+        "address": "Ruko Taman Gapura F-6 G Walk\r\nCitraland, Surabaya\r\nTelp : 031 742 2332",
+        "email": "Info.xmcitraland1@gmail.com"
+    },
+    {
+        "no": 47,
+        "member id": "0001.000874.A",
+        "logo": "https://arebijatim.org/files/0001.000874.A-ray white..jpg",
+        "brand name": "RAY WHITE ROYAL RESIDENCE",
+        "company name": "PT. SINAR PROPERTI INDONESIA",
+        "principal and vice": "Daniel Lianto",
+        "address": "Royal Residence BS 15 \u2013 15 C, Surabaya\r\nTelp : 08123580690",
+        "email": "admofficerwroyal01@gmail.com"
+    },
+    {
+        "no": 48,
+        "member id": "0001.000878.A",
+        "logo": "https://arebijatim.org/files/0001.000878.A-0001.000878.A-polaris.jpg",
+        "brand name": "POLARIS PROPERTY",
+        "company name": "PT. POLARIS PRIMA PROPERTINDO",
+        "principal and vice": "Meike Binsneyder",
+        "address": "Jl. Semampir No.49 C Medokan Semampir, Sukolilo Surabaya\r\nTelp. : 031 593 8787",
+        "email": "polaris.properti@gmail.com"
+    },
+    {
+        "no": 49,
+        "member id": "0001.000887.A",
+        "logo": "https://arebijatim.org/files/0001.000887.A-logo Tjandra Grande.png",
+        "brand name": "XAVIER MARKS TJANDRA GRANDE",
+        "company name": "PT. CAHAYA ABADI REALTI",
+        "principal and vice": "Audrey Ariani & Richard Hartono S",
+        "address": "Jl. Ngagel Jaya Tengah I No. 14, Surabaya\r\nTelp : 031 99005599",
+        "email": "info.xmtjandragrande@gmail.com"
+    },
+    {
+        "no": 50,
+        "member id": "0001.000812.A",
+        "logo": "https://arebijatim.org/files/0001.000812.A-Propnex Boulevard2.jpg",
+        "brand name": "PROPNEX BOULEVARD",
+        "company name": "PT. BINA MANDIRI PROPERTINDO",
+        "principal and vice": "Erict Kurniawan",
+        "address": "Jl. Raya Babatan Unesa 102 Surabaya\r\nTelp : 031 7536177",
+        "email": "propnexboulevard@gmail.com"
+    },
+    {
+        "no": 51,
+        "member id": "0001.000814.A",
+        "logo": "https://arebijatim.org/files/0001.000814.A-excellence pro.jpg",
+        "brand name": "EXCELLENCE PROPERTY",
+        "company name": "PT. JAYA DAGANG SENTOSA",
+        "principal and vice": "Melia Margaretha",
+        "address": "Pergudangan Suri Mulia Permai Blok EE 8, Margomulyo, Surabaya\r\nTelp : 031 7492218",
+        "email": "Excellenceproperty88@gmail.com"
+    },
+    {
+        "no": 52,
+        "member id": "0001.000843.A",
+        "logo": "https://arebijatim.org/files/0001.000843.A-INMAX Harmony2.jpg",
+        "brand name": "INMAX HARMONY",
+        "company name": "PT. HARMONI MITRA GRAHA",
+        "principal and vice": "Arie Siswanto",
+        "address": "Jl. WR Supratman C1 Kav 6, Malang\r\nTelp : 0341 363003",
+        "email": "inmaxharmony@gmail.com"
+    },
+    {
+        "no": 53,
+        "member id": "0001.000816.A",
+        "logo": "https://arebijatim.org/files/0001.000816.A-vista.jpg",
+        "brand name": "VISTA PROPERTY",
+        "company name": "PT. VISTA GRAHA ABADI",
+        "principal and vice": "Sylvia Dian Kumala",
+        "address": "Ruko Educity Harvard 02 Pakuwon City\r\nDibawah Apartemen Educity\r\nJl Kalisari Selatan 1 no 1A Surabaya\r\nTelp : 031 59174948",
+        "email": "vistapropertysurabaya@gmail.com"
+    },
+    {
+        "no": 54,
+        "member id": "0001.000844.A",
+        "logo": "https://arebijatim.org/files/0001.000844.A-SIP Victory-02.jpg",
+        "brand name": "SIP VICTORY",
+        "company name": "PT. SIP GRAHA KEMENANGAN",
+        "principal and vice": "Rudy Julianto",
+        "address": "Jl. Ngagel Jaya Selatan, Ruko RMI Blok J-10 Bratang Binangun, Surabaya\r\nTelp : 031 99442277",
+        "email": "office.sipvictory@gmail.com"
+    },
+    {
+        "no": 55,
+        "member id": "0001.000890.A",
+        "logo": "https://arebijatim.org/files/0001.000890.A-123 Property2.jpg",
+        "brand name": "123 PROPERTY",
+        "company name": "CV. ROLAND JAYA PERDANA",
+        "principal and vice": "Hari Nugroho",
+        "address": "Jl. Raya Tenggilis Mejoyo Ai 33-34 Surabaya (Pujasera Mas Bro)\r\nTelp : 082123100123",
+        "email": "kantor123property@gmail.com"
+    },
+    {
+        "no": 56,
+        "member id": "0001.000910.A",
+        "logo": "https://arebijatim.org/files/0001.000910.A-u-nit2.jpg",
+        "brand name": "U-NIT RENTAL APT",
+        "company name": "PT. BINTANG SARANA GRAHA",
+        "principal and vice": "Lieny Gunawan",
+        "address": "Tokan Waterplace C-5, Surabaya\r\nTelp : 031 7393240",
+        "email": "lienymoss81@yahoo.co.id"
+    },
+    {
+        "no": 57,
+        "member id": "0001.000031.A",
+        "logo": "https://arebijatim.org/files/0001.000031.A-XM Indonesia2.jpg",
+        "brand name": "XAVIER MARKS INDONESIA",
+        "company name": "PT. XAVIER MARKS INDONESIA",
+        "principal and vice": "Daniel Sunyoto",
+        "address": "Jl. Darmo Kali 3-5 Surabaya\r\nTelp : 031 5625111",
+        "email": "xaviermarks.id@gmail.com"
+    },
+    {
+        "no": 58,
+        "member id": "0001.000819.A",
+        "logo": "https://arebijatim.org/files/0001.000819.A-RW JEMBER2.jpg",
+        "brand name": "RAY WHITE JEMBER",
+        "company name": "PT. BINTANG GRAHA JEMBER",
+        "principal and vice": "Adnan Mochammad",
+        "address": "Perumahan Gunung Batu Blok C-6, Jember\r\nTelp : 0331 4431488",
+        "email": "raywhitejember@gmail.com"
+    },
+    {
+        "no": 59,
+        "member id": "0001.000821.A",
+        "logo": "https://arebijatim.org/files/0001.000821.A-logo Mayjen.png",
+        "brand name": "XAVIER MARKS MAYJEN",
+        "company name": "PT. XAVIER MARKS KENCANA",
+        "principal and vice": "Lina Cioko",
+        "address": "Komp. Ruko Rich Palace R-19,\r\nJl. Mayjend Sungkono 149-151\r\nSurabaya\r\nTelp 031 562 5577 / 031 566 3665",
+        "email": "info.xmmayjen@gmail.com"
+    },
+    {
+        "no": 60,
+        "member id": "0001.000845.A",
+        "logo": "https://arebijatim.org/files/0001.000845.A-maxima2.jpg",
+        "brand name": "MAXIMA",
+        "company name": "PT. MAXIMA MARKETING SERVICE INDONESIA",
+        "principal and vice": "Rachmat Suhendra & Rena Nirmala Sari (Vice)",
+        "address": "Ruko Boulevard no. 8 kahuripan nirwana Sidoarjo\r\nTelp. 031 9970 5999 / 031 9970 5777",
+        "email": "maxima.lisence@gmail.com"
+    },
+    {
+        "no": 61,
+        "member id": "0001.000822.A",
+        "logo": "https://arebijatim.org/files/0001.000822.A-XM North Citraland.png",
+        "brand name": "XAVIER MARKS NORTH CITRALAND",
+        "company name": "CV. SURYA ANUGERAH INVESTINDO",
+        "principal and vice": "Surya Prasidha",
+        "address": "Ruko Sentra Taman Puspa Raya \r\nB-8 Citraland, Surabaya.\r\nTelp : 031 5116 0101",
+        "email": "info.xmnorthcitraland1@gmail.com"
+    },
+    {
+        "no": 62,
+        "member id": "0001.000846.A",
+        "logo": "https://arebijatim.org/files/0001.000846.A-XM Tjandra Nyoto.png",
+        "brand name": "XAVIER MARKS TJANDRA NYOTO",
+        "company name": "PT. PUTERA TJANDRA NYATA",
+        "principal and vice": "Herawati",
+        "address": "Dharmahusada Indah Timur M-195 Surabaya\r\nTelp : 03159171888 / 031 59172343",
+        "email": "info.xmtjandranyoto@gmail.com"
+    },
+    {
+        "no": 63,
+        "member id": "0001.000904.A",
+        "logo": "https://arebijatim.org/files/0001.000904.A-logo Pondok Tjandra.png",
+        "brand name": "XAVIER MARKS PONDOK TJANDRA",
+        "company name": "PT. XMARKS GRAHA ANUGRAH",
+        "principal and vice": "Rudy Hartono",
+        "address": "Raya Taman Asri No. 44, Pondok Tjandra \u2013 Sidoarjo \r\nTelp : 031-8672889",
+        "email": "info.xmpondoktjandra@gmail.com"
+    },
+    {
+        "no": 64,
+        "member id": "0001.000916.A",
+        "logo": "https://arebijatim.org/files/0001.000916.A-px malang cbd2.jpg",
+        "brand name": "PROPNEX MALANG CBD",
+        "company name": "PT. SKYE PROPERTINDO INDONESIA",
+        "principal and vice": "Hendri Liem",
+        "address": "Jl. Dieng No.27 C\r\nKel. Bareng, Kec. Klojen, Malang\r\n0341 5029134",
+        "email": "propnexmalang.adm@gmail.com"
+    },
+    {
+        "no": 65,
+        "member id": "0001.000863.A",
+        "logo": "https://arebijatim.org/files/0001.000863.A-logo Vision.png",
+        "brand name": "XAVIER MARKS VISION",
+        "company name": "PT. VISI MITRA REALTI",
+        "principal and vice": "Diana Amanda Kusuma",
+        "address": "Ruko Puncak CBD Blok 8A-APT\r\nJl. Keramat I, Kel. Jajar Tunggal, Kec. Wiyung, Surabaya\r\nTelp. 081333889081",
+        "email": "info.xmvision@gmail.com"
+    },
+    {
+        "no": 66,
+        "member id": "0001.000825.A",
+        "logo": "https://arebijatim.org/files/0001.000825.A-era indo.jpg",
+        "brand name": "ERA INDONESIA",
+        "company name": "PT. ERA GRAHA REALTY",
+        "principal and vice": "Yafet Kristanto",
+        "address": "Kertajaya Indah Timur XVII No.49 Surabaya\r\nTelp : 031 - 594 0987",
+        "email": "eraindonesia@yahoo.co.id"
+    },
+    {
+        "no": 67,
+        "member id": "0001.000848.A",
+        "logo": "https://arebijatim.org/files/0001.000848.A-XM Dian Istana.png",
+        "brand name": "XAVIER MARKS DIAN ISTANA",
+        "company name": "PT. XMARKS DIAN ANUGRAH",
+        "principal and vice": "Grace Elisabeth Manopo",
+        "address": "Komplek Club House Dian Istana, Surabaya\r\n031-99016535",
+        "email": "info.xmdianistana@gmail.com"
+    },
+    {
+        "no": 68,
+        "member id": "0001.000861.A",
+        "logo": "https://arebijatim.org/files/0001.000861.A-XM Gallery.png",
+        "brand name": "XAVIER MARKS GALLERY",
+        "company name": "PT. XMARKS MARVELL GALLERY",
+        "principal and vice": "Johanes",
+        "address": "Marvell City blok G-28 \r\nJl. Ngagel 123, Surabaya\r\n031 \u2013 99444232",
+        "email": "info.xmgallery@gmail.com"
+    },
+    {
+        "no": 69,
+        "member id": "0001.000849.A",
+        "logo": "https://arebijatim.org/files/0001.000849.A-LOGO 1(1).png",
+        "brand name": "XAVIER MARKS MAXIME",
+        "company name": "PT. HAWILA INDOPROPERTI SEJAHTERA",
+        "principal and vice": "Andreas Tandiono",
+        "address": "APARTEMEN & SOHO CORNELL LT 3 UNIT 3.88 Citraland Surabaya\r\nTelp. 0823 3164 7778",
+        "email": "info.xmmaxime@gmail.com"
+    },
+    {
+        "no": 70,
+        "member id": "0001.000917.A",
+        "logo": "https://arebijatim.org/files/0001.000917.A-winmax.jpg",
+        "brand name": "WINMAX",
+        "company name": "PT. WINMAX INVESTAMA PROPERTINDO",
+        "principal and vice": "Budiono Wisanto",
+        "address": "Ruko Villa Bukit Mas RA 14 Surabaya\r\nTelp.  031-99542610 / 031-99542178",
+        "email": "winmax.property@gmail.com"
+    },
+    {
+        "no": 71,
+        "member id": "0001.000866.A",
+        "logo": "https://arebijatim.org/files/0001.000866.A-galaxy zeven.jpg",
+        "brand name": "GALAXY ZEVEN",
+        "company name": "PT. TUJUH LUMBUNG KELIMPAHAN",
+        "principal and vice": "Yulia Tenoyo",
+        "address": "Tokan Yale 01, Educity Residence, Surabaya\r\nTelp. 081277775910",
+        "email": "Zeven@galaxyproperty.co.id"
+    },
+    {
+        "no": 72,
+        "member id": "0001.000815.A",
+        "logo": "https://arebijatim.org/files/0001.000815.A-domus2.jpg",
+        "brand name": "DOMUS",
+        "company name": "PT. DWI MEGAH JAYA KARUNIA",
+        "principal and vice": "Widjaya Slamet",
+        "address": "Purimas Legian H5 No.8, Surabaya\r\nTelp. 031 - 8781988",
+        "email": "domus.indonesia@gmail.com"
+    },
+    {
+        "no": 73,
+        "member id": "0001.000911.A",
+        "logo": "https://arebijatim.org/files/0001.000911.A-stern.jpg",
+        "brand name": "STERN PROPERTY",
+        "company name": "PT. DIPO MANDIRI INDONESIA",
+        "principal and vice": "Yongky Yanuar",
+        "address": "Jl. Kupang Jaya V No.2D, Sonokwijenan, Kec. Sukomanunggal, Kota SBY 60189\r\nTelp. 0851-0244-9990",
+        "email": "sternindonesia@gmail.com"
+    },
+    {
+        "no": 74,
+        "member id": "0001.00900.A",
+        "logo": "https://arebijatim.org/files/0001.00900.A-xm priority.jpg",
+        "brand name": "XAVIER MARKS PRIORITY",
+        "company name": "PT. PRIORITAS SUKSES BERSAMA",
+        "principal and vice": "Go Caesar Teguh Santoso",
+        "address": "Skyloft SOHO unit 1598, Ciputra World, Jl. Mayjen Sungkono 87-89 Surabaya\r\nTelp. 031 - 99533888",
+        "email": "xmarks.priority@gmail.com"
+    },
+    {
+        "no": 75,
+        "member id": "0001.000862.A",
+        "logo": "https://arebijatim.org/files/0001.000862.A-RaywhiteLogoVer2-02 hitam.png",
+        "brand name": "RAY WHITE DIENG MALANG",
+        "company name": "PT. SURYA TIRTA PERSADA",
+        "principal and vice": "Silvia Soenarjo",
+        "address": "Jl. Kurinci 17 Malang\r\nTelp. 0341 - 557878",
+        "email": "rwdieng@gmail.com"
+    },
+    {
+        "no": 76,
+        "member id": "0001.000877.A",
+        "logo": "https://arebijatim.org/files/0001.000877.A-Px vision.jpg",
+        "brand name": "PROPNEX PAKUWON CITY",
+        "company name": "PT. PROPERTI MAJU SENTOSA",
+        "principal and vice": "Santoso Susanto",
+        "address": "Ruko San Diego MR 2 - 18 Kav 99 Surabaya\r\nTelp. 085100014333",
+        "email": "propnexpakuwoncity@gmail.com"
+    },
+    {
+        "no": 77,
+        "member id": "0001.000903.A",
+        "logo": "https://arebijatim.org/files/0001.000903.A-u pro indo.jpg",
+        "brand name": "U PROPERTY INDONESIA",
+        "company name": "PT. UNGGUL UTAMA PROPERTINDO",
+        "principal and vice": "Wartini Surya",
+        "address": "Ruko Villa Taman Telaga TJ 1/35 E, Jl. Telaga Golf Citraland, Surabaya\r\nTelp. 031 \u2013 99148820",
+        "email": "holding@upropertyindonesia.com"
+    },
+    {
+        "no": 78,
+        "member id": "0001.000913.A",
+        "logo": "https://arebijatim.org/files/0001.000913.A-Propnex Sutomo2.jpg",
+        "brand name": "PROPNEX HQ",
+        "company name": "PT. TRIUTAMA MANDIRI PROPERTINDO",
+        "principal and vice": "Luckyanto & Eny Wikarsa",
+        "address": "Jl. Raya Babatan Unesa 102 Surabaya\r\nTelp. 031 \u2013 5685577 / 082140570498",
+        "email": "fa.propnexsutomo@gmail.com"
+    },
+    {
+        "no": 79,
+        "member id": "0001.000872.A",
+        "logo": "https://arebijatim.org/files/0001.000872.A-yobel.jpg",
+        "brand name": "YOBEL PROPERTY",
+        "company name": "PT. YOBEL OMEGA NUSA",
+        "principal and vice": "Yonathan Suhardono",
+        "address": "Jl. Raya Tenggilis Mejoyo AA No.16 Surabaya\r\nTelp. 031 \u2013 8412890",
+        "email": "yonathansuhardono@yahoo.com"
+    },
+    {
+        "no": 80,
+        "member id": "0001.000905.A",
+        "logo": "https://arebijatim.org/files/0001.000905.A-xm diponegoro.jpg",
+        "brand name": "XAVIER MARKS DIPONEGORO",
+        "company name": "PT. GRIYA TULUS CITRA",
+        "principal and vice": "Vincentius Soedjianto Soegondo",
+        "address": "Jl. Diponegoro No.48D Surabaya\r\nTelp. 031 \u2013 99533599",
+        "email": "info.xmdipo@gmail.com"
+    },
+    {
+        "no": 81,
+        "member id": "0001.000867.A",
+        "logo": "https://arebijatim.org/files/0001.000867.A-logo Graha.png",
+        "brand name": "XAVIER MARKS GRAHA",
+        "company name": "PT. GRAHA MULYO PROPERTINDO",
+        "principal and vice": "Laurentius Jerry Prayogo Noer",
+        "address": "Komplek Ruko Plaza Graha Family Blok B-21A Surabaya\r\nTelp. 031 - 7348855",
+        "email": "info.xmgraha@gmail.com"
+    },
+    {
+        "no": 82,
+        "member id": "0001.000875.A",
+        "logo": "https://arebijatim.org/files/0001.000875.A-the edge.jpg",
+        "brand name": "THE EDGE",
+        "company name": "PT. DUTA KASIH PERSADA",
+        "principal and vice": "Teddy Gunawan",
+        "address": "Jl. Bubutan No.8, Alun-alun contong, Kec. Bubutan, Surabaya\r\nTelp. 0822 7322 9000",
+        "email": "dutakppt@gmail.com"
+    },
+    {
+        "no": 83,
+        "member id": "0001.000892.A",
+        "logo": "https://arebijatim.org/files/0001.000892.A-bosse.jpg",
+        "brand name": "BOSSE PROPERTY",
+        "company name": "PT. BERLIAN GEMILANG SUKSES",
+        "principal and vice": "Ade Dina Rachmawati",
+        "address": "Ruko 21 Klampis Blok B 11 Surabaya\r\nTelp. 081233314293",
+        "email": "bossepropertysby@gmail.com"
+    },
+    {
+        "no": 84,
+        "member id": "0001.000906.A",
+        "logo": "https://arebijatim.org/files/0001.000906.A-px dhi.jpg",
+        "brand name": "PROPNEX DHARMAHUSADA",
+        "company name": "PT. TRIAJI MEGAH PROPERTINDO",
+        "principal and vice": "Bong Ing Ing & Wiwik Widjojo",
+        "address": "Jl. Dharmahusada Indah II D-50 Surabaya\r\nTelp. 031 - 5998382",
+        "email": "dhi.propnex@gmail.com"
+    },
+    {
+        "no": 85,
+        "member id": "0001.000899.A",
+        "logo": "https://arebijatim.org/files/0001.000899.A-maranata.jpg",
+        "brand name": "MARANATA",
+        "company name": "CV. MARANATA",
+        "principal and vice": "Teddy Maranata",
+        "address": "Jl. Raya Bambe km.18, Ruko Sentra Pergudangan Bambe, Blok R No.3 Driyorejo Gresik\r\nTelp. 082233150123",
+        "email": "maranata.surabaya@gmail.com"
+    },
+    {
+        "no": 86,
+        "member id": "0001.000894.A",
+        "logo": "https://arebijatim.org/files/0001.000894.A-xm pakuwon city.jpg",
+        "brand name": "XAVIER MARKS PAKUWON CITY",
+        "company name": "PT. DELAPAN BERKAT BERSAMA",
+        "principal and vice": "Frederick Suryo Prayogo",
+        "address": "Ruko San Diego MR 2/21-105 Surabaya\r\nTelp. 082190110789",
+        "email": "info.xmpakuwoncity@gmail.com"
+    },
+    {
+        "no": 87,
+        "member id": "0001.000919.A",
+        "logo": "https://arebijatim.org/files/0001.000919.A-harcourts section one.jpg",
+        "brand name": "HARCOURTS SECTION ONE",
+        "company name": "PT. CITRA SELARAS INDONESIA",
+        "principal and vice": "Sugianuraini",
+        "address": "Ruko Section One Blok A3, Jl. Rungkut Industri Raya 1 Surabaya\r\nTelp. 031 - 99852870",
+        "email": "citra.selaras.int@gmail.com"
+    },
+    {
+        "no": 88,
+        "member id": "0001.000907.A",
+        "logo": "https://arebijatim.org/files/0001.000907.A-XM Harvest2.png",
+        "brand name": "XAVIER MARKS HARVEST",
+        "company name": "PT. GRAHA UTAMA SOLUSINDO",
+        "principal and vice": "Benny Soegianto",
+        "address": "Jl. Raya Jemursari No.76 Blok B-5 Surabaya\r\nTelp. 031 - 99843737",
+        "email": "info.xmharvest@gmail.com"
+    },
+    {
+        "no": 89,
+        "member id": "0001.000914.A",
+        "logo": "https://arebijatim.org/files/0001.000914.A-cosmo.jpg",
+        "brand name": "COSMO REAL ESTATE",
+        "company name": "PT. RUMAH DIGITAL PROPERTI",
+        "principal and vice": "Richard Sudibyo",
+        "address": "Jl. Mayjend Sungkono, Darmo Park II Blok V No.9 Surabaya\r\nTelp. 031 \u2013 5686676",
+        "email": "richardsudibyo@cmre.co.id"
+    },
+    {
+        "no": 90,
+        "member id": "0001.000902.A",
+        "logo": "https://arebijatim.org/files/0001.000902.A-Logo Pioneer.png",
+        "brand name": "PION\u2019R BDG PROPERTY",
+        "company name": "PT. GRAHA LANGGENG OETAMA",
+        "principal and vice": "Karnelia Ailin, Liem",
+        "address": "Ruko Bukit Darmo Golf No.1B Jl. Bukit Darmo Golf Surabaya\r\nTelp. 031 \u2013 99025577",
+        "email": "pionr.bdgproperty@gmail.com"
+    },
+    {
+        "no": 91,
+        "member id": "0001.000920.A",
+        "logo": "https://arebijatim.org/files/0001.000920.A-sieto2.jpg",
+        "brand name": "SIETO",
+        "company name": "PT. SIETO PROPERTI INDONESIA",
+        "principal and vice": "Steven Sieto",
+        "address": "Jl. Bukit Darmo Boulevard 8 L\r\nSurabaya\r\nTelp. 031 - 7322999    Fax : 7345177",
+        "email": "sietorealestateagents@gmail.com"
+    },
+    {
+        "no": 92,
+        "member id": "0001.000918.A",
+        "logo": "https://arebijatim.org/files/0001.000918.A-logo darmo permai.png",
+        "brand name": "XAVIER MARKS DARMO PERMAI",
+        "company name": "PT. KARUNIA HIDUP SUKSES",
+        "principal and vice": "David Ardian Susanto",
+        "address": "Simpang Darmo Permai Selatan XIV No.1 Surabaya\r\nTelp. 031 \u2013 7344212",
+        "email": "info.xmdamai@gmail.com"
+    },
+    {
+        "no": 93,
+        "member id": "2019.000036.A",
+        "logo": "https://arebijatim.org/files/2019.000036.A-shine.jpg",
+        "brand name": "SHINE REAL ESTATE",
+        "company name": "PT. LUI JAYA BERSAMA",
+        "principal and vice": "Tan Yen Djiauw",
+        "address": "Raya Darmo Pemai III Bavarian B-28, Surabaya\r\nTelp. 085281515758",
+        "email": "shine.citraland@gmail.com"
+    },
+    {
+        "no": 94,
+        "member id": "2019.000034.A",
+        "logo": "https://arebijatim.org/files/2019.000034.A-Winston Logo Png.png",
+        "brand name": "WINSTON CITRALAND",
+        "company name": "PT. CITRA SUKSES PROPERTINDO",
+        "principal and vice": "Johanes Sutanto",
+        "address": "Ruko Royal Citylof RCL 0101, Royal Residence, Surabaya\r\nTelp. 031 \u2013 7322300",
+        "email": "winston.citraland@gmail.com"
+    },
+    {
+        "no": 95,
+        "member id": "2019.000041.A",
+        "logo": "https://arebijatim.org/files/2019.000041.A-smartwise pro.jpg",
+        "brand name": "SMARTWISE PRO",
+        "company name": "PT. RAJA PROPERTI SURABAYA",
+        "principal and vice": "Sulistio Widodo",
+        "address": "Jl. Margorejo Indah 60-68 Blok A No. 138-146 RT.001 RW.008 Surabaya\r\nTelp. 081234010027",
+        "email": "smartwise.pro@gmail.com"
+    },
+    {
+        "no": 96,
+        "member id": "2019.000046.A",
+        "logo": "https://arebijatim.org/files/2019.000046.A-xm premier.jpg",
+        "brand name": "XAVIER MARKS PREMIER",
+        "company name": "PT. XMARKS MALANG PROPERTI",
+        "principal and vice": "Juan Hogianto",
+        "address": "Jl. Bukit Dieng P-12 B, Malang\r\nTelp. 0341 \u2013 474 990",
+        "email": "info.xmpremier@gmail.com"
+    },
+    {
+        "no": 97,
+        "member id": "2019.000047.A",
+        "logo": "https://arebijatim.org/files/2019.000047.A-RaywhiteLogoVer2-02 hitam.png",
+        "brand name": "RAY WHITE GEDANGAN",
+        "company name": "PT. MILENIAL PROPERTINDO GRUP",
+        "principal and vice": "Bagus Wiwid Kurniawan",
+        "address": "Puri Surya Jaya, Taman Athena Blok H03-45, Gedangan, Sidoarjo\r\nTelp. 031 \u2013 99603777",
+        "email": "rwgedangan@gmail.com"
+    },
+    {
+        "no": 98,
+        "member id": "2019.000056.A",
+        "logo": "https://arebijatim.org/files/2019.000056.A-MP.jpg",
+        "brand name": "MATAHARI PROPERTY",
+        "company name": "CV. TUJUH MATAHARI PROPERTY",
+        "principal and vice": "Handoyo",
+        "address": "Jl. Ikan Sura No.38 Tambak Rejo \r\nTelp. 081233795226",
+        "email": "matahariproperty18@gmail.com"
+    },
+    {
+        "no": 99,
+        "member id": "2019.000050.A",
+        "logo": "https://arebijatim.org/files/2019.000050.A-kash up.jpg",
+        "brand name": "KASH-UP",
+        "company name": "PT.KASH ALPHA SENTRA HOLDINDO",
+        "principal and vice": "Alamanda Firmansyah (Alamz)",
+        "address": "Jl. I Gusti Ngurah Rai Kompleks Ruko Puri Mas Blok A5 No 9 \r\nGunung anyar Rungkut Surabaya\r\nTelp. 031-87855714",
+        "email": "office@kash-up.id"
+    },
+    {
+        "no": 100,
+        "member id": "2019.000051.A",
+        "logo": "https://arebijatim.org/files/2019.000051.A-propnex satelit.jpg",
+        "brand name": "PROPNEX SATELIT",
+        "company name": "PT. TIGA SEKAWAN PROPERTINDO",
+        "principal and vice": "Johannes Edwin Harjanto",
+        "address": "Jl. Raya Kupang Jaya B-5 Surabaya\r\nTelp. 031-99145577",
+        "email": "Propnex.satelit@gmail.com"
+    },
+    {
+        "no": 101,
+        "member id": "2019.000127.A",
+        "logo": "https://arebijatim.org/files/2019.000127.A-pro3m.jpg",
+        "brand name": "PRO3M",
+        "company name": "CV. PRO MITRA MANDIRI MAKMUR",
+        "principal and vice": "Linda Setiawati",
+        "address": "Perum Graha Juanda Blok A5 Damarsi Sidoarjo",
+        "email": "Pro3_office@yahoo.com"
+    },
+    {
+        "no": 102,
+        "member id": "2019.000155.A",
+        "logo": "https://arebijatim.org/files/2019.000155.A-rw one musi.jpg",
+        "brand name": "RAY WHITE ONE MUSI",
+        "company name": "PT. DWIMITRA INDO JAYA",
+        "principal and vice": "Muliatje Liman",
+        "address": "Untung Suropati 94, Surabaya\r\nTelp. 031-99537888",
+        "email": "raywhiteone@gmail.com"
+    },
+    {
+        "no": 103,
+        "member id": "2019.000156.A",
+        "logo": "https://arebijatim.org/files/2019.000156.A-XM BDG.jpg",
+        "brand name": "XAVIER MARKS BDG",
+        "company name": "PT. ANUGERAH CAKRAWALA PROPERTINDO",
+        "principal and vice": "Henky Harijanto",
+        "address": "Office Park 1 B1/25 Ruko BDG, Surabaya\r\nTelp. 031-99148504",
+        "email": "Info.xmbdg@gmail.com"
+    },
+    {
+        "no": 104,
+        "member id": "2019.000157.A",
+        "logo": "https://arebijatim.org/files/2019.000157.A-quick touch.jpg",
+        "brand name": "QUICK TOUCH PROPERTY",
+        "company name": "PT. BERKAH PILAR PROPERTI",
+        "principal and vice": "Denny Eka Permana Putra",
+        "address": "Jl. Permata 5B Graha Bunder Asri Gresik\r\nTelp. 031-39926811",
+        "email": "denaiidjr@gmail.com"
+    },
+    {
+        "no": 105,
+        "member id": "2019.000158.A",
+        "logo": "https://arebijatim.org/files/2019.000158.A-XM Vertu.jpg",
+        "brand name": "XAVIER MARKS VERTU",
+        "company name": "PT. GOSYEN MAKMUR SENTOSA",
+        "principal and vice": "Tri Wahyudi Kristanto",
+        "address": "Jl. Raya Gubeng No.32 L Surabaya\r\nTelp. 031-99022929",
+        "email": "Info.xmvertu@gmail.com"
+    },
+    {
+        "no": 106,
+        "member id": "0001.000915.A",
+        "logo": "https://arebijatim.org/files/0001.000915.A-nt.jpg",
+        "brand name": "3 IN ONE PROPERTY",
+        "company name": "PT. GALAXY TRINITY GROUP",
+        "principal and vice": "Ronny Alfianus Henuk",
+        "address": "Semolowaru Timur 2 No. 71, Surabaya\r\nTelp : 5966465",
+        "email": "galaxy.property.1@gmail.com"
+    },
+    {
+        "no": 107,
+        "member id": "0001.000868.A",
+        "logo": "https://arebijatim.org/files/0001.000868.A.jpg",
+        "brand name": "XAVIER MARKS PAKUWON INDAH",
+        "company name": "PT. XMARK PUTRI BERKAT",
+        "principal and vice": "Lauw Evie Ludy",
+        "address": "Tokan Waterplace A 25-26 Pakuwon Indah Surabaya\r\nTelp. 031 \u2013 7393497",
+        "email": "info.xmpakuwonindah@gmail.com"
+    },
+    {
+        "no": 108,
+        "member id": "0001.000824.A",
+        "logo": "https://arebijatim.org/files/0001.000824.A-Propnex Citraland2.jpg",
+        "brand name": "PROPNEX CITRALAND",
+        "company name": "PT. PROPNEX MITRA PROPERTINDO",
+        "principal and vice": "Aylen Yelenacia & Fery",
+        "address": "Ruko North Junction RB-15, Citraland \u2013 Surabaya\r\nTelp : 03199002377",
+        "email": "fa.propnexcitraland@gmail.com"
+    },
+    {
+        "no": 109,
+        "member id": "0001.000908.A",
+        "logo": "https://arebijatim.org/files/0001.000908.A-axc.jpg",
+        "brand name": "AXELL CITRALAND",
+        "company name": "PT. GRAHA SAPTARANGI INDONESIA",
+        "principal and vice": "Stivanus Hindra",
+        "address": "Ruko Sentra Taman Puspa Raya blok B No.15 Citraland Surabaya\r\nTelp. 031 \u2013 99160999",
+        "email": "axell.citraland@gmail.com"
+    },
+    {
+        "no": 110,
+        "member id": "0001.000800.A",
+        "logo": "https://arebijatim.org/files/0001.000800.A-Era Jatim.jpg",
+        "brand name": "PT. ERA JATIM",
+        "company name": "PT. ERA JATIMREALTY",
+        "principal and vice": "Bobby Liantono Kodrat",
+        "address": "Ruko Plaza Graha Famili Blok B-03 Jl. Mayjen Yono Suwoyo, Surabaya\r\nTelp : 031 99 143 700",
+        "email": "era.jatim92@gmail.com"
+    },
+    {
+        "no": 111,
+        "member id": "0001.000826.A",
+        "logo": "https://arebijatim.org/files/0001.000826.A-galaxy.jpg",
+        "brand name": "GALAXY PROPERTY",
+        "company name": "PT. ERA GALAXY RADIANT",
+        "principal and vice": "Veronica Sutantio dan Kennard Nugraha (Vice)",
+        "address": "Komplek Ruko Golden Palace A-18-19 Surabaya Jl. H. R. Muhammad 373-383\r\nTelp : 731 8555",
+        "email": "info@galaxyproperty.co.id"
+    },
+    {
+        "no": 112,
+        "member id": "0001.000885.A",
+        "logo": "https://arebijatim.org/files/0001.000885.A-era indo.jpg",
+        "brand name": "ERA KITA",
+        "company name": "PT. SIETO UTAMA",
+        "principal and vice": "Kho Martono Indra",
+        "address": "Jl. Raya Lontar No. 299, Surabaya\r\nTelp : 745 5999  Fax : 745 3999",
+        "email": "erakitagroup@gmail.com"
+    },
+    {
+        "no": 113,
+        "member id": "0001.000030.A",
+        "logo": "https://arebijatim.org/files/0001.000030.A-PropNex Indonesia2.jpg",
+        "brand name": "PROPNEX INDONESIA",
+        "company name": "PT. PROPNEX REALTY INDONESIA",
+        "principal and vice": "Lusiana",
+        "address": "Jl. Dr. Sutomo 37 Surabaya\r\nTelp : 031 5685577\r\nFax : 031 5682255",
+        "email": "sekretariat@propnex.co.id"
+    },
+    {
+        "no": 114,
+        "member id": "0001.000817.A",
+        "logo": "https://arebijatim.org/files/0001.000817.A-MANSION3.jpg",
+        "brand name": "MANSION PLATINUM TEAM",
+        "company name": "CV. MANSION PROPERTY",
+        "principal and vice": "Sanjaya Surya (Samuel)",
+        "address": "Jl. Mustika 143-S, Ngagel, Surabaya\r\nTelp : 031 99444888",
+        "email": "mansionplatinum@gmail.com"
+    },
+    {
+        "no": 115,
+        "member id": "0001.000818.A",
+        "logo": "https://arebijatim.org/files/0001.000818.A-ray white..jpg",
+        "brand name": "RAY WHITE CBD SURABAYA",
+        "company name": "PT. PASIFIK PROPERTI CIPTA",
+        "principal and vice": "Tjipto Kaharudin",
+        "address": "Jl. Basuki Rahmat No.48 Surabaya\r\nTelp : 031 5490888\r\nFax : 031 5481688",
+        "email": "cbdsurabaya@raywhite.co.id"
+    },
+    {
+        "no": 116,
+        "member id": "0001.000853.A",
+        "logo": "https://arebijatim.org/files/0001.000853.A-uhome2.jpg",
+        "brand name": "U HOME",
+        "company name": "PT. WERE PRO INDONESIA",
+        "principal and vice": "Alice Chung Hwa Gwat",
+        "address": "Jl. Raya Panjang Jiwo,\r\nRuko Delta Permai 1B No. 3 Surabaya",
+        "email": "uhome.were@gmail.com"
+    },
+    {
+        "no": 117,
+        "member id": "0001.000855.A",
+        "logo": "https://arebijatim.org/files/0001.000855.A-db.jpg",
+        "brand name": "DB REAL ESTATE INDONESIA",
+        "company name": "PT. TRI MUDA BERKARYA",
+        "principal and vice": "Theophilus William",
+        "address": "Jl. Dharmahusada Indah Timur 15/V 305, Surabaya\r\nTelp. 031-5954103",
+        "email": "informasi.dbrei@gmail.com"
+    },
+    {
+        "no": 118,
+        "member id": "2019.000049.A",
+        "logo": "https://arebijatim.org/files/2019.000049.A-versus.jpg",
+        "brand name": "VERSUS REAL ESTATE AGENT",
+        "company name": "PT. MAJU TRIKARYA SEJAHTERA",
+        "principal and vice": "Joe Aditia Prasetio",
+        "address": "Komp. Pertokoan Darmo Park II Blok 2 No.21, Surabaya\r\nTelp. 0821 3232 9898",
+        "email": "info@versus.co.id"
+    },
+    {
+        "no": 119,
+        "member id": "2019.000179.A",
+        "logo": "https://arebijatim.org/files/2019.000179.A-XM Gold Suncity.jpg",
+        "brand name": "XAVIER MARKS GOLD SUNCITY",
+        "company name": "PT. TANGAN EMAS SEJAHTERA",
+        "principal and vice": "Michael Wiyono",
+        "address": "Ruko Suncity Jl. Pahlawan No.15 Sidoarjo\r\nTelp. 031 9971 1895",
+        "email": "Info.xmgoldsuncity@gmail.com"
+    },
+    {
+        "no": 120,
+        "member id": "2019.000180.A",
+        "logo": "https://arebijatim.org/files/2019.000180.A-xm cbd.jpg",
+        "brand name": "XAVIER MARKS CBD",
+        "company name": "PT. BERJAYA KASIH KARUNIA",
+        "principal and vice": "M. Douglas Pexi",
+        "address": "Jl. RA. Kartini No. 82 Surabaya\r\nTelp. 031-9953 8999",
+        "email": "Info.xmcbd@gmail.com"
+    },
+    {
+        "no": 121,
+        "member id": "2019.000185.A",
+        "logo": "https://arebijatim.org/files/2019.000185.A-stream.jpg",
+        "brand name": "STREAM PROPERTY",
+        "company name": "PT. ADITAMA AGENSI PROPERTI",
+        "principal and vice": "Cahyono Honoatmojo",
+        "address": "Jl. Gayungsari I / 81 B-C Surabaya\r\nTelp. 031 8251 2432",
+        "email": "office@streamproperty.id"
+    },
+    {
+        "no": 122,
+        "member id": "2019.000192.A",
+        "logo": "https://arebijatim.org/files/2019.000192.A-galaxy central.jpg",
+        "brand name": "GALAXY CENTRAL",
+        "company name": "PT. GALAXY SUKSES PROPERTINDO",
+        "principal and vice": "Erry Hudojo",
+        "address": "Rukan Darmo Square No. 54-56 Surabaya\r\nTelp. 031 9953 2389",
+        "email": "Central@galaxyproperty.co.id"
+    },
+    {
+        "no": 123,
+        "member id": "2020.000222.A",
+        "logo": "https://arebijatim.org/files/2020.000222.A-repro.jpg",
+        "brand name": "REBORN PROPERTY",
+        "company name": "PT. ANEKA USAHA PASTI SUKSES",
+        "principal and vice": "Muhammad Hanif Jordanto",
+        "address": "Ruko Satelite Town Square Blok D/6 Sukomanunggal Surabaya\r\nTelp : 031 8701990",
+        "email": "aupsukses@gmail.com"
+    },
+    {
+        "no": 124,
+        "member id": "2020.000227.A",
+        "logo": "https://arebijatim.org/files/2020.000227.A-XM Grande.jpg",
+        "brand name": "XAVIER MARKS GRANDE",
+        "company name": "PT. XMARKS CAHAYA ABADI",
+        "principal and vice": "Fanny Setiawan",
+        "address": "Jl. Raya Langsep No.7A Malang\r\nTelp. 0341 5087799 / 5087798",
+        "email": "Info.xmarksgrande@gmail.com"
+    },
+    {
+        "no": 125,
+        "member id": "2020.000255.A",
+        "logo": "https://arebijatim.org/files/2020.000255.A-LIFETIME-new.png",
+        "brand name": "LIFETIME.",
+        "company name": "PT. INTERNUSA CITRA ANUGERAH",
+        "principal and vice": "Serfi Cherry",
+        "address": "Ruko Bukit Palma GHG Blok RG 2 No.21 Citraland Surabaya 60198\r\nTelp. 031-99019598",
+        "email": "lifetime.citraland@gmail.com"
+    },
+    {
+        "no": 126,
+        "member id": "2020.000256.A",
+        "logo": "https://arebijatim.org/files/2020.000256.A-asthanawa.jpg",
+        "brand name": "ASTHANAWA",
+        "company name": "CV. ASTHA NAWA PROPERTINDO",
+        "principal and vice": "Muhammad A. Nasir",
+        "address": "Ruko PPS, Jl. Raya Berlian Biri No.44/kav.59 Gresik\r\nTelp. 085822533301",
+        "email": "Muhnasir875@gmail.com"
+    },
+    {
+        "no": 127,
+        "member id": "2020.000289.A",
+        "logo": "https://arebijatim.org/files/2020.000289.A-mansion satelit.jpg",
+        "brand name": "MANSION SATELIT",
+        "company name": "CV. MANSION PROPERTINDO JAYA",
+        "principal and vice": "Daru Hendrianto",
+        "address": "Jl. Mayjend Sungkono Ruko Darmo 1 Blok III C No.10 Surabaya\r\nTelp. 031 9954 4094",
+        "email": "Mansionsatelit@gmail.com"
+    },
+    {
+        "no": 128,
+        "member id": "2020.000305.A",
+        "logo": "https://arebijatim.org/files/2020.000305.A-mansion royal.jpg",
+        "brand name": "MANSION ROYALE",
+        "company name": "PT. INDO TIRTA PERKASA",
+        "principal and vice": "Daru Hendrianto",
+        "address": "Ruko Soho Royal Residence BS 10 No. 23 Wiyung Surabaya\r\nTelp. 031 99428999",
+        "email": "Mansion.royale2018@gmail.com"
+    },
+    {
+        "no": 129,
+        "member id": "2020.000304.A",
+        "logo": "https://arebijatim.org/files/2020.000304.A-rwhr.jpg",
+        "brand name": "RAY WHITE HR. MUHAMMAD",
+        "company name": "PT. KARYA KASIH KARUNIA",
+        "principal and vice": "Bambang Budiono",
+        "address": "Jl. HR. Muhammad No.86-A Surabaya\r\nTelp. 031 7328939",
+        "email": "Acc.rwhrmuhammad@gmail.com"
+    },
+    {
+        "no": 130,
+        "member id": "2021.000038.A",
+        "logo": "https://arebijatim.org/files/2021.000038.A-xm grande home.png",
+        "brand name": "XAVIER MARKS GRANDE HOME",
+        "company name": "PT CAHAYA ABADI PROPERTINDO",
+        "principal and vice": "PETER ANDREAS / MARIA ELLEN RATNAPUSPITA",
+        "address": "Ruko Milenia Jl. Klampis Jaya 41 Surabaya",
+        "email": "info.xmgrandehome@gmail.com"
+    },
+    {
+        "no": 131,
+        "member id": "2021.000037.A",
+        "logo": "https://arebijatim.org/files/2021.000037.A-era next.jpg",
+        "brand name": "ERA NEXT",
+        "company name": "PT. NEXINDO MAJU BERSAMA",
+        "principal and vice": "Hariono",
+        "address": "Ruko North Junction RB-5, Citraland Surabaya\r\nTelp. 031 5116 0455",
+        "email": "Eranext05@gmail.com"
+    },
+    {
+        "no": 132,
+        "member id": "2021.000114.A",
+        "logo": "https://arebijatim.org/files/2021.000114.A-rw darmo permai.png",
+        "brand name": "RAY WHITE DARMO PERMAI",
+        "company name": "PT. KARUNIA WINERALI DINAMIKA",
+        "principal and vice": "Erwin Koo & Mery Tan (VICE)",
+        "address": "Jalan Darmo Permai III, Ruko Pasar Modern Puncak Permai No. 32, Pradahkalikendal, Dukuh Pakis, Surabaya (60226)\r\nNo. Telp 031-99143223",
+        "email": "raywhitedarmopermai@gmail.com"
+    },
+    {
+        "no": 133,
+        "member id": "2021.000058.A",
+        "logo": "https://arebijatim.org/files/2021.000058.A-WhatsApp Image 2021-05-19 at 11.27.21.jpeg",
+        "brand name": "UNIQ REALTY",
+        "company name": "PT. TANGGA DUNIA GRUP",
+        "principal and vice": "Henoch Rahardjo",
+        "address": "Ruko Klampis Madya A-20 Surabaya",
+        "email": "tanggaduniagrup@gmail.com"
+    },
+    {
+        "no": 134,
+        "member id": "2021.000070.A",
+        "logo": "https://arebijatim.org/files/2021.000070.A-BETTERLAND - LOGO 05.png",
+        "brand name": "XAVIER MARKS BETTERLAND",
+        "company name": "PT. BINTANG TUJUH PROPERTINDO",
+        "principal and vice": "Rony Mahadika Sitepu",
+        "address": "Jl. Basuki Rahmat No.16-18 Kedungdoro,\r\nKec. Tegalsari Surabaya\r\nTelp. 081234988458",
+        "email": "info.xmbetterland@gmail.com"
+    },
+    {
+        "no": 135,
+        "member id": "...",
+        "logo": "https://arebijatim.org/files/...-logo.jpeg",
+        "brand name": "Five Stars Property",
+        "company name": "PT Internusa Graha Anugerah",
+        "principal and vice": "Luscer Helmut Siagian",
+        "address": "Ruko Puncak Dharmahusada 3i Jl. Dr. Ir. H. Soekarno no 30-32 (MERR) Surabaya 60114",
+        "email": "fivestarsproperty.5stars@gmail.com"
+    },
+    {
+        "no": 136,
+        "member id": "2021.000090.A",
+        "logo": "https://arebijatim.org/files/2021.000090.A.png",
+        "brand name": "BE THE BEST PROPERTY",
+        "company name": "CV. DIBERKATI UNTUK MEMBERKATI",
+        "principal and vice": "Ester Oktafia",
+        "address": "International Village 1 Blok B2 No.24 Sambikerep Surabaya Jawa Timur",
+        "email": "betebeproperty@gmail.com"
+    },
+    {
+        "no": 137,
+        "member id": "2021.000091.A",
+        "logo": "https://arebijatim.org/files/2021.000091.A-Logo Alternative Pro edge-04-04.png",
+        "brand name": "Pro EdGe",
+        "company name": "CV. PRO EDGE COMAA KASIH",
+        "principal and vice": "Joseph Lukito",
+        "address": "Griya Babatan Mukti Blok M No.62 Surabaya",
+        "email": "proedgecv@gmail.com"
+    },
+    {
+        "no": 138,
+        "member id": "2021.000092.A",
+        "logo": "https://arebijatim.org/files/2021.000092.A.png",
+        "brand name": "MISSION PROPERTY",
+        "company name": "PT. REKAN PROPERTI INDONESIA",
+        "principal and vice": "Maria Fitri Wiyono",
+        "address": "Jl. Gentengkali 176 E, Surabaya\r\nTelp. 031-9924 7060",
+        "email": "missionproperty.cons@gmail.com"
+    },
+    {
+        "no": 139,
+        "member id": "0001.000820.A",
+        "logo": "https://arebijatim.org/files/0001.000820.A-LIFETIME sq.png",
+        "brand name": "LIFETIME",
+        "company name": "PT. INTERNUSA GRAHA BERKAT",
+        "principal and vice": "Serfi Cherry",
+        "address": "Margorejo Tangsi VI No. 10 Surabaya",
+        "email": "lifetime.graha@gmail.com"
+    },
+    {
+        "no": 140,
+        "member id": "2021.000132.A",
+        "logo": "https://arebijatim.org/files/2021.000132.A-1.png",
+        "brand name": "GALAXY CBD",
+        "company name": "PT. GALAXY PUTRA PRIMA",
+        "principal and vice": "Edy Santoso",
+        "address": "Jl. Sriwijaya 42, Surabaya\r\nTelp. 031-5620500",
+        "email": "cbd@galaxyproperty.co.id"
+    },
+    {
+        "no": 141,
+        "member id": "2021.000133.A",
+        "logo": "https://arebijatim.org/files/2021.000133.A-2.png",
+        "brand name": "GALAXY KERTAJAYA",
+        "company name": "PT. GALAXY PUTRA GEMILANG",
+        "principal and vice": "Karlina Juwita",
+        "address": "Jl. Kertajaya No. 115, Surabaya\r\nTelp. 031-5055999",
+        "email": "kertajaya@galaxyproperty.co.id"
+    },
+    {
+        "no": 142,
+        "member id": "2021.000143.A",
+        "logo": "https://arebijatim.org/files/2021.000143.A.png",
+        "brand name": "PIRAMIDA PROPERTY",
+        "company name": "PT. KARYA PEMBANGUNAN UTAMA",
+        "principal and vice": "Abdul Muis",
+        "address": "Jl. Raya Tropodo 92, Waru Sidoarjo\r\nTelp. 0822 3135 5777",
+        "email": "piramidaproperty2000@gmail.com"
+    },
+    {
+        "no": 143,
+        "member id": "2021.000130.A",
+        "logo": "https://arebijatim.org/files/2021.000130.A-xm arundaya.jpg",
+        "brand name": "XAVIER MARKS ARUNDAYA",
+        "company name": "PT. XAVIER ARUNDAYA SARWAGA",
+        "principal and vice": "Pudjo Kiat Djoyo",
+        "address": "Ruko Casablanca Blok D, Jl. Wahid Hasyim No. 25-27 Jember\r\nTelp. 0331 5105 888",
+        "email": "info.xmarksarundaya@gmail.com"
+    },
+    {
+        "no": 144,
+        "member id": "2021.000166.A",
+        "logo": "https://arebijatim.org/files/2021.000166.A-22.IMG-20211224-WA0219.jpg",
+        "brand name": "RAY WHITE GRAND PAKUWON",
+        "company name": "PT. PROPERTI POWER PRIMA",
+        "principal and vice": "Robert Lonardi",
+        "address": "Ruko Victoria Main Street RA-023, Grand Pakuwon, Surabaya\r\nTelp. 0813 7069 7788",
+        "email": "propertipowerprima@gmail.com"
+    }
+]
