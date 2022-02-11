@@ -1,0 +1,2244 @@
+[
+  {
+    "no": 1,
+    "kode": "1.01.",
+    "sub_klasifikasi": "Bidang Pengembangan Pertanian dan Pedesaan"
+  },
+  {
+    "no": 2,
+    "kode": "1.01.01",
+    "sub_klasifikasi": "Prasarana Sosial dan Pengembangan/Partisipasi Masyarakat"
+  },
+  {
+    "no": 3,
+    "kode": "1.01.02",
+    "sub_klasifikasi": "Kredit dan Kelembagaan Pertanian"
+  },
+  {
+    "no": 4,
+    "kode": "1.01.03",
+    "sub_klasifikasi": "Perkebunan dan Mekanisasi Pertanian"
+  },
+  { "no": 5, "kode": "1.01.04", "sub_klasifikasi": "Pembibitan" },
+  {
+    "no": 6,
+    "kode": "1.01.05",
+    "sub_klasifikasi": "Pengendalian Hama/Penyakit Tanaman"
+  },
+  { "no": 7, "kode": "1.01.06", "sub_klasifikasi": "Peternakan" },
+  { "no": 8, "kode": "1.01.07", "sub_klasifikasi": "Kehutanan" },
+  { "no": 9, "kode": "1.01.08", "sub_klasifikasi": "Perikanan" },
+  {
+    "no": 10,
+    "kode": "1.01.09",
+    "sub_klasifikasi": "Tanaman Keras, Tanaman Pangan, dan Produk Tanaman Lain"
+  },
+  {
+    "no": 11,
+    "kode": "1.01.10",
+    "sub_klasifikasi": "Konservasi dan Penghijauan"
+  },
+  { "no": 12, "kode": "1.01.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 13, "kode": "1.02.", "sub_klasifikasi": "Bidang Transportasi" },
+  {
+    "no": 14,
+    "kode": "1.02.01",
+    "sub_klasifikasi": "Pengembangan Sarana Transportasi"
+  },
+  { "no": 15, "kode": "1.02.01.01", "sub_klasifikasi": "Survei Asal/Tujuan" },
+  { "no": 16, "kode": "1.02.01.02", "sub_klasifikasi": "Peramalan Permintaan" },
+  { "no": 17, "kode": "1.02.01.03", "sub_klasifikasi": "Permodelan" },
+  {
+    "no": 18,
+    "kode": "1.02.01.04",
+    "sub_klasifikasi": "Kebijakan dan Program Investasi"
+  },
+  {
+    "no": 19,
+    "kode": "1.02.02",
+    "sub_klasifikasi": "Legislasi/Peraturan Bidang Transportasi"
+  },
+  { "no": 20, "kode": "1.02.03", "sub_klasifikasi": "Usaha Jasa Angkutan" },
+  {
+    "no": 21,
+    "kode": "1.02.03.01",
+    "sub_klasifikasi": "Peraturan Usaha Jasa Angkutan"
+  },
+  {
+    "no": 22,
+    "kode": "1.02.03.02",
+    "sub_klasifikasi": "Pengelolaan dan Pengembangan Organisasi Usaha Angkutan"
+  },
+  {
+    "no": 23,
+    "kode": "1.02.03.03",
+    "sub_klasifikasi": "Analisa Keuangan, Perhitungan Harga Pokok dan Penetapan Tarif"
+  },
+  { "no": 24, "kode": "1.02.99.", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 25, "kode": "1.03.", "sub_klasifikasi": "Bidang Telematika" },
+  {
+    "no": 26,
+    "kode": "1.03.01",
+    "sub_klasifikasi": "Jasa Konsultan dan Telekomunikasi Darat"
+  },
+  { "no": 27, "kode": "1.03.01.01", "sub_klasifikasi": "Sentral" },
+  { "no": 28, "kode": "1.03.01.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 29,
+    "kode": "1.03.01.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 30,
+    "kode": "1.03.01.04",
+    "sub_klasifikasi": "Teknologi dan Sistem Informasi"
+  },
+  { "no": 31, "kode": "1.03.01.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 32,
+    "kode": "1.03.01.06",
+    "sub_klasifikasi": "Sistem Pemancar dan Penerima Radio dan televisi"
+  },
+  {
+    "no": 33,
+    "kode": "1.03.01.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 34,
+    "kode": "1.03.02",
+    "sub_klasifikasi": "Jasa Konsultan Telekomunikasi Satelit"
+  },
+  { "no": 35, "kode": "1.03.02.01", "sub_klasifikasi": "Sentral" },
+  { "no": 36, "kode": "1.03.02.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 37,
+    "kode": "1.03.02.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 38,
+    "kode": "1.03.02.04",
+    "sub_klasifikasi": "Tegnologi dan Sistem Informasi"
+  },
+  { "no": 39, "kode": "1.03.02.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 40,
+    "kode": "1.03.02.06",
+    "sub_klasifikasi": "Sistem Pemancar dan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 41,
+    "kode": "1.03.02.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 42,
+    "kode": "1.03.02.08",
+    "sub_klasifikasi": "Jasa Konsultansi Sistem Sinyal dan Telekomunikasi"
+  },
+  {
+    "no": 43,
+    "kode": "1.03.03",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Keras"
+  },
+  {
+    "no": 44,
+    "kode": "1.03.03.01",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Keras: Komputer"
+  },
+  { "no": 45, "kode": "1.03.03.02", "sub_klasifikasi": "Peripheral" },
+  { "no": 46, "kode": "1.03.03.03", "sub_klasifikasi": "projector Multimedia" },
+  { "no": 47, "kode": "1.03.03.04", "sub_klasifikasi": "Input Devices" },
+  { "no": 48, "kode": "1.03.03.05", "sub_klasifikasi": "Alat Penyimpan Data" },
+  { "no": 49, "kode": "1.03.03.06", "sub_klasifikasi": "Networking Product" },
+  {
+    "no": 50,
+    "kode": "1.03.03.07",
+    "sub_klasifikasi": "Perangkat Sistem Informasi khusus"
+  },
+  { "no": 51, "kode": "1.03.04", "sub_klasifikasi": "Jasa Konsultan Konten" },
+  {
+    "no": 52,
+    "kode": "1.03.04.01",
+    "sub_klasifikasi": "Konten Distance Learning"
+  },
+  {
+    "no": 53,
+    "kode": "1.03.04.02",
+    "sub_klasifikasi": "Konten Program TV Interactive"
+  },
+  {
+    "no": 54,
+    "kode": "1.03.04.03",
+    "sub_klasifikasi": "Konten Program Multimedia"
+  },
+  {
+    "no": 55,
+    "kode": "1.03.04.04",
+    "sub_klasifikasi": "Konten Program Portal"
+  },
+  { "no": 56, "kode": "1.03.05", "sub_klasifikasi": "Jasa Konsultan Aplikasi" },
+  {
+    "no": 57,
+    "kode": "1.03.05.01",
+    "sub_klasifikasi": "Jasa Konsultan: Aplikasi Komputer"
+  },
+  { "no": 58, "kode": "1.03.05.02", "sub_klasifikasi": "Aplikasi Komunikasi" },
+  { "no": 59, "kode": "1.03.05.03", "sub_klasifikasi": "Aplikasi Telemetrik" },
+  {
+    "no": 60,
+    "kode": "1.03.05.04",
+    "sub_klasifikasi": "Jasa Konsultan: Aplikasi GIS"
+  },
+  { "no": 61, "kode": "1.03.05.05", "sub_klasifikasi": "Aplikasi GPS" },
+  {
+    "no": 62,
+    "kode": "1.03.06",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Lunak"
+  },
+  {
+    "no": 63,
+    "kode": "1.03.06.01",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Lunak: Komputer"
+  },
+  {
+    "no": 64,
+    "kode": "1.03.06.02",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Lunak: Peripheral"
+  },
+  {
+    "no": 65,
+    "kode": "1.03.06.05",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Lunak: Alat Penyimpanan Data"
+  },
+  {
+    "no": 66,
+    "kode": "1.03.06.06",
+    "sub_klasifikasi": "Jasa Konsultan Perangkat Lunak: Networking Product"
+  },
+  { "no": 67, "kode": "1.03.99", "sub_klasifikasi": "Sub Bidang Lainnya" },
+  { "no": 68, "kode": "1.04.", "sub_klasifikasi": "Bidang Kepariwisataan" },
+  {
+    "no": 69,
+    "kode": "1.04.01",
+    "sub_klasifikasi": "Permintaan, Aspek Transportasi dan Studi Dampak Pariwisata"
+  },
+  {
+    "no": 70,
+    "kode": "1.04.02",
+    "sub_klasifikasi": "Penyiapan dan Implementasi Proyek Wisata"
+  },
+  {
+    "no": 71,
+    "kode": "1.04.03",
+    "sub_klasifikasi": "Pengelolaan Fasilitas Wisata"
+  },
+  {
+    "no": 72,
+    "kode": "1.04.04",
+    "sub_klasifikasi": "Museum, Benda-Benda Sejarah, Margasatwa,\r\nKerajinan dan Lain-lain"
+  },
+  { "no": 73, "kode": "1.04.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 74,
+    "kode": "1.05.",
+    "sub_klasifikasi": "Bidang Perindustrian dan Pertambangan"
+  },
+  {
+    "no": 75,
+    "kode": "1.05.01",
+    "sub_klasifikasi": "Ekonomi Pemasaran dan Ekplorasi Mineral"
+  },
+  { "no": 76, "kode": "1.05.02", "sub_klasifikasi": "Tegnologi Mineral" },
+  {
+    "no": 77,
+    "kode": "1.05.03",
+    "sub_klasifikasi": "Komoditi dan Ekploitasi Mineral"
+  },
+  { "no": 78, "kode": "1.05.04", "sub_klasifikasi": "Perindustrian" },
+  {
+    "no": 79,
+    "kode": "1.05.04.01",
+    "sub_klasifikasi": "Ekonomi Industri, Analisa Kebijakan dan\r\nPerencanaan Pendanaan"
+  },
+  {
+    "no": 80,
+    "kode": "1.05.04.02",
+    "sub_klasifikasi": "Pengembangan, Teknologi dan Penelitian\r\nIndustri"
+  },
+  { "no": 81, "kode": "1.05.04.03", "sub_klasifikasi": "Efisiensi Industri" },
+  {
+    "no": 82,
+    "kode": "1.05.04.04",
+    "sub_klasifikasi": "Pengembangan Kawasan Industri"
+  },
+  {
+    "no": 83,
+    "kode": "1.05.04.05",
+    "sub_klasifikasi": "Pengelolaan Ekspor dan Perdagangan Bebas"
+  },
+  {
+    "no": 84,
+    "kode": "1.05.04.06",
+    "sub_klasifikasi": "Industri Kecil dan Menengah"
+  },
+  {
+    "no": 85,
+    "kode": "1.05.05",
+    "sub_klasifikasi": "Hasil-Hasil Industri, Pola Perdagangan dan Pemasaran"
+  },
+  { "no": 86, "kode": "1.05.06", "sub_klasifikasi": "Agroindustri" },
+  {
+    "no": 87,
+    "kode": "1.05.07",
+    "sub_klasifikasi": "Industri Tekstil Barang Jadi Dari Tekstil"
+  },
+  { "no": 88, "kode": "1.05.08", "sub_klasifikasi": "Industri Bahan Kimia" },
+  {
+    "no": 89,
+    "kode": "1.05.09",
+    "sub_klasifikasi": "Industri Karet dan Plastik"
+  },
+  {
+    "no": 90,
+    "kode": "1.05.10",
+    "sub_klasifikasi": "Industri Kulit dan Barang Jadi Dari Kulit"
+  },
+  {
+    "no": 91,
+    "kode": "1.05.11",
+    "sub_klasifikasi": "Industri Mineral Non Logam"
+  },
+  { "no": 92, "kode": "1.05.12", "sub_klasifikasi": "Industri Logam Dasar" },
+  { "no": 93, "kode": "1.05.13", "sub_klasifikasi": "Produk Logam" },
+  {
+    "no": 94,
+    "kode": "1.05.14",
+    "sub_klasifikasi": "Mesin dan Perlengkapannya"
+  },
+  {
+    "no": 95,
+    "kode": "1.05.15",
+    "sub_klasifikasi": "Mesin Listrik, Peralatan Listrik dan Elektronik dan Perlengkapannya"
+  },
+  { "no": 96, "kode": "1.05.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 97, "kode": "1.06.", "sub_klasifikasi": "Bidang Energi" },
+  {
+    "no": 98,
+    "kode": "1.06.01",
+    "sub_klasifikasi": "Ekonomi dan Konservasi Energi"
+  },
+  { "no": 99, "kode": "1.06.02", "sub_klasifikasi": "Minyak dan Gas" },
+  {
+    "no": 100,
+    "kode": "1.06.03",
+    "sub_klasifikasi": "Batubara, Lignite dan Anthracite"
+  },
+  {
+    "no": 101,
+    "kode": "1.06.04",
+    "sub_klasifikasi": "Energi Baru dan Terbarukan"
+  },
+  { "no": 102, "kode": "1.07.", "sub_klasifikasi": "Bidang Keuangan" },
+  { "no": 103, "kode": "1.07.01", "sub_klasifikasi": "Bank Sentral" },
+  { "no": 104, "kode": "1.07.02", "sub_klasifikasi": "Bank Komersial" },
+  { "no": 105, "kode": "1.07.03", "sub_klasifikasi": "Bank Pembangunan" },
+  { "no": 106, "kode": "1.07.04", "sub_klasifikasi": "Bank Dagang" },
+  { "no": 107, "kode": "1.07.05", "sub_klasifikasi": "Pasar Uang" },
+  {
+    "no": 108,
+    "kode": "1.07.06",
+    "sub_klasifikasi": "Manajemen Pasar Modal dan Bursa Efek"
+  },
+  {
+    "no": 109,
+    "kode": "1.07.07",
+    "sub_klasifikasi": "Manajemen Lembaga Keuangan Non-Bank"
+  },
+  {
+    "no": 110,
+    "kode": "1.07.08",
+    "sub_klasifikasi": "Pembelanjaan Sektor Pemerintah"
+  },
+  {
+    "no": 111,
+    "kode": "1.07.09",
+    "sub_klasifikasi": "Manajemen Keuangan Perusahaan"
+  },
+  {
+    "no": 112,
+    "kode": "1.07.10",
+    "sub_klasifikasi": "Manajemen Investasi dan Portofolio"
+  },
+  { "no": 113, "kode": "1.07.11", "sub_klasifikasi": "Void" },
+  {
+    "no": 114,
+    "kode": "1.07.12",
+    "sub_klasifikasi": "Pengawasan dan Regulasi Sektor Keuangan"
+  },
+  { "no": 115, "kode": "1.07.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 116, "kode": "1.08.", "sub_klasifikasi": "Bidang Pendidikan" },
+  {
+    "no": 117,
+    "kode": "1.08.01",
+    "sub_klasifikasi": "Sistem dan Evaluasi Pendidikan"
+  },
+  {
+    "no": 118,
+    "kode": "1.08.02",
+    "sub_klasifikasi": "Organisasi/Administrasi Sekolah"
+  },
+  {
+    "no": 119,
+    "kode": "1.08.03",
+    "sub_klasifikasi": "Pengembangan Kurikulum dan Peralatan Pendidikan"
+  },
+  {
+    "no": 120,
+    "kode": "1.08.04",
+    "sub_klasifikasi": "Bahan, Media dan Teknik Pendidikan"
+  },
+  { "no": 121, "kode": "1.08.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 122, "kode": "1.09.", "sub_klasifikasi": "Bidang Kesehatan" },
+  {
+    "no": 123,
+    "kode": "1.09.01",
+    "sub_klasifikasi": "Sistem/Organisasi Kesehatan"
+  },
+  {
+    "no": 124,
+    "kode": "1.09.02",
+    "sub_klasifikasi": "Pelayanan Medik, Kesehatan Kerja, Nutrisi dan Farmasi"
+  },
+  {
+    "no": 125,
+    "kode": "1.09.03",
+    "sub_klasifikasi": "Pengembangan Tenaga Medis"
+  },
+  {
+    "no": 126,
+    "kode": "1.09.04",
+    "sub_klasifikasi": "Kesehatan Masyarakat dan Penelitian Kesehatan"
+  },
+  { "no": 127, "kode": "1.09.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 128, "kode": "1.10.", "sub_klasifikasi": "Bidang Kependudukan" },
+  {
+    "no": 129,
+    "kode": "1.10.01",
+    "sub_klasifikasi": "Program Kependudukan dan Program Pengembangan Peran Wanita"
+  },
+  {
+    "no": 130,
+    "kode": "1.10.02",
+    "sub_klasifikasi": "Organisasi Program Kependudukan"
+  },
+  {
+    "no": 131,
+    "kode": "1.10.03",
+    "sub_klasifikasi": "Sistem Pelayanan Keluarga Berencana"
+  },
+  {
+    "no": 132,
+    "kode": "1.10.04",
+    "sub_klasifikasi": "Tenaga Medis Pelayanan Keluarga Berencana"
+  },
+  {
+    "no": 133,
+    "kode": "1.10.05",
+    "sub_klasifikasi": "Penyuluhan, Pendidikan dan Komunikasi"
+  },
+  {
+    "no": 134,
+    "kode": "1.10.06",
+    "sub_klasifikasi": "Pemantauan, Evaluasi dan Penelitian"
+  },
+  { "no": 135, "kode": "1.10.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 136, "kode": "1.11.", "sub_klasifikasi": "Bidang Rekayasa Industri" },
+  {
+    "no": 137,
+    "kode": "1.11.01",
+    "sub_klasifikasi": "Rekayasa Industri Transportasi"
+  },
+  {
+    "no": 138,
+    "kode": "1.11.02",
+    "sub_klasifikasi": "Rekayasa Industri Telekomunikasi"
+  },
+  {
+    "no": 139,
+    "kode": "1.11.03",
+    "sub_klasifikasi": "Rekayasa Industri Teknologi Informasi"
+  },
+  {
+    "no": 140,
+    "kode": "1.11.04",
+    "sub_klasifikasi": "Rekayasa Industri Mekanik"
+  },
+  {
+    "no": 141,
+    "kode": "1.11.05",
+    "sub_klasifikasi": "Rekayasa Industri Pengelolaan"
+  },
+  {
+    "no": 142,
+    "kode": "1.11.06",
+    "sub_klasifikasi": "Rekayasa Industri Bioteknologi"
+  },
+  {
+    "no": 143,
+    "kode": "1.11.99",
+    "sub_klasifikasi": "Subbidang Rekayasa Lainnya"
+  },
+  {
+    "no": 144,
+    "kode": "1.MS.00",
+    "sub_klasifikasi": "Jasa Konsultan Manajemen"
+  },
+  {
+    "no": 145,
+    "kode": "1.MS.01",
+    "sub_klasifikasi": "Perencanaan Sistem Akuntansi"
+  },
+  {
+    "no": 146,
+    "kode": "1.MS.02",
+    "sub_klasifikasi": "Pelatihan dan Pengembangan SDM"
+  },
+  {
+    "no": 147,
+    "kode": "1.MS.03",
+    "sub_klasifikasi": "Konsultansi Manajemen Fungsional"
+  },
+  {
+    "no": 148,
+    "kode": "1.MS.04",
+    "sub_klasifikasi": "Konsultansi Hukum Bisnis"
+  },
+  {
+    "no": 149,
+    "kode": "1.MS.05",
+    "sub_klasifikasi": "Jasa Bantuan Teknik Manajemen"
+  },
+  {
+    "no": 150,
+    "kode": "1.MS.06",
+    "sub_klasifikasi": "Konsultansi Manajemen Personalia"
+  },
+  {
+    "no": 151,
+    "kode": "1.MS.07",
+    "sub_klasifikasi": "Jasa Konsultansi Bidang Keamanan"
+  },
+  {
+    "no": 152,
+    "kode": "1.MS.08",
+    "sub_klasifikasi": "Jasa Konsultansi Penerapan Alat Keamanan"
+  },
+  {
+    "no": 153,
+    "kode": "1.MS.09",
+    "sub_klasifikasi": "Konsultansi Pendidikan dan Pelatihan Manajemen"
+  },
+  {
+    "no": 154,
+    "kode": "1.MS.09.01",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Mutu"
+  },
+  {
+    "no": 155,
+    "kode": "1.MS.09.02",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Lingkungan"
+  },
+  {
+    "no": 156,
+    "kode": "1.MS.09.03",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Keselamtan dan Kesehatan Kerja"
+  },
+  {
+    "no": 157,
+    "kode": "1.MS.09.04",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Resiko"
+  },
+  {
+    "no": 158,
+    "kode": "1.MS.09.05",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Aset"
+  },
+  {
+    "no": 159,
+    "kode": "1.MS.09.06",
+    "sub_klasifikasi": "Konsultansi Diklat Manajemen Sumber Daya Manusia"
+  },
+  { "no": 160, "kode": "1.SC.00", "sub_klasifikasi": "Jasa Khusus" },
+  {
+    "no": 161,
+    "kode": "1.SC.01",
+    "sub_klasifikasi": "Jasa Teknologi dan Sistem Informasi"
+  },
+  {
+    "no": 162,
+    "kode": "1.SC.02",
+    "sub_klasifikasi": "Jasa Penilai /Appraisal/ Valuer"
+  },
+  {
+    "no": 163,
+    "kode": "1.SC.03",
+    "sub_klasifikasi": "Jasa Surveyor Independen"
+  },
+  { "no": 164, "kode": "1.SC.04", "sub_klasifikasi": "Jasa Sertifikasi" },
+  { "no": 165, "kode": "1.SC.05", "sub_klasifikasi": "Jasa Inspeksi Teknik" },
+  { "no": 166, "kode": "1.SC.06", "sub_klasifikasi": "Jasa Kehumasan" },
+  {
+    "no": 167,
+    "kode": "1.SI.00",
+    "sub_klasifikasi": "Jasa Studi, Penelitian dan Bantuan Teknik"
+  },
+  { "no": 168, "kode": "1.SI.01", "sub_klasifikasi": "Studi Makro" },
+  {
+    "no": 169,
+    "kode": "1.SI.02",
+    "sub_klasifikasi": "Studi Kelayakan dan Studi Mikro Lainnya"
+  },
+  { "no": 170, "kode": "1.SI.03", "sub_klasifikasi": "Studi Perencanaan Umum" },
+  { "no": 171, "kode": "1.SI.04", "sub_klasifikasi": "Jasa Penelitian" },
+  {
+    "no": 172,
+    "kode": "1.SI.05",
+    "sub_klasifikasi": "Jasa Bantuan Teknik Studi dan Penelitian"
+  },
+  {
+    "no": 173,
+    "kode": "1.SI.06",
+    "sub_klasifikasi": "Jasa Pengelolaan dan Analisia Dampak Lingkungan"
+  },
+  { "no": 174, "kode": "1.SS.00", "sub_klasifikasi": "Jasa Survey" },
+  { "no": 175, "kode": "1.SS.01", "sub_klasifikasi": "Survey Teristis" },
+  {
+    "no": 176,
+    "kode": "1.SS.02",
+    "sub_klasifikasi": "Penginderaan Jauh, Fotogrametri"
+  },
+  {
+    "no": 177,
+    "kode": "1.SS.03",
+    "sub_klasifikasi": "Survey Hidrografi, Batimertri"
+  },
+  {
+    "no": 178,
+    "kode": "1.SS.04",
+    "sub_klasifikasi": "Sistem Informasi Geografi"
+  },
+  {
+    "no": 179,
+    "kode": "1.SS.05",
+    "sub_klasifikasi": "Survey Registrasi Kepemilikan Tanah/Kadastral"
+  },
+  { "no": 180, "kode": "1.SS.06", "sub_klasifikasi": "Survey Geologi" },
+  { "no": 181, "kode": "1.SS.07", "sub_klasifikasi": "Survey Pertanian" },
+  { "no": 182, "kode": "1.SS.08", "sub_klasifikasi": "Survey Tanah" },
+  { "no": 183, "kode": "1.SS.09", "sub_klasifikasi": "Survey Pemetaan" },
+  { "no": 184, "kode": "1.SS.09.01", "sub_klasifikasi": "Pemetaan Topografi" },
+  {
+    "no": 185,
+    "kode": "1.SS.09.02",
+    "sub_klasifikasi": "Pemetaan Udara/ Satelit"
+  },
+  { "no": 186, "kode": "1.SS.18", "sub_klasifikasi": "Survey Oseanografi" },
+  {
+    "no": 187,
+    "kode": "2.01.",
+    "sub_klasifikasi": "Bidang Logam, Kayu dan Plastik"
+  },
+  {
+    "no": 188,
+    "kode": "2.01.01",
+    "sub_klasifikasi": "Pembangunan Kapal dan Alat Apung Lainnya Serta Sarana Lepas Pantai"
+  },
+  {
+    "no": 189,
+    "kode": "2.01.02",
+    "sub_klasifikasi": "Pengangkatan Kerangka (Salvage) Kapal dan Alat Apung Lainnya serta sarana Lepas Pantai"
+  },
+  {
+    "no": 190,
+    "kode": "2.01.03",
+    "sub_klasifikasi": "Pemotongan Kapal (Ship Breaking) dan Alat Apung Lainnya Serta Sarana Lepas Pantai"
+  },
+  {
+    "no": 191,
+    "kode": "2.01.04",
+    "sub_klasifikasi": "Karoseri, Peti kemas (Container) dan Lain-Lain"
+  },
+  {
+    "no": 192,
+    "kode": "2.01.05",
+    "sub_klasifikasi": "Pengecoran Logam (Foundry) dan Pembentukan Logam (Forging, Casting, dan Lainnya)"
+  },
+  {
+    "no": 193,
+    "kode": "2.01.06",
+    "sub_klasifikasi": "Produk Kayu dan Rotan, Serta Pengawetannya"
+  },
+  {
+    "no": 194,
+    "kode": "2.01.07",
+    "sub_klasifikasi": "Bahan Baku dan Produk Plastik, Serta Kompositnya"
+  },
+  {
+    "no": 195,
+    "kode": "2.01.08",
+    "sub_klasifikasi": "Pembuatan Mesin dan Peralatan Industri, Mekanikal dan Elektrikal"
+  },
+  { "no": 196, "kode": "2.01.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 197,
+    "kode": "2.02.",
+    "sub_klasifikasi": "Bidang Pertanian, Tanaman Pangan, Perkebunan, Peternakan, Perikanan, dan Kehutanan"
+  },
+  {
+    "no": 198,
+    "kode": "2.02.01",
+    "sub_klasifikasi": "Proses Pembibitan Pembenihan Tanaman Pangan, Perkebunan, Peternakan, Perikanan, dan Kehutanan"
+  },
+  {
+    "no": 199,
+    "kode": "2.02.01.01",
+    "sub_klasifikasi": "Pembibitan Tanaman Pangan, Perkebunan"
+  },
+  {
+    "no": 200,
+    "kode": "2.02.01.02",
+    "sub_klasifikasi": "Pembenihan Peternakan"
+  },
+  {
+    "no": 201,
+    "kode": "2.02.01.03",
+    "sub_klasifikasi": "Pembibitan Perikanan"
+  },
+  {
+    "no": 202,
+    "kode": "2.02.01.04",
+    "sub_klasifikasi": "Pembibitan Pembenihan Perikanan"
+  },
+  { "no": 203, "kode": "2.02.02", "sub_klasifikasi": "Reboisasi" },
+  {
+    "no": 204,
+    "kode": "2.02.03",
+    "sub_klasifikasi": "Pembukaan dan Pengolahan Lahan"
+  },
+  {
+    "no": 205,
+    "kode": "2.02.04",
+    "sub_klasifikasi": "Pengolahan Hasil ertanian"
+  },
+  {
+    "no": 206,
+    "kode": "2.02.05",
+    "sub_klasifikasi": "Pengolahan Hasil Peternakan dan Perikanan"
+  },
+  {
+    "no": 207,
+    "kode": "2.02.06",
+    "sub_klasifikasi": "Pengolahan Hasil Perkebunan"
+  },
+  { "no": 208, "kode": "2.02.07", "sub_klasifikasi": "Pengolahan Hasil Hutan" },
+  { "no": 209, "kode": "2.02.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 210, "kode": "2.03.", "sub_klasifikasi": "Bidang Pertambangan Umum" },
+  {
+    "no": 211,
+    "kode": "2.03.01",
+    "sub_klasifikasi": "Eksplorasi Pertambangan"
+  },
+  { "no": 212, "kode": "2.03.02", "sub_klasifikasi": "Penguapan" },
+  { "no": 213, "kode": "2.03.03", "sub_klasifikasi": "Penggalian/Penambangan" },
+  { "no": 214, "kode": "2.03.04", "sub_klasifikasi": "Pengolahan Pemurnian" },
+  { "no": 215, "kode": "2.03.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 216,
+    "kode": "2.04.",
+    "sub_klasifikasi": "Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+  },
+  { "no": 217, "kode": "2.04.01", "sub_klasifikasi": "Pemboran" },
+  { "no": 218, "kode": "2.04.02", "sub_klasifikasi": "Pemboran Berarah" },
+  {
+    "no": 219,
+    "kode": "2.04.03",
+    "sub_klasifikasi": "Pengukuran Kemiringan Sumur"
+  },
+  { "no": 220, "kode": "2.04.04", "sub_klasifikasi": "Pemboran Inti" },
+  { "no": 221, "kode": "2.04.05", "sub_klasifikasi": "Pekerjaan Pancing" },
+  { "no": 222, "kode": "2.04.06", "sub_klasifikasi": "Mud Logging" },
+  {
+    "no": 223,
+    "kode": "2.04.07",
+    "sub_klasifikasi": "Well Logging dan Perforating"
+  },
+  { "no": 224, "kode": "2.04.08", "sub_klasifikasi": "Penyemanan Sumur" },
+  {
+    "no": 225,
+    "kode": "2.04.09",
+    "sub_klasifikasi": "Pengujian Lapis Bawah Tanah"
+  },
+  {
+    "no": 226,
+    "kode": "2.04.10",
+    "sub_klasifikasi": "Pengujian Produksi Sumur"
+  },
+  {
+    "no": 227,
+    "kode": "2.04.11",
+    "sub_klasifikasi": "Stimulasi Sumur dan Penambangan Sekunder"
+  },
+  { "no": 228, "kode": "2.04.12", "sub_klasifikasi": "Perawatan Sumur" },
+  { "no": 229, "kode": "2.04.13", "sub_klasifikasi": "Pemboran Hidrolik" },
+  {
+    "no": 230,
+    "kode": "2.04.14",
+    "sub_klasifikasi": "Pekerjaan Ulang/ Work Over"
+  },
+  { "no": 231, "kode": "2.04.15", "sub_klasifikasi": "Pemboran Seismik" },
+  {
+    "no": 232,
+    "kode": "2.04.16",
+    "sub_klasifikasi": "Pelayanan Casing dan Tubing"
+  },
+  { "no": 233, "kode": "2.04.17", "sub_klasifikasi": "Mud Engineering" },
+  {
+    "no": 234,
+    "kode": "2.04.18",
+    "sub_klasifikasi": "Perawatan Fasilitas Produksi"
+  },
+  {
+    "no": 235,
+    "kode": "2.04.30",
+    "sub_klasifikasi": "Pengelolaan Limbah Produksi"
+  },
+  {
+    "no": 236,
+    "kode": "2.04.30.01",
+    "sub_klasifikasi": "Pengelolaan Limbah Air Terproduksi"
+  },
+  {
+    "no": 237,
+    "kode": "2.04.30.02",
+    "sub_klasifikasi": "Pengelolaan Limbah Sludge"
+  },
+  {
+    "no": 238,
+    "kode": "2.04.30.03",
+    "sub_klasifikasi": "Pengelolaan Limbah B3 (Bahan Berbahaya Beracun)"
+  },
+  {
+    "no": 239,
+    "kode": "2.04.40",
+    "sub_klasifikasi": "Pelayanan Penyelaman (Diving Services)"
+  },
+  { "no": 240, "kode": "2.04.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 241, "kode": "2.05.", "sub_klasifikasi": "Bidang Telematika" },
+  {
+    "no": 242,
+    "kode": "2.05.01",
+    "sub_klasifikasi": "Jasa Teknologi Informasi"
+  },
+  { "no": 243, "kode": "2.05.02", "sub_klasifikasi": "Komunikasi Multimedia" },
+  { "no": 244, "kode": "2.05.03", "sub_klasifikasi": "Telekomunikasi" },
+  { "no": 245, "kode": "2.05.04", "sub_klasifikasi": "Navigasi" },
+  {
+    "no": 246,
+    "kode": "2.05.05",
+    "sub_klasifikasi": "Kontrol dan Instrumentasi"
+  },
+  {
+    "no": 247,
+    "kode": "2.05.06",
+    "sub_klasifikasi": "Penginderaan Jauh ( remote Sensing )"
+  },
+  {
+    "no": 248,
+    "kode": "2.05.07",
+    "sub_klasifikasi": "Jasa Pemborongan Telekomunikasi Darat"
+  },
+  { "no": 249, "kode": "2.05.07.01", "sub_klasifikasi": "Sentral" },
+  { "no": 250, "kode": "2.05.07.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 251,
+    "kode": "2.05.07.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 252,
+    "kode": "2.05.07.04",
+    "sub_klasifikasi": "Teknologi dan Sistem Informasi"
+  },
+  { "no": 253, "kode": "2.05.07.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 254,
+    "kode": "2.05.07.06",
+    "sub_klasifikasi": "Sistem Pemancardan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 255,
+    "kode": "2.05.07.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 256,
+    "kode": "2.05.08",
+    "sub_klasifikasi": "Jasa Pemborongan Telekomunikasi Satelit"
+  },
+  { "no": 257, "kode": "2.05.08.01", "sub_klasifikasi": "Sentral" },
+  { "no": 258, "kode": "2.05.08.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 259,
+    "kode": "2.05.08.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 260,
+    "kode": "2.05.08.04",
+    "sub_klasifikasi": "Teknologi dan Sistem Informasi"
+  },
+  { "no": 261, "kode": "2.05.08.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 262,
+    "kode": "2.05.08.06",
+    "sub_klasifikasi": "Sistem Pemancar dan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 263,
+    "kode": "2.05.08.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 264,
+    "kode": "2.05.09",
+    "sub_klasifikasi": "Jasa Pemborongan Perangkat Keras"
+  },
+  { "no": 265, "kode": "2.05.09.01", "sub_klasifikasi": "Komputer" },
+  { "no": 266, "kode": "2.05.09.02", "sub_klasifikasi": "Printer" },
+  {
+    "no": 267,
+    "kode": "2.05.09.03",
+    "sub_klasifikasi": "Projector Multimedia"
+  },
+  { "no": 268, "kode": "2.05.09.04", "sub_klasifikasi": "Input Devices" },
+  { "no": 269, "kode": "2.05.09.05", "sub_klasifikasi": "Alat Penyimpan Data" },
+  { "no": 270, "kode": "2.05.09.06", "sub_klasifikasi": "Networking Product" },
+  { "no": 271, "kode": "2.05.09.07", "sub_klasifikasi": "Accessoris Supplies" },
+  {
+    "no": 272,
+    "kode": "2.05.09.08",
+    "sub_klasifikasi": "Perangkat Sistem Informasi khusus"
+  },
+  {
+    "no": 273,
+    "kode": "2.05.10",
+    "sub_klasifikasi": "Jasa Pengembangan Konten"
+  },
+  {
+    "no": 274,
+    "kode": "2.05.10.01",
+    "sub_klasifikasi": "Konten Distance Learning"
+  },
+  {
+    "no": 275,
+    "kode": "2.05.10.02",
+    "sub_klasifikasi": "Konten Program TV Interactive"
+  },
+  {
+    "no": 276,
+    "kode": "2.05.10.03",
+    "sub_klasifikasi": "Konten Program Multimedia"
+  },
+  {
+    "no": 277,
+    "kode": "2.05.10.04",
+    "sub_klasifikasi": "Konten Program Portal"
+  },
+  {
+    "no": 278,
+    "kode": "2.05.11",
+    "sub_klasifikasi": "Jasa Pengembang Aplikasi"
+  },
+  {
+    "no": 279,
+    "kode": "2.05.11.01",
+    "sub_klasifikasi": "Jasa Pengembang Aplikasi Komputer"
+  },
+  {
+    "no": 280,
+    "kode": "2.05.11.02",
+    "sub_klasifikasi": "Jasa Pengembang Aplikasi Komunikasi"
+  },
+  { "no": 281, "kode": "2.05.11.03", "sub_klasifikasi": "Aplikasi Telemetrik" },
+  { "no": 282, "kode": "2.05.11.04", "sub_klasifikasi": "Aplikasi GIS" },
+  { "no": 283, "kode": "2.05.11.05", "sub_klasifikasi": "Aplikasi GPS" },
+  {
+    "no": 284,
+    "kode": "2.05.12.01",
+    "sub_klasifikasi": "Jasa Pemborongan Perangkat Lunak: Komputer"
+  },
+  { "no": 285, "kode": "2.05.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 286,
+    "kode": "3.00.",
+    "sub_klasifikasi": "Pemasokan Barang Semua Bidang"
+  },
+  {
+    "no": 287,
+    "kode": "3.00.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Tulis"
+  },
+  {
+    "no": 288,
+    "kode": "3.00.02",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Kantor dan Pergudangan"
+  },
+  {
+    "no": 289,
+    "kode": "3.00.03",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Perlengkapan Pegawai"
+  },
+  {
+    "no": 290,
+    "kode": "3.00.04",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Mekanikal dan Elektrikal Atau Listrik"
+  },
+  {
+    "no": 291,
+    "kode": "3.00.05",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Ukur, Survei, Laboratorium dan Timbangan Khusus"
+  },
+  {
+    "no": 292,
+    "kode": "3.00.06",
+    "sub_klasifikasi": "Alat Teknik Pendidikan, Peragaan. Visualisasi, Olahraga dan Kesenian"
+  },
+  {
+    "no": 293,
+    "kode": "3.00.07",
+    "sub_klasifikasi": "Alat Atau Peralatan Furniture"
+  },
+  {
+    "no": 294,
+    "kode": "3.00.08",
+    "sub_klasifikasi": "Alat Atau Peralatan Kerajinan"
+  },
+  {
+    "no": 295,
+    "kode": "3.00.09",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Alat Berat"
+  },
+  {
+    "no": 296,
+    "kode": "3.00.10",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Keselamatan Kerja dan Pemadam Kebakaran"
+  },
+  {
+    "no": 297,
+    "kode": "3.00.11",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Komputer"
+  },
+  { "no": 298, "kode": "3.00.12", "sub_klasifikasi": "Cat" },
+  {
+    "no": 299,
+    "kode": "3.00.13",
+    "sub_klasifikasi": "Bahan Bakar, Pelumas dan Minyak"
+  },
+  { "no": 300, "kode": "3.00.14", "sub_klasifikasi": "Bahan Pangan" },
+  { "no": 301, "kode": "3.00.15", "sub_klasifikasi": "Bahan Kemasan" },
+  {
+    "no": 302,
+    "kode": "3.00.16",
+    "sub_klasifikasi": "Buku Bacaan, Buku Pelajaran dan Jurnal Berkala"
+  },
+  {
+    "no": 303,
+    "kode": "3.00.17",
+    "sub_klasifikasi": "Tekstil dan Produk Tekstil"
+  },
+  { "no": 304, "kode": "3.00.18", "sub_klasifikasi": "Perabotan Rumah Tangga" },
+  {
+    "no": 305,
+    "kode": "3.00.19",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Mesin Anjungan Tunai Mandiri (ATM)"
+  },
+  {
+    "no": 306,
+    "kode": "3.00.20",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: energi baru dan terbarukan"
+  },
+  { "no": 307, "kode": "3.00.21", "sub_klasifikasi": "Batu Bara" },
+  { "no": 308, "kode": "3.00.22", "sub_klasifikasi": "Aspal" },
+  {
+    "no": 309,
+    "kode": "3.00.23",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Air Conditioner (AC) dan Pengoperasiannya"
+  },
+  { "no": 310, "kode": "3.00.24", "sub_klasifikasi": "Tabung Gas" },
+  { "no": 311, "kode": "3.00.25", "sub_klasifikasi": "Biji Plastik" },
+  { "no": 312, "kode": "3.00.26", "sub_klasifikasi": "Wallpaper dan Karpet" },
+  {
+    "no": 313,
+    "kode": "3.00.27",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Mesin Las"
+  },
+  { "no": 314, "kode": "3.00.28", "sub_klasifikasi": "Kawat Las" },
+  {
+    "no": 315,
+    "kode": "3.00.29",
+    "sub_klasifikasi": "Air Minum Dalam Kemasan"
+  },
+  {
+    "no": 316,
+    "kode": "3.00.30",
+    "sub_klasifikasi": "Makanan Tambahan Untuk Bayi"
+  },
+  {
+    "no": 317,
+    "kode": "3.00.31",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang Terbuat Dari Karet"
+  },
+  {
+    "no": 318,
+    "kode": "3.00.32",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Pesawat Angkat (Mobile Crane, Forklift, Overhead Crane, dll)"
+  },
+  { "no": 319, "kode": "3.00.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 320,
+    "kode": "3.01.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang: Alat Apung dan Sarana Lepas Pantai"
+  },
+  {
+    "no": 321,
+    "kode": "3.01.02",
+    "sub_klasifikasi": "Alat atau Peralatan atau Suku Cadang: Kelautan dan Nelayan"
+  },
+  {
+    "no": 322,
+    "kode": "3.01.03",
+    "sub_klasifikasi": "Usaha Kelautan dan Maritim"
+  },
+  {
+    "no": 323,
+    "kode": "3.01.06",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Pekerjaan Bawah Air (Remote Operated Vehicle (ROV), Pengelasan Bawah Air, Selam SSBA/SCUBA)"
+  },
+  { "no": 324, "kode": "3.02.", "sub_klasifikasi": "Bidang Pertanian" },
+  {
+    "no": 325,
+    "kode": "3.02.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang: Pertanian, Perkebunan. Petemakan. Perikanan, dan Kehutanan"
+  },
+  { "no": 326, "kode": "3.02.02", "sub_klasifikasi": "Bahan Makanan Ternak" },
+  {
+    "no": 327,
+    "kode": "3.02.03",
+    "sub_klasifikasi": "Pestisida dan Obat Pertanian"
+  },
+  { "no": 328, "kode": "3.02.04", "sub_klasifikasi": "Pupuk" },
+  {
+    "no": 329,
+    "kode": "3.02.05",
+    "sub_klasifikasi": "Bibit dan Usaha Pertanian, Perkebunan, Peternakan, Perikanan. dan Kehutanan"
+  },
+  { "no": 330, "kode": "3.02.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 331, "kode": "3.03.", "sub_klasifikasi": "Bidang Pertambangan Umum" },
+  {
+    "no": 332,
+    "kode": "3.03.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Pemboran dan Paking"
+  },
+  {
+    "no": 333,
+    "kode": "3.03.02",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang dan Mesin - Mesin"
+  },
+  {
+    "no": 334,
+    "kode": "3.03.03",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Angkutan dan Packing"
+  },
+  {
+    "no": 335,
+    "kode": "3.03.04",
+    "sub_klasifikasi": "Kelengkapan Mesin dan Instrumentasi"
+  },
+  { "no": 336, "kode": "3.03.05", "sub_klasifikasi": "Alat - Alat Kerja" },
+  {
+    "no": 337,
+    "kode": "3.03.06",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang: Turbin, Boiler, Selubung Sumur dan Pompa"
+  },
+  {
+    "no": 338,
+    "kode": "3.03.09",
+    "sub_klasifikasi": "Alat atau Peralatan atau Suku Cadang Alat Berat"
+  },
+  { "no": 339, "kode": "3.03.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 340,
+    "kode": "3.04.",
+    "sub_klasifikasi": "Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+  },
+  {
+    "no": 341,
+    "kode": "3.04.01",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Pemboran dan Paking Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+  },
+  {
+    "no": 342,
+    "kode": "3.04.02",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang dan Mesin-mesin Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+  },
+  {
+    "no": 343,
+    "kode": "3.04.03",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Angkutan dan Packing"
+  },
+  {
+    "no": 344,
+    "kode": "3.04.04",
+    "sub_klasifikasi": "Kelengkapan Mesin dan Instrumentasi"
+  },
+  {
+    "no": 345,
+    "kode": "3.04.05",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Bangunan, Tangki dan Peralatan Bengkel"
+  },
+  {
+    "no": 346,
+    "kode": "3.04.06",
+    "sub_klasifikasi": "Pipa, Katup, Sambungan dan Paking Serta Kelengkapannya"
+  },
+  { "no": 347, "kode": "3.04.07", "sub_klasifikasi": "Alat - Alat Kerja" },
+  {
+    "no": 348,
+    "kode": "3.04.08",
+    "sub_klasifikasi": "Garam Industri dan Material Bahan Kimia Khusus Pemboran dan Fasilitas Produksinya"
+  },
+  {
+    "no": 349,
+    "kode": "3.04.09",
+    "sub_klasifikasi": "Produksi dan Penyekatan"
+  },
+  {
+    "no": 350,
+    "kode": "3.04.11",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Turbin, Boiler, Selubung Sumur dan Pompa Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+  },
+  {
+    "no": 351,
+    "kode": "3.04.13",
+    "sub_klasifikasi": "Alat/ Peralatan Bawah Permukaan (Tubing, Packer, Liner, Mandrel, Sub-surface Safety)"
+  },
+  { "no": 352, "kode": "3.04.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 353, "kode": "3.05.", "sub_klasifikasi": "Bidang Telematika" },
+  { "no": 354, "kode": "3.05.01", "sub_klasifikasi": "Teknologi Informasi" },
+  { "no": 355, "kode": "3.05.02", "sub_klasifikasi": "Komunikasi Multimedia" },
+  { "no": 356, "kode": "3.05.03", "sub_klasifikasi": "Telekomunikasi" },
+  {
+    "no": 357,
+    "kode": "3.05.04",
+    "sub_klasifikasi": "Kontrol dan Instrumentasi"
+  },
+  {
+    "no": 358,
+    "kode": "3.05.05",
+    "sub_klasifikasi": "Jasa Pemosaok Telekomunikasi Darat"
+  },
+  { "no": 359, "kode": "3.05.05.01", "sub_klasifikasi": "Sentral" },
+  { "no": 360, "kode": "3.05.05.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 361,
+    "kode": "3.05.05.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 362,
+    "kode": "3.05.05.04",
+    "sub_klasifikasi": "Teknologi dan Sistem Informasi"
+  },
+  { "no": 363, "kode": "3.05.05.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 364,
+    "kode": "3.05.05.06",
+    "sub_klasifikasi": "Sistem Pemancar dan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 365,
+    "kode": "3.05.05.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 366,
+    "kode": "3.05.06",
+    "sub_klasifikasi": "Jasa Pemasok Telekomunikasi Satelit"
+  },
+  { "no": 367, "kode": "3.05.06.01", "sub_klasifikasi": "Sentral" },
+  { "no": 368, "kode": "3.05.06.02", "sub_klasifikasi": "Transmisi" },
+  {
+    "no": 369,
+    "kode": "3.05.06.03",
+    "sub_klasifikasi": "Jaringan Telekomunikasi"
+  },
+  {
+    "no": 370,
+    "kode": "3.05.06.04",
+    "sub_klasifikasi": "Teknologi dan Sistem Informasi"
+  },
+  { "no": 371, "kode": "3.05.06.05", "sub_klasifikasi": "Networking" },
+  {
+    "no": 372,
+    "kode": "3.05.06.06",
+    "sub_klasifikasi": "Sistem Pemancar dan Penerimas Radio dan Televisi"
+  },
+  {
+    "no": 373,
+    "kode": "3.05.06.07",
+    "sub_klasifikasi": "Kontrol dan Instrumen"
+  },
+  {
+    "no": 374,
+    "kode": "3.05.07",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Keras"
+  },
+  { "no": 375, "kode": "3.05.07.01", "sub_klasifikasi": "Komputer" },
+  { "no": 376, "kode": "3.05.07.02", "sub_klasifikasi": "Printer" },
+  {
+    "no": 377,
+    "kode": "3.05.07.03",
+    "sub_klasifikasi": "Projector Multimedia"
+  },
+  { "no": 378, "kode": "3.05.07.04", "sub_klasifikasi": "Input Devices" },
+  { "no": 379, "kode": "3.05.07.05", "sub_klasifikasi": "Alat Penyimpan Data" },
+  { "no": 380, "kode": "3.05.07.06", "sub_klasifikasi": "Networking Product" },
+  {
+    "no": 381,
+    "kode": "3.05.07.07",
+    "sub_klasifikasi": "Accessoris dan Supplies"
+  },
+  {
+    "no": 382,
+    "kode": "3.05.07.08",
+    "sub_klasifikasi": "Perangkat Sistem Informasi Khusus"
+  },
+  { "no": 383, "kode": "3.05.08", "sub_klasifikasi": "Jasa Pemasok Konten" },
+  {
+    "no": 384,
+    "kode": "3.05.08.01",
+    "sub_klasifikasi": "Konten Distance Learning"
+  },
+  {
+    "no": 385,
+    "kode": "3.05.08.02",
+    "sub_klasifikasi": "Konten Program TV Interactive"
+  },
+  {
+    "no": 386,
+    "kode": "3.05.08.03",
+    "sub_klasifikasi": "Konten Program Multimedia"
+  },
+  {
+    "no": 387,
+    "kode": "3.05.08.04",
+    "sub_klasifikasi": "Konten program Portal"
+  },
+  { "no": 388, "kode": "3.05.09", "sub_klasifikasi": "Jasa Pemasok Aplikasi" },
+  { "no": 389, "kode": "3.05.09.01", "sub_klasifikasi": "Aplikasi Komputer" },
+  { "no": 390, "kode": "3.05.09.02", "sub_klasifikasi": "Aplikasi Komunikasi" },
+  { "no": 391, "kode": "3.05.09.03", "sub_klasifikasi": "Aplikasi Telemetrik" },
+  { "no": 392, "kode": "3.05.09.04", "sub_klasifikasi": "Aplikasi GIS" },
+  { "no": 393, "kode": "3.05.09.05", "sub_klasifikasi": "Aplikasi GPS" },
+  {
+    "no": 394,
+    "kode": "3.05.10",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak"
+  },
+  {
+    "no": 395,
+    "kode": "3.05.10.01",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Komputer"
+  },
+  {
+    "no": 396,
+    "kode": "3.05.10.02",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Printer"
+  },
+  {
+    "no": 397,
+    "kode": "3.05.10.03",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Projector Multimedia"
+  },
+  {
+    "no": 398,
+    "kode": "3.05.10.04",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Input Devices"
+  },
+  {
+    "no": 399,
+    "kode": "3.05.10.05",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Alat Penyimpan Data"
+  },
+  {
+    "no": 400,
+    "kode": "3.05.10.06",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Networking Product"
+  },
+  {
+    "no": 401,
+    "kode": "3.05.10.07",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Accecories dan Supplies"
+  },
+  {
+    "no": 402,
+    "kode": "3.05.10.08",
+    "sub_klasifikasi": "Jasa Pemasok Perangkat Lunak: Perangkat Sistem Informasi Khusus"
+  },
+  { "no": 403, "kode": "3.05.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 404, "kode": "3.06.", "sub_klasifikasi": "Bidang Perhubungan" },
+  {
+    "no": 405,
+    "kode": "3.06.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Kendaraan Bermotor dan Pengujiannya"
+  },
+  {
+    "no": 406,
+    "kode": "3.06.02",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Kereta Api dan Pengujiannya"
+  },
+  {
+    "no": 407,
+    "kode": "3.06.03",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Pesawat Terbang dan Pengujiannya"
+  },
+  {
+    "no": 408,
+    "kode": "3.06.04",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Kapal Laut dan Kapal Penyeberangan dan Pengujiannya"
+  },
+  {
+    "no": 409,
+    "kode": "3.06.05",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang  Atau Pendukung Kendaraan Militer atau Polisi"
+  },
+  {
+    "no": 410,
+    "kode": "3.06.06",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Keselamatan Angkutan Darat"
+  },
+  {
+    "no": 411,
+    "kode": "3.06.06.01",
+    "sub_klasifikasi": "Alat/ Peralatan/ Suku Cadang: Keselamatan Jalan (Rambu-rambu Lalu Lintas dan Asesoris Jalan)"
+  },
+  {
+    "no": 412,
+    "kode": "3.06.07",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Keselamatan Angkutan Laut"
+  },
+  {
+    "no": 413,
+    "kode": "3.06.08",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Angkutan Udara"
+  },
+  {
+    "no": 414,
+    "kode": "3.06.09",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Untuk SAR dan Penyelaman"
+  },
+  {
+    "no": 415,
+    "kode": "3.06.10",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Radio, Telekomunikasi dan Elektronika"
+  },
+  {
+    "no": 416,
+    "kode": "3.06.11",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Pas"
+  },
+  {
+    "no": 417,
+    "kode": "3.06.12",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Navigasi Laut"
+  },
+  {
+    "no": 418,
+    "kode": "3.06.13",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Navigasi Udara"
+  },
+  {
+    "no": 419,
+    "kode": "3.06.14",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Meteorologi, Geofisika, Klimatologi, Hidrologi, Radio Cuaca ( Radio Sonde )"
+  },
+  { "no": 420, "kode": "3.06.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 421, "kode": "3.07.", "sub_klasifikasi": "Bidang Lain - Lainnya" },
+  {
+    "no": 422,
+    "kode": "3.07.01",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Kontruksi( Kompresor,Generator Dll,Bahan Bangunan dan logam)"
+  },
+  {
+    "no": 423,
+    "kode": "3.07.02",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Serta Perlengkapan Listrik Untuk Pembangkit Listrik"
+  },
+  { "no": 424, "kode": "3.07.02.01", "sub_klasifikasi": "Pembangkit Listrik" },
+  {
+    "no": 425,
+    "kode": "3.07.02.02",
+    "sub_klasifikasi": "Gardu Induk dan Gardu Distribusi"
+  },
+  {
+    "no": 426,
+    "kode": "3.07.02.03",
+    "sub_klasifikasi": "Jaringan Transmisi dan Jaringan Distribusi"
+  },
+  { "no": 427, "kode": "3.07.02.04", "sub_klasifikasi": "Instalasi Pabrik" },
+  {
+    "no": 428,
+    "kode": "3.07.02.05",
+    "sub_klasifikasi": "Instalasi Bangunan Umum"
+  },
+  {
+    "no": 429,
+    "kode": "3.07.03",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang : Instalasi Atau Distribusi Zat Cair dan Gas"
+  },
+  {
+    "no": 430,
+    "kode": "3.07.03.01",
+    "sub_klasifikasi": "Alat/peralatan/suku cadang Instalasi Distribusi : Air Bersih dan Air Limbah"
+  },
+  {
+    "no": 431,
+    "kode": "3.07.04",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Senjata Api dan Amunisi"
+  },
+  {
+    "no": 432,
+    "kode": "3.07.05",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Bahan Peledak dan Airoteknik"
+  },
+  {
+    "no": 433,
+    "kode": "3.07.06",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Kesehatan, Laboratorium Kesehatan, Kedokteran dan Reagensia"
+  },
+  {
+    "no": 434,
+    "kode": "3.07.07",
+    "sub_klasifikasi": "Bahan Kimia, Bahan Baku Obat, Obat Jadi dan Farmasi"
+  },
+  {
+    "no": 435,
+    "kode": "3.07.08",
+    "sub_klasifikasi": "Alat Atau Peralatan Atau Suku Cadang Atau Pendukung senjata Militer dan Polisi"
+  },
+  { "no": 436, "kode": "3.07.09", "sub_klasifikasi": "Bahan Kimia Lainnya" },
+  {
+    "no": 437,
+    "kode": "3.07.09.12",
+    "sub_klasifikasi": "Bahan Kimia Pencegahan Korosi Logam dan Lainnya"
+  },
+  {
+    "no": 438,
+    "kode": "3.07.10",
+    "sub_klasifikasi": "Alat/ Peralatan: keamanan (diluar/selain senjata api, bahan peledak dan sejenisnya) / safety tool."
+  },
+  { "no": 439, "kode": "3.07.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 440, "kode": "4.00.", "sub_klasifikasi": "Bidang Jasa Real Estate" },
+  {
+    "no": 441,
+    "kode": "4.00.01",
+    "sub_klasifikasi": "Perumahan dan Pemukiman"
+  },
+  { "no": 442, "kode": "4.00.01.01", "sub_klasifikasi": "Perumahan" },
+  { "no": 443, "kode": "4.00.01.02", "sub_klasifikasi": "Rumah Susun" },
+  { "no": 444, "kode": "4.00.01.03", "sub_klasifikasi": "Kawasan Perumahan" },
+  { "no": 445, "kode": "4.00.02", "sub_klasifikasi": "Pengembangan Properti" },
+  {
+    "no": 446,
+    "kode": "4.00.02.01",
+    "sub_klasifikasi": "Gedung Atau Ruang Perkantoran"
+  },
+  {
+    "no": 447,
+    "kode": "4.00.02.02",
+    "sub_klasifikasi": "Gedung atau Ruang Perbelanjaan dan Pertokoan"
+  },
+  { "no": 448, "kode": "4.00.02.03", "sub_klasifikasi": "Kawasan Rekreasi" },
+  { "no": 449, "kode": "4.00.02.04", "sub_klasifikasi": "Kawasan Agro Estate" },
+  {
+    "no": 450,
+    "kode": "4.00.02.05",
+    "sub_klasifikasi": "Kawasan Atau Gedung Peristirahatan, Villa Atau Resort"
+  },
+  {
+    "no": 451,
+    "kode": "4.00.03",
+    "sub_klasifikasi": "Pengembangan Kawasan industri"
+  },
+  {
+    "no": 452,
+    "kode": "4.00.03.01",
+    "sub_klasifikasi": "Gedung atau Ruang Industri"
+  },
+  { "no": 453, "kode": "4.00.03.02", "sub_klasifikasi": "Gedung Pergudangan" },
+  { "no": 454, "kode": "4.00.04", "sub_klasifikasi": "Manajemen Properti" },
+  {
+    "no": 455,
+    "kode": "4.00.05",
+    "sub_klasifikasi": "Jasa perantara ( Brokerage ) Real Estate dan Properti"
+  },
+  { "no": 456, "kode": "4.00.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 457, "kode": "5.00.", "sub_klasifikasi": "Jasa Semua Bidang" },
+  {
+    "no": 458,
+    "kode": "5.00.01",
+    "sub_klasifikasi": "Penyelenggaraan Promosi MICE ( Meeting, Incentive, Convention and Exhibition)"
+  },
+  {
+    "no": 459,
+    "kode": "5.00.01.01",
+    "sub_klasifikasi": "Penyelenggaraan Pertemuan ( Meeting )"
+  },
+  {
+    "no": 460,
+    "kode": "5.00.01.02",
+    "sub_klasifikasi": "Penyelenggaraan Incentive"
+  },
+  {
+    "no": 461,
+    "kode": "5.00.01.03",
+    "sub_klasifikasi": "Penyelenggaraan Konvensi (Convention)"
+  },
+  {
+    "no": 462,
+    "kode": "5.00.01.04",
+    "sub_klasifikasi": "Penyelenggaraan Pameran (Exhibition)"
+  },
+  {
+    "no": 463,
+    "kode": "5.00.01.05",
+    "sub_klasifikasi": "Pengurusan Pengiriman Barang Pameran"
+  },
+  {
+    "no": 464,
+    "kode": "5.00.01.06",
+    "sub_klasifikasi": "Penyediaan dan Pemasangan Stand Pameran"
+  },
+  {
+    "no": 465,
+    "kode": "5.00.01.07",
+    "sub_klasifikasi": "Penyediaan Barang Atau Jasa Pendukung MICE"
+  },
+  {
+    "no": 466,
+    "kode": "5.00.01.08",
+    "sub_klasifikasi": "Profesional Convention Organizer (PCO)"
+  },
+  { "no": 467, "kode": "5.00.01.09", "sub_klasifikasi": "Event Organizer" },
+  { "no": 468, "kode": "5.00.02", "sub_klasifikasi": "Percetakan" },
+  {
+    "no": 469,
+    "kode": "5.00.03",
+    "sub_klasifikasi": "Pemeliharaan dan Peralatan Kantor"
+  },
+  {
+    "no": 470,
+    "kode": "5.00.04",
+    "sub_klasifikasi": "Pemeliharaan Alat Pustaka, Termasuk Pemeliharaan Barang Awetan Flora dan Fauna"
+  },
+  {
+    "no": 471,
+    "kode": "5.00.05",
+    "sub_klasifikasi": "Pemeliharaan Barang dan Peralatan Mekanikal, mesin-mesin, Elektrikal dan Elektronika"
+  },
+  {
+    "no": 472,
+    "kode": "5.00.06",
+    "sub_klasifikasi": "Jasa Pembersih, Pest Control, Termite Control, Fumigasi"
+  },
+  { "no": 473, "kode": "5.00.06.01", "sub_klasifikasi": "Pembersih" },
+  { "no": 474, "kode": "5.00.06.02", "sub_klasifikasi": "Jasa Pest Control" },
+  {
+    "no": 475,
+    "kode": "5.00.06.03",
+    "sub_klasifikasi": "Jasa Termite Control"
+  },
+  { "no": 476, "kode": "5.00.06.04", "sub_klasifikasi": "Jasa Fumigasi" },
+  {
+    "no": 477,
+    "kode": "5.00.06.05",
+    "sub_klasifikasi": "Jasa Perawatan Taman Landscape"
+  },
+  { "no": 478, "kode": "5.00.07", "sub_klasifikasi": "Penjahit dan Konveksi" },
+  { "no": 479, "kode": "5.00.08", "sub_klasifikasi": "Jasa Boga" },
+  {
+    "no": 480,
+    "kode": "5.00.10",
+    "sub_klasifikasi": "Jasa Pemeliharaan Alat/ Peralatan Suku Cadang Energi Baru dan Terbarukan"
+  },
+  { "no": 481, "kode": "5.00.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 482, "kode": "5.01.", "sub_klasifikasi": "Jasa Bidang Industri" },
+  {
+    "no": 483,
+    "kode": "5.01.01",
+    "sub_klasifikasi": "Jasa Pengolahan Panas dan Permukaan Logam (Heat and Surface Treatment)"
+  },
+  {
+    "no": 484,
+    "kode": "5.01.02",
+    "sub_klasifikasi": "Jasa Pengujian dan Kalibrasi"
+  },
+  {
+    "no": 485,
+    "kode": "5.01.03",
+    "sub_klasifikasi": "Jasa Pemeliharaan dan Reparasi Mesin dan Peralatan Industri"
+  },
+  { "no": 486, "kode": "5.01.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  {
+    "no": 487,
+    "kode": "5.04.",
+    "sub_klasifikasi": "Jasa Bidang Pertambangan Minyak dan Gas Bumi"
+  },
+  {
+    "no": 488,
+    "kode": "5.04.01",
+    "sub_klasifikasi": "Jasa Perawatan Pekerjaan Minyak dan Gas Bawah Air"
+  },
+  { "no": 489, "kode": "5.04.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 490, "kode": "5.05.", "sub_klasifikasi": "Jasa Bidang Telematika" },
+  {
+    "no": 491,
+    "kode": "5.05.01",
+    "sub_klasifikasi": "Jasa Pemelihara Telekomunikasi Darat"
+  },
+  { "no": 492, "kode": "5.05.01.01", "sub_klasifikasi": "Pemelihara Sentral" },
+  {
+    "no": 493,
+    "kode": "5.05.01.02",
+    "sub_klasifikasi": "Pemelihara Transmisi"
+  },
+  {
+    "no": 494,
+    "kode": "5.05.01.03",
+    "sub_klasifikasi": "Pemelihara Jaringan Telekomunikasi"
+  },
+  {
+    "no": 495,
+    "kode": "5.05.01.04",
+    "sub_klasifikasi": "Pemelihara Teknologi dan Sistem Informasi"
+  },
+  {
+    "no": 496,
+    "kode": "5.05.01.05",
+    "sub_klasifikasi": "Pemelihara Networking"
+  },
+  {
+    "no": 497,
+    "kode": "5.05.01.06",
+    "sub_klasifikasi": "Pemelihara Sistem Pemancar dan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 498,
+    "kode": "5.05.01.07",
+    "sub_klasifikasi": "Pemelihara Kontrol dan Instrumen"
+  },
+  {
+    "no": 499,
+    "kode": "5.05.02",
+    "sub_klasifikasi": "Jasa Pemelihara Telekomunikasi Satelit"
+  },
+  { "no": 500, "kode": "5.05.02.01", "sub_klasifikasi": "Pemelihara Sentral" },
+  {
+    "no": 501,
+    "kode": "5.05.02.02",
+    "sub_klasifikasi": "Pemelihara Transmisi"
+  },
+  {
+    "no": 502,
+    "kode": "5.05.02.03",
+    "sub_klasifikasi": "Pemelihara Jaringan Telekomunikasi"
+  },
+  {
+    "no": 503,
+    "kode": "5.05.02.04",
+    "sub_klasifikasi": "Pemelihara Teknologi dan Sistem Informasi"
+  },
+  {
+    "no": 504,
+    "kode": "5.05.02.05",
+    "sub_klasifikasi": "Pemelihara Networking"
+  },
+  {
+    "no": 505,
+    "kode": "5.05.02.06",
+    "sub_klasifikasi": "Pemelihara Sistem Pemancar dan Penerima Radio dan Televisi"
+  },
+  {
+    "no": 506,
+    "kode": "5.05.02.07",
+    "sub_klasifikasi": "Pemelihara Kontrol dan Instrumen"
+  },
+  {
+    "no": 507,
+    "kode": "5.05.03",
+    "sub_klasifikasi": "Jasa Pemeliharaan Perangkat Keras"
+  },
+  { "no": 508, "kode": "5.05.03.01", "sub_klasifikasi": "Pemelihara Komputer" },
+  { "no": 509, "kode": "5.05.03.02", "sub_klasifikasi": "Pemelihara Printer" },
+  {
+    "no": 510,
+    "kode": "5.05.03.03",
+    "sub_klasifikasi": "Pemelihara Projector Multimedia"
+  },
+  {
+    "no": 511,
+    "kode": "5.05.03.04",
+    "sub_klasifikasi": "Pemelihara Input Devices"
+  },
+  {
+    "no": 512,
+    "kode": "5.05.03.05",
+    "sub_klasifikasi": "Pemelihara Alat Penyimpan Data"
+  },
+  {
+    "no": 513,
+    "kode": "5.05.03.06",
+    "sub_klasifikasi": "Pemelihara Networking Product"
+  },
+  {
+    "no": 514,
+    "kode": "5.05.03.07",
+    "sub_klasifikasi": "Pemelihara Accessoris dan Supplies"
+  },
+  {
+    "no": 515,
+    "kode": "5.05.03.08",
+    "sub_klasifikasi": "Pemelihara Perangkat Sistem Informasi Khusus"
+  },
+  {
+    "no": 516,
+    "kode": "5.05.04",
+    "sub_klasifikasi": "Jasa Pemeliharaan Konten"
+  },
+  {
+    "no": 517,
+    "kode": "5.05.04.01",
+    "sub_klasifikasi": "Pemelihara Konten Distance Learning"
+  },
+  {
+    "no": 518,
+    "kode": "5.05.04.02",
+    "sub_klasifikasi": "Pemelihara Konten Program TV Interactive"
+  },
+  {
+    "no": 519,
+    "kode": "5.05.04.03",
+    "sub_klasifikasi": "Pemelihara Konten Program Multimedia"
+  },
+  {
+    "no": 520,
+    "kode": "5.05.04.04",
+    "sub_klasifikasi": "Pemelihara Konten Program Portal"
+  },
+  {
+    "no": 521,
+    "kode": "5.05.05",
+    "sub_klasifikasi": "Jasa Pemelihara Aplikasi"
+  },
+  {
+    "no": 522,
+    "kode": "5.05.05.01",
+    "sub_klasifikasi": "Jasa Pemelihara Aplikasi Komputer"
+  },
+  {
+    "no": 523,
+    "kode": "5.05.05.02",
+    "sub_klasifikasi": "Pemelihara Aplikasi Komunikasi"
+  },
+  {
+    "no": 524,
+    "kode": "5.05.05.03",
+    "sub_klasifikasi": "Pemelihara Aplikasi Telemetrik"
+  },
+  {
+    "no": 525,
+    "kode": "5.05.05.04",
+    "sub_klasifikasi": "Pemelihara Aplikasi GIS"
+  },
+  {
+    "no": 526,
+    "kode": "5.05.05.05",
+    "sub_klasifikasi": "Pemelihara Aplikasi GPS"
+  },
+  {
+    "no": 527,
+    "kode": "5.05.06",
+    "sub_klasifikasi": "Jasa Penyedia Jaringan Satelit"
+  },
+  {
+    "no": 528,
+    "kode": "5.05.07",
+    "sub_klasifikasi": "Jasa Penyedia Layanan Berbasis Satelit"
+  },
+  {
+    "no": 529,
+    "kode": "5.05.08",
+    "sub_klasifikasi": "Jasa Pemeliharaan Perangkat Lunak"
+  },
+  {
+    "no": 530,
+    "kode": "5.05.08.06",
+    "sub_klasifikasi": "Jasa Pemeliharaan Perangkat Lunak: Pemeliharaan Networking Product"
+  },
+  {
+    "no": 531,
+    "kode": "5.05.08.08",
+    "sub_klasifikasi": "Jasa Pemeliharaan Perangkat Lunak: Pemelihara Perangkat Sistem Informasi Khusus"
+  },
+  { "no": 532, "kode": "5.06.", "sub_klasifikasi": "Jasa Bidang Transportasi" },
+  { "no": 533, "kode": "5.06.01", "sub_klasifikasi": "Angkutan Barang Darat" },
+  { "no": 534, "kode": "5.06.02", "sub_klasifikasi": "Angkutan Barang Laut" },
+  { "no": 535, "kode": "5.06.03", "sub_klasifikasi": "Angkutan Barang Udara" },
+  { "no": 536, "kode": "5.06.04", "sub_klasifikasi": "Angkutan Multi Moda" },
+  { "no": 537, "kode": "5.06.05", "sub_klasifikasi": "VIDE 5.06.17 S/D 19" },
+  { "no": 538, "kode": "5.06.06", "sub_klasifikasi": "VOID" },
+  { "no": 539, "kode": "5.06.07", "sub_klasifikasi": "Angkutan Untuk BBM" },
+  {
+    "no": 540,
+    "kode": "5.06.08",
+    "sub_klasifikasi": "Jasa Peluncuran Satelit"
+  },
+  {
+    "no": 541,
+    "kode": "5.06.09",
+    "sub_klasifikasi": "Jasa Pengepakan, Ekspedisi dan Pengurusan Kepabeanan"
+  },
+  {
+    "no": 542,
+    "kode": "5.06.10",
+    "sub_klasifikasi": "Jasa Bongkar Muat Barang"
+  },
+  { "no": 543, "kode": "5.06.11", "sub_klasifikasi": "VIDE 5.06.20 S/D 23" },
+  { "no": 544, "kode": "5.06.12", "sub_klasifikasi": "VOID" },
+  {
+    "no": 545,
+    "kode": "5.06.13",
+    "sub_klasifikasi": "Jasa Pengiriman Ekspres"
+  },
+  {
+    "no": 546,
+    "kode": "5.06.14",
+    "sub_klasifikasi": "Penyewaan Alat Angkutan Darat"
+  },
+  {
+    "no": 547,
+    "kode": "5.06.15",
+    "sub_klasifikasi": "Penyewaan Alat Angkutan Laut"
+  },
+  {
+    "no": 548,
+    "kode": "5.06.16",
+    "sub_klasifikasi": "Penyewaan Alat Angkutan Udara"
+  },
+  {
+    "no": 549,
+    "kode": "5.06.17",
+    "sub_klasifikasi": "Angkutan Penumpang Melalui Darat"
+  },
+  {
+    "no": 550,
+    "kode": "5.06.18",
+    "sub_klasifikasi": "Angkutan Penumpang Melalui Laut"
+  },
+  {
+    "no": 551,
+    "kode": "5.06.19",
+    "sub_klasifikasi": "Angkutan Penumpang Melalui Udara"
+  },
+  {
+    "no": 552,
+    "kode": "5.06.20",
+    "sub_klasifikasi": "Pemeliharaan Alat Angkutan Darat"
+  },
+  {
+    "no": 553,
+    "kode": "5.06.21",
+    "sub_klasifikasi": "Pemeliharaan Alat Angkutan Laut, Termasuk Pemeliharaan dan Perbaikan Kapal dan Alat Apung Lainnya Serta Sarana Lepas Pantai"
+  },
+  {
+    "no": 554,
+    "kode": "5.06.22",
+    "sub_klasifikasi": "Pemeliharaan Alat Angkutan Udara"
+  },
+  {
+    "no": 555,
+    "kode": "5.06.23",
+    "sub_klasifikasi": "Pemeliharaan Alat Berat"
+  },
+  {
+    "no": 556,
+    "kode": "5.06.24",
+    "sub_klasifikasi": "Jasa Penyewaan Alat Genset"
+  },
+  {
+    "no": 557,
+    "kode": "5.06.25",
+    "sub_klasifikasi": "Jasa Penyewaan/ Rental Kendaraan Bermotor"
+  },
+  { "no": 558, "kode": "5.06.99", "sub_klasifikasi": "Subbidang Lainnya" },
+  { "no": 559, "kode": "5.07.", "sub_klasifikasi": "Jasa Bidang Lainnya" },
+  {
+    "no": 560,
+    "kode": "5.07.01",
+    "sub_klasifikasi": "Jasa Penyewaan Akomodasi, Perhotelan, Ruang MICE"
+  },
+  {
+    "no": 561,
+    "kode": "5.07.02",
+    "sub_klasifikasi": "Jasa Exportir dan Importir"
+  },
+  {
+    "no": 562,
+    "kode": "5.07.03",
+    "sub_klasifikasi": "Jasa Distribusi dan Pemasaran BBM, Petrokimia dan Pelumas"
+  },
+  {
+    "no": 563,
+    "kode": "5.07.04",
+    "sub_klasifikasi": "Jasa Penyewaan Peralatan Kerja dan Peralatan Produksi"
+  },
+  {
+    "no": 564,
+    "kode": "5.07.05",
+    "sub_klasifikasi": "Jasa Penyewaan Peralatan Kerja Konstruksi"
+  },
+  {
+    "no": 565,
+    "kode": "5.07.06",
+    "sub_klasifikasi": "Jasa Penyewaan Alat Berat"
+  },
+  {
+    "no": 566,
+    "kode": "5.07.07",
+    "sub_klasifikasi": "Jasa Penyelaman Atau Pekerjaan Bawah Air"
+  },
+  {
+    "no": 567,
+    "kode": "5.07.08",
+    "sub_klasifikasi": "Jasa Asuransi dan Usaha Penunjang"
+  },
+  {
+    "no": 568,
+    "kode": "5.07.09",
+    "sub_klasifikasi": "VIDE 5.07.14 S/D 5.07.16"
+  },
+  {
+    "no": 569,
+    "kode": "5.07.10",
+    "sub_klasifikasi": "Iklan, Film dan Pemotretan"
+  },
+  { "no": 570, "kode": "5.07.10.01", "sub_klasifikasi": "Periklanan" },
+  { "no": 571, "kode": "5.07.10.02", "sub_klasifikasi": "Film dan Pemotretan" },
+  {
+    "no": 572,
+    "kode": "5.07.11",
+    "sub_klasifikasi": "Jasa Penulisan dan Penerjemahan"
+  },
+  {
+    "no": 573,
+    "kode": "5.07.12",
+    "sub_klasifikasi": "Penyediaan Tenaga Kerja"
+  },
+  {
+    "no": 574,
+    "kode": "5.07.12.01",
+    "sub_klasifikasi": "Penyedia Tenaga Kerja Lokal"
+  },
+  {
+    "no": 575,
+    "kode": "5.07.12.02",
+    "sub_klasifikasi": "Penyedia Tenaga Kerja Keamanan/Security"
+  },
+  {
+    "no": 576,
+    "kode": "5.07.12.03",
+    "sub_klasifikasi": "Pendidikan Keterampilan tenaga keamanan/security"
+  },
+  {
+    "no": 577,
+    "kode": "5.07.12.04",
+    "sub_klasifikasi": "Jasa Kawal Uang dan Barang Berharga"
+  },
+  {
+    "no": 578,
+    "kode": "5.07.12.05",
+    "sub_klasifikasi": "Penyedia Tenaga Ahli Bidang Pertambangan MIGAS"
+  },
+  {
+    "no": 579,
+    "kode": "5.07.12.06",
+    "sub_klasifikasi": "Penyedia Tenaga Kerja Asing"
+  },
+  {
+    "no": 580,
+    "kode": "5.07.12.07",
+    "sub_klasifikasi": "Pelatihan Ketrampilan/Kompetensi TKI sesuai standar luar negeri"
+  },
+  {
+    "no": 581,
+    "kode": "5.07.12.08",
+    "sub_klasifikasi": "Pemeriksaan Kesehatan (medical chek-up) TKI ke luar negeri"
+  },
+  {
+    "no": 582,
+    "kode": "5.07.12.09",
+    "sub_klasifikasi": "Jasa Penempatan Uang ke mesin ATM  (cash replacement-cash in transit)"
+  },
+  {
+    "no": 583,
+    "kode": "5.07.12.10",
+    "sub_klasifikasi": "Jasa Operator Call Center"
+  },
+  {
+    "no": 584,
+    "kode": "5.07.13",
+    "sub_klasifikasi": "Penyediaan Tenaga Kerja Inspeksi Teknik"
+  },
+  {
+    "no": 585,
+    "kode": "5.07.14",
+    "sub_klasifikasi": "Jasa Perawatan Komputer"
+  },
+  {
+    "no": 586,
+    "kode": "5.07.15",
+    "sub_klasifikasi": "Jasa Perawatan Alat Atau Peralatan Elektronik dan Telekomunikasi"
+  },
+  {
+    "no": 587,
+    "kode": "5.07.16",
+    "sub_klasifikasi": "Jasa Internet dan Jasa Jaringan"
+  },
+  {
+    "no": 588,
+    "kode": "5.07.17",
+    "sub_klasifikasi": "Jasa Perbaikan Atau Perawatan Alat Kesehatan, Kedokteran dan Laboratorium"
+  },
+  {
+    "no": 589,
+    "kode": "5.07.18",
+    "sub_klasifikasi": "Jasa Penerbitan (non pers)"
+  },
+  {
+    "no": 590,
+    "kode": "5.07.19",
+    "sub_klasifikasi": "Jasa Penyewaan Mesin Foto Copy"
+  },
+  {
+    "no": 591,
+    "kode": "5.07.20",
+    "sub_klasifikasi": "Jasa Design Interior / Exterior"
+  },
+  { "no": 592, "kode": "5.07.21", "sub_klasifikasi": "Jasa Design Grafis" },
+  { "no": 593, "kode": "5.07.22", "sub_klasifikasi": "Jasa Penyewaan Gudang" },
+  {
+    "no": 594,
+    "kode": "5.07.23",
+    "sub_klasifikasi": "Jasa Penyewaan Komputer"
+  },
+  {
+    "no": 595,
+    "kode": "5.07.24",
+    "sub_klasifikasi": "Jasa Pengelolaan Gedung"
+  },
+  {
+    "no": 596,
+    "kode": "5.07.25",
+    "sub_klasifikasi": "Jasa Pengurusan Dokumen/ Formalities dan Keimigrasian"
+  },
+  { "no": 597, "kode": "5.07.26", "sub_klasifikasi": "Jasa Parkir" },
+  {
+    "no": 598,
+    "kode": "5.07.27",
+    "sub_klasifikasi": "Jasa Pembuat Program Komputer"
+  },
+  {
+    "no": 599,
+    "kode": "5.07.28",
+    "sub_klasifikasi": "Jasa Penyedia layanan internet/ provider"
+  },
+  {
+    "no": 600,
+    "kode": "5.07.29",
+    "sub_klasifikasi": "Jasa Pemasangan dan perawatan pompa produksi"
+  },
+  {
+    "no": 601,
+    "kode": "5.07.30",
+    "sub_klasifikasi": "Jasa Pengisian dan perawatan tabung gas dan pemadam kebakaran"
+  },
+  {
+    "no": 602,
+    "kode": "5.07.31",
+    "sub_klasifikasi": "Jasa Pemindahan / Moving"
+  },
+  {
+    "no": 603,
+    "kode": "5.07.32",
+    "sub_klasifikasi": "jasa penyewaan mesin generator dan genset"
+  },
+  {
+    "no": 604,
+    "kode": "5.07.33",
+    "sub_klasifikasi": "jasa penyimpanan dan pengelolaan arsip/ data"
+  },
+  {
+    "no": 605,
+    "kode": "5.07.34",
+    "sub_klasifikasi": "jasa perwatan mesin ATM"
+  },
+  {
+    "no": 606,
+    "kode": "5.07.35",
+    "sub_klasifikasi": "penyewaan tanki bahan bakar"
+  },
+  {
+    "no": 607,
+    "kode": "5.07.36",
+    "sub_klasifikasi": "jasa keselamatan, kesehatan kerja dan lingkungan"
+  },
+  {
+    "no": 608,
+    "kode": "5.07.37",
+    "sub_klasifikasi": "jasa perawatan refrigerator"
+  },
+  {
+    "no": 609,
+    "kode": "5.07.38",
+    "sub_klasifikasi": "jasa pengawasan pengelasan"
+  },
+  {
+    "no": 610,
+    "kode": "5.07.39",
+    "sub_klasifikasi": "jasa pengelolaan gas beracun"
+  },
+  { "no": 611, "kode": "5.07.40", "sub_klasifikasi": "Jasa Pengelasan" },
+  {
+    "no": 612,
+    "kode": "5.07.40.01",
+    "sub_klasifikasi": "Jasa Pengelasan di Atas Air/ Darat"
+  },
+  {
+    "no": 613,
+    "kode": "5.07.40.02",
+    "sub_klasifikasi": "Jasa Pengelasan di Bawah Air"
+  },
+  { "no": 614, "kode": "5.07.99", "sub_klasifikasi": "Subbidang Lainnya" }
+]

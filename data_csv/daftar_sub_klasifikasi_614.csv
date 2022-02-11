@@ -1,0 +1,618 @@
+no,kode,sub_klasifikasi
+1,1.01.,Bidang Pengembangan Pertanian dan Pedesaan
+2,1.01.01,Prasarana Sosial dan Pengembangan/Partisipasi Masyarakat
+3,1.01.02,Kredit dan Kelembagaan Pertanian
+4,1.01.03,Perkebunan dan Mekanisasi Pertanian
+5,1.01.04,Pembibitan
+6,1.01.05,Pengendalian Hama/Penyakit Tanaman
+7,1.01.06,Peternakan
+8,1.01.07,Kehutanan
+9,1.01.08,Perikanan
+10,1.01.09,"Tanaman Keras, Tanaman Pangan, dan Produk Tanaman Lain"
+11,1.01.10,Konservasi dan Penghijauan
+12,1.01.99,Subbidang Lainnya
+13,1.02.,Bidang Transportasi
+14,1.02.01,Pengembangan Sarana Transportasi
+15,1.02.01.01,Survei Asal/Tujuan
+16,1.02.01.02,Peramalan Permintaan
+17,1.02.01.03,Permodelan
+18,1.02.01.04,Kebijakan dan Program Investasi
+19,1.02.02,Legislasi/Peraturan Bidang Transportasi
+20,1.02.03,Usaha Jasa Angkutan
+21,1.02.03.01,Peraturan Usaha Jasa Angkutan
+22,1.02.03.02,Pengelolaan dan Pengembangan Organisasi Usaha Angkutan
+23,1.02.03.03,"Analisa Keuangan, Perhitungan Harga Pokok dan Penetapan Tarif"
+24,1.02.99.,Subbidang Lainnya
+25,1.03.,Bidang Telematika
+26,1.03.01,Jasa Konsultan dan Telekomunikasi Darat
+27,1.03.01.01,Sentral
+28,1.03.01.02,Transmisi
+29,1.03.01.03,Jaringan Telekomunikasi
+30,1.03.01.04,Teknologi dan Sistem Informasi
+31,1.03.01.05,Networking
+32,1.03.01.06,Sistem Pemancar dan Penerima Radio dan televisi
+33,1.03.01.07,Kontrol dan Instrumen
+34,1.03.02,Jasa Konsultan Telekomunikasi Satelit
+35,1.03.02.01,Sentral
+36,1.03.02.02,Transmisi
+37,1.03.02.03,Jaringan Telekomunikasi
+38,1.03.02.04,Tegnologi dan Sistem Informasi
+39,1.03.02.05,Networking
+40,1.03.02.06,Sistem Pemancar dan Penerima Radio dan Televisi
+41,1.03.02.07,Kontrol dan Instrumen
+42,1.03.02.08,Jasa Konsultansi Sistem Sinyal dan Telekomunikasi
+43,1.03.03,Jasa Konsultan Perangkat Keras
+44,1.03.03.01,Jasa Konsultan Perangkat Keras: Komputer
+45,1.03.03.02,Peripheral
+46,1.03.03.03,projector Multimedia
+47,1.03.03.04,Input Devices
+48,1.03.03.05,Alat Penyimpan Data
+49,1.03.03.06,Networking Product
+50,1.03.03.07,Perangkat Sistem Informasi khusus
+51,1.03.04,Jasa Konsultan Konten
+52,1.03.04.01,Konten Distance Learning
+53,1.03.04.02,Konten Program TV Interactive
+54,1.03.04.03,Konten Program Multimedia
+55,1.03.04.04,Konten Program Portal
+56,1.03.05,Jasa Konsultan Aplikasi
+57,1.03.05.01,Jasa Konsultan: Aplikasi Komputer
+58,1.03.05.02,Aplikasi Komunikasi
+59,1.03.05.03,Aplikasi Telemetrik
+60,1.03.05.04,Jasa Konsultan: Aplikasi GIS
+61,1.03.05.05,Aplikasi GPS
+62,1.03.06,Jasa Konsultan Perangkat Lunak
+63,1.03.06.01,Jasa Konsultan Perangkat Lunak: Komputer
+64,1.03.06.02,Jasa Konsultan Perangkat Lunak: Peripheral
+65,1.03.06.05,Jasa Konsultan Perangkat Lunak: Alat Penyimpanan Data
+66,1.03.06.06,Jasa Konsultan Perangkat Lunak: Networking Product
+67,1.03.99,Sub Bidang Lainnya
+68,1.04.,Bidang Kepariwisataan
+69,1.04.01,"Permintaan, Aspek Transportasi dan Studi Dampak Pariwisata"
+70,1.04.02,Penyiapan dan Implementasi Proyek Wisata
+71,1.04.03,Pengelolaan Fasilitas Wisata
+72,1.04.04,"Museum, Benda-Benda Sejarah, Margasatwa,
+Kerajinan dan Lain-lain"
+73,1.04.99,Subbidang Lainnya
+74,1.05.,Bidang Perindustrian dan Pertambangan
+75,1.05.01,Ekonomi Pemasaran dan Ekplorasi Mineral
+76,1.05.02,Tegnologi Mineral
+77,1.05.03,Komoditi dan Ekploitasi Mineral
+78,1.05.04,Perindustrian
+79,1.05.04.01,"Ekonomi Industri, Analisa Kebijakan dan
+Perencanaan Pendanaan"
+80,1.05.04.02,"Pengembangan, Teknologi dan Penelitian
+Industri"
+81,1.05.04.03,Efisiensi Industri
+82,1.05.04.04,Pengembangan Kawasan Industri
+83,1.05.04.05,Pengelolaan Ekspor dan Perdagangan Bebas
+84,1.05.04.06,Industri Kecil dan Menengah
+85,1.05.05,"Hasil-Hasil Industri, Pola Perdagangan dan Pemasaran"
+86,1.05.06,Agroindustri
+87,1.05.07,Industri Tekstil Barang Jadi Dari Tekstil
+88,1.05.08,Industri Bahan Kimia
+89,1.05.09,Industri Karet dan Plastik
+90,1.05.10,Industri Kulit dan Barang Jadi Dari Kulit
+91,1.05.11,Industri Mineral Non Logam
+92,1.05.12,Industri Logam Dasar
+93,1.05.13,Produk Logam
+94,1.05.14,Mesin dan Perlengkapannya
+95,1.05.15,"Mesin Listrik, Peralatan Listrik dan Elektronik dan Perlengkapannya"
+96,1.05.99,Subbidang Lainnya
+97,1.06.,Bidang Energi
+98,1.06.01,Ekonomi dan Konservasi Energi
+99,1.06.02,Minyak dan Gas
+100,1.06.03,"Batubara, Lignite dan Anthracite"
+101,1.06.04,Energi Baru dan Terbarukan
+102,1.07.,Bidang Keuangan
+103,1.07.01,Bank Sentral
+104,1.07.02,Bank Komersial
+105,1.07.03,Bank Pembangunan
+106,1.07.04,Bank Dagang
+107,1.07.05,Pasar Uang
+108,1.07.06,Manajemen Pasar Modal dan Bursa Efek
+109,1.07.07,Manajemen Lembaga Keuangan Non-Bank
+110,1.07.08,Pembelanjaan Sektor Pemerintah
+111,1.07.09,Manajemen Keuangan Perusahaan
+112,1.07.10,Manajemen Investasi dan Portofolio
+113,1.07.11,Void
+114,1.07.12,Pengawasan dan Regulasi Sektor Keuangan
+115,1.07.99,Subbidang Lainnya
+116,1.08.,Bidang Pendidikan
+117,1.08.01,Sistem dan Evaluasi Pendidikan
+118,1.08.02,Organisasi/Administrasi Sekolah
+119,1.08.03,Pengembangan Kurikulum dan Peralatan Pendidikan
+120,1.08.04,"Bahan, Media dan Teknik Pendidikan"
+121,1.08.99,Subbidang Lainnya
+122,1.09.,Bidang Kesehatan
+123,1.09.01,Sistem/Organisasi Kesehatan
+124,1.09.02,"Pelayanan Medik, Kesehatan Kerja, Nutrisi dan Farmasi"
+125,1.09.03,Pengembangan Tenaga Medis
+126,1.09.04,Kesehatan Masyarakat dan Penelitian Kesehatan
+127,1.09.99,Subbidang Lainnya
+128,1.10.,Bidang Kependudukan
+129,1.10.01,Program Kependudukan dan Program Pengembangan Peran Wanita
+130,1.10.02,Organisasi Program Kependudukan
+131,1.10.03,Sistem Pelayanan Keluarga Berencana
+132,1.10.04,Tenaga Medis Pelayanan Keluarga Berencana
+133,1.10.05,"Penyuluhan, Pendidikan dan Komunikasi"
+134,1.10.06,"Pemantauan, Evaluasi dan Penelitian"
+135,1.10.99,Subbidang Lainnya
+136,1.11.,Bidang Rekayasa Industri
+137,1.11.01,Rekayasa Industri Transportasi
+138,1.11.02,Rekayasa Industri Telekomunikasi
+139,1.11.03,Rekayasa Industri Teknologi Informasi
+140,1.11.04,Rekayasa Industri Mekanik
+141,1.11.05,Rekayasa Industri Pengelolaan
+142,1.11.06,Rekayasa Industri Bioteknologi
+143,1.11.99,Subbidang Rekayasa Lainnya
+144,1.MS.00,Jasa Konsultan Manajemen
+145,1.MS.01,Perencanaan Sistem Akuntansi
+146,1.MS.02,Pelatihan dan Pengembangan SDM
+147,1.MS.03,Konsultansi Manajemen Fungsional
+148,1.MS.04,Konsultansi Hukum Bisnis
+149,1.MS.05,Jasa Bantuan Teknik Manajemen
+150,1.MS.06,Konsultansi Manajemen Personalia
+151,1.MS.07,Jasa Konsultansi Bidang Keamanan
+152,1.MS.08,Jasa Konsultansi Penerapan Alat Keamanan
+153,1.MS.09,Konsultansi Pendidikan dan Pelatihan Manajemen
+154,1.MS.09.01,Konsultansi Diklat Manajemen Mutu
+155,1.MS.09.02,Konsultansi Diklat Manajemen Lingkungan
+156,1.MS.09.03,Konsultansi Diklat Manajemen Keselamtan dan Kesehatan Kerja
+157,1.MS.09.04,Konsultansi Diklat Manajemen Resiko
+158,1.MS.09.05,Konsultansi Diklat Manajemen Aset
+159,1.MS.09.06,Konsultansi Diklat Manajemen Sumber Daya Manusia
+160,1.SC.00,Jasa Khusus
+161,1.SC.01,Jasa Teknologi dan Sistem Informasi
+162,1.SC.02,Jasa Penilai /Appraisal/ Valuer
+163,1.SC.03,Jasa Surveyor Independen
+164,1.SC.04,Jasa Sertifikasi
+165,1.SC.05,Jasa Inspeksi Teknik
+166,1.SC.06,Jasa Kehumasan
+167,1.SI.00,"Jasa Studi, Penelitian dan Bantuan Teknik"
+168,1.SI.01,Studi Makro
+169,1.SI.02,Studi Kelayakan dan Studi Mikro Lainnya
+170,1.SI.03,Studi Perencanaan Umum
+171,1.SI.04,Jasa Penelitian
+172,1.SI.05,Jasa Bantuan Teknik Studi dan Penelitian
+173,1.SI.06,Jasa Pengelolaan dan Analisia Dampak Lingkungan
+174,1.SS.00,Jasa Survey
+175,1.SS.01,Survey Teristis
+176,1.SS.02,"Penginderaan Jauh, Fotogrametri"
+177,1.SS.03,"Survey Hidrografi, Batimertri"
+178,1.SS.04,Sistem Informasi Geografi
+179,1.SS.05,Survey Registrasi Kepemilikan Tanah/Kadastral
+180,1.SS.06,Survey Geologi
+181,1.SS.07,Survey Pertanian
+182,1.SS.08,Survey Tanah
+183,1.SS.09,Survey Pemetaan
+184,1.SS.09.01,Pemetaan Topografi
+185,1.SS.09.02,Pemetaan Udara/ Satelit
+186,1.SS.18,Survey Oseanografi
+187,2.01.,"Bidang Logam, Kayu dan Plastik"
+188,2.01.01,Pembangunan Kapal dan Alat Apung Lainnya Serta Sarana Lepas Pantai
+189,2.01.02,Pengangkatan Kerangka (Salvage) Kapal dan Alat Apung Lainnya serta sarana Lepas Pantai
+190,2.01.03,Pemotongan Kapal (Ship Breaking) dan Alat Apung Lainnya Serta Sarana Lepas Pantai
+191,2.01.04,"Karoseri, Peti kemas (Container) dan Lain-Lain"
+192,2.01.05,"Pengecoran Logam (Foundry) dan Pembentukan Logam (Forging, Casting, dan Lainnya)"
+193,2.01.06,"Produk Kayu dan Rotan, Serta Pengawetannya"
+194,2.01.07,"Bahan Baku dan Produk Plastik, Serta Kompositnya"
+195,2.01.08,"Pembuatan Mesin dan Peralatan Industri, Mekanikal dan Elektrikal"
+196,2.01.99,Subbidang Lainnya
+197,2.02.,"Bidang Pertanian, Tanaman Pangan, Perkebunan, Peternakan, Perikanan, dan Kehutanan"
+198,2.02.01,"Proses Pembibitan Pembenihan Tanaman Pangan, Perkebunan, Peternakan, Perikanan, dan Kehutanan"
+199,2.02.01.01,"Pembibitan Tanaman Pangan, Perkebunan"
+200,2.02.01.02,Pembenihan Peternakan
+201,2.02.01.03,Pembibitan Perikanan
+202,2.02.01.04,Pembibitan Pembenihan Perikanan
+203,2.02.02,Reboisasi
+204,2.02.03,Pembukaan dan Pengolahan Lahan
+205,2.02.04,Pengolahan Hasil ertanian
+206,2.02.05,Pengolahan Hasil Peternakan dan Perikanan
+207,2.02.06,Pengolahan Hasil Perkebunan
+208,2.02.07,Pengolahan Hasil Hutan
+209,2.02.99,Subbidang Lainnya
+210,2.03.,Bidang Pertambangan Umum
+211,2.03.01,Eksplorasi Pertambangan
+212,2.03.02,Penguapan
+213,2.03.03,Penggalian/Penambangan
+214,2.03.04,Pengolahan Pemurnian
+215,2.03.99,Subbidang Lainnya
+216,2.04.,"Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+217,2.04.01,Pemboran
+218,2.04.02,Pemboran Berarah
+219,2.04.03,Pengukuran Kemiringan Sumur
+220,2.04.04,Pemboran Inti
+221,2.04.05,Pekerjaan Pancing
+222,2.04.06,Mud Logging
+223,2.04.07,Well Logging dan Perforating
+224,2.04.08,Penyemanan Sumur
+225,2.04.09,Pengujian Lapis Bawah Tanah
+226,2.04.10,Pengujian Produksi Sumur
+227,2.04.11,Stimulasi Sumur dan Penambangan Sekunder
+228,2.04.12,Perawatan Sumur
+229,2.04.13,Pemboran Hidrolik
+230,2.04.14,Pekerjaan Ulang/ Work Over
+231,2.04.15,Pemboran Seismik
+232,2.04.16,Pelayanan Casing dan Tubing
+233,2.04.17,Mud Engineering
+234,2.04.18,Perawatan Fasilitas Produksi
+235,2.04.30,Pengelolaan Limbah Produksi
+236,2.04.30.01,Pengelolaan Limbah Air Terproduksi
+237,2.04.30.02,Pengelolaan Limbah Sludge
+238,2.04.30.03,Pengelolaan Limbah B3 (Bahan Berbahaya Beracun)
+239,2.04.40,Pelayanan Penyelaman (Diving Services)
+240,2.04.99,Subbidang Lainnya
+241,2.05.,Bidang Telematika
+242,2.05.01,Jasa Teknologi Informasi
+243,2.05.02,Komunikasi Multimedia
+244,2.05.03,Telekomunikasi
+245,2.05.04,Navigasi
+246,2.05.05,Kontrol dan Instrumentasi
+247,2.05.06,Penginderaan Jauh ( remote Sensing )
+248,2.05.07,Jasa Pemborongan Telekomunikasi Darat
+249,2.05.07.01,Sentral
+250,2.05.07.02,Transmisi
+251,2.05.07.03,Jaringan Telekomunikasi
+252,2.05.07.04,Teknologi dan Sistem Informasi
+253,2.05.07.05,Networking
+254,2.05.07.06,Sistem Pemancardan Penerima Radio dan Televisi
+255,2.05.07.07,Kontrol dan Instrumen
+256,2.05.08,Jasa Pemborongan Telekomunikasi Satelit
+257,2.05.08.01,Sentral
+258,2.05.08.02,Transmisi
+259,2.05.08.03,Jaringan Telekomunikasi
+260,2.05.08.04,Teknologi dan Sistem Informasi
+261,2.05.08.05,Networking
+262,2.05.08.06,Sistem Pemancar dan Penerima Radio dan Televisi
+263,2.05.08.07,Kontrol dan Instrumen
+264,2.05.09,Jasa Pemborongan Perangkat Keras
+265,2.05.09.01,Komputer
+266,2.05.09.02,Printer
+267,2.05.09.03,Projector Multimedia
+268,2.05.09.04,Input Devices
+269,2.05.09.05,Alat Penyimpan Data
+270,2.05.09.06,Networking Product
+271,2.05.09.07,Accessoris Supplies
+272,2.05.09.08,Perangkat Sistem Informasi khusus
+273,2.05.10,Jasa Pengembangan Konten
+274,2.05.10.01,Konten Distance Learning
+275,2.05.10.02,Konten Program TV Interactive
+276,2.05.10.03,Konten Program Multimedia
+277,2.05.10.04,Konten Program Portal
+278,2.05.11,Jasa Pengembang Aplikasi
+279,2.05.11.01,Jasa Pengembang Aplikasi Komputer
+280,2.05.11.02,Jasa Pengembang Aplikasi Komunikasi
+281,2.05.11.03,Aplikasi Telemetrik
+282,2.05.11.04,Aplikasi GIS
+283,2.05.11.05,Aplikasi GPS
+284,2.05.12.01,Jasa Pemborongan Perangkat Lunak: Komputer
+285,2.05.99,Subbidang Lainnya
+286,3.00.,Pemasokan Barang Semua Bidang
+287,3.00.01,Alat Atau Peralatan Atau Suku Cadang : Tulis
+288,3.00.02,Alat Atau Peralatan Atau Suku Cadang : Kantor dan Pergudangan
+289,3.00.03,Alat Atau Peralatan Atau Suku Cadang : Perlengkapan Pegawai
+290,3.00.04,Alat Atau Peralatan Atau Suku Cadang : Mekanikal dan Elektrikal Atau Listrik
+291,3.00.05,"Alat Atau Peralatan Atau Suku Cadang : Ukur, Survei, Laboratorium dan Timbangan Khusus"
+292,3.00.06,"Alat Teknik Pendidikan, Peragaan. Visualisasi, Olahraga dan Kesenian"
+293,3.00.07,Alat Atau Peralatan Furniture
+294,3.00.08,Alat Atau Peralatan Kerajinan
+295,3.00.09,Alat Atau Peralatan Atau Suku Cadang : Alat Berat
+296,3.00.10,Alat Atau Peralatan Atau Suku Cadang : Keselamatan Kerja dan Pemadam Kebakaran
+297,3.00.11,Alat Atau Peralatan Atau Suku Cadang : Komputer
+298,3.00.12,Cat
+299,3.00.13,"Bahan Bakar, Pelumas dan Minyak"
+300,3.00.14,Bahan Pangan
+301,3.00.15,Bahan Kemasan
+302,3.00.16,"Buku Bacaan, Buku Pelajaran dan Jurnal Berkala"
+303,3.00.17,Tekstil dan Produk Tekstil
+304,3.00.18,Perabotan Rumah Tangga
+305,3.00.19,Alat/ Peralatan/ Suku Cadang: Mesin Anjungan Tunai Mandiri (ATM)
+306,3.00.20,Alat/ Peralatan/ Suku Cadang: energi baru dan terbarukan
+307,3.00.21,Batu Bara
+308,3.00.22,Aspal
+309,3.00.23,Alat/ Peralatan/ Suku Cadang: Air Conditioner (AC) dan Pengoperasiannya
+310,3.00.24,Tabung Gas
+311,3.00.25,Biji Plastik
+312,3.00.26,Wallpaper dan Karpet
+313,3.00.27,Alat/ Peralatan/ Suku Cadang: Mesin Las
+314,3.00.28,Kawat Las
+315,3.00.29,Air Minum Dalam Kemasan
+316,3.00.30,Makanan Tambahan Untuk Bayi
+317,3.00.31,Alat/ Peralatan/ Suku Cadang Terbuat Dari Karet
+318,3.00.32,"Alat/ Peralatan/ Suku Cadang: Pesawat Angkat (Mobile Crane, Forklift, Overhead Crane, dll)"
+319,3.00.99,Subbidang Lainnya
+320,3.01.01,Alat Atau Peralatan Atau Suku Cadang: Alat Apung dan Sarana Lepas Pantai
+321,3.01.02,Alat atau Peralatan atau Suku Cadang: Kelautan dan Nelayan
+322,3.01.03,Usaha Kelautan dan Maritim
+323,3.01.06,"Alat/ Peralatan/ Suku Cadang: Pekerjaan Bawah Air (Remote Operated Vehicle (ROV), Pengelasan Bawah Air, Selam SSBA/SCUBA)"
+324,3.02.,Bidang Pertanian
+325,3.02.01,"Alat Atau Peralatan Atau Suku Cadang: Pertanian, Perkebunan. Petemakan. Perikanan, dan Kehutanan"
+326,3.02.02,Bahan Makanan Ternak
+327,3.02.03,Pestisida dan Obat Pertanian
+328,3.02.04,Pupuk
+329,3.02.05,"Bibit dan Usaha Pertanian, Perkebunan, Peternakan, Perikanan. dan Kehutanan"
+330,3.02.99,Subbidang Lainnya
+331,3.03.,Bidang Pertambangan Umum
+332,3.03.01,Alat Atau Peralatan Atau Suku Cadang Pemboran dan Paking
+333,3.03.02,Alat Atau Peralatan Atau Suku Cadang dan Mesin - Mesin
+334,3.03.03,Alat Atau Peralatan Atau Suku Cadang Angkutan dan Packing
+335,3.03.04,Kelengkapan Mesin dan Instrumentasi
+336,3.03.05,Alat - Alat Kerja
+337,3.03.06,"Alat Atau Peralatan Atau Suku Cadang: Turbin, Boiler, Selubung Sumur dan Pompa"
+338,3.03.09,Alat atau Peralatan atau Suku Cadang Alat Berat
+339,3.03.99,Subbidang Lainnya
+340,3.04.,"Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+341,3.04.01,"Alat/ Peralatan/ Suku Cadang: Pemboran dan Paking Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+342,3.04.02,"Alat/ Peralatan/ Suku Cadang dan Mesin-mesin Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+343,3.04.03,Alat Atau Peralatan Atau Suku Cadang Angkutan dan Packing
+344,3.04.04,Kelengkapan Mesin dan Instrumentasi
+345,3.04.05,"Alat Atau Peralatan Atau Suku Cadang Bangunan, Tangki dan Peralatan Bengkel"
+346,3.04.06,"Pipa, Katup, Sambungan dan Paking Serta Kelengkapannya"
+347,3.04.07,Alat - Alat Kerja
+348,3.04.08,Garam Industri dan Material Bahan Kimia Khusus Pemboran dan Fasilitas Produksinya
+349,3.04.09,Produksi dan Penyekatan
+350,3.04.11,"Alat/ Peralatan/ Suku Cadang: Turbin, Boiler, Selubung Sumur dan Pompa Bidang Pertambangan Minyak, Gas dan Panas Bumi"
+351,3.04.13,"Alat/ Peralatan Bawah Permukaan (Tubing, Packer, Liner, Mandrel, Sub-surface Safety)"
+352,3.04.99,Subbidang Lainnya
+353,3.05.,Bidang Telematika
+354,3.05.01,Teknologi Informasi
+355,3.05.02,Komunikasi Multimedia
+356,3.05.03,Telekomunikasi
+357,3.05.04,Kontrol dan Instrumentasi
+358,3.05.05,Jasa Pemosaok Telekomunikasi Darat
+359,3.05.05.01,Sentral
+360,3.05.05.02,Transmisi
+361,3.05.05.03,Jaringan Telekomunikasi
+362,3.05.05.04,Teknologi dan Sistem Informasi
+363,3.05.05.05,Networking
+364,3.05.05.06,Sistem Pemancar dan Penerima Radio dan Televisi
+365,3.05.05.07,Kontrol dan Instrumen
+366,3.05.06,Jasa Pemasok Telekomunikasi Satelit
+367,3.05.06.01,Sentral
+368,3.05.06.02,Transmisi
+369,3.05.06.03,Jaringan Telekomunikasi
+370,3.05.06.04,Teknologi dan Sistem Informasi
+371,3.05.06.05,Networking
+372,3.05.06.06,Sistem Pemancar dan Penerimas Radio dan Televisi
+373,3.05.06.07,Kontrol dan Instrumen
+374,3.05.07,Jasa Pemasok Perangkat Keras
+375,3.05.07.01,Komputer
+376,3.05.07.02,Printer
+377,3.05.07.03,Projector Multimedia
+378,3.05.07.04,Input Devices
+379,3.05.07.05,Alat Penyimpan Data
+380,3.05.07.06,Networking Product
+381,3.05.07.07,Accessoris dan Supplies
+382,3.05.07.08,Perangkat Sistem Informasi Khusus
+383,3.05.08,Jasa Pemasok Konten
+384,3.05.08.01,Konten Distance Learning
+385,3.05.08.02,Konten Program TV Interactive
+386,3.05.08.03,Konten Program Multimedia
+387,3.05.08.04,Konten program Portal
+388,3.05.09,Jasa Pemasok Aplikasi
+389,3.05.09.01,Aplikasi Komputer
+390,3.05.09.02,Aplikasi Komunikasi
+391,3.05.09.03,Aplikasi Telemetrik
+392,3.05.09.04,Aplikasi GIS
+393,3.05.09.05,Aplikasi GPS
+394,3.05.10,Jasa Pemasok Perangkat Lunak
+395,3.05.10.01,Jasa Pemasok Perangkat Lunak: Komputer
+396,3.05.10.02,Jasa Pemasok Perangkat Lunak: Printer
+397,3.05.10.03,Jasa Pemasok Perangkat Lunak: Projector Multimedia
+398,3.05.10.04,Jasa Pemasok Perangkat Lunak: Input Devices
+399,3.05.10.05,Jasa Pemasok Perangkat Lunak: Alat Penyimpan Data
+400,3.05.10.06,Jasa Pemasok Perangkat Lunak: Networking Product
+401,3.05.10.07,Jasa Pemasok Perangkat Lunak: Accecories dan Supplies
+402,3.05.10.08,Jasa Pemasok Perangkat Lunak: Perangkat Sistem Informasi Khusus
+403,3.05.99,Subbidang Lainnya
+404,3.06.,Bidang Perhubungan
+405,3.06.01,Alat Atau Peralatan Atau Suku Cadang Kendaraan Bermotor dan Pengujiannya
+406,3.06.02,Alat Atau Peralatan Atau Suku Cadang Kereta Api dan Pengujiannya
+407,3.06.03,Alat Atau Peralatan Atau Suku Cadang Pesawat Terbang dan Pengujiannya
+408,3.06.04,Alat Atau Peralatan Atau Suku Cadang Kapal Laut dan Kapal Penyeberangan dan Pengujiannya
+409,3.06.05,Alat Atau Peralatan Atau Suku Cadang  Atau Pendukung Kendaraan Militer atau Polisi
+410,3.06.06,Alat Atau Peralatan Atau Suku Cadang Keselamatan Angkutan Darat
+411,3.06.06.01,Alat/ Peralatan/ Suku Cadang: Keselamatan Jalan (Rambu-rambu Lalu Lintas dan Asesoris Jalan)
+412,3.06.07,Alat Atau Peralatan Atau Suku Cadang Keselamatan Angkutan Laut
+413,3.06.08,Alat Atau Peralatan Atau Suku Cadang Angkutan Udara
+414,3.06.09,Alat Atau Peralatan Atau Suku Cadang Untuk SAR dan Penyelaman
+415,3.06.10,"Alat Atau Peralatan Atau Suku Cadang : Radio, Telekomunikasi dan Elektronika"
+416,3.06.11,Alat Atau Peralatan Atau Suku Cadang : Pas
+417,3.06.12,Alat Atau Peralatan Atau Suku Cadang : Navigasi Laut
+418,3.06.13,Alat Atau Peralatan Atau Suku Cadang : Navigasi Udara
+419,3.06.14,"Alat Atau Peralatan Atau Suku Cadang : Meteorologi, Geofisika, Klimatologi, Hidrologi, Radio Cuaca ( Radio Sonde )"
+420,3.06.99,Subbidang Lainnya
+421,3.07.,Bidang Lain - Lainnya
+422,3.07.01,"Alat Atau Peralatan Atau Suku Cadang Kontruksi( Kompresor,Generator Dll,Bahan Bangunan dan logam)"
+423,3.07.02,Alat Atau Peralatan Atau Suku Cadang Serta Perlengkapan Listrik Untuk Pembangkit Listrik
+424,3.07.02.01,Pembangkit Listrik
+425,3.07.02.02,Gardu Induk dan Gardu Distribusi
+426,3.07.02.03,Jaringan Transmisi dan Jaringan Distribusi
+427,3.07.02.04,Instalasi Pabrik
+428,3.07.02.05,Instalasi Bangunan Umum
+429,3.07.03,Alat Atau Peralatan Atau Suku Cadang : Instalasi Atau Distribusi Zat Cair dan Gas
+430,3.07.03.01,Alat/peralatan/suku cadang Instalasi Distribusi : Air Bersih dan Air Limbah
+431,3.07.04,Alat Atau Peralatan Atau Suku Cadang Senjata Api dan Amunisi
+432,3.07.05,Alat Atau Peralatan Atau Suku Cadang Bahan Peledak dan Airoteknik
+433,3.07.06,"Alat Atau Peralatan Atau Suku Cadang Kesehatan, Laboratorium Kesehatan, Kedokteran dan Reagensia"
+434,3.07.07,"Bahan Kimia, Bahan Baku Obat, Obat Jadi dan Farmasi"
+435,3.07.08,Alat Atau Peralatan Atau Suku Cadang Atau Pendukung senjata Militer dan Polisi
+436,3.07.09,Bahan Kimia Lainnya
+437,3.07.09.12,Bahan Kimia Pencegahan Korosi Logam dan Lainnya
+438,3.07.10,"Alat/ Peralatan: keamanan (diluar/selain senjata api, bahan peledak dan sejenisnya) / safety tool."
+439,3.07.99,Subbidang Lainnya
+440,4.00.,Bidang Jasa Real Estate
+441,4.00.01,Perumahan dan Pemukiman
+442,4.00.01.01,Perumahan
+443,4.00.01.02,Rumah Susun
+444,4.00.01.03,Kawasan Perumahan
+445,4.00.02,Pengembangan Properti
+446,4.00.02.01,Gedung Atau Ruang Perkantoran
+447,4.00.02.02,Gedung atau Ruang Perbelanjaan dan Pertokoan
+448,4.00.02.03,Kawasan Rekreasi
+449,4.00.02.04,Kawasan Agro Estate
+450,4.00.02.05,"Kawasan Atau Gedung Peristirahatan, Villa Atau Resort"
+451,4.00.03,Pengembangan Kawasan industri
+452,4.00.03.01,Gedung atau Ruang Industri
+453,4.00.03.02,Gedung Pergudangan
+454,4.00.04,Manajemen Properti
+455,4.00.05,Jasa perantara ( Brokerage ) Real Estate dan Properti
+456,4.00.99,Subbidang Lainnya
+457,5.00.,Jasa Semua Bidang
+458,5.00.01,"Penyelenggaraan Promosi MICE ( Meeting, Incentive, Convention and Exhibition)"
+459,5.00.01.01,Penyelenggaraan Pertemuan ( Meeting )
+460,5.00.01.02,Penyelenggaraan Incentive
+461,5.00.01.03,Penyelenggaraan Konvensi (Convention)
+462,5.00.01.04,Penyelenggaraan Pameran (Exhibition)
+463,5.00.01.05,Pengurusan Pengiriman Barang Pameran
+464,5.00.01.06,Penyediaan dan Pemasangan Stand Pameran
+465,5.00.01.07,Penyediaan Barang Atau Jasa Pendukung MICE
+466,5.00.01.08,Profesional Convention Organizer (PCO)
+467,5.00.01.09,Event Organizer
+468,5.00.02,Percetakan
+469,5.00.03,Pemeliharaan dan Peralatan Kantor
+470,5.00.04,"Pemeliharaan Alat Pustaka, Termasuk Pemeliharaan Barang Awetan Flora dan Fauna"
+471,5.00.05,"Pemeliharaan Barang dan Peralatan Mekanikal, mesin-mesin, Elektrikal dan Elektronika"
+472,5.00.06,"Jasa Pembersih, Pest Control, Termite Control, Fumigasi"
+473,5.00.06.01,Pembersih
+474,5.00.06.02,Jasa Pest Control
+475,5.00.06.03,Jasa Termite Control
+476,5.00.06.04,Jasa Fumigasi
+477,5.00.06.05,Jasa Perawatan Taman Landscape
+478,5.00.07,Penjahit dan Konveksi
+479,5.00.08,Jasa Boga
+480,5.00.10,Jasa Pemeliharaan Alat/ Peralatan Suku Cadang Energi Baru dan Terbarukan
+481,5.00.99,Subbidang Lainnya
+482,5.01.,Jasa Bidang Industri
+483,5.01.01,Jasa Pengolahan Panas dan Permukaan Logam (Heat and Surface Treatment)
+484,5.01.02,Jasa Pengujian dan Kalibrasi
+485,5.01.03,Jasa Pemeliharaan dan Reparasi Mesin dan Peralatan Industri
+486,5.01.99,Subbidang Lainnya
+487,5.04.,Jasa Bidang Pertambangan Minyak dan Gas Bumi
+488,5.04.01,Jasa Perawatan Pekerjaan Minyak dan Gas Bawah Air
+489,5.04.99,Subbidang Lainnya
+490,5.05.,Jasa Bidang Telematika
+491,5.05.01,Jasa Pemelihara Telekomunikasi Darat
+492,5.05.01.01,Pemelihara Sentral
+493,5.05.01.02,Pemelihara Transmisi
+494,5.05.01.03,Pemelihara Jaringan Telekomunikasi
+495,5.05.01.04,Pemelihara Teknologi dan Sistem Informasi
+496,5.05.01.05,Pemelihara Networking
+497,5.05.01.06,Pemelihara Sistem Pemancar dan Penerima Radio dan Televisi
+498,5.05.01.07,Pemelihara Kontrol dan Instrumen
+499,5.05.02,Jasa Pemelihara Telekomunikasi Satelit
+500,5.05.02.01,Pemelihara Sentral
+501,5.05.02.02,Pemelihara Transmisi
+502,5.05.02.03,Pemelihara Jaringan Telekomunikasi
+503,5.05.02.04,Pemelihara Teknologi dan Sistem Informasi
+504,5.05.02.05,Pemelihara Networking
+505,5.05.02.06,Pemelihara Sistem Pemancar dan Penerima Radio dan Televisi
+506,5.05.02.07,Pemelihara Kontrol dan Instrumen
+507,5.05.03,Jasa Pemeliharaan Perangkat Keras
+508,5.05.03.01,Pemelihara Komputer
+509,5.05.03.02,Pemelihara Printer
+510,5.05.03.03,Pemelihara Projector Multimedia
+511,5.05.03.04,Pemelihara Input Devices
+512,5.05.03.05,Pemelihara Alat Penyimpan Data
+513,5.05.03.06,Pemelihara Networking Product
+514,5.05.03.07,Pemelihara Accessoris dan Supplies
+515,5.05.03.08,Pemelihara Perangkat Sistem Informasi Khusus
+516,5.05.04,Jasa Pemeliharaan Konten
+517,5.05.04.01,Pemelihara Konten Distance Learning
+518,5.05.04.02,Pemelihara Konten Program TV Interactive
+519,5.05.04.03,Pemelihara Konten Program Multimedia
+520,5.05.04.04,Pemelihara Konten Program Portal
+521,5.05.05,Jasa Pemelihara Aplikasi
+522,5.05.05.01,Jasa Pemelihara Aplikasi Komputer
+523,5.05.05.02,Pemelihara Aplikasi Komunikasi
+524,5.05.05.03,Pemelihara Aplikasi Telemetrik
+525,5.05.05.04,Pemelihara Aplikasi GIS
+526,5.05.05.05,Pemelihara Aplikasi GPS
+527,5.05.06,Jasa Penyedia Jaringan Satelit
+528,5.05.07,Jasa Penyedia Layanan Berbasis Satelit
+529,5.05.08,Jasa Pemeliharaan Perangkat Lunak
+530,5.05.08.06,Jasa Pemeliharaan Perangkat Lunak: Pemeliharaan Networking Product
+531,5.05.08.08,Jasa Pemeliharaan Perangkat Lunak: Pemelihara Perangkat Sistem Informasi Khusus
+532,5.06.,Jasa Bidang Transportasi
+533,5.06.01,Angkutan Barang Darat
+534,5.06.02,Angkutan Barang Laut
+535,5.06.03,Angkutan Barang Udara
+536,5.06.04,Angkutan Multi Moda
+537,5.06.05,VIDE 5.06.17 S/D 19
+538,5.06.06,VOID
+539,5.06.07,Angkutan Untuk BBM
+540,5.06.08,Jasa Peluncuran Satelit
+541,5.06.09,"Jasa Pengepakan, Ekspedisi dan Pengurusan Kepabeanan"
+542,5.06.10,Jasa Bongkar Muat Barang
+543,5.06.11,VIDE 5.06.20 S/D 23
+544,5.06.12,VOID
+545,5.06.13,Jasa Pengiriman Ekspres
+546,5.06.14,Penyewaan Alat Angkutan Darat
+547,5.06.15,Penyewaan Alat Angkutan Laut
+548,5.06.16,Penyewaan Alat Angkutan Udara
+549,5.06.17,Angkutan Penumpang Melalui Darat
+550,5.06.18,Angkutan Penumpang Melalui Laut
+551,5.06.19,Angkutan Penumpang Melalui Udara
+552,5.06.20,Pemeliharaan Alat Angkutan Darat
+553,5.06.21,"Pemeliharaan Alat Angkutan Laut, Termasuk Pemeliharaan dan Perbaikan Kapal dan Alat Apung Lainnya Serta Sarana Lepas Pantai"
+554,5.06.22,Pemeliharaan Alat Angkutan Udara
+555,5.06.23,Pemeliharaan Alat Berat
+556,5.06.24,Jasa Penyewaan Alat Genset
+557,5.06.25,Jasa Penyewaan/ Rental Kendaraan Bermotor
+558,5.06.99,Subbidang Lainnya
+559,5.07.,Jasa Bidang Lainnya
+560,5.07.01,"Jasa Penyewaan Akomodasi, Perhotelan, Ruang MICE"
+561,5.07.02,Jasa Exportir dan Importir
+562,5.07.03,"Jasa Distribusi dan Pemasaran BBM, Petrokimia dan Pelumas"
+563,5.07.04,Jasa Penyewaan Peralatan Kerja dan Peralatan Produksi
+564,5.07.05,Jasa Penyewaan Peralatan Kerja Konstruksi
+565,5.07.06,Jasa Penyewaan Alat Berat
+566,5.07.07,Jasa Penyelaman Atau Pekerjaan Bawah Air
+567,5.07.08,Jasa Asuransi dan Usaha Penunjang
+568,5.07.09,VIDE 5.07.14 S/D 5.07.16
+569,5.07.10,"Iklan, Film dan Pemotretan"
+570,5.07.10.01,Periklanan
+571,5.07.10.02,Film dan Pemotretan
+572,5.07.11,Jasa Penulisan dan Penerjemahan
+573,5.07.12,Penyediaan Tenaga Kerja
+574,5.07.12.01,Penyedia Tenaga Kerja Lokal
+575,5.07.12.02,Penyedia Tenaga Kerja Keamanan/Security
+576,5.07.12.03,Pendidikan Keterampilan tenaga keamanan/security
+577,5.07.12.04,Jasa Kawal Uang dan Barang Berharga
+578,5.07.12.05,Penyedia Tenaga Ahli Bidang Pertambangan MIGAS
+579,5.07.12.06,Penyedia Tenaga Kerja Asing
+580,5.07.12.07,Pelatihan Ketrampilan/Kompetensi TKI sesuai standar luar negeri
+581,5.07.12.08,Pemeriksaan Kesehatan (medical chek-up) TKI ke luar negeri
+582,5.07.12.09,Jasa Penempatan Uang ke mesin ATM  (cash replacement-cash in transit)
+583,5.07.12.10,Jasa Operator Call Center
+584,5.07.13,Penyediaan Tenaga Kerja Inspeksi Teknik
+585,5.07.14,Jasa Perawatan Komputer
+586,5.07.15,Jasa Perawatan Alat Atau Peralatan Elektronik dan Telekomunikasi
+587,5.07.16,Jasa Internet dan Jasa Jaringan
+588,5.07.17,"Jasa Perbaikan Atau Perawatan Alat Kesehatan, Kedokteran dan Laboratorium"
+589,5.07.18,Jasa Penerbitan (non pers)
+590,5.07.19,Jasa Penyewaan Mesin Foto Copy
+591,5.07.20,Jasa Design Interior / Exterior
+592,5.07.21,Jasa Design Grafis
+593,5.07.22,Jasa Penyewaan Gudang
+594,5.07.23,Jasa Penyewaan Komputer
+595,5.07.24,Jasa Pengelolaan Gedung
+596,5.07.25,Jasa Pengurusan Dokumen/ Formalities dan Keimigrasian
+597,5.07.26,Jasa Parkir
+598,5.07.27,Jasa Pembuat Program Komputer
+599,5.07.28,Jasa Penyedia layanan internet/ provider
+600,5.07.29,Jasa Pemasangan dan perawatan pompa produksi
+601,5.07.30,Jasa Pengisian dan perawatan tabung gas dan pemadam kebakaran
+602,5.07.31,Jasa Pemindahan / Moving
+603,5.07.32,jasa penyewaan mesin generator dan genset
+604,5.07.33,jasa penyimpanan dan pengelolaan arsip/ data
+605,5.07.34,jasa perwatan mesin ATM
+606,5.07.35,penyewaan tanki bahan bakar
+607,5.07.36,"jasa keselamatan, kesehatan kerja dan lingkungan"
+608,5.07.37,jasa perawatan refrigerator
+609,5.07.38,jasa pengawasan pengelasan
+610,5.07.39,jasa pengelolaan gas beracun
+611,5.07.40,Jasa Pengelasan
+612,5.07.40.01,Jasa Pengelasan di Atas Air/ Darat
+613,5.07.40.02,Jasa Pengelasan di Bawah Air
+614,5.07.99,Subbidang Lainnya

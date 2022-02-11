@@ -10,7 +10,7 @@ soup = BeautifulSoup(res.text, 'html.parser')
 tbody = soup.find('tbody')
 tr = tbody.find_all('tr')
 daftar_sub_klasifikasi = []
-no = 1
+no = 0
 limit = 0
 while limit < 620:
     url = 'http://sireka.kadin-indonesia.com/DaftarSubKlasifikasi//index/NIL/NIL/' + str(limit)
