@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 start_time = time.time()
 url = 'https://www.topendsports.com/sport/list/index.htm'
 res = requests.get(url)
-soup = BeautifulSoup(res.text, 'html.parser')
+soup = BeautifulSoup(res.content, 'html.parser')
 sports_list = []
 no = 0
 li = soup.find_all('li')

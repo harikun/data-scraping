@@ -1,0 +1,3566 @@
+[
+  {
+    "no": 0,
+    "sport name": "3D Archery \u2014 a form of archery in which the goal is to strike targets in the shape of animals at unknown distances."
+  },
+  {
+    "no": 1,
+    "sport name": "3x3 Basketball \u2014 a variation of basketball played on a half court with just three players in each team."
+  },
+  {
+    "no": 2,
+    "sport name": "3x3 Ice Hockey \u2014 a variation of ice hockey played on a half rink with just three players on each team."
+  },
+  {
+    "no": 3,
+    "sport name": "7-a-side football \u2014 Association football for players with cerebral palsy."
+  },
+  {
+    "no": 4,
+    "sport name": "Abseiling \u2014 an adventure sport where the participants descend a steep formation using a rope. (not really a sport)."
+  },
+  {
+    "no": 5,
+    "sport name": " Acrobatic Gymnastics \u2014 team of gymnasts work together to perform acrobatic moves in combination with dance moves."
+  },
+  {
+    "no": 6,
+    "sport name": "Acroski \u2014 athletes on snow skis perform various choreographed\u00a0routines (once called Ski Ballet)."
+  },
+  {
+    "no": 7,
+    "sport name": " Adventure Racing \u2014 an event combining two or more endurance disciplines, such as Orienteering, Cross-Country Running, Mountain Biking, Paddling and Climbing. It is also called Expedition Racing."
+  },
+  {
+    "no": 8,
+    "sport name": "Aerials \u2014 a freestyle skiing discipline in which athletes ski along a take-off ramp, then perform various in-air tricks."
+  },
+  {
+    "no": 9,
+    "sport name": "Aerobatics \u2014 sport aerobatics involves aircraft maneuvers such as rolls, loops, stall turns (hammerheads), and tailslides."
+  },
+  {
+    "no": 10,
+    "sport name": "Aesthetic Group Gymnastics \u2014 a team sport where a large group of gymnasts perform coordinated continuous movements."
+  },
+  {
+    "no": 11,
+    "sport name": "Aerobic Gymnastics \u2014 another name for Sport Aerobics."
+  },
+  {
+    "no": 12,
+    "sport name": "Aeromodeling \u2014 activity using remotely controlled flying model aircraft (not really a sport)."
+  },
+  {
+    "no": 13,
+    "sport name": "Aeronautical Pentathlon \u2014 despite the name, the sport has 6 events: shooting, fencing, orienteering, basketball skills, obstacle course and swimming."
+  },
+  {
+    "no": 14,
+    "sport name": "AFL Wheelchair \u2014 a wheelchair version of the football code from Australia, played between two teams of five players."
+  },
+  {
+    "no": 15,
+    "sport name": "AFLX \u2014 a new version of Australian Football played on a rectangular field with seven players on each team, created to showcase some of the most thrilling elements of the sport to attract new fans."
+  },
+  {
+    "no": 16,
+    "sport name": "Aggressive Inline Skating \u2014 Aggressive inline skating is a form of inline skating executed on specially designed inline skates with the focus on grinding and spins."
+  },
+  {
+    "no": 17,
+    "sport name": "Aikido \u2014 Shodokan Aikido (also called Sport Aikido) is a style of the martial art Aikido that is used for competitions."
+  },
+  {
+    "no": 18,
+    "sport name": " Air Hockey \u2014 played on an air-hockey table, participants try to hit a puck elevated on a cushion of air into the opponent's goal."
+  },
+  {
+    "no": 19,
+    "sport name": " Air Racing \u2014 a sport involving flying airplanes over a fixed course low to the ground."
+  },
+  {
+    "no": 20,
+    "sport name": "Airsoft \u2014 a skirmish sport in which participants eliminate opponents by hitting them with spherical non-metallic pellets from replica firearms. Similar sports are Laser Tag and Paintball."
+  },
+  {
+    "no": 21,
+    "sport name": "All-Terrain Boarding \u2014 another name for Mountainboarding."
+  },
+  {
+    "no": 22,
+    "sport name": "Alpine Skiing \u2014 commonly known as Downhill Skiing, involves racing down snow-covered hills on skis with fixed-heel bindings. There are alpine skiing competitions in disciplines such as slalom, giant slalom, super giant slalom, and downhill."
+  },
+  { "no": 23, "sport name": "Alpinism \u2014 the sport of mountain climbing." },
+  {
+    "no": 24,
+    "sport name": " American Football \u2014 a team sport played on a rectangular field with goalposts at each end. Each team attempts to advance an oval ball down the field into the end zone by running or passing it. It is also known in some parts of the world (outside of the US) as Gridiron. In the US it is referred simply as football. Variations include Arena Football, 6-Man Football."
+  },
+  {
+    "no": 25,
+    "sport name": "American Handball \u2014 players use their hands to hit a small rubber ball against a wall. There are three versions (four-wall handball, three-wall handball and one-wall handball) that can each be played by either two, three or four players. It can be compared to squash without rackets. It is very different from the Olympic sport of (Team) Handball."
+  },
+  {
+    "no": 26,
+    "sport name": "Angling \u2014 often used to refer to fishing, it is the principal method of sport fishing."
+  },
+  {
+    "no": 27,
+    "sport name": "Aquabike \u2014 a variation of Triathlon, with no running leg. Athletes swim followed by cycling."
+  },
+  {
+    "no": 28,
+    "sport name": "Aquajogging \u2014 water running competitions, athletes race in water while maintaining an upright position."
+  },
+  {
+    "no": 29,
+    "sport name": "Aquathlon (1) \u2014 an underwater sport where two competitors wearing masks and fins wrestle underwater in an attempt to remove a ribbon from each other's ankle band. It is also known as Underwater Wrestling."
+  },
+  {
+    "no": 30,
+    "sport name": "Aquathlon (2) \u2014 a continuous race involving swimming followed by running. It is usually over a shorter distance than the similar Biathle."
+  },
+  {
+    "no": 31,
+    "sport name": "Archery \u2014 competitive archery involves shooting arrows at a target for accuracy from a set distance or distances. The main forms of archery are Target Archery and Field Archery, and others include Clout Archery, 3D archery, Crossbow Archery, Flight Archery, and Ski Archery."
+  },
+  {
+    "no": 32,
+    "sport name": " Arena Football \u2014 a variety of\u00a0American Football (Gridiron), played indoors on a smaller field resulting in a faster and higher-scoring game."
+  },
+  {
+    "no": 33,
+    "sport name": "Arena Polo \u2014 a minified version of polo which is played on horseback on a field much smaller in size and enclosed by walls on all sides."
+  },
+  {
+    "no": 34,
+    "sport name": "Arena Rugby \u2014 a variation of\u00a0Rugby Union, played indoors on a smaller field resulting in a faster and higher-scoring game."
+  },
+  {
+    "no": 35,
+    "sport name": " Arm Wrestling \u2014 a type of Wrestling where each participant place one elbow on a surface while gripping the other participant's hand. The aim is to pin the other's arm onto the surface."
+  },
+  {
+    "no": 36,
+    "sport name": "Arnis \u2014 the national martial art sport of Philippines which emphasizes weapon based fighting."
+  },
+  {
+    "no": 37,
+    "sport name": " Artistic Billiards \u2014 a Carom Billiards discipline in which players score points for performing 76 preset shots of varying difficulty. It is sometimes called\u00a0fantasy billiards."
+  },
+  {
+    "no": 38,
+    "sport name": "Artistic Cycling \u2014 a form of competitive indoor cycling in which athletes perform tricks for points on specialized, fixed-gear bikes in a format similar to ballet or gymnastics."
+  },
+  {
+    "no": 39,
+    "sport name": " Artistic Gymnastics \u2014 an Olympic sport where gymnasts perform short routines on different apparatus, such as the Vault, Floor (men and women), Pommel Horse, Rings, Parallel Bars, High Bar (men), and Uneven Bars, Balance Beam (women)."
+  },
+  {
+    "no": 40,
+    "sport name": "Artistic Pool \u2014 a trick shot competition on a pocket billiards table in which players score points for performing 56 preset shots of varying difficulty."
+  },
+  {
+    "no": 41,
+    "sport name": "Artistic Roller Skating \u2014 is a sport which consists of a number of events (Figures, Dance, Freestyle and Precision Teams) usually accomplished on quad skates, though sometimes inline skates are used."
+  },
+  {
+    "no": 42,
+    "sport name": "Association Croquet \u2014 an advanced game of Croquet played at international level involving four balls teamed in pairs, with both balls going through every hoop for one pair to win."
+  },
+  {
+    "no": 43,
+    "sport name": " Association Football \u2014 more commonly known as Football or Soccer. It is the world's most popular sport, played between two teams of eleven players with a spherical ball. The game is played on a rectangular field with a goal at each end. The object is to score by using any part of the body except the arms and hands to get the ball into the opposing goal."
+  },
+  {
+    "no": 44,
+    "sport name": "Athletics \u2014 commonly known as Track and Field, though it is an umbrella sport, which in addition to Track and Field it also comprises Cross Country Running, Road Running and Racewalking."
+  },
+  {
+    "no": 45,
+    "sport name": " Australian Football \u2014 a fast paced football code from Australia, played between two teams of eighteen players on a large oval field. Six points are scored by kicking the ball between two tall goal posts, or one point for passing the ball on either side of these. Alternative names are Australian Football, Aussie Rules, AFL, Australian Rules Football."
+  },
+  {
+    "no": 46,
+    "sport name": " Australian Handball \u2014 similar to Squash, though played without a racquet."
+  },
+  {
+    "no": 47,
+    "sport name": "Auto Race \u2014 a Japanese motorcycle speedway competition which is held on tarmac tracks, predominantly a gambling sport."
+  },
+  {
+    "no": 48,
+    "sport name": "Auto Racing \u2014 a sport involving the racing of automobiles for competition. There are numerous different categories including Formula 1, Touring Car, Rally Cars, Drag Racing, Stock Car Racing, Vintage Racing. Also known as Car Racing, Motor Racing or Automobile Racing."
+  },
+  {
+    "no": 49,
+    "sport name": "Autocross \u2014 a type of Auto Racing in which drivers navigate one at a time through a defined course on either a sealed or an unsealed surface in the shortest time. See also the motorcycle version Motorcycle Gymkhana."
+  },
+  {
+    "no": 50,
+    "sport name": "Autograss \u2014 a type of Auto Racing on natural surfaces such as grass or mud, usually held on quarter-mile oval tracks."
+  },
+  {
+    "no": 51,
+    "sport name": "Autospeedway \u2014 a motorsport similar to motorcycle speedway, but with cars."
+  },
+  {
+    "no": 52,
+    "sport name": "Axe Throwing \u2014 competitors throw axes at a circular target."
+  },
+  {
+    "no": 53,
+    "sport name": "Backstroke \u2014 a swimming stroke performed on the back with the arms lifted alternately out of the water in a backward circular motion and the legs extended and kicking."
+  },
+  {
+    "no": 54,
+    "sport name": "Badminton \u2014 an indoor game with rackets in which a shuttlecock is hit back and forth across a net."
+  },
+  {
+    "no": 55,
+    "sport name": "Balance Beam \u2014 a female Olympic Games gymnastics event in which a gymnast balances on a narrow horizontal bar raised off the floor, while performing exercises."
+  },
+  {
+    "no": 56,
+    "sport name": "Balkline \u2014 a Carom Billiards discipline. A point is scored each time a player's cue ball makes contact with both object balls on a single stroke. It is played on a pocketless table that is divided by balklines on the cloth marking playing regions. Its precursor was a game called Straight Rail."
+  },
+  {
+    "no": 57,
+    "sport name": "Ball Badminton \u2014 a racket game native to India, played with a yellow ball made of wool, with similarities to Badminton."
+  },
+  {
+    "no": 58,
+    "sport name": "Ball Hockey \u2014 a variation of Ice Hockey, a lot like Street Hockey, in which the game is played on foot on a non-ice surface, and a ball is used instead of a hockey puck."
+  },
+  {
+    "no": 59,
+    "sport name": "Ballooning \u2014 competitive hot air ballooning is a test of accuracy, not speed. The aim is to fly as close as possible to a target and drop a weighted marker."
+  },
+  {
+    "no": 60,
+    "sport name": "Bandy \u2014 a team sport played on ice using sticks to direct a ball into the opposing team's goal, a precursor to ice hockey. A variation is Rink Bandy."
+  },
+  {
+    "no": 61,
+    "sport name": "Banger Racing \u2014 racing event which is done on a dirt track using scrap cars."
+  },
+  {
+    "no": 62,
+    "sport name": "Banzai Skydiving \u2014 a form of skydiving in which the diver throws their parachute out the airplane door, waits and then jumps after it."
+  },
+  {
+    "no": 63,
+    "sport name": "Barefoot Skiing \u2014 involves skiing barefoot on water without the use of water skis."
+  },
+  {
+    "no": 64,
+    "sport name": "Bare-knuckle boxing \u2014 two individuals participate to fight against each other without using boxing gloves or any other type of padding on their hands. Also called Fisticuffs."
+  },
+  {
+    "no": 65,
+    "sport name": "Barrel Racing \u2014 a rodeo event where participants and horses complete a clover-leaf pattern around barrels."
+  },
+  {
+    "no": 66,
+    "sport name": "Baseball \u2014 a bat and ball game in which the aim is to hit the ball and score runs by running around four bases."
+  },
+  {
+    "no": 67,
+    "sport name": "BASE Jumping \u2014 involves parachuting from a structure or cliff, with competitions based on landing accuracy."
+  },
+  {
+    "no": 68,
+    "sport name": "Basketball \u2014 players attempt to shoot the ball through the hoop on the opponent\u2019s court, moving the ball by throwing and dribbling."
+  },
+  {
+    "no": 69,
+    "sport name": "Basque Pelota \u2014 a variety of court sports which involves hitting a ball against a wall using the hand, a racket, a wooden bat or a basket. Other forms include Pala Corta, Rubber-paleta, Paleta-Leather, Xare, Cesta Punta, Frontenis, Hand-Pelota, Valencian Pilota, Valencian Front\u00f3. Jai Alai is a variety of Basque Pelota."
+  },
+  {
+    "no": 70,
+    "sport name": "Basse \u2014 a bag ball game from Norway in which the ball is kept from landing in the player's area, using any part of the body except the hands."
+  },
+  {
+    "no": 71,
+    "sport name": "Bat-and-Trap \u2014 an old English bat and ball game, in which a ball is projected into the air out of a trap using a bat, and then hit between posts 21 feet away."
+  },
+  {
+    "no": 72,
+    "sport name": "Baton Twirling \u2014 a metal rod called a baton, is manipulated, while simultaneously making coordinated dance moves."
+  },
+  {
+    "no": 73,
+    "sport name": "Bavarian Curling \u2014 another name for Ice Stock Sport."
+  },
+  {
+    "no": 74,
+    "sport name": "Beach Basketball \u2014 a version of basketball played on sand with two teams of three players."
+  },
+  {
+    "no": 75,
+    "sport name": "Beach Flags \u2014 a surf lifesaving sport in which competitors race in the sand to collect a flag."
+  },
+  {
+    "no": 76,
+    "sport name": "Beach Golf \u2014 a simplified version of golf played on sand with a polyurethane foam ball."
+  },
+  {
+    "no": 77,
+    "sport name": "Beach Handball \u2014 a variation of Team Handball, played on sand instead of indoors. This sport is sometimes called Sandball."
+  },
+  {
+    "no": 78,
+    "sport name": "Beach Netball \u2014 netball played in the sand on a half court."
+  },
+  {
+    "no": 79,
+    "sport name": "Beach Polo \u2014 polo on horseback though played on a sand field with sideboards so the ball is always in play."
+  },
+  {
+    "no": 80,
+    "sport name": "Beach Rugby \u2014 a version of rugby union played on sand."
+  },
+  {
+    "no": 81,
+    "sport name": "Beach Sambo \u2014 a modified version of sambo played on the sand, with bouts lasting three minutes, without penalties and mat wrestling."
+  },
+  {
+    "no": 82,
+    "sport name": "Beach Soccer \u2014 similar to association football but played on a beach or sand."
+  },
+  {
+    "no": 83,
+    "sport name": "Beach Tennis \u2014 a sport which has elements from tennis and volleyball, and played on the beach."
+  },
+  {
+    "no": 84,
+    "sport name": "Beach Volleyball \u2014 a version of Volleyball played on sand with teams of two players, in which a ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court."
+  },
+  {
+    "no": 85,
+    "sport name": "Beach Water Polo \u2014 an open water version of Water Polo played on a smaller field with four players per team."
+  },
+  {
+    "no": 86,
+    "sport name": "Beach Woodball \u2014 a version of Woodball played on sand which involves using a mallet to pass a ball through gates."
+  },
+  {
+    "no": 87,
+    "sport name": "Beach Wrestling \u2014 a standing up position style of wrestling conducted on beach sand."
+  },
+  {
+    "no": 88,
+    "sport name": "Behcup \u2014 similar to putting in golf, though the balls are putted into a small goal and not into a hole."
+  },
+  {
+    "no": 89,
+    "sport name": "Beikou Tarkbei (also called Daur Hockey) \u2014 a team sport unique to the Daur ethnic group in Inner Mongolia, that has a lot of similarities to field hockey."
+  },
+  {
+    "no": 90,
+    "sport name": "Belt Wrestling \u2014 the aim is to knock down the opponent by grappling with their belt."
+  },
+  {
+    "no": 91,
+    "sport name": "Benchpress \u2014 the barbell bench press is one of three lifts in the sport of powerlifting. Participants lie on their back holding the weight on both hands, push it upwards, and then lower the weight again to the chest level."
+  },
+  {
+    "no": 92,
+    "sport name": "Benchrest Shooting \u2014 a shooting sport where the participant shoots with a rifle at the bench."
+  },
+  {
+    "no": 93,
+    "sport name": "Biathle \u2014 consist of swimming and running as part of a single race. It is usually over a shorter distance than the similar Aquathlon."
+  },
+  {
+    "no": 94,
+    "sport name": "Biathlon \u2014 a combination of cross-country skiing and rifle shooting."
+  },
+  {
+    "no": 95,
+    "sport name": "Bicycle Motocross (BMX) \u2014 races on BMX bicycles."
+  },
+  {
+    "no": 96,
+    "sport name": "Bicycle Polo \u2014 similar to Polo, though played on bicycles instead of horses."
+  },
+  {
+    "no": 97,
+    "sport name": "Big Wave Surfing \u2014 experienced surfers paddle into or are towed onto waves which are at least 20 feet high."
+  },
+  {
+    "no": 98,
+    "sport name": "Bikejoring \u2014 a single dog or a team of harnessed dogs pull along a rider on a bike."
+  },
+  {
+    "no": 99,
+    "sport name": "Billiards \u2014 billiards is the historical umbrella term for a range of cue sports, though in some countries it refers to the specific game of English Billiards."
+  },
+  {
+    "no": 100,
+    "sport name": "Biribol \u2014 an aquatic version of volleyball developed in Brazil."
+  },
+  {
+    "no": 101,
+    "sport name": "Blind Cricket \u2014 a modified version of cricket with a larger ball with bells inside which is designed to be played by blind athletes."
+  },
+  {
+    "no": 102,
+    "sport name": "Blind Football \u2014 5-a-side Association football for athletes with a visual impairment."
+  },
+  {
+    "no": 103,
+    "sport name": "Boardercross \u2014 a snowboard competition on a course similar to motocross. Also called Snowboard Cross."
+  },
+  {
+    "no": 104,
+    "sport name": "Bobsleigh \u2014 winter sport on a sled making timed runs down narrow, twisting, banked, ice tracks."
+  },
+  {
+    "no": 105,
+    "sport name": "Bocce \u2014 is part of the boules sport family, similar to bowls and p\u00e9tanque a ball is thrown as close as possible to a smaller 'jack'."
+  },
+  {
+    "no": 106,
+    "sport name": "Boccia \u2014 a ball sport similar to bocce, bowls, and p\u00e9tanque for athletes with physical disabilities."
+  },
+  {
+    "no": 107,
+    "sport name": "Bodyboarding \u2014 a water sport in which the surfer stands or lays on a short board in the surf."
+  },
+  {
+    "no": 108,
+    "sport name": "Bodybuilding \u2014 participants show their developed muscular build through poses, and are judged based on muscularity, conditioning, and symmetry."
+  },
+  {
+    "no": 109,
+    "sport name": "Bodyflight \u2014 an acrobatic sport involving skydiving or a vertical tunnel to perform manoeuvres while in the air."
+  },
+  {
+    "no": 110,
+    "sport name": "Bolas Criollas \u2014 a traditional Venezuelan team sport like bocce and p\u00e9tanque in which players throw a set of balls as close as possible to the small target ball."
+  },
+  {
+    "no": 111,
+    "sport name": "Boli Khela \u2014 a form of wrestling which is practiced in Bangladesh and India."
+  },
+  {
+    "no": 112,
+    "sport name": "Boomerang Throwing \u2014 competitions involving throwing and catching boomerangs."
+  },
+  { "no": 113, "sport name": "Borden Ball \u2014 see Handball." },
+  {
+    "no": 114,
+    "sport name": "Bossaball \u2014 played on an inflatable court with trampolines on each side of the net."
+  },
+  {
+    "no": 115,
+    "sport name": "Bo\u00dfeln \u2014 a sport similar to the field style of Klootschieten played in Germany."
+  },
+  {
+    "no": 116,
+    "sport name": "Bouldering \u2014 a type of sport rock climbing in which competitors attempt to climb a series of fixed routes of increasing difficulty."
+  },
+  {
+    "no": 117,
+    "sport name": "Boules \u2014 a collective name for a wide range of sports in which the objective is to throw or roll heavy balls as close as possible to a small target ball."
+  },
+  {
+    "no": 118,
+    "sport name": "Bowling \u2014  a general term of a large range of sports in which the player rolls a ball to knock down objects. The most common variation is Tenpin Bowling."
+  },
+  {
+    "no": 119,
+    "sport name": "Bowls \u2014 commonly refers to Lawn Bowls. For other types of bowls sports, see Bowling."
+  },
+  {
+    "no": 120,
+    "sport name": "Box lacrosse \u2014 a version of lacrosse which is played on a smaller indoor arena (box), with six players in each team."
+  },
+  {
+    "no": 121,
+    "sport name": "Boxing \u2014 a combat sport in which two players throw punches at each other."
+  },
+  {
+    "no": 122,
+    "sport name": "Br\u00e4nnboll \u2014 a Scandinavian game which has similarities to rounders, but with no pitcher."
+  },
+  {
+    "no": 123,
+    "sport name": "Brazilian Jiu-jitsu \u2014 a combat sport from Brazil based on ground fighting and submission holds, developed from judo and jujutsu. "
+  },
+  {
+    "no": 124,
+    "sport name": "Breakdancing \u2014 an athletic style of street dance."
+  },
+  {
+    "no": 125,
+    "sport name": "Breaststroke \u2014 one of the major swimming strokes, performed with the swimmer with his chest forward and facing towards to bottom of the pool."
+  },
+  {
+    "no": 126,
+    "sport name": "Bridge \u2014 a card game which is played by four players, playing in two competing partnerships. Players score points based on the number of tricks achieved."
+  },
+  {
+    "no": 127,
+    "sport name": "British Baseball \u2014 a bat-and-ball game played in Wales and England similar to rounders."
+  },
+  {
+    "no": 128,
+    "sport name": "Broomball \u2014 a game like ice hockey played with a broom."
+  },
+  {
+    "no": 129,
+    "sport name": "Bull Fighting \u2014 involves one or more bulls which are being fought in a bullring."
+  },
+  {
+    "no": 130,
+    "sport name": "Bull Riding \u2014 a Rodeo Sport, which involves a rider getting on a large bull and attempting to stay mounted while the animal attempts to buck them off."
+  },
+  {
+    "no": 131,
+    "sport name": "Bunnock \u2014 a kind of skittles game which is played with bones (commonly known as \"Game of Bones\")."
+  },
+  {
+    "no": 132,
+    "sport name": "Butterfly stroke \u2014 one of the major swimming stroke styles, swum on the breast, with both arms moving simultaneously, accompanied by a \"dolphin kick\"."
+  },
+  {
+    "no": 133,
+    "sport name": "Buzkashi \u2014 a Central Asian sport like polo in which riders on horses attempt to drag a goat carcass toward the goal. There is a variant known as kokpar which is quite similar."
+  },
+  {
+    "no": 134,
+    "sport name": "Caber Toss \u2014 a traditional Scottish sport in which the competition revolves around tossing forward a large tapered pole called a caber."
+  },
+  {
+    "no": 135,
+    "sport name": "Calisthenics \u2014 a competitive team sport in which athletes perform elements of rhythmic gymnastics and ballet."
+  },
+  {
+    "no": 136,
+    "sport name": "Calva \u2014 a traditional Spanish sport in which you throw a piece of metal to knock down bull's horn shaped piece of wood."
+  },
+  {
+    "no": 137,
+    "sport name": "Camel Racing \u2014 racing camels with a jockey like in horse racing."
+  },
+  {
+    "no": 138,
+    "sport name": "Cammag \u2014 a sport similar to shinty or hurling from the Isle of Man."
+  },
+  {
+    "no": 139,
+    "sport name": "Camogie \u2014 the female version of hurling played in Ireland."
+  },
+  {
+    "no": 140,
+    "sport name": "Campdrafting \u2014 a sport from Australia where a rider on horseback attempts to cut out a cattle from its herd and drive it into a pen."
+  },
+  {
+    "no": 141,
+    "sport name": "Canadian Football \u2014 a type of gridiron football which is played in Canada."
+  },
+  {
+    "no": 142,
+    "sport name": "Candlepin Bowling \u2014 a type of bowling like tenpin bowling using candlepins and smaller balls."
+  },
+  {
+    "no": 143,
+    "sport name": "Caneball \u2014 another name for the Myanmar (Burmese) traditional sport of Chinlone."
+  },
+  {
+    "no": 144,
+    "sport name": "Canicross \u2014 a variant of cross country running in which runners have to complete the course accompanied with their dogs."
+  },
+  {
+    "no": 145,
+    "sport name": "Canne de Combat \u2014 a French martial art in which opponents battle each other inside a ring with a cane in one hand. A type of Stick-Fighting."
+  },
+  {
+    "no": 146,
+    "sport name": "Canoeing \u2014 paddle sport in which the rider kneels or sits facing forward in a canoe."
+  },
+  {
+    "no": 147,
+    "sport name": "Canoe Marathon \u2014 \u00a0athletes paddle a kayak or canoe over a long distance, often with out-of-water sections."
+  },
+  {
+    "no": 148,
+    "sport name": "Canoe Polo \u2014 like polo on water, the objective is to score by throwing or hitting a ball through a goal suspended two meters above the water."
+  },
+  {
+    "no": 149,
+    "sport name": "Capoeira \u2014 a form of martial art from Brazil which has a combination of aspects of dance moves, acrobatics, movements and music."
+  },
+  {
+    "no": 150,
+    "sport name": "Canopy Piloting \u2014 a parachute skydiver performs aerial feats above a small body of water. Also called Pond Swooping."
+  },
+  {
+    "no": 151,
+    "sport name": "Capture The Flag \u2014 the aim is to get the other team\u2019s flag which is located at their base."
+  },
+  {
+    "no": 152,
+    "sport name": "Car Ice Racing \u2014 cars race across a strip of frozen water."
+  },
+  {
+    "no": 153,
+    "sport name": "Carriage Driving \u2014 sports in which horses or ponies are hitched to a wagon, carriage, cart or sleigh by means of a harness."
+  },
+  {
+    "no": 154,
+    "sport name": " Carom Billiards \u2014 A cue sport played on a felt covered table with cues and billiard balls, in which the object is to score points by caroming your cue ball off both the opponent's cue ball and the object ball(s) with a single shot. There is a large range of disciplines including Artistic Billiards, Three-Cushion Billiards, Five-Pin Billiards, Balkline, Straight Rail, Cushion Caroms, Four-Ball."
+  },
+  {
+    "no": 155,
+    "sport name": "Casting \u2014 fishing without fish, the objective is to test the accuracy and distance of a cast."
+  },
+  {
+    "no": 156,
+    "sport name": "Catchball \u2014 a easier version of volleyball in which the players catch and throw the ball rather than hit it with their hands."
+  },
+  {
+    "no": 157,
+    "sport name": "Cestoball \u2014 an Argentinian female sport similar to netball."
+  },
+  {
+    "no": 158,
+    "sport name": "Chase Tag \u2014 like the playground game of tag, a chaser has 20 seconds to tag an evader as they race round an obstacle course."
+  },
+  {
+    "no": 159,
+    "sport name": "Cheerleading \u2014 a dubious sport in which groups of cheerleaders do routines that are subjectively assessed."
+  },
+  {
+    "no": 160,
+    "sport name": "Chess \u2014 a strategy board game played by two players on a checkered gameboard with 64 squares arranged in an 8\u00d78 grid."
+  },
+  {
+    "no": 161,
+    "sport name": "Chess boxing \u2014 a combination of chess and boxing."
+  },
+  {
+    "no": 162,
+    "sport name": "Chilean Rodeo \u2014 two riders on horseback try to stop a calf."
+  },
+  {
+    "no": 163,
+    "sport name": "Chinese Handball \u2014 a form of American handball which is popular in the streets of NY, similar to Wallball."
+  },
+  {
+    "no": 164,
+    "sport name": "Chinlone \u2014 the traditional sport of Burma or Myanmar, a team sport combined with dance (also known as Caneball)."
+  },
+  {
+    "no": 165,
+    "sport name": "Chuckwagon Racing \u2014 a chuckwagon is pulled by four thoroughbred horses around a track."
+  },
+  {
+    "no": 166,
+    "sport name": "Circle Rules Football \u2014 played on a circular field with one central goal in which teams score in opposing directions using a yoga ball."
+  },
+  {
+    "no": 167,
+    "sport name": "Clay Pigeon Shooting \u2014 shooters try to shoot flying targets like the clay pigeons or clay targets."
+  },
+  {
+    "no": 168,
+    "sport name": "Clean and Jerk \u2014 one of the events Olympic weight lifting competition."
+  },
+  {
+    "no": 169,
+    "sport name": "Clout Archery \u2014 a form of Archery, similar to Target Archery, except you aim at a flag among a group of concentric circular scoring zones from long range."
+  },
+  {
+    "no": 170,
+    "sport name": "Club Throw \u2014 a track and field disabled sports event, the objective is to throw a wooden club as far as possible."
+  },
+  {
+    "no": 171,
+    "sport name": "Coastal (Offshore) Rowing \u2014 a type of rowing performed on open water, requiring wider and more robust boats than those used on rivers and lakes."
+  },
+  {
+    "no": 172,
+    "sport name": "Collegiate Wrestling \u2014 a wrestling style practiced exclusively in the United States at a collegiate level."
+  },
+  {
+    "no": 173,
+    "sport name": "Combined Driving \u2014 a driver on a carriage pulled by horses takes part in three events: dressage, marathon and cones."
+  },
+  {
+    "no": 174,
+    "sport name": "Competitive Eating \u2014 involves participants competing on who can consume the most food in a short period of time."
+  },
+  {
+    "no": 175,
+    "sport name": "Corkball \u2014 a sport derived from baseball with a smaller ball which can be played in a much smaller field (often referred as mini-baseball)."
+  },
+  {
+    "no": 176,
+    "sport name": "Cornhole \u2014 a bag toss game, in which you throw a small soft bag towards an angled board with a hole at the far end."
+  },
+  {
+    "no": 177,
+    "sport name": "Cowboy Action Shooting \u2014 involves shooting targets with a variety of guns that were typical of the late 19th century."
+  },
+  {
+    "no": 178,
+    "sport name": "Cowboy Mounted Shooting \u2014 involves shooting at targets while riding a horse."
+  },
+  {
+    "no": 179,
+    "sport name": "Cowboy Polo \u2014 similar to regular Polo, though riders compete with western saddles, usually in a smaller arena and with an inflatable rubber medicine ball."
+  },
+  {
+    "no": 180,
+    "sport name": "Court Tennis \u2014 another name for Real Tennis."
+  },
+  {
+    "no": 181,
+    "sport name": "Crab Soccer or Crab Football \u2014 football with players supporting themselves on their hands and their feet, face up, which makes them look like crabs."
+  },
+  { "no": 182, "sport name": "Crazy Golf \u2014 a common name for Minigolf." },
+  {
+    "no": 183,
+    "sport name": "Cricket \u2014 a team sport played on a rectangular pitch in the centre of a large grass oval, two batters protect their wicket while the fielding team try to get them out. Forms include Test, One-Day and T20."
+  },
+  {
+    "no": 184,
+    "sport name": "Croquet \u2014 players hit plastic or wooden balls using a mallet through hoops."
+  },
+  {
+    "no": 185,
+    "sport name": "Crossbow Archery \u2014 an archery discipline in which a crossbow is used instead of a regular bow."
+  },
+  {
+    "no": 186,
+    "sport name": "Cross-Country Equestrian  \u2014 horse riders are required to jump over 30 to 40 obstacles within a fixed time, incurring penalties for exceeding the allocated time or if a horse refuses to clear an obstacle."
+  },
+  {
+    "no": 187,
+    "sport name": "Cross-Country Skiing \u2014 races over snow-covered terrain using skis."
+  },
+  {
+    "no": 188,
+    "sport name": "Cross-Country Mountain Biking \u2014 off-road cycling races over rough terrain."
+  },
+  {
+    "no": 189,
+    "sport name": "Cross-Country Rally \u2014 another name for Rally Raid, an extended form of off-road rally racing."
+  },
+  {
+    "no": 190,
+    "sport name": "Cross-Country Running \u2014 distance running races over natural terrain."
+  },
+  {
+    "no": 191,
+    "sport name": "Crossnet \u2014 a cross between volleyball and 4-square, played with a four-way net."
+  },
+  {
+    "no": 192,
+    "sport name": "Cross Triathlon \u2014 a variation of the traditional triathlon, with swim stage, mountain-biking stage and a trail-running stage."
+  },
+  {
+    "no": 193,
+    "sport name": "Crossfit  \u2014 a strength and conditioning program involving short but high-intensity workouts comprised of functional exercises. Not really a sport, but they do organize fitness competitions such as the CrossFit Games."
+  },
+  {
+    "no": 194,
+    "sport name": "Crossminton \u2014 badminton played with no net adapted to make it suitable for playing outdoors (formerly called Speed Badminton or Speedminton)."
+  },
+  {
+    "no": 195,
+    "sport name": " Cue Sports (Billiards) \u2014 a general term for a large range of indoor sports played on a felt top table, with or without pockets. Examples include Pocket Billiards (Pool) and Snooker."
+  },
+  {
+    "no": 196,
+    "sport name": "Cup Stacking \u2014 see the sport of Sport Stacking."
+  },
+  {
+    "no": 197,
+    "sport name": "Curling \u2014 players slide stones on a sheet of ice towards the target area."
+  },
+  {
+    "no": 198,
+    "sport name": "Cushion Caroms \u2014 a cue sport and Carom Billiards discipline, played on a pocketless table with two white balls and a red ball. The aim is to carom off of both object balls with at least one rail being struck before the hit on the second object ball."
+  },
+  {
+    "no": 199,
+    "sport name": "Cutting \u2014 an American western style sport of the equestrian discipline in which the objective for a rider on a horseback is to separate a few cows from its herd and prevent them from returning."
+  },
+  {
+    "no": 200,
+    "sport name": "Cycling \u2014 there is a large range of sports involving riding a bicycle."
+  },
+  {
+    "no": 201,
+    "sport name": "Cycle Ball \u2014 the game play is similar to that of association football, but is played with each player riding a bicycle."
+  },
+  { "no": 202, "sport name": "Cycle Polo \u2014 see Bicycle Polo." },
+  {
+    "no": 203,
+    "sport name": "Cycle Speedway \u2014 replicating motor speedway using bicycles."
+  },
+  {
+    "no": 204,
+    "sport name": "Cycling Time Trial \u2014 a bicycle race in which cyclists race alone against the clock."
+  },
+  {
+    "no": 205,
+    "sport name": "Cyclo-Cross \u2014 a type of bicycle racing, a winter sport performed over various terrain."
+  },
+  {
+    "no": 206,
+    "sport name": "Czech Handball \u2014 a ball game created in the Czech Republic with similarities with Team Handball."
+  },
+  {
+    "no": 207,
+    "sport name": "Dancesport \u2014 Dancesport is the competitive form of Ballroom and Latin Dancing, in which contestants perform dances before judges."
+  },
+  {
+    "no": 208,
+    "sport name": "Dandi Biyo \u2014 a game from Nepal played with two sticks; the long stick is used to strike the shorter one in the air."
+  },
+  {
+    "no": 209,
+    "sport name": "Danish Longball \u2014 a bat and ball game developed in Denmark, like a hybrid of baseball and cricket."
+  },
+  {
+    "no": 210,
+    "sport name": "Dartchery \u2014 a combination of darts and archery, using bows and arrows typically used for archery, but the target is a dart board."
+  },
+  {
+    "no": 211,
+    "sport name": "Darts \u2014 a throwing game in which small missiles are thrown at a target, which is called a dartboard."
+  },
+  {
+    "no": 212,
+    "sport name": "Daur Hockey \u2014 another name for Beikou Tarkbei \u2014 an old Chinese sport similar to field hockey."
+  },
+  {
+    "no": 213,
+    "sport name": "Deadlifting \u2014 a powerlifting event where participants lift a loaded barbell off the ground to the hips, and then lower it back to the ground."
+  },
+  {
+    "no": 214,
+    "sport name": "Deaf Basketball \u2014 basketball which is played by deaf people. Players use sign language to communicate with each other including the refs."
+  },
+  {
+    "no": 215,
+    "sport name": "Decathlon \u2014 track and field event comprising 10 events held over two days."
+  },
+  {
+    "no": 216,
+    "sport name": "Demolition Derby \u2014 involves drivers hammering their vehicles against each other."
+  },
+  {
+    "no": 217,
+    "sport name": "Digor \u2014 a sport from Bhutan in which a pair of spherical flat stones are hurled at two targets fixed in the ground 20 meters apart."
+  },
+  {
+    "no": 218,
+    "sport name": "Disc Dog \u2014 dog frisbee competitions of distance catching and choreographed freestyle catching."
+  },
+  {
+    "no": 219,
+    "sport name": "Disc Golf \u2014 golf using a frisbee disc, the objective is to traverse a course from start to end with the fewest number of throws."
+  },
+  {
+    "no": 220,
+    "sport name": "Disc Sports \u2014 various sports or games played using flying discs (frisbees)."
+  },
+  {
+    "no": 221,
+    "sport name": "Discus \u2014 track and field event where athletes attempt to throw a heavy disc object far as they can."
+  },
+  {
+    "no": 222,
+    "sport name": "Diving \u2014 an aquatic sport where athletes dive into water from a raised launch pad, while performing acrobatic movements."
+  },
+  {
+    "no": 223,
+    "sport name": "Dodgeball \u2014 two teams throw balls at each other while trying to avoid the balls."
+  },
+  {
+    "no": 224,
+    "sport name": "Dog Agility \u2014 dogs have to navigate through a course that has various types of obstacles under the direction of a handler. (not a sport)."
+  },
+  {
+    "no": 225,
+    "sport name": "Dog Racing \u2014 greyhounds chase a lure around a track."
+  },
+  {
+    "no": 226,
+    "sport name": "Dog Sledding \u2014 teams of dogs pull a sled with the driver."
+  },
+  {
+    "no": 227,
+    "sport name": "Dog Sports \u2014 general term for sporting activities that involve dogs (which are mostly not even sports)."
+  },
+  {
+    "no": 228,
+    "sport name": "Downhill Skiing \u2014 participants slide down a snow-covered hill using skis with fixed bindings."
+  },
+  {
+    "no": 229,
+    "sport name": "Downhill Mountain Biking \u2014 biking sport which is held on steep and rough terrain."
+  },
+  {
+    "no": 230,
+    "sport name": "Drag boat racing \u2014 drag racing which is held on water with boats."
+  },
+  {
+    "no": 231,
+    "sport name": "Drag racing \u2014 automobiles or motorcycles race down a straight track."
+  },
+  {
+    "no": 232,
+    "sport name": "Dragon Boat Racing \u2014 a paddling sport using a long boat with many paddlers."
+  },
+  {
+    "no": 233,
+    "sport name": "Dressage \u2014 an equestrian sport in which riders and horses perform from memory a series of predetermined events."
+  },
+  {
+    "no": 234,
+    "sport name": "Drifting \u2014 car drivers take corners at speed and the back wheels slide out, and are judged according to the speed, angle, showmanship and line taken through a corner."
+  },
+  {
+    "no": 235,
+    "sport name": "Drone Racing \u2014 competitors race with specially built multi-rotor drones around a natural or specifically designed course (not a sport)."
+  },
+  {
+    "no": 236,
+    "sport name": "Drunken Boxing (or Drunkard's Boxing or Zui Quan). It is a concept in traditional Chinese martial arts."
+  },
+  {
+    "no": 237,
+    "sport name": "Duathlon \u2014 similar to triathlon, running first, then cycling, then running again."
+  },
+  {
+    "no": 238,
+    "sport name": "Duckpin bowling \u2014 a type of 10-pin bowling, though with smaller balls."
+  },
+  {
+    "no": 239,
+    "sport name": "Dumog \u2014 a Filipino style of wrestling while standing upright."
+  },
+  {
+    "no": 240,
+    "sport name": "Ecuavoley \u2014 a variant of volleyball though the net is higher and played with three players, invented and played in Ecuador."
+  },
+  {
+    "no": 241,
+    "sport name": "Eight-Ball \u2014 a cue sport, which is one of the most popular variants of pool, using 15 colored balls numbered from 1 to 15."
+  },
+  {
+    "no": 242,
+    "sport name": "Eight-man Football \u2014 a mini version of American Football played by high schools with smaller enrollments."
+  },
+  {
+    "no": 243,
+    "sport name": "Ekiden \u2014 long-distance relay running typically held on roads."
+  },
+  {
+    "no": 244,
+    "sport name": "Elephant Polo \u2014 a form of Polo, played on the back of elephants instead of on horseback."
+  },
+  {
+    "no": 245,
+    "sport name": "Endurance Racing \u2014 a motorsport where teams of two or four race for long distances, that tests their physical endurance and the durability of their vehicles."
+  },
+  {
+    "no": 246,
+    "sport name": "Endurance Riding \u2014 an equestrian discipline, where riders and horses compete in races over very long distances."
+  },
+  {
+    "no": 247,
+    "sport name": "Endurance Running \u2014 track and field running races over distances of 3kms and greater."
+  },
+  {
+    "no": 248,
+    "sport name": "Enduro \u2014 a motorcycle sport with the main objective to traverse a series of checkpoints, arriving exactly at a predetermined time. The courses are usually run over thickly wooded terrain, sometimes with large obstacles."
+  },
+  {
+    "no": 249,
+    "sport name": "Endurocross \u2014 hybrid sport combining elements from Supercross, Enduro, and Trials (also called or indoor enduro)."
+  },
+  {
+    "no": 250,
+    "sport name": " English Billiards \u2014 sometimes just called Billiards, requires two cue balls and a red object ball. The game features both cannons (caroms) and the pocketing of balls as objects of play, scoring points for each of these. See Cue Sports."
+  },
+  {
+    "no": 251,
+    "sport name": "Equestrian \u2014 competitions testing horse riding skills."
+  },
+  {
+    "no": 252,
+    "sport name": "Equestrian Vaulting \u2014 a gymnastics and dance discipline completed on horseback."
+  },
+  {
+    "no": 253,
+    "sport name": "e-Sports \u2014 competitive form of playing computer games (gaming)."
+  },
+  {
+    "no": 254,
+    "sport name": "Eton Fives \u2014 a handball sport derived from the English sport Fives."
+  },
+  {
+    "no": 255,
+    "sport name": "European (Team) Handball \u2014 another name for the sport of Handball."
+  },
+  {
+    "no": 256,
+    "sport name": "Eventing \u2014 riders compete in three types of races, dressage, cross-country and show jumping, in a single competition."
+  },
+  {
+    "no": 257,
+    "sport name": "Expedition racing \u2014 an endurance event combining two or more disciplines. More commonly called Adventure Racing."
+  },
+  {
+    "no": 258,
+    "sport name": "Fast Pitch Softball  \u2014 the competitive form of softball, where the pitcher's arm rotates 360 degrees around the shoulder until the ball is released from the hand."
+  },
+  {
+    "no": 259,
+    "sport name": "Fast5 \u2014 a variation of netball, formerly known as Fastnet, with only 5 players per team."
+  },
+  {
+    "no": 260,
+    "sport name": "Fell Running \u2014 running races done off-road and mostly uphill."
+  },
+  {
+    "no": 261,
+    "sport name": "Fencing \u2014 competitors face each other and attempt to touch each other with the tip of a thin sword."
+  },
+  {
+    "no": 262,
+    "sport name": "Field Archery \u2014 a form of Archery which involves shooting at targets of varying distance, often in rough terrain."
+  },
+  {
+    "no": 263,
+    "sport name": "Field Handball \u2014 the original version of Handball, played outdoors on a larger field and more players. It is also known as\u00a0Outdoor Handball\u00a0or\u00a0Grass Handball."
+  },
+  {
+    "no": 264,
+    "sport name": "Field Hockey \u2014 played outdoors on turf, players hit a hard round ball through goals using sticks with curved ends."
+  },
+  {
+    "no": 265,
+    "sport name": "Field Lacrosse \u2014 a full contact outdoor men's version of lacrosse."
+  },
+  {
+    "no": 266,
+    "sport name": "Field Target \u2014 an outdoor air gun discipline."
+  },
+  {
+    "no": 267,
+    "sport name": "Fierljeppen \u2014 contestants using a long pole, vault across a canal. Also called Canal Jumping."
+  },
+  {
+    "no": 268,
+    "sport name": "Figure Skating \u2014 an artistic ice skating sport where athletes perform routines on an ice rink. Includes the disciplines of Ice Dancing and Synchronized Skating."
+  },
+  {
+    "no": 269,
+    "sport name": "Finnish Skittles \u2014 opposing players take turns to knock down their opponent's skittles."
+  },
+  {
+    "no": 270,
+    "sport name": "Finswimming \u2014 an underwater swimming sport where athletes race against each while wearing breathing apparatus."
+  },
+  {
+    "no": 271,
+    "sport name": "Fishing \u2014 usually a recreational activity, though when in competition it can be a sport. See Sport Fishing."
+  },
+  {
+    "no": 272,
+    "sport name": "Fistball \u2014 an outdoor team sport similar to volleyball."
+  },
+  {
+    "no": 273,
+    "sport name": "Fisticuffs \u2014 another name for bare-knuckle boxing."
+  },
+  {
+    "no": 274,
+    "sport name": "Five-a-Side Football \u2014 each team fields five players on a smaller pitch, with smaller goals and a reduced game duration."
+  },
+  {
+    "no": 275,
+    "sport name": "Five-pin bowling \u2014 a bowling variant from Canada with smaller balls and only 5 pins."
+  },
+  {
+    "no": 276,
+    "sport name": " Five-Pin Billiards \u2014 a Carom Billiards discipline popular in Italy and Argentina, in which points are gained by using one's cue ball to cause the opponent's cue ball to knock over pins."
+  },
+  {
+    "no": 277,
+    "sport name": "Fives \u2014 an English sport in which a ball is propelled against the walls in a specially designed court by using a bare or gloved hand."
+  },
+  {
+    "no": 278,
+    "sport name": "Flag Football \u2014 similar to American football but instead of tackling players the defensive team have to remove a flag from the ball carrier."
+  },
+  {
+    "no": 279,
+    "sport name": "Flight Archery \u2014 a form of archery in which the aim is to shoot the arrow as far as possible."
+  },
+  {
+    "no": 280,
+    "sport name": "Floor (Gymnastics) \u2014 gymnasts perform a tumbling and dance routine on a floor space."
+  },
+  {
+    "no": 281,
+    "sport name": "Floor Hockey \u2014 refers to a collection of indoor hockey sports which were derived from various hockey codes, played on dry, flat floor surfaces such as a gymnasium or basketball court."
+  },
+  {
+    "no": 282,
+    "sport name": "Floorball \u2014 a type of floor hockey sport played indoors, popular in Nordic countries."
+  },
+  {
+    "no": 283,
+    "sport name": "Flyboarding \u2014 an extreme water sport in which athletes perform tricks while wearing a water jetpack attached to a jet ski."
+  },
+  {
+    "no": 284,
+    "sport name": "Footbag \u2014 group of sports that is named after the ball (\"Footbag\") that is used to play the sport. Sports include Freestyle and Footbag Net."
+  },
+  {
+    "no": 285,
+    "sport name": "Footbag Net \u2014 players have to kick a footbag over a 5ft high net."
+  },
+  {
+    "no": 286,
+    "sport name": "Football \u2014 Around the world, Football mostly refers to Association Football, also known as Soccer in some places. In the USA, Football refers to American Football (Gridiron). In Australia, Football refers to Australian Rules Football."
+  },
+  {
+    "no": 287,
+    "sport name": "Football Tennis \u2014 also known as futnet, played by kicking a ball over a low net, with a bounce allowed."
+  },
+  {
+    "no": 288,
+    "sport name": "Footgolf \u2014 a mix of golf and football, where players use football skills to kick a ball into holes."
+  },
+  {
+    "no": 289,
+    "sport name": "Footpool \u2014 novelty version of billiards using an oversized table and soccer balls."
+  },
+  {
+    "no": 290,
+    "sport name": "Footvolley \u2014 like beach volleyball though you can only use your feet."
+  },
+  {
+    "no": 291,
+    "sport name": "Formula Racing \u2014 motor racing using open-wheeled single seat vehicles."
+  },
+  {
+    "no": 292,
+    "sport name": "Four Square \u2014 schoolyard ball game played in a quadrant."
+  },
+  {
+    "no": 293,
+    "sport name": "Four-Ball \u2014 a Carom Billiards discipline, played on a pocketless table with four balls (2 red, 2 white), where a point is scored when a player caroms on any two other balls, and two points are scored when the player caroms on each of the three other balls. A variant played in Asia is called Yotsudama."
+  },
+  {
+    "no": 294,
+    "sport name": "Freediving \u2014 underwater diving sport which relies on the diver\u2019s ability to hold their breath."
+  },
+  {
+    "no": 295,
+    "sport name": "Freerunning \u2014 a version of parkour that adds acrobatic moves that are purely aesthetic, also known as tricking."
+  },
+  {
+    "no": 296,
+    "sport name": "Freestyle BMX \u2014 stunt riding sport using BMX bikes."
+  },
+  {
+    "no": 297,
+    "sport name": "Freestyle Flying Disc \u2014 creative, acrobatic, and athletic maneuvers with a flying disc."
+  },
+  {
+    "no": 298,
+    "sport name": "Freestyle Footbag \u2014 performing various tricks with a footbag."
+  },
+  {
+    "no": 299,
+    "sport name": "Freestyle Football \u2014 athletes compete to perform various tricks using a football."
+  },
+  {
+    "no": 300,
+    "sport name": " Freestyle Motocross \u2014 competition based upon points for acrobatic ability on an MX bike over jumps. See also Motocross."
+  },
+  {
+    "no": 301,
+    "sport name": "Freestyle Skateboarding \u2014 performing tricks with a skateboard while flat ground skateboarding."
+  },
+  {
+    "no": 302,
+    "sport name": "Freestyle Skiing \u2014 different forms of freestyle skiing including Aerial skiing, Mogul skiing, Ski ballet, Ski cross, Half-pipe skiing, Slopestyle skiing."
+  },
+  {
+    "no": 303,
+    "sport name": "Freestyle Slalom Skating \u2014 involves performing tricks around a straight line of equally spaced cones while wearing inline skates."
+  },
+  {
+    "no": 304,
+    "sport name": "Freestyle Snowboarding \u2014 competitors ride on a snowboard and do tricks along as they descend snow covered slopes to earn maximum scores."
+  },
+  {
+    "no": 305,
+    "sport name": "Freestyle Swimming \u2014 in these events competitors can swim using any stroke of their choice."
+  },
+  {
+    "no": 306,
+    "sport name": "Freestyle Wrestling \u2014 the objective is to pin down the opponent's shoulders on to the mat, the legs are allowed to be used."
+  },
+  { "no": 307, "sport name": "Frescoball (see Matkot)." },
+  {
+    "no": 308,
+    "sport name": "Fricket \u2014 a \u2018two-on-two\u2019 flying disc game, also known as disc cricket, cups, suzy sticks and crispy wickets."
+  },
+  {
+    "no": 309,
+    "sport name": "Frisian Handball \u2014 a traditional sport from the Netherlands in which players attempt to land a ball at the end of a long rectangular field."
+  },
+  {
+    "no": 310,
+    "sport name": "Frontenis \u2014 a sport using rackets and a rubber ball on a \u2018pelota court\u2019."
+  },
+  {
+    "no": 311,
+    "sport name": "Fullbore target rifle \u2014 using rifles, shooters hit the paper targets in prone position."
+  },
+  {
+    "no": 312,
+    "sport name": "Fu\u00dfball\u00a0(also spelled Fussball) \u2014 this is the German name for (Association) Football, and also the name used for Table Football."
+  },
+  {
+    "no": 313,
+    "sport name": "Futsal \u2014 a variant of association football played on a smaller field usually indoors."
+  },
+  {
+    "no": 314,
+    "sport name": "Fuzzball \u2014 a street version of baseball played in some regions of the US."
+  },
+  {
+    "no": 315,
+    "sport name": "Gaelic Football \u2014a type of football from Ireland with a goal similar to that used in rugby but having a net attached below the crossbar. The object is to kick or punch the round ball into the net (three points) or over the crossbar (one point)."
+  },
+  {
+    "no": 316,
+    "sport name": "Gaelic Handball \u2014 a wall based sport, played in Ireland, similar to squash though the ball is hit with the hand."
+  },
+  {
+    "no": 317,
+    "sport name": "Gateball \u2014 a team sport played with a wooden mallet and wooden balls. Each player attempts to strike their allocated ball through all the gates and finally strike the goal pole."
+  },
+  {
+    "no": 318,
+    "sport name": "Giant Slalom \u2014 downhill skiers have to navigate through a fixed set of gates, spaced farther apart than in Slalom though not as much as in Super-G, therefore medium sized turns."
+  },
+  {
+    "no": 319,
+    "sport name": "Gilli-Danda \u2014 a South Asian game played with two sticks; the long stick is used to strike the shorter one in the air."
+  },
+  {
+    "no": 320,
+    "sport name": "Gliding \u2014 an air sport in which pilots use an unpowered aircraft."
+  },
+  {
+    "no": 321,
+    "sport name": "Glima \u2014 a belt wrestling style from Scandinavia, based on a popular sport of the Vikings from over 1200 years ago."
+  },
+  {
+    "no": 322,
+    "sport name": "Goalball \u2014 a Paralympic sport for blind athletes using a ball with bells."
+  },
+  {
+    "no": 323,
+    "sport name": "Golf \u2014 players use a club to hit balls into a series of holes on a course, using the fewest number of strokes."
+  },
+  {
+    "no": 324,
+    "sport name": "Golf Croquet \u2014 a popular form of croquet in which each player takes a stroke in turn, trying to hit a ball through the same hoop."
+  },
+  {
+    "no": 325,
+    "sport name": "Gorodki \u2014 a folk sport from Russia, where competitors strike down a group of cylindrical wooden objects by throwing a bat."
+  },
+  {
+    "no": 326,
+    "sport name": "Grass Skiing \u2014 involves skiing on grass-covered slopes on skis with wheels."
+  },
+  {
+    "no": 327,
+    "sport name": "Greco-Roman Wrestling \u2014 In this wrestling style, competitors are prohibited from holding any part of the opponent\u2019s body below the waist."
+  },
+  {
+    "no": 328,
+    "sport name": "Greyhound Racing \u2014 a dog sport also called Dog Racing."
+  },
+  {
+    "no": 329,
+    "sport name": "Gridiron Football \u2014 the term used outside of the US for American Football."
+  },
+  {
+    "no": 330,
+    "sport name": "Guts \u2014 a disc sport derived from dodgeball, where players try to strike their opponents with a frisbee."
+  },
+  {
+    "no": 331,
+    "sport name": "Gymkhana \u2014 a multi-game equestrian event which is performed to display the talents of the horses and their riders."
+  },
+  {
+    "no": 332,
+    "sport name": "Gymnastics \u2014 a range of sports combining tumbling and acrobatic feats, usually done with apparatus. Two main sports: Rhythmic Gymnastics and Artistic Gymnastics."
+  },
+  {
+    "no": 333,
+    "sport name": "Half-Pipe Skiing \u2014 athletes perform tricks while riding on a half-pipe wearing snow skis."
+  },
+  {
+    "no": 334,
+    "sport name": "Hammer throw \u2014 an Olympic track and field event in which a heavy weight at the end of a wire is thrown for distance."
+  },
+  {
+    "no": 335,
+    "sport name": "Handball \u2014 a sport usually played indoors between teams of seven players, who pass a ball to throw it into the goal of the other team. Also known as\u00a0Team Handball,\u00a0Olympic Handball,\u00a0European (Team) handball or\u00a0Borden Ball. Variations include Beach Handball, Czech Handball and Field Handball."
+  },
+  {
+    "no": 336,
+    "sport name": "Hang Gliding \u2014 a type of air sport in which the rider flies a non-motorized aircraft called a hang glider."
+  },
+  {
+    "no": 337,
+    "sport name": "Hardball Squash \u2014 like the indoor court sport of squash, but with a much harder ball."
+  },
+  {
+    "no": 338,
+    "sport name": "Hare Coursing \u2014 hares are chased by greyhounds using their sight rather than scent. (not a sport)."
+  },
+  {
+    "no": 339,
+    "sport name": "Harness Racing  \u2014 horses trot or pace while pulling a driver in a sulky."
+  },
+  {
+    "no": 340,
+    "sport name": "Headis \u2014 combining table tennis and soccer, players use their heads to hit a soccer ball across the table tennis table and net."
+  },
+  {
+    "no": 341,
+    "sport name": "Heptathlon \u2014 a women's track and field multi-event comprising 7 events."
+  },
+  {
+    "no": 342,
+    "sport name": "High Diving \u2014 athletes dive into water from considerably large heights."
+  },
+  {
+    "no": 343,
+    "sport name": "High Jump \u2014 an Olympic Track and Field event in which the participants attempt to jump over the highest bar."
+  },
+  {
+    "no": 344,
+    "sport name": "High Power Rifle \u2014 shooting competition using rifles such as the service rifle."
+  },
+  {
+    "no": 345,
+    "sport name": "Hill Climb \u2014 riding on a motorcycle, one competitor at a time attempts to ride up a very steep hill. The rider to reach the top (if anyone makes it) with the shortest elapsed time wins. There is also a car version of this sport, Hillclimbing."
+  },
+  {
+    "no": 346,
+    "sport name": "Hillclimbing \u2014 car drivers race on an uphill course in a time trial format."
+  },
+  {
+    "no": 347,
+    "sport name": "Hitball \u2014 an indoor team sport from Italy in which players strike the volleyball sized ball into the opponent\u2019s goal post only using the upper limbs."
+  },
+  {
+    "no": 348,
+    "sport name": "Hockey \u2014 a large range of indoor and outdoor team sports which involves hitting a ball into a net. See Ice Hockey and Field Hockey."
+  },
+  {
+    "no": 349,
+    "sport name": "Horizontal Bar \u2014 artistic gymnastics event also known as high bar, where athletes perform aerial stunts on a horizontal bar."
+  },
+  {
+    "no": 350,
+    "sport name": "Hornussen \u2014 a traditional Swiss sport (farmer's golf), where the hornusser knocks a nut through the air with a long flexible rod."
+  },
+  {
+    "no": 351,
+    "sport name": "Horse Polo \u2014 the traditional polo sport. Polo is also played on other animals such as Elephants and Yaks."
+  },
+  {
+    "no": 352,
+    "sport name": "Horse Pulling \u2014 one or two horses harnessed to a weighted sled pull for the greatest distance."
+  },
+  {
+    "no": 353,
+    "sport name": "Horse Racing \u2014 equestrian sport which involves jockeys riding horses or being pulled along by horses."
+  },
+  {
+    "no": 354,
+    "sport name": "Horse Soccer \u2014 a variation of Pushball, a team sport where an inflated ball is driven through a goal while riding a horse."
+  },
+  {
+    "no": 355,
+    "sport name": "Horseball \u2014 like a combination of Polo, Rugby and Basketball, played on horseback where a ball is carried and shot through a high net to score. A similar sport is Pato."
+  },
+  {
+    "no": 356,
+    "sport name": "Horseback Archery \u2014 shooting arrows at targets while riding a horse."
+  },
+  {
+    "no": 357,
+    "sport name": "Horseshoes \u2014 players toss horseshoes at stakes in the ground."
+  },
+  { "no": 358, "sport name": "Hot Air Ballooning \u2014 see Ballooning." },
+  {
+    "no": 359,
+    "sport name": "Hovercraft Racing \u2014 racing events usually done on tracks, just like auto racing, but part of the track is water and there is some part which is grass."
+  },
+  {
+    "no": 360,
+    "sport name": "Hunting \u2014 an activity which involves tracking and killing animals with various weapons (not a sport?)."
+  },
+  {
+    "no": 361,
+    "sport name": "Hurdles (Track and Field) \u2014 a track and field sport which involves running and jumping over obstacles at speed."
+  },
+  {
+    "no": 362,
+    "sport name": "Hurling \u2014 a Gaelic outdoor team sport where players use a wooden stick to hit a ball between the opposing team's goalposts."
+  },
+  {
+    "no": 363,
+    "sport name": "Hydroplane Racing \u2014 racing of hydroplanes on an oval course mostly on lakes or rivers."
+  },
+  {
+    "no": 364,
+    "sport name": "Ice Canoeing \u2014 a team sport in which a five-member crew complete a course, in which riders have to push their canoe on the frozen parts of the river as well as row in the water."
+  },
+  {
+    "no": 365,
+    "sport name": "Ice Climbing \u2014 athletes climb vertical ice formations with the uses of ropes and other protective gear."
+  },
+  {
+    "no": 366,
+    "sport name": "Ice Cross Downhill \u2014 an extreme winter racing sport which involves direct racing of multiple skaters on a downhill course."
+  },
+  {
+    "no": 367,
+    "sport name": "Ice Dancing \u2014 one of the events in Figure Skating, which has its roots in ballroom dancing."
+  },
+  {
+    "no": 368,
+    "sport name": "Ice Hockey \u2014 a contact sport which is played on ice while wearing skates and using a stick to hit a puck into a goal."
+  },
+  {
+    "no": 369,
+    "sport name": "Ice Racing \u2014 racing of motorized vehicles on predominantly natural ice surfaces like frozen lakes or rivers."
+  },
+  {
+    "no": 370,
+    "sport name": "Ice Speedway \u2014 similar to Motorcycle Speedway Racing, though using a motorbike developed specifically for racing on ice. The bikes race anti-clockwise around oval tracks between 260 and 425 meters in length."
+  },
+  {
+    "no": 371,
+    "sport name": "Ice Skating \u2014 a range of sports that involve traveling on ice using metal blades attached to shoes, such as ice hockey, figure skating and speed skating."
+  },
+  {
+    "no": 372,
+    "sport name": "Ice Sledge Racing \u2014 a winter Paralympic sport in which contestants use a lightweight sledge and propel themselves using two poles."
+  },
+  {
+    "no": 373,
+    "sport name": "Ice Stock Sport \u2014 a winter sport similar to curling, in which ice-stocks are slid across the ice to a target area. Also called Bavarian Curling."
+  },
+  {
+    "no": 374,
+    "sport name": "Ice Track Cycling \u2014 racing a modified bicycle around a 400 m frozen track."
+  },
+  {
+    "no": 375,
+    "sport name": "Ice Yachting \u2014 sail boats called ice yachts are used to race on frozen lakes and rivers."
+  },
+  {
+    "no": 376,
+    "sport name": "Icosathlon \u2014 a double decathlon consisting of 20 events, including the 10 traditional decathlon events with 10 additional track and field events."
+  },
+  {
+    "no": 377,
+    "sport name": "Indoor Cricket \u2014 a modified version of cricket played indoor with nets for walls."
+  },
+  {
+    "no": 378,
+    "sport name": "Indoor Field Hockey \u2014 indoor team sport that was derived from field hockey."
+  },
+  {
+    "no": 379,
+    "sport name": "Indoor Netball \u2014 a variation of netball, played indoors with netting all around the court."
+  },
+  {
+    "no": 380,
+    "sport name": "Indoor Rowing \u2014 competitions performed on a rowing machine which simulates the on-water action."
+  },
+  {
+    "no": 381,
+    "sport name": "Indoor Soccer \u2014 an indoor version of Association Football developed in North America with side walls keeping the ball in play."
+  },
+  {
+    "no": 382,
+    "sport name": "Indoor Triathlon \u2014 swimming in an indoor pool, cycling on a stationary bike, and running on an indoor track or treadmill."
+  },
+  {
+    "no": 383,
+    "sport name": "Inline Hockey \u2014 similar to ice hockey, players move around on a wooden or concrete surface wearing inline skates."
+  },
+  {
+    "no": 384,
+    "sport name": "Inline Skating \u2014 also known as roller blading, a variety of sports performed while wearing skates with two to five polyurethane wheels arranged in a single line."
+  },
+  {
+    "no": 385,
+    "sport name": "Inline Speed Skating \u2014 athletes use inline skates to race around tracks."
+  },
+  {
+    "no": 386,
+    "sport name": "Intercrosse \u2014 a non-contact version of lacrosse."
+  },
+  {
+    "no": 387,
+    "sport name": "International Fronton \u2014 played by striking a ball onto a wall with bare hands, using rules adapted from many wall ball sports."
+  },
+  {
+    "no": 388,
+    "sport name": "International Game \u2014 a team sport that is played by striking a ball with hands, created so that players from similar handball sports could play against each other."
+  },
+  {
+    "no": 389,
+    "sport name": "International Rules Football \u2014 invented so that Aussie Rules Football players can play games against Irish Gaelic football players."
+  },
+  {
+    "no": 390,
+    "sport name": "Irish Road Bowling \u2014 competitors attempt to take the fewest throws to propel a metal ball along a predetermined course of country roads."
+  },
+  {
+    "no": 391,
+    "sport name": "Ironman Surflifesaving \u2014 combines four major aspects of surf-lifesaving into a single race: swimming, board paddling, ski paddling, and beach running."
+  },
+  {
+    "no": 392,
+    "sport name": "Jai Alai \u2014 a sport derived from Basque Pelota, usually played indoors. Popular in many Latin American countries."
+  },
+  {
+    "no": 393,
+    "sport name": "Javelin \u2014 track and field event invsolving throwing a spear-like implement as far as possible."
+  },
+  {
+    "no": 394,
+    "sport name": "Jereed \u2014 a traditional Turkish team equestrian sport in which the objective is to throw blunt wooden javelins at players of the opposing team."
+  },
+  {
+    "no": 395,
+    "sport name": "Jet Ski Racing \u2014 a water sport similar to powerboat racing, in which riders use jet skis to compete."
+  },
+  {
+    "no": 396,
+    "sport name": "Jetsprint \u2014 a high-speed boat racing sport in which a team of two riders, race through a course by themselves in a time-trial format (also known as sprint boat racing)."
+  },
+  {
+    "no": 397,
+    "sport name": "Jeu Proven\u00e7al (Boule Lyonnaise) \u2014 a popular French form of Boules, where the objective is to throw a set of hollow metal balls as close as possible to a target ball."
+  },
+  {
+    "no": 398,
+    "sport name": "Jianzi \u2014 a traditional Chinese national sport, where players aim to keep a shuttlecock type object in the air by kicking it, usually played with a net between teams. Also called Shuttlecock."
+  },
+  {
+    "no": 399,
+    "sport name": "Joggling \u2014 running (jogging) races while juggling."
+  },
+  {
+    "no": 400,
+    "sport name": "Jokgu \u2014 a Korean sport which resembles a mix of football and volleyball."
+  },
+  {
+    "no": 401,
+    "sport name": "Jorkyball \u2014 a type of indoor soccer played on a small rectangular field surrounded by glass walls."
+  },
+  {
+    "no": 402,
+    "sport name": "Judo \u2014 the objective is to throw or takedown the opposing player to the ground."
+  },
+  {
+    "no": 403,
+    "sport name": "Jugger \u2014 a brutal sport inspired by the movie \u201cThe Salute of the Jugger\u201d, the objective is for the team to get to the other team\u2019s foam dog skull."
+  },
+  {
+    "no": 404,
+    "sport name": "Jiu-Jitsu / Jujutsu \u2014 a Japanese martial art using close combat for defeating an armed and armored opponent, with only a short weapon or none at all."
+  },
+  {
+    "no": 405,
+    "sport name": "Jukskei \u2014 a folk sport from South Africa where competitors throw wooden pins to try and knock down a target wooden peg."
+  },
+  {
+    "no": 406,
+    "sport name": "Kabaddi \u2014 a \"raider\" enters the opposite team's half to tag opponents without taking a breath."
+  },
+  {
+    "no": 407,
+    "sport name": "Kaisa \u2014 a cue sport (type carom billiards) mainly played in Finland. (also known as Karoliina)."
+  },
+  {
+    "no": 408,
+    "sport name": "Kalaripayattu \u2014 an ancient martial art from Kerala, India."
+  },
+  {
+    "no": 409,
+    "sport name": "Karate \u2014 a martial art developed in Japan which uses punching, kicking, knee strikes, elbow strikes, and some open-hand techniques."
+  },
+  {
+    "no": 410,
+    "sport name": "Kart Racing \u2014 an open-wheel motorsport variant which uses small, open, four-wheeled vehicles called karts (or go-karts)."
+  },
+  {
+    "no": 411,
+    "sport name": "Kayaking \u2014 boat races using a small, narrow boat propelled by means of a double-bladed paddle."
+  },
+  {
+    "no": 412,
+    "sport name": "Kegel \u2014 a German nine-pin bowling game played in Australia."
+  },
+  {
+    "no": 413,
+    "sport name": "Kelly Pool \u2014 type of pocket billiard game played on a standard pool table, with fifteen numbered markers which player select from."
+  },
+  {
+    "no": 414,
+    "sport name": "Kemari \u2014 Japanese traditional sport with the aim to keep one ball in the air."
+  },
+  {
+    "no": 415,
+    "sport name": "Kendo \u2014 a form of Japanese martial art that originated from kenjutsu, using bamboo swords and armour."
+  },
+  {
+    "no": 416,
+    "sport name": "Kettlebell Lifting \u2014 a weight lifting sport performed with kettlebells, which are heavy weights which resemble a cannonball with a handle."
+  },
+  {
+    "no": 417,
+    "sport name": "Kho Kho \u2014 the team that is quickest to tag all the opponents wins the game, from India."
+  },
+  {
+    "no": 418,
+    "sport name": "Kickball \u2014 a type of baseball where the players kick the ball, instead of striking it with a bat."
+  },
+  {
+    "no": 419,
+    "sport name": "Kickboxing \u2014 a group of stand-up combat sports based on kicking and punching. Variations include Pradal Serey (Cambodia), Sanda (China), Savate (France), Sikaran (Philippines)."
+  },
+  {
+    "no": 420,
+    "sport name": "Kilikiti \u2014 a traditional Tuvalu sport similar to cricket."
+  },
+  {
+    "no": 421,
+    "sport name": "Kin-Ball \u2014 played with three teams and a large inflated ball."
+  },
+  {
+    "no": 422,
+    "sport name": "Ki-o-rahi \u2014 a traditional New Zealand Maori game played on a circular field."
+  },
+  {
+    "no": 423,
+    "sport name": "Kite Fighting \u2014 battle to cut the lines on the opponents' kites."
+  },
+  {
+    "no": 424,
+    "sport name": "Kite Foil Racing \u2014 kiteboard racing on boards with a\u00a0hydrofoil\u00a0that extends below the board into the water."
+  },
+  {
+    "no": 425,
+    "sport name": "Kite Landboarding \u2014 using a kite and wind power to manoeuver a huge skateboard type board over land."
+  },
+  {
+    "no": 426,
+    "sport name": "Kite Boarding \u2014 a group of sports which use a kite for power and a board for support, such as Kitesurfing, Kite Landboarding, Snowkiting."
+  },
+  {
+    "no": 427,
+    "sport name": "Kitesurfing \u2014 a board and kite are used on the water utilizing different styles consisting of freeride, speed, down winders and racing."
+  },
+  {
+    "no": 428,
+    "sport name": "Klootschieten \u2014 German sport in which participants throw a ball as far as they can."
+  },
+  {
+    "no": 429,
+    "sport name": "Kneeboarding \u2014 a waterskiing event where a participant is pulled along while kneeling on a convex board."
+  },
+  {
+    "no": 430,
+    "sport name": "Knife Throwing \u2014 like archery, the knife is thrown towards a target."
+  },
+  {
+    "no": 431,
+    "sport name": "Korfball \u2014 a mixed gender ball sport which is similar to netball and basketball, developed in The Netherlands."
+  },
+  {
+    "no": 432,
+    "sport name": "Krachtbal \u2014 a team sport from Flanders, where points are scored by throwing the ball using a neck or back throw into the opponent\u2019s goal area."
+  },
+  {
+    "no": 433,
+    "sport name": "Krolf \u2014 a mix of croquet and golf, players use a mallet to hit the ball into a hole."
+  },
+  {
+    "no": 434,
+    "sport name": "Kronum \u2014 a team sport that combines aspects of football, handball, basketball, and rugby into a single sport."
+  },
+  {
+    "no": 435,
+    "sport name": "Kubb \u2014 a lawn game where the object is to knock over wooden blocks ('kubbs') by throwing wooden batons at them."
+  },
+  {
+    "no": 436,
+    "sport name": "Kung Fu \u2014 a general term for Chinese martial arts, the competition format is Wushu."
+  },
+  {
+    "no": 437,
+    "sport name": "Kurash \u2014 folk wrestling style from Central Asia in which wrestlers use towels to hold their opponents, and their goal is to throw their opponents off the feet."
+  },
+  {
+    "no": 438,
+    "sport name": "Lacrosse \u2014 a team game, originally played by North American Indians, in which the ball is thrown, caught, and carried with a long-handled stick with a piece of shallow netting at one end. Versions include Field Lacrosse, Box Lacrosse, Women's Lacrosse, Sixes Lacrosse."
+  },
+  {
+    "no": 439,
+    "sport name": "Lagori \u2014 from Southern India, this game involves a ball and a pile of flat stones. A member of one team throws a soft ball at a pile of stones to knock them over, then try to restore the pile of stones while the opposing team throws the ball at them (also known as Lingocha)."
+  },
+  {
+    "no": 440,
+    "sport name": " Land Sailing \u2014 racing in three-wheeled vehicles moving across land powered by wind through the use of a sail. Also known as sand yachting or land yachting."
+  },
+  {
+    "no": 441,
+    "sport name": " Land Speed Records \u2014 in various vehicle classes, competitors attempt to create the fastest time over a fixed distance. Two runs are required in opposite directions within one hour to set a new mark."
+  },
+  {
+    "no": 442,
+    "sport name": " Land Windsurfing \u2014 similar to traditional Windsurfing though performed on land rather than water, using a four-wheeled deck to travel across the surface. Also known as \"Terrasailing\", \"street sailing\", \"land sailing\" and \"dirt windsurfing\"."
+  },
+  {
+    "no": 443,
+    "sport name": "Lapta \u2014 a Russian traditional bat and ball game. The aim of the game is to hit a ball, served by a player of the opposite team, with a bat as far as possible, then run across the field, and if possible back again."
+  },
+  {
+    "no": 444,
+    "sport name": "Laser Run \u2014 four legs of laser pistol shooting followed by an 800m run."
+  },
+  {
+    "no": 445,
+    "sport name": " Laser Tag \u2014 a skirmish sport in which players attempt to score points by tagging targets, typically with a hand-held infrared-emitting targeting device."
+  },
+  {
+    "no": 446,
+    "sport name": " Lawn Bowls \u2014 the objective is to roll biased balls so that they stop close to a smaller ball called a \"jack\" or \"kitty\"."
+  },
+  {
+    "no": 447,
+    "sport name": "Lawn Mower Racing \u2014 motorsport where participants use race-modified lawn mowers."
+  },
+  {
+    "no": 448,
+    "sport name": "Lead Climbing \u2014 climbers attempt to get highest on challenging route on a vertical wall within a pre-determined timeframe."
+  },
+  {
+    "no": 449,
+    "sport name": "Legends Car Racing \u2014 a racing sport using identical spec vehicles, with bodyshells made of 5/8-scale replicas of American automobiles from the 1930s and 1940s and powered by a Yamaha motorcycle engines."
+  },
+  {
+    "no": 450,
+    "sport name": " Lelo Burti \u2014 a Georgian folk sport, a full contact ball game very similar to rugby."
+  },
+  {
+    "no": 451,
+    "sport name": "Lethwei \u2014 an unarmed Burmese martial art similar to other kickboxing styles from the region."
+  },
+  {
+    "no": 452,
+    "sport name": "Letterboxing\u2014 an outdoor sport that combines orienteering, art, and puzzle solving. Small weatherproof boxes are hidden in publicly accessible places (like parks) and clues are distributed to finding the box. Similar to GeoCaching."
+  },
+  {
+    "no": 453,
+    "sport name": "Log Rolling \u2014 two challengers attempt to stay on a floating log the longest."
+  },
+  {
+    "no": 454,
+    "sport name": "Longboarding \u2014 a skateboarding sport in which athletes use a longboard to compete in downhill races."
+  },
+  {
+    "no": 455,
+    "sport name": "Long Drive \u2014 golf competition in which players attempt to hit the ball the longest distance."
+  },
+  {
+    "no": 456,
+    "sport name": "Long Jump \u2014 a track and field event where the participant attempts to jump the longest into a sand pit. See also the similar Triple Jump."
+  },
+  {
+    "no": 457,
+    "sport name": "Long Track Motorcycle Speedway \u2014 a version of motorcycle speedway, but taking place on longer tracks at much higher speeds."
+  },
+  {
+    "no": 458,
+    "sport name": "Longue Paume \u2014 an outdoor version of the racket sport, jeu de paume, played without a net."
+  },
+  {
+    "no": 459,
+    "sport name": "Luge \u2014 a Winter Olympic sport in which competitors race down an ice track in a small one- or two-person sled lying supine (face up) and feet-first."
+  },
+  {
+    "no": 460,
+    "sport name": " Lumberjack \u2014 competitions involving many different events, including log rolling, chopping, timed hot (power) saw and bucksaw cutting, and pole climbing."
+  },
+  {
+    "no": 461,
+    "sport name": "Mallakhamba \u2014 a traditional Indian sport, where athletes perform various types of gymnastics moves and hold various poses on a vertical wooden pole or a rope."
+  },
+  {
+    "no": 462,
+    "sport name": "Marathon \u2014 a distance running athletics event over 42.2 km."
+  },
+  {
+    "no": 463,
+    "sport name": "Marching Band \u2014 a large team of participants play musical instruments as they perform various routines while moving around on a huge outdoor field."
+  },
+  {
+    "no": 464,
+    "sport name": "Mas Wrestling \u2014 participants sit and face each other with the feet braced against a board and each with both hands on a stick. The aim is to pull the other player over to your side."
+  },
+  {
+    "no": 465,
+    "sport name": "Matkot \u2014 a beach paddle sport from Israel which is very similar to beach tennis. Also called Frescobol."
+  },
+  {
+    "no": 466,
+    "sport name": "Metallic Silhouette Shooting \u2014 players compete to test their skills by shooting at silhouette metal targets."
+  },
+  {
+    "no": 467,
+    "sport name": "Metro Footy \u2014 a modified version of Australian football played on a rectangular field, predominantly in the USA."
+  },
+  {
+    "no": 468,
+    "sport name": "Middle Distance  \u2014 a set of track and field running events over distances such as 800m, 1500m, not a sprint and not an endurance race."
+  },
+  {
+    "no": 469,
+    "sport name": "Military Pentathlon \u2014 a competition involving a shooting phase, obstacle run, obstacle swimming, grenade throwing, and cross-country running."
+  },
+  {
+    "no": 470,
+    "sport name": "Mind Sports \u2014 a family of sports in which the objective is to test mental strength rather than physical strength. Some may be considered actual sports such as speed cubing, while others not (memory, chess)."
+  },
+  {
+    "no": 471,
+    "sport name": "Minigolf or Miniature Golf \u2014 a game utilizing only the putting aspect of Golf, played on short holes on artificial putting surfaces often with obstacles. Officially called minigolf, but also can be called by the name miniature golf, mini-golf, midget golf, goofy golf, shorties, extreme golf, put put, crazy golf, adventure golf, mini-putt and many others."
+  },
+  {
+    "no": 472,
+    "sport name": "Mini Rugby \u2014 a modified version for Rugby Union, to make the sport suitable to be introduced to children."
+  },
+  {
+    "no": 473,
+    "sport name": "Mixed Martial Arts (MMA) \u2014 a full contact individual combat sport which includes aspects of several other combat\nsports and martial arts."
+  },
+  {
+    "no": 474,
+    "sport name": "Modern Pentathlon \u2014 an Olympic sport that comprises five events: fencing, 200m freestyle swimming, show jumping, and a combined event of pistol shooting and 3200m cross country run."
+  },
+  {
+    "no": 475,
+    "sport name": "Mogul Skiing \u2014 snow skiers compete on a specially designed downhill course, in which the primary focus in on the technique used for turns, aerial maneuvers, and speed."
+  },
+  {
+    "no": 476,
+    "sport name": "M\u00f6lkky \u2014 players use a wooden pin (also called \"m\u00f6lkky\") to try to knock over wooden pins."
+  },
+  {
+    "no": 477,
+    "sport name": "Mongolian Wrestling \u2014 a folk wrestling style from the Mongolian region, in which the aim is to get your opponent to touch his upper body, knee or elbow to the ground."
+  },
+  {
+    "no": 478,
+    "sport name": "Moscow Broomball \u2014 a variation of Broomball, an ice hockey type sport, played in Moscow and only by non-Russians."
+  },
+  {
+    "no": 479,
+    "sport name": "Motoball \u2014 similar to football, except all players (except goalkeepers) are riding motorcycles, and the ball is much bigger (also called Motorcycle Polo)."
+  },
+  {
+    "no": 480,
+    "sport name": "Motocross \u2014 a form of motorcycle racing held on enclosed off-road circuits which include embankments and jumps. See also Freestyle Motocross."
+  },
+  {
+    "no": 481,
+    "sport name": "Motorcycling Road Racing \u2014 a motorcycle sport involving racing motorcycles as teams or individuals around a circular track. At the elite level it is in the form of MotoGP racing. Also known as Moto racing and Bike racing."
+  },
+  {
+    "no": 482,
+    "sport name": "Motorcycle Gymkhana \u2014 a motorcycle time trial sport around cones on a paved area. The winner is the competitor who completes the course in the shortest time. Time penalties are incurred by putting a foot down, hitting a cone, or going outside the designated area. It is similar to car Autocross."
+  },
+  {
+    "no": 483,
+    "sport name": "Motorcycle Sidecar Racing \u2014 rider and a passenger compete in custom built vehicles."
+  },
+  {
+    "no": 484,
+    "sport name": "Motorcycle Speedway \u2014 a Motorsport in which the motorcycles have one gear and no brakes, and race around a circular track. Also commonly known by just Speedway. Variations include Ice Speedway."
+  },
+  {
+    "no": 485,
+    "sport name": "Motorcycle Trials \u2014 a test of skill on a motorcycle whereby the rider attempts to cover rocky terrain without placing a foot on the ground. The winner is the rider with the least penalty points. Known in the USA as \"Observed Trials\"."
+  },
+  {
+    "no": 486,
+    "sport name": "Motorsports \u2014 includes a wide range of sports, each linked with its use of a motor to propel a driver, and all have an element of thrill and danger for the driver and spectator."
+  },
+  {
+    "no": 487,
+    "sport name": "Mountain Biking \u2014 held on steep and rough terrain, involving jumps, rock gardens, and other obstacles."
+  },
+  {
+    "no": 488,
+    "sport name": "Mountain Unicycling \u2014 an adventure sport that consists of traversing rough terrain on a unicycle."
+  },
+  {
+    "no": 489,
+    "sport name": "Mountainboarding \u2014 an action board sport like a snowboard with wheels or a cross-country skateboard. It is also known as\u00a0Dirtboarding,\u00a0Offroad Boarding, and\u00a0All-Terrain Boarding (ATB)."
+  },
+  {
+    "no": 490,
+    "sport name": "Mountaineering \u2014 the sport of mountain climbing."
+  },
+  {
+    "no": 491,
+    "sport name": "Mounted Orienteering \u2014 participants navigate from start to end through control points, usually on horseback."
+  },
+  {
+    "no": 492,
+    "sport name": "Muay Thai \u2014 a full contact fighting sport in which fighters try to defeat their opponents by using different techniques that make use of fists, elbows, knees, and shins."
+  },
+  {
+    "no": 493,
+    "sport name": "Mud Bogging \u2014 an off-road motorsport which involves driving a vehicle through a muddy course."
+  },
+  {
+    "no": 494,
+    "sport name": "Muggle Quidditch \u2014 the playable version of the sport of Quidditch invented for the Harry Potter books."
+  },
+  {
+    "no": 495,
+    "sport name": "Naginatajutsu \u2014 a Japanese martial art of wielding the naginata, a weapon resembling the medieval European glaive."
+  },
+  {
+    "no": 496,
+    "sport name": "Naval Pentathlon \u2014 comprises an obstacle race, life-saving swimming race, utility swimming race, seamanship race, and an amphibious cross-country race."
+  },
+  {
+    "no": 497,
+    "sport name": "Netball \u2014 a team game with seven players on a side, similar to basketball except that players are restricted to certain sections of the court, and a player receiving the ball must stand still until they have passed it to another player."
+  },
+  {
+    "no": 498,
+    "sport name": "Newcomb Ball \u2014 an early variation of Volleyball, teams throw a ball back and forth until it hits the floor or is mishandled."
+  },
+  {
+    "no": 499,
+    "sport name": "Nine-a-side Footy \u2014 a mini version of Australian Rules Football, with 3 players each designated as forwards, centres and backs."
+  },
+  {
+    "no": 500,
+    "sport name": " Nine-Ball \u2014 a version of Pocket Billiards played with nine balls, numbered 1 through 9. A player who legally pockets the nine-ball is the winner. Most professional tournaments are conducted for the nine-ball format of pool."
+  },
+  {
+    "no": 501,
+    "sport name": "Nine-Man Football \u2014 a variation of American Football for smaller schools."
+  },
+  {
+    "no": 502,
+    "sport name": "Nine Pin Bowling \u2014 a variation of bowling with only 9 pins set up in a diamond pattern."
+  },
+  {
+    "no": 503,
+    "sport name": "Ninjutsu \u2014 The traditional Japanese art of the Ninjas - incorporating stealth, camouflage and sabotage, now practiced as a martial art."
+  },
+  {
+    "no": 504,
+    "sport name": " Nordic Combined \u2014 a Winter Olympics sport in which athletes compete in a combined event of Cross-Country Skiing and Ski Jumping."
+  },
+  {
+    "no": 505,
+    "sport name": " Nordic Skiing \u2014 a field of competitive skiing which includes all events where the heel of the boot cannot be fixed to the ski (as opposed to Alpine skiing). Includes Cross-Country Skiing, Ski Jumping, and Biathlon, Nordic Combined and Telemark Skiing."
+  },
+  {
+    "no": 506,
+    "sport name": "Northern Praying Mantis \u2014 a style of Chinese martial arts, sometimes called Shandong Praying Mantis."
+  },
+  {
+    "no": 507,
+    "sport name": "Novuss \u2014 a national sport in Latvia, with similarities to carrom and pocket billiards. Played on a 1 meter square wooden board with pockets in each corner. A small cue stick is used to strike a puck to hit small discs into the pockets."
+  },
+  {
+    "no": 508,
+    "sport name": "Obstacle Course Racing \u2014 an event requiring an athlete to run through a variety of different obstacles."
+  },
+  {
+    "no": 509,
+    "sport name": "Ocean Rowing \u2014 involves rowing races across entire seas and oceans."
+  },
+  {
+    "no": 510,
+    "sport name": "Offroad Boarding \u2014 another name for Mountainboarding."
+  },
+  {
+    "no": 511,
+    "sport name": "Off-Road Racing \u2014 many motor sports have competitions 'off-road', meaning on rough terrain."
+  },
+  {
+    "no": 512,
+    "sport name": "Oil Wrestling \u2014 a form of wrestling called Ya\u011fl\u0131 G\u00fcre\u015f in Turkey, is where the wrestlers cover themselves in oil."
+  },
+  {
+    "no": 513,
+    "sport name": "Oin\u0103 \u2013 a Romanian traditional sport, similar in many ways to Baseball and Lapta played outdoors by two teams of 11 players, taking turns either batting or catching."
+  },
+  {
+    "no": 514,
+    "sport name": "Okinawan Kobud\u014d \u2014 weapon systems of Okinawan martial arts, also known as Ry\u016bky\u016b Kobujutsu."
+  },
+  {
+    "no": 515,
+    "sport name": "One Day International (ODI) \u2014 a form of Cricket played in a single day, usually 50 overs per team. An even shorter version is the Twenty20."
+  },
+  {
+    "no": 516,
+    "sport name": "One-Pocket \u2014 a version of Pocket Billiards where the objective is to pocket all the object balls into a single pocket."
+  },
+  {
+    "no": 517,
+    "sport name": "Open Water Swimming \u2014 competitive swimming races conducted over various distances (10km at the Olympics) held in rivers, lakes and oceans."
+  },
+  {
+    "no": 518,
+    "sport name": "Orienteering \u2014 participants find their way to various checkpoints across rough country with the aid of a map and compass, the winner being the one with the lowest elapsed time."
+  },
+  {
+    "no": 519,
+    "sport name": "Outdoor Handball \u2014 another name for Field Handball."
+  },
+  {
+    "no": 520,
+    "sport name": " Outrigger Canoeing \u2014 racing using a type of canoe featuring one or more lateral support floats known as outriggers, which are fastened to one or both sides of the main hull."
+  },
+  {
+    "no": 521,
+    "sport name": "Over-the-line \u2013 a bat-and-ball sport related to baseball and softball with just 3 people per team. Unlike the other sports, the batter and pitcher are on the same team."
+  },
+  { "no": 522, "sport name": "Oztag \u2014 a form of Tag Rugby" },
+  {
+    "no": 523,
+    "sport name": "Paddle Tennis \u2014 a variation of tennis on a smaller court, lower net, using a solid paddle and ball."
+  },
+  {
+    "no": 524,
+    "sport name": "Paddleball (1 wall) \u2014 a small rubber ball is hit against a single wall with a solid paddle."
+  },
+  {
+    "no": 525,
+    "sport name": "Paddleball (4 wall) \u2014 like racquetball/squash but played with a solid paddle racket."
+  },
+  {
+    "no": 526,
+    "sport name": "Paddleboarding \u2014 a person kneels or lies prone on a board and uses their arms and hands to propel themselves through the water."
+  },
+  {
+    "no": 527,
+    "sport name": "Padel \u2014 a mix of tennis and squash, played on a much smaller court with walls and a solid paddle racket."
+  },
+  {
+    "no": 528,
+    "sport name": "Paintball \u2014 a skirmish sport in which players compete to eliminate opponents by tagging them with capsules containing water soluble dye propelled from paintball guns."
+  },
+  {
+    "no": 529,
+    "sport name": "Palant \u2014 a Polish sport with lots of similarities to modern baseball played using a wooden stick and a rubber ball."
+  },
+  {
+    "no": 530,
+    "sport name": "Paleta Front\u00f3n \u2014 a wall based racquet sport that originated in Peru."
+  },
+  {
+    "no": 531,
+    "sport name": "Palla \u2014 a traditional street game played in villages of Italy."
+  },
+  {
+    "no": 532,
+    "sport name": "Pankration (Amateur) \u2014 A modern version of the Ancient Olympic sport of Pankration."
+  },
+  {
+    "no": 533,
+    "sport name": "Parachuting \u2014 also known as skydiving, involving jumping from an aircraft with just a parachute."
+  },
+  {
+    "no": 534,
+    "sport name": "Para-Climbing \u2014 Sport Climbing  for disabled athletes."
+  },
+  {
+    "no": 535,
+    "sport name": "Para-Cycling \u2014 cycle racing events using adaptations for disabled athletes, such as tandem bikes and hand-cycling."
+  },
+  {
+    "no": 536,
+    "sport name": "Paragliding \u2014 riders using para-gliders perform cross country or acrobatic maneuvers."
+  },
+  {
+    "no": 537,
+    "sport name": "Parallel Bars \u2014 an artistic gymnastics discipline performed by men which comprises predominantly of swings and vaults with two parallel bars."
+  },
+  {
+    "no": 538,
+    "sport name": "Paratriathlon \u2014 involves a 750 m swim, a 20 km bike with handcycles, bicycles or tandems with a guide, and a 5 km wheelchair or running race."
+  },
+  {
+    "no": 539,
+    "sport name": "P\u00e4rk (or Paerk) \u2014 an outdoor team sport that originated in Gotland, where players hit or kick the ball to gain field position."
+  },
+  {
+    "no": 540,
+    "sport name": "Parkour \u2014 activity involving overcoming obstacles in an urban space."
+  },
+  {
+    "no": 541,
+    "sport name": "Park Skateboarding \u2014 skaters perform tricks in on a course like a familiar skate park containing bowls and pools in a complex combination with ramps and course bends."
+  },
+  {
+    "no": 542,
+    "sport name": "Patball \u2014 school yard game played with hands or head for hitting the ball against a wall."
+  },
+  {
+    "no": 543,
+    "sport name": "Pato \u2014 a cross between Polo and Basketball played on horseback. It is the national sport of Argentina. A similar sport is Horseball."
+  },
+  {
+    "no": 544,
+    "sport name": "Pehlwani \u2014 a form of wrestling from South Asia. A win is achieved by pinning the opponent's shoulders and hips to the ground simultaneously."
+  },
+  {
+    "no": 545,
+    "sport name": "Pelota Mixteca \u2014 an ancient game similar to tennis without a net, the ball is hit with decorated gloves."
+  },
+  {
+    "no": 546,
+    "sport name": "Pencak Silat \u2014 a fighting sport from Indonesia which collectively encompasses martial arts of various styles."
+  },
+  {
+    "no": 547,
+    "sport name": "Pes\u00e4pallo \u2014 a Finnish variation of Baseball, the major difference is that the ball is pitched vertically."
+  },
+  {
+    "no": 548,
+    "sport name": "P\u00e9tanque \u2014 a type of boules in which the objective is to throw hollow metal balls towards a small wooden target ball."
+  },
+  {
+    "no": 549,
+    "sport name": "Peteca \u2014 played by hitting the shuttlecock with your hand over a high net."
+  },
+  {
+    "no": 550,
+    "sport name": "Pickleball \u2014 a non-contact racket sport which is similar to badminton, tennis, and table tennis."
+  },
+  {
+    "no": 551,
+    "sport name": "Picigin \u2014 a traditional water sport from Croatia in which the aim is to prevent a small ball from touching the surface of the water."
+  },
+  {
+    "no": 552,
+    "sport name": "Pigeon Racing \u2014 the objective is for each pigeon to return back to its home as fast as possible."
+  },
+  {
+    "no": 553,
+    "sport name": "Ping Pong \u2014 a popular name for Table Tennis."
+  },
+  {
+    "no": 554,
+    "sport name": "Pitch and Putt \u2014 like golf, but on shorter holes and only a putter and a wedge are allowed."
+  },
+  {
+    "no": 555,
+    "sport name": "Pitton \u2014 a net and racquet based sport played with a hard pickleball paddle and a badminton shuttlecock."
+  },
+  {
+    "no": 556,
+    "sport name": "Platform Tennis \u2014 a variation of tennis with modified equipment on a much smaller court surrounded on all sides by a fence."
+  },
+  {
+    "no": 557,
+    "sport name": "Playboating \u2014 a whitewater sport in which athletes on kayaks or canoes perform various moves in a fixed place called the playspot."
+  },
+  {
+    "no": 558,
+    "sport name": "Pleasure Driving \u2014 a horse and carriage sport judged on a horse's manners, performance, quality and conformation."
+  },
+  {
+    "no": 559,
+    "sport name": " Pocket Billiards \u2014 also known as Pool, it is the name for a range of Cue Sports played on a table with six pockets along the rails, into which the main aim is to hit balls into the pockets. There are hundreds of pool games - popular versions include Eight-Ball and Nine-Ball, as well as Ten-Ball, Straight Pool, One-Pocket and Bank Pool."
+  },
+  {
+    "no": 560,
+    "sport name": "Poker \u2014 a card game that combines gambling, strategy, and skill. The winner of each hand is determined according to the combinations of players' cards."
+  },
+  {
+    "no": 561,
+    "sport name": "Pole Climbing \u2014 involves climbing very high wooden poles."
+  },
+  {
+    "no": 562,
+    "sport name": "Pole Dancing \u2014 participants perform various type of acrobatic moves like spins, climbs, twists and body inversions around a pole."
+  },
+  {
+    "no": 563,
+    "sport name": "Pole Vault \u2014 an athletics event in which a competitor leaps over a bar using a flexible pole."
+  },
+  {
+    "no": 564,
+    "sport name": "Polo (Horse Polo) \u2014 a team sport played on horseback in which the objective is to hit a ball into a goal using a long-handled mallet. Variations include Snow Polo, Elephant Polo, Cycle Polo, Yak Polo, Cowboy Polo plus many more."
+  },
+  {
+    "no": 565,
+    "sport name": "Polocrosse \u2014 an equestrian sport combining the sports of lacrosse and polo."
+  },
+  {
+    "no": 566,
+    "sport name": "Pommel Horse \u2014 a male artistic gymnastics event in which the gymnast performs routines atop a symbolic horse."
+  },
+  {
+    "no": 567,
+    "sport name": "Pond Hockey \u2014 a version of ice hockey played on a natural frozen body of water."
+  },
+  {
+    "no": 568,
+    "sport name": "Pool \u2014 a common name for the cue sport of Pocket Billiards."
+  },
+  {
+    "no": 569,
+    "sport name": "Popinjay \u2014 a shooting sport with either bows or rifles, in which the bird-like target is suspended from a pole."
+  },
+  {
+    "no": 570,
+    "sport name": "Power Hockey \u2014 ice hockey played on an electric wheelchair."
+  },
+  {
+    "no": 571,
+    "sport name": "Power Boat Racing \u2014 ocean-going powerboats races against each other."
+  },
+  {
+    "no": 572,
+    "sport name": "Powerchair Football \u2014 indoor football for people in wheelchairs."
+  },
+  {
+    "no": 573,
+    "sport name": "Powerlifting \u2014 tests of strength on three lifts: dead lift, bench press and squat."
+  },
+  {
+    "no": 574,
+    "sport name": "Practical shooting \u2014 dynamic shooting sport using handguns and moving and shooting over obstacles."
+  },
+  {
+    "no": 575,
+    "sport name": "Pradal Serey \u2014 a type of kickboxing from Cambodia. Also known as Kun Khmer."
+  },
+  {
+    "no": 576,
+    "sport name": "Prizefighting \u2014 another name for bare-knuckle boxing."
+  },
+  {
+    "no": 577,
+    "sport name": "Pushball \u2014 a team sport played with a large ball in which the objective is to push the ball through the opponent\u2019s goal posts."
+  },
+  {
+    "no": 578,
+    "sport name": "Qianball \u2014 a racket and ball sport developed in China which can be best described as a mix of aspects from tennis and squash."
+  },
+  {
+    "no": 579,
+    "sport name": "Quadrathlon \u2014 an endurance sports event composed of the four individual disciplines of swimming, kayaking, cycling and running - also called quadriathlon."
+  },
+  {
+    "no": 580,
+    "sport name": "Quidditch \u2014 the sport invented for the Harry Potter books has been adapted for the real world. See Muggle Quidditch."
+  },
+  {
+    "no": 581,
+    "sport name": "Quoits \u2014 a traditional target throwing game in which rings are thrown at a target spike, the aim is to get them as close as possible to the target."
+  },
+  {
+    "no": 582,
+    "sport name": "Racerunning \u2014 a track and field racing sport for disabled athletes, in which they use a specially designed tricycle."
+  },
+  {
+    "no": 583,
+    "sport name": "Race Walking \u2014 competitors attempt to outrace one another without running."
+  },
+  {
+    "no": 584,
+    "sport name": "Racketlon \u2014 a combination sport, where players compete in the sports of table tennis, tennis, squash, and badminton."
+  },
+  {
+    "no": 585,
+    "sport name": "Racquetball \u2014 a squash type game involving hitting a hollow rubber ball using a stringed racket."
+  },
+  {
+    "no": 586,
+    "sport name": "Racquets / Rackets \u2014 a sport similar to squash."
+  },
+  {
+    "no": 587,
+    "sport name": "Raffa Bocce\u00a0\u2014 a variation of bocce played on carpet, plastic balls are rolled or thrown towards a target smaller ball"
+  },
+  {
+    "no": 588,
+    "sport name": "Rafting \u2014 the objective is to navigate downstream on river rapids using an inflated raft."
+  },
+  {
+    "no": 589,
+    "sport name": "Rallycross \u2014 automobile sprint racing held on a closed racing circuit using rally type cars."
+  },
+  {
+    "no": 590,
+    "sport name": "Rally Racing (car) \u2014 auto racing that mainly happens either on unpaved roads in races against the clock."
+  },
+  {
+    "no": 591,
+    "sport name": "Rally Raid \u2014 an extended form of rally racing, conducted on an off-road course which spans across one or more countries."
+  },
+  {
+    "no": 592,
+    "sport name": "Rally Racing (motorbike) \u2014 a navigation event on motorbikes on public roads whereby competitors must visit a number of checkpoints in diverse locations while still obeying road traffic laws."
+  },
+  {
+    "no": 593,
+    "sport name": "Real Tennis \u2014 the sport from which the modern lawn tennis was derived. It is played in an indoor court of asymmetric dimensions, using rules and scoring similar to those of modern tennis."
+  },
+  {
+    "no": 594,
+    "sport name": "Rec Footy \u2014 an accessible non-contact version of Australian Football."
+  },
+  {
+    "no": 595,
+    "sport name": "Reining \u2014 equestrian riders guide their horses through a precise pattern of spins, circles and stops."
+  },
+  {
+    "no": 596,
+    "sport name": "Relay Running \u2014 a track and field running race in which athletes compete as a team, passing a baton from one runner to the next."
+  },
+  {
+    "no": 597,
+    "sport name": "Relay Swimming \u2014 a swimming race in which teams of four race consecutively."
+  },
+  {
+    "no": 598,
+    "sport name": "Rhythmic Gymnastics \u2014 uses the elements of ballet, gymnastics, dance, and apparatus manipulation."
+  },
+  {
+    "no": 599,
+    "sport name": "Ringball \u2014 a court game from South Africa very similar to netball."
+  },
+  {
+    "no": 600,
+    "sport name": "Ringette \u2014 a very similar sport to ice hockey, though played with a blue rubber ring and a straight stick."
+  },
+  {
+    "no": 601,
+    "sport name": "Rings \u2014 gymnastics routine using a pair of rings, that are suspended by straps."
+  },
+  {
+    "no": 602,
+    "sport name": "Rink Bandy \u2014 a variation of Bandy which originated in Sweden in the 1960s, played on an ice hockey rink. See also Rink Ball."
+  },
+  { "no": 603, "sport name": "Rink Hockey \u2014 a roller hockey sport." },
+  {
+    "no": 604,
+    "sport name": "Rinkball \u2014 very similar to Rink Bandy, though played with ice hockey sticks instead of bandy sticks which are more like those used in field hockey."
+  },
+  {
+    "no": 605,
+    "sport name": "Ritinis \u2014 a team sport from Lithuania, played on a football field with goal posts with a puck thrown by bat with a handle and curved elongated end."
+  },
+  {
+    "no": 606,
+    "sport name": "Road Bicycle Racing \u2014 cycle races held on paved roads, usually over several hours or days."
+  },
+  {
+    "no": 607,
+    "sport name": "Road Bowling \u2014 throw a small ball along a road, to cover a prescribed distance with a set number of throws."
+  },
+  {
+    "no": 608,
+    "sport name": "Road Tennis \u2014 a version of tennis played on a smaller court with paddles and a low wooden net."
+  },
+  {
+    "no": 609,
+    "sport name": "Road Skating \u2014 athletes use either inline or roller skates and ride on road courses."
+  },
+  {
+    "no": 610,
+    "sport name": "Robot Combat \u2014 involves custom built remote control machines fighting each other (not a sport)."
+  },
+  {
+    "no": 611,
+    "sport name": "Robot Sports \u2014 sporting competitions involve robot machines battling other robots, often replicating the rules and equipment of sports (not a sport)."
+  },
+  {
+    "no": 612,
+    "sport name": "Robot Soccer \u2014 autonomous robots compete in football matches (not a sport)."
+  },
+  {
+    "no": 613,
+    "sport name": "Rock Climbing \u2014 competitive rock climbing is called Sport Climbing."
+  },
+  {
+    "no": 614,
+    "sport name": "Rodeo \u2014 a sporting event comprising many different sports, including the following Calf Roping, Breakaway roping, Team roping, Barrel racing, Steer wrestling, Goat tying, Bronc riding, Bull Riding,\nSteer roping\u00a0and\nPole bending."
+  },
+  {
+    "no": 615,
+    "sport name": "Rogaining \u2014 involves cross-country navigation over long distances."
+  },
+  {
+    "no": 616,
+    "sport name": "Roll Ball \u2014 like handball on roller skates, players must bounce the ball while moving and score goals by shooting the ball into the opposing team's goal."
+  },
+  {
+    "no": 617,
+    "sport name": "Roller Derby \u2014 two teams compete while skating in the same direction around a track."
+  },
+  {
+    "no": 618,
+    "sport name": "Roller Hockey \u2014 includes traditional roller hockey (quad hockey or rink hockey  played with quad skates) and inline hockey (played with inline skates)."
+  },
+  {
+    "no": 619,
+    "sport name": "Roller Skating \u2014 there is a range of sports performed while wearing roller skates."
+  },
+  {
+    "no": 620,
+    "sport name": "Roller Skiing \u2014 races are conducted on tarmac road courses with athletes wearing snow skis with wheels attached."
+  },
+  {
+    "no": 621,
+    "sport name": "Roller Soccer \u2014 indoor sport, playing soccer while wearing roller blades."
+  },
+  {
+    "no": 622,
+    "sport name": "Rope Climbing \u2014 competitors climb up a rope using only their hands."
+  },
+  {
+    "no": 623,
+    "sport name": "Rope Jumping (skipping) \u2014 involves a single person or more jumping over a rope that is being swung."
+  },
+  {
+    "no": 624,
+    "sport name": "Roping \u2014 a rodeo event where calves or cows are caught by throwing around it a rope with a loop as quickly as possible."
+  },
+  {
+    "no": 625,
+    "sport name": "Roque \u2014 an American variation of croquet played on a hard, smooth surface."
+  },
+  {
+    "no": 626,
+    "sport name": "Rounders \u2014 played between two teams with a bat and ball, like baseball."
+  },
+  {
+    "no": 627,
+    "sport name": "Roundnet \u2014 involves two teams of two, who have up to three touches to hit a ball off a small round horizontal net (also called spikeball)."
+  },
+  {
+    "no": 628,
+    "sport name": "Rowing \u2014 a sport in which competitors propel a boat using oars."
+  },
+  {
+    "no": 629,
+    "sport name": "Rugby Fives \u2014 an indoor court game played with gloves, hitting the ball against the wall."
+  },
+  {
+    "no": 630,
+    "sport name": "Rugby League \u2014 a rough game involving tackling the players in a bid to get the ball, with each team attempting to carry it over the end line."
+  },
+  {
+    "no": 631,
+    "sport name": "Rugby League Nines \u2014 a variant of rugby league, with only nine players instead of 13."
+  },
+  {
+    "no": 632,
+    "sport name": "Rugby League Sevens \u2014 a variant of rugby league, with only seven players instead of 13."
+  },
+  {
+    "no": 633,
+    "sport name": "Rugby Sevens \u2014 a variation of rugby union with fewer players and played over a shorter time period."
+  },
+  {
+    "no": 634,
+    "sport name": "Rugby Tens \u2014 also known as ten-a-side and Xs, is a variant of rugby union that originated in Malaysia, and is popular in many Asian countries."
+  },
+  {
+    "no": 635,
+    "sport name": "Rugby Union \u2014 a football code played on a grass field by two opposing teams with two H-shaped goalposts at opposite ends."
+  },
+  {
+    "no": 636,
+    "sport name": "Rugby X \u2014 a variant of rugby sevens, though with teams of five on a \u00bc sized pitch with shorter matches."
+  },
+  {
+    "no": 637,
+    "sport name": "Running \u2014 running races can range from short sprints to ultra-marathons."
+  },
+  {
+    "no": 638,
+    "sport name": "Russian Pyramid \u2014 a cue sport played in countries of the former Soviet Union (also known simply as Pyramid(s), Russian billiards or Russian pool)"
+  },
+  {
+    "no": 639,
+    "sport name": "Sailing \u2014 a sport that involves moving a boat by using the power of the wind."
+  },
+  {
+    "no": 640,
+    "sport name": "Sambo \u2014 a martial art developed for Russia's military and police force in the 1930s. The term translates as \"self-defense without weapons\"."
+  },
+  {
+    "no": 641,
+    "sport name": "Samoa Rules \u2014 a combination of Australian Rules Football and Rugby Union."
+  },
+  { "no": 642, "sport name": "Sandball \u2014 see Beach Handball." },
+  {
+    "no": 643,
+    "sport name": "Sandboarding \u2014 involves sliding on the sand while standing on a board."
+  },
+  {
+    "no": 644,
+    "sport name": "Sandsurfing \u2014 attach a skateboard deck or other similar object to the back of an ATV or vehicle with a watersports tow rope (not a competitive sport)."
+  },
+  {
+    "no": 645,
+    "sport name": "Sanshou (also called Sanda) \u2014 a form of kickboxing from China, which combines full-contact kickboxing, with wrestling, takedowns, throws, sweeps, kick catches, and in some competitions, even elbow and knee strikes."
+  },
+  {
+    "no": 646,
+    "sport name": "Savate \u2014 a French version of kickboxing, in which only foot kicks are allowed."
+  },
+  {
+    "no": 647,
+    "sport name": "Sawing \u2014 involves cutting across entire logs of wood using saws."
+  },
+  {
+    "no": 648,
+    "sport name": "Schwingen \u2014 a style of folk wrestling native to Switzerland."
+  },
+  {
+    "no": 649,
+    "sport name": "Scootering \u2014 doing tricks, over obstacles and terrains, on a scooter."
+  },
+  {
+    "no": 650,
+    "sport name": "Sculling Rowing \u2014 a form of rowing, in which a person uses oars, one in each hand, to propel a single or double scull rowing boat."
+  },
+  {
+    "no": 651,
+    "sport name": "Scurry Driving \u2014 ponies pull a carriage with two riders around a track."
+  },
+  {
+    "no": 652,
+    "sport name": "Seatball \u2014 a sport like sitting volleyball for disabled and non-disabled athletes, played on a larger court and allowing for the ball to bounce once between touches (also called Sitzball or Sitball)."
+  },
+  {
+    "no": 653,
+    "sport name": "Segway Polo \u2014 similar to horse polo though players ride a segway PT."
+  },
+  {
+    "no": 654,
+    "sport name": "Sepak Takraw \u2014 an Asian sport like volleyball but using the feet to kick the ball over the net."
+  },
+  {
+    "no": 655,
+    "sport name": "Shinty \u2014 Scottish team sport resembling field hockey, played with long curved sticks and a small ball which is hit through tall goalposts. Derived from the Irish game of Hurling."
+  },
+  {
+    "no": 656,
+    "sport name": "Shinty-Hurling \u2014 a composite sport created to facilitate competitions between Shinty and Hurling players."
+  },
+  {
+    "no": 657,
+    "sport name": "Shooting Sports \u2014 many events involving shooting at targets using guns like pistols and rifles."
+  },
+  {
+    "no": 658,
+    "sport name": "Shot put \u2014 the track and field event where the participants throw a heavy metal ball for maximum distance."
+  },
+  {
+    "no": 659,
+    "sport name": "Showdown \u2014 a game for blind and visually impaired people similar to air hockey."
+  },
+  {
+    "no": 660,
+    "sport name": "Show Jumping \u2014 an equestrian event where riders on horseback attempt to jump cleanly through sets of obstacles within a specific time."
+  },
+  {
+    "no": 661,
+    "sport name": "Shuffleboard \u2014 players use cues to push and slide weighted discs along a long court into a scoring area."
+  },
+  {
+    "no": 662,
+    "sport name": "Shuttlecock \u2014 the English name of the sport Jianzi, like badminton played with the feet (Shuttlecock is also the name of the object that is hit in Badminton)."
+  },
+  {
+    "no": 663,
+    "sport name": "Sikaran \u2014 a form of kick boxing from the Philippines, which utilizes only the feet, the hands are only used for blocking."
+  },
+  {
+    "no": 664,
+    "sport name": "Singlestick \u2014 a martial art that uses a wooden stick, which began as a way of training sailors in the use of swords. A type of Stick-Fighting."
+  },
+  {
+    "no": 665,
+    "sport name": "Sipa \u2014 a sport from the Philippines in which the aim is to kick the ball to the other side of the net on to the opponent\u2019s side without it touching the ground."
+  },
+  {
+    "no": 666,
+    "sport name": "Sitting Volleyball \u2014 a version of volleyball for disabled athletes played while sitting (also known as paralympic volleyball)."
+  },
+  {
+    "no": 667,
+    "sport name": "Sixes Lacrosse \u2014 a new smaller team faster paced lacrosse format making the sport more accessible."
+  },
+  {
+    "no": 668,
+    "sport name": "Six-Man Football \u2014 a modification of American football played with 6 instead of 11 players."
+  },
+  {
+    "no": 669,
+    "sport name": "Skateboarding \u2014 competitions involving tricks or races while standing on a flat board with rollers attached at the bottom."
+  },
+  {
+    "no": 670,
+    "sport name": "Skeet Shooting \u2014 one of the disciplines of clay pigeon shooting, targets are thrown in singles and doubles from two traps situated 40m apart."
+  },
+  {
+    "no": 671,
+    "sport name": "Skeleton \u2014 participants ride a small sled down a frozen track facing forward with the face down."
+  },
+  {
+    "no": 672,
+    "sport name": "Ski Archery \u2014 involves skiing and shooting arrows at targets."
+  },
+  {
+    "no": 673,
+    "sport name": "Ski Ballet \u2014 see Acroski (the sport's current name)."
+  },
+  {
+    "no": 674,
+    "sport name": "Ski Cross \u2014 downhill skiing on a specifically designed course featuring big jumps, rollers and high-banked turns."
+  },
+  {
+    "no": 675,
+    "sport name": "Ski Flying \u2014 winter sport similar to ski jumping in which the skier will come down and take off from a ramp and fly the farthest possible distance."
+  },
+  {
+    "no": 676,
+    "sport name": "Ski Jumping \u2014 a form of skiing in which an athlete will take off a ramp and jump as high and far as possible."
+  },
+  {
+    "no": 677,
+    "sport name": "Ski Mountaineering \u2014 the objective is to climb up a mountain wearing skis, occasionally carrying if required, and then descend on the skis."
+  },
+  {
+    "no": 678,
+    "sport name": "Ski Orienteering \u2014 the objective for athletes is to navigate from the start to the finish through checkpoints while riding on skis."
+  },
+  {
+    "no": 679,
+    "sport name": "Skirmish \u2014 a general term for sports in which participants replicate firearm warfare. See Airsoft, Laser Tag and Paintball."
+  },
+  {
+    "no": 680,
+    "sport name": "Skiboarding \u2014 like snow skiing, but with shorter and wider skis."
+  },
+  {
+    "no": 681,
+    "sport name": "Skibobbing \u2014 a winter sport that uses a bicycle-type frame connected to skis called skibobs."
+  },
+  {
+    "no": 682,
+    "sport name": "Skiing \u2014 traveling over a surface (snow, water, grass) on skis. There is a wide range of sporting activities that fall under the term skiing."
+  },
+  {
+    "no": 683,
+    "sport name": "Skij\u00f8ring \u2014 being pulled either by a dog, a horse or a motor-operated vehicle while on skis."
+  },
+  {
+    "no": 684,
+    "sport name": "Skittles \u2014 a precursor to many bowling games, it is an indoor sport in a bowling alley, using one or more heavy balls to knock down nine skittles."
+  },
+  { "no": 685, "sport name": "Skydiving \u2014 see Parachuting." },
+  {
+    "no": 686,
+    "sport name": "Skyrunning \u2014 a running sport in which athletes compete on a course that leads through mountains."
+  },
+  {
+    "no": 687,
+    "sport name": "Skysurfing \u2014 a skydiver attaches a board to his feet during freefall."
+  },
+  {
+    "no": 688,
+    "sport name": "Slacklining \u2014 balancing and doing tricks along a suspended length of flat webbing that is tensioned between two anchors."
+  },
+  {
+    "no": 689,
+    "sport name": "Slalom Skiing \u2014 an alpine skiing discipline which involves skiing downhill through gates, with the gates closer together therefore tighter turns than in Giant Slalom or Super-G."
+  },
+  {
+    "no": 690,
+    "sport name": "Slamball \u2014 a form of basketball using trampolines to get height to shoot the ball through the hoop."
+  },
+  {
+    "no": 691,
+    "sport name": "Sledge Hockey \u2014 ice hockey on double-blade sledges for people with physical disabilities on the lower body."
+  },
+  {
+    "no": 692,
+    "sport name": "Slopestyle \u2014 winter sport event involving skiing or snowboarding down a course of obstacles."
+  },
+  {
+    "no": 693,
+    "sport name": "Slopestyle Skiing \u2014 athletes on skis perform on a course with different types of obstacles."
+  },
+  {
+    "no": 694,
+    "sport name": "Slopestyle Snowboarding \u2014 athletes on a snowboard perform on a course with a range of obstacles."
+  },
+  {
+    "no": 695,
+    "sport name": "Slow-Pitch Softball \u2014 a version of Softball where the ball is pitched from 50 feet with a half a windmill underhand arm action."
+  },
+  {
+    "no": 696,
+    "sport name": "Snatch  \u2014 an event in the sport of Olympic weightlifting."
+  },
+  {
+    "no": 697,
+    "sport name": "Snocross (or snowcross) \u2014 the most popular form of snowmobile racing, similar to motocross but conducted on snow."
+  },
+  {
+    "no": 698,
+    "sport name": "Snooker \u2014 a Cue Sport played on a table covered with a green cloth with six pockets. It is played using a cue and 22 snooker balls: one white cue ball, 15 red balls and six balls of different colors. Points are awarded for using the cue ball to pot the red and colored balls."
+  },
+  {
+    "no": 699,
+    "sport name": "Snowbiking \u2014 uses a mountain bike on snow with fat tires."
+  },
+  {
+    "no": 700,
+    "sport name": "Snowboarding \u2014 involves descending on a slope covered in snow using a single board attached to both feet."
+  },
+  {
+    "no": 701,
+    "sport name": "Snowboard Cross \u2014 another name for Boardercross."
+  },
+  {
+    "no": 702,
+    "sport name": "Snowboating \u2014 a winter sport in which athletes use a kayak to descend down a slope covered with snow (also called Snowkayaking)."
+  },
+  {
+    "no": 703,
+    "sport name": "Snow Golf \u2014 like regular golf, however the golf course is covered with snow and ice, rather than grass."
+  },
+  {
+    "no": 704,
+    "sport name": "Snowkiting \u2014 a snow based, kite powered sport, while riding on a snowboard (Kite Boarding) or on snow skis (Kite Skiing)."
+  },
+  {
+    "no": 705,
+    "sport name": "Snowmobile Racing \u2014 athletes ride on snowmobiles to compete on purpose built courses or on natural snow covered terrains."
+  },
+  {
+    "no": 706,
+    "sport name": "Snow Polo \u2014 a variation of Polo on horseback which is played on compacted snow on flat ground or a frozen lake."
+  },
+  {
+    "no": 707,
+    "sport name": "Snow Rugby \u2014 rugby union matches played on fields covered with snow."
+  },
+  {
+    "no": 708,
+    "sport name": "Snowshoeing \u2014 racing in snow wearing snow shoes."
+  },
+  {
+    "no": 709,
+    "sport name": "Snow Skiing \u2014 Traveling over a snow surface on skis. Competitive forms include Alpine Skiing (or Downhill Skiing), and Cross-Country / Nordic Skiing."
+  },
+  {
+    "no": 710,
+    "sport name": "Snow Volleyball \u2014 a variation of beach volleyball in which the games are played in the snow."
+  },
+  {
+    "no": 711,
+    "sport name": "Soccer \u2014 the common name for Association Football in the North America, Australia and some other parts of the world."
+  },
+  {
+    "no": 712,
+    "sport name": "Soft Tennis \u2014 a version of the game of tennis played primarily in Asia, very similar except they play with soft balls."
+  },
+  {
+    "no": 713,
+    "sport name": "Softball \u2014 there are three styles of softball: fast pitch, \"modified\" fast pitch, and slow pitch."
+  },
+  {
+    "no": 714,
+    "sport name": "Softball Throw \u2014 a track and field discipline in which you throw the ball as far as possible, mostly used in competitions for disadvantaged groups as a substitute for other technical throwing events."
+  },
+  {
+    "no": 715,
+    "sport name": "Sorro Wrestling \u2014 a traditional wrestling style from Niger."
+  },
+  {
+    "no": 716,
+    "sport name": "Speed-Ball \u2014 an Egyptian racquet sport where players hit a ball suspended from a central pole."
+  },
+  {
+    "no": 717,
+    "sport name": "Speedball \u2014 an American sport in which teams attempt to score by throwing or kicking a ball into a goal."
+  },
+  {
+    "no": 718,
+    "sport name": "Speed Climbing \u2014 athletes climb a set route on a vertical wall in the fastest time possible."
+  },
+  {
+    "no": 719,
+    "sport name": "Speedcubing \u2014 players solve single piece 3D puzzles in the quickest time possible."
+  },
+  {
+    "no": 720,
+    "sport name": "Speed Golf \u2014 a variation of golf in which the objective is to complete the course in the fewest possible number of strokes and the fastest time possible."
+  },
+  {
+    "no": 721,
+    "sport name": "Speedminton \u2014 badminton played with no net adapted to make it suitable for playing outdoors (now called Crossminton)."
+  },
+  {
+    "no": 722,
+    "sport name": "Speed Pool \u2014 a cue sport, a Pocket Billiards game where the balls must be pocketed in as little time as possible."
+  },
+  {
+    "no": 723,
+    "sport name": "Speed Skating (Long Track) \u2014 ice skaters race head to head on a 400m oval track for a set distance, between 500 and 10,000 m."
+  },
+  {
+    "no": 724,
+    "sport name": "Speed Skating (Short Track) \u2014 4 to 8 skaters racing around an oval ice track towards the finish line."
+  },
+  {
+    "no": 725,
+    "sport name": "Speed Skiing \u2014 the objective is to ski downhill on a straight path as fast as possible."
+  },
+  {
+    "no": 726,
+    "sport name": "Speedway \u2014 motorsports around an oval track. Forms include Motorcycle Speedway, Autospeedway, Long Track Speedway, Ice Speedway and Bicycle Speedway."
+  },
+  {
+    "no": 727,
+    "sport name": "Spongee \u2014 an outdoor non-contact sport played on an ice rink in rubber boots with a sponge puck instead of a hard puck like in ice hockey."
+  },
+  {
+    "no": 728,
+    "sport name": "Sport Acrobatics \u2014 the previous name for Acrobatic Gymnastics."
+  },
+  {
+    "no": 729,
+    "sport name": "Sport Aerobics \u2014 the objective is to perform high-intensity gymnastic moves in sync with background music. Also called Aerobic Gymnastics."
+  },
+  {
+    "no": 730,
+    "sport name": "Sport Climbing \u2014 rock climbing competitions, can be Lead Climbing, Speed Climbing or Bouldering."
+  },
+  {
+    "no": 731,
+    "sport name": "Sport Diving \u2014 aspects of scuba diving are performed in a swimming pool."
+  },
+  {
+    "no": 732,
+    "sport name": "Sport Fishing \u2014 in competition fishing contestants compete for prizes based on the total length or weight of a fish, usually of a pre-determined species, caught within a specified timeframe."
+  },
+  {
+    "no": 733,
+    "sport name": "Sport Kite \u2014 using a stunt kite to fly the kite in several patterns in time to background music."
+  },
+  {
+    "no": 734,
+    "sport name": "Sport Stacking \u2014 stack a number of plastic cups in a pre-determined sequence as fast as possible."
+  },
+  {
+    "no": 735,
+    "sport name": "Sporting Clays \u2014 one of the disciplines of clay pigeon shooting, shooters move about a course, attempting to hit varying targets projected at different angles, speed, elevation, and distances."
+  },
+  {
+    "no": 736,
+    "sport name": "Sports Car Racing \u2014 a type of auto racing, in which sports cars are used."
+  },
+  {
+    "no": 737,
+    "sport name": "Sports Table Football \u2014 attempts to replicate the game of Association Football on a table top with action figures, based on the game of Subbuteo."
+  },
+  {
+    "no": 738,
+    "sport name": "Sprint (Athletics)  \u2014 track and field running events over short distances, such as 100m, 200m, 400m."
+  },
+  {
+    "no": 739,
+    "sport name": "Sprint Car Racing \u2014 a racing sport which involves direct racing of high powered small cars."
+  },
+  {
+    "no": 740,
+    "sport name": "Sprint Football \u2014 a USA varsity sport for lightweight players which emphasizes speed and agility."
+  },
+  {
+    "no": 741,
+    "sport name": "Squash \u2014 a racquet sport played by two or four players in a four-walled court with a small hollow rubber ball."
+  },
+  {
+    "no": 742,
+    "sport name": "Squash Tennis \u2014 derived from both squash and lawn tennis, played on a squash court with tennis rackets and balls."
+  },
+  {
+    "no": 743,
+    "sport name": "Squat \u2014 a powerlifting event in which participants attempt to perform a squat with the maximum weight on their shoulders."
+  },
+  {
+    "no": 744,
+    "sport name": "Ssireum \u2014 a folk wrestling style and traditional national sport of Korea, with the aim to bring any part of the opponent's body above the knee to the ground."
+  },
+  {
+    "no": 745,
+    "sport name": "Standup Paddleboarding \u2014 a person stands on a board and uses a paddle to propel themselves through the water."
+  },
+  {
+    "no": 746,
+    "sport name": "Steeplechase \u2014 an athletics distance track running event with barriers and water jumps."
+  },
+  {
+    "no": 747,
+    "sport name": "Steeplechase \u2014 a horse racing sport in which competitors on horsebacks race on a long distance course that has several types of obstacles."
+  },
+  {
+    "no": 748,
+    "sport name": "Stick-Fighting \u2014 a type of martial arts which use a hand-held long slender wooden stick for fighting. Variations include singlestick and canne de combat."
+  },
+  {
+    "no": 749,
+    "sport name": "Stick\u00e9 Tennis \u2014 an indoor racquet and ball based sport derived from lawn tennis in the late 19th century, using a smaller court surrounded by 4 walls."
+  },
+  {
+    "no": 750,
+    "sport name": "Stock Car Racing \u2014 a car racing sport in which production-based cars, called stock cars, are used for racing."
+  },
+  {
+    "no": 751,
+    "sport name": "Stone Lift or Carry \u2014 involves moving stones as a test of strength."
+  },
+  {
+    "no": 752,
+    "sport name": "Stoolball \u2014 a team sport played on a circular grass field, possibly the precursor to cricket and baseball."
+  },
+  {
+    "no": 753,
+    "sport name": "Straight pool \u2014 a type of pocket billiards game in which a player is required to call which object ball they are going to pocket and to which pocket."
+  },
+  {
+    "no": 754,
+    "sport name": "Street Hockey \u2014 a team sport that was derived from Ice Hockey, though it is played on an asphalt or cement surface instead of ice, and players wear inline skates or shoes."
+  },
+  {
+    "no": 755,
+    "sport name": "Streetluge \u2014 participants race downhill feet first on a sort of modified skateboard."
+  },
+  {
+    "no": 756,
+    "sport name": "Street Skateboarding \u2014 skaters perform tricks on a street-like course with stairs, handrails, curbs, benches, walls, and slopes."
+  },
+  {
+    "no": 757,
+    "sport name": "Strongman \u2014 a sport which tests competitors' strength in a variety of different ways."
+  },
+  {
+    "no": 758,
+    "sport name": "Sumo Wrestling \u2014 two wrestlers within a circular ring try and push the other out."
+  },
+  {
+    "no": 759,
+    "sport name": "Super Giant Slalom (better known as Super-G) \u2014 an alpine downhill skiing event like giant slalom but the gates to ski through are further apart."
+  },
+  {
+    "no": 760,
+    "sport name": "Supercross \u2014 an indoor dirt-bike racing sport which evolved from Motocross, using specifically built indoor dirt tracks."
+  },
+  {
+    "no": 761,
+    "sport name": "Supermoto \u2014 motorcycle riders compete on three different types of courses as part of a single race: a flat track course, a motocross course and a road course."
+  },
+  {
+    "no": 762,
+    "sport name": "Surf Kayaking \u2014 involves surfing in the ocean using a kayak."
+  },
+  {
+    "no": 763,
+    "sport name": "Surfboat Rowing \u2014 a team of riders compete using surfboats on a course out and back through the surf."
+  },
+  {
+    "no": 764,
+    "sport name": "Surfing \u2014 participants stand on a surfboard, and use the waves for propulsion."
+  },
+  {
+    "no": 765,
+    "sport name": "Surf Lifesaving \u2014 competitions consist of performing various tasks performed by lifeguards on the beach."
+  },
+  {
+    "no": 766,
+    "sport name": "Swamp Football \u2014 a version of association football played in bogs or swamps."
+  },
+  {
+    "no": 767,
+    "sport name": "Sweep Rowing \u2014 each rower has just one oar which is maneuvered with both hands to propel the boat."
+  },
+  {
+    "no": 768,
+    "sport name": "Swimming \u2014 the sport of propelling oneself through water using the limbs."
+  },
+  {
+    "no": 769,
+    "sport name": "Swimrun \u2014 involves multiple swim and run stages, with no clothing changes and carrying of all equipment."
+  },
+  {
+    "no": 770,
+    "sport name": "Swish \u2014 a verison of table tennis for blind athletes."
+  },
+  {
+    "no": 771,
+    "sport name": "Synchronized Diving  \u2014 a diving sport in which two divers perform the exact same dive simultaneously."
+  },
+  {
+    "no": 772,
+    "sport name": "Synchronized Skating \u2014 a sport of the figure skating discipline in which 8 to 20 skaters perform routines as a team on an ice rink."
+  },
+  {
+    "no": 773,
+    "sport name": "Synchronized Swimming \u2014 athletes perform synchronized dance routines to music while floating in water."
+  },
+  {
+    "no": 774,
+    "sport name": "Table Football \u2014 also called Fu\u00dfball or Foosball, using figures mounted on rows of rotatable bars to hit a ball."
+  },
+  {
+    "no": 775,
+    "sport name": "Table Tennis (also called Ping Pong) \u2014 a racket sport played with small paddles and a lightweight ball on a rectangular table with a net in the middle."
+  },
+  {
+    "no": 776,
+    "sport name": "Taekwondo \u2014 a self-defense discipline that originated in Korea."
+  },
+  {
+    "no": 777,
+    "sport name": "Tag Rugby \u2014 a team sport similar to touch rugby in which instead of a tackle a Velcro attached tag if pulled off the ball carrier. Similar in play to Touch Rugby. Also known as Flag Rugby. Played in several forms, such as OzTag and Mini Tag. American flag rugby played in the US K1-9 is a variation of Tag Rugby."
+  },
+  {
+    "no": 778,
+    "sport name": "Tamburello \u2014 racquet and a ball based sport from Italy."
+  },
+  {
+    "no": 779,
+    "sport name": "Target Archery \u2014 a popular Archery competition where competitors shoot at stationary circular targets from different distances."
+  },
+  {
+    "no": 780,
+    "sport name": "Target Golf \u2014 players hit a golf ball at a large net, scoring points based on where the ball lands."
+  },
+  {
+    "no": 781,
+    "sport name": "Target Shooting \u2014 guns of any type used for aiming at a target."
+  },
+  {
+    "no": 782,
+    "sport name": "Tee-Ball \u2014 an introductory sport for younger kids to baseball and softball, with the ball hit off a stationary tee."
+  },
+  {
+    "no": 783,
+    "sport name": "Tchoukball \u2014 an indoor team sport in which the players can score by throwing a ball onto a rebound frame at either end of the court and the ball landing back on the court without being caught."
+  },
+  {
+    "no": 784,
+    "sport name": "Team Handball \u2014 a commonly used name for the sport of Handball."
+  },
+  {
+    "no": 785,
+    "sport name": "Team Penning \u2014 the objective for each three-rider team on horseback is to separate three specific cattle from a herd."
+  },
+  {
+    "no": 786,
+    "sport name": "Te Ano \u2014 the national game of Tuvalu, with similarities to volleyball, though using two balls at once."
+  },
+  {
+    "no": 787,
+    "sport name": "Tejo (Argentina)  \u2014 a sport from Argentina in which two teams throw metal discs to land as close as possible to a neutral disc."
+  },
+  {
+    "no": 788,
+    "sport name": "Tejo (Colombia)  \u2014 a Colombian sport in which metal discs are thrown 20m to a target which explodes when hit."
+  },
+  {
+    "no": 789,
+    "sport name": "Telemark Skiing \u2014 The bindings for telemark skiing holds the boot by the toes, unlike Alpine Skiing which is fixed-heel. Also known as free hill skiing and telemarking."
+  },
+  {
+    "no": 790,
+    "sport name": "Tennikoit \u2014 played with a rubber ring, in which the objective is to catch and throw the ring back on to the opponents half of the court. Also called ring tennis or tenniquoits."
+  },
+  {
+    "no": 791,
+    "sport name": "Tennis \u2014 a court sport where players use a stringed racket to hit a ball to each other over a net."
+  },
+  {
+    "no": 792,
+    "sport name": "Tennis Polo \u2014 an outdoor team sport, where players attempt to throw a tennis ball through a goal defended by a goalkeeper with a tennis racket. Also called Toccer."
+  },
+  {
+    "no": 793,
+    "sport name": "Tenpin Bowling  \u2014 a player rolls a bowling ball on to a wooden or synthetic lane to knock down pins."
+  },
+  {
+    "no": 794,
+    "sport name": "Tent Pegging \u2014 the objective for a horse rider is to pierce, pick-up and carry a target, with a lance or a sword, as they gallop towards the target."
+  },
+  {
+    "no": 795,
+    "sport name": "Teqball \u2014 a new football-based sport which combines table tennis and football (soccer)."
+  },
+  {
+    "no": 796,
+    "sport name": "Test Cricket \u2014 the longest form of cricket, played over 5 days."
+  },
+  {
+    "no": 797,
+    "sport name": "Tetherball \u2014 two players hit a ball attached by a rope to the top of a stationary pole."
+  },
+  {
+    "no": 798,
+    "sport name": "Tetradecathlon \u2014 a double heptathlon consisting of 14 events, including the 7 traditional heptathlon events with 7 additional track and field events."
+  },
+  {
+    "no": 799,
+    "sport name": "Tetrathlon \u2014 composed of 4 out of the 5 disciplines of Modern Pentathlon: Swimming, Running, Shooting and either Fencing or Equestrian."
+  },
+  {
+    "no": 800,
+    "sport name": "Thoroughbred Racing \u2014 horse racing sport which involves the racing of thoroughbred horses."
+  },
+  {
+    "no": 801,
+    "sport name": "Three-Cushion Billiards \u2014 a very challenging cue sport and Carom Billiards discipline, where the aim is to carom the cue ball off both object balls and contact the rail cushions at least three times before the last object ball."
+  },
+  {
+    "no": 802,
+    "sport name": "Throwball \u2014 a sport very similar to Newcomb Ball (a variation of Volleyball) that is played in India."
+  },
+  {
+    "no": 803,
+    "sport name": "Torball \u2014 a team sport for the visually impaired with an inflated ball with bells inside. The aim is to throw the ball through the opponent\u00b4s goal line."
+  },
+  {
+    "no": 804,
+    "sport name": "Toros Coleados \u2014 involves chasing down a bull while riding on horseback (also called Bull-Tailing)."
+  },
+  {
+    "no": 805,
+    "sport name": "Touch Football \u2014 A version of American Football, where instead of tackling players to the ground, the person carrying the ball only needs to be touched."
+  },
+  {
+    "no": 806,
+    "sport name": "Touch Rugby \u2014 a team sport derived from Rugby Football, in which the tackling is replaced with just a touch."
+  },
+  {
+    "no": 807,
+    "sport name": "Touring Car Racing \u2014 a type of auto track racing, which uses heavily modified road-going cars."
+  },
+  {
+    "no": 808,
+    "sport name": "Tower Running \u2014 grueling races up tall man-made structures. Also known as Stair Climbing."
+  },
+  {
+    "no": 809,
+    "sport name": "Track Cycling \u2014 bicycle races conducted on velodromes or other specially designed tracks that feature a steep banking."
+  },
+  { "no": 810, "sport name": "Track & Field \u2014 also known as athletics." },
+  {
+    "no": 811,
+    "sport name": "Tractor Pulling \u2014 a motorsport involving modified tractors that pull a weighted sled along a 10m wide, 100m track."
+  },
+  {
+    "no": 812,
+    "sport name": "Trampolining \u2014 competitors perform acrobatics while jumping on a trampoline."
+  },
+  {
+    "no": 813,
+    "sport name": "Trap Shooting \u2014 one of the variants of clay pigeon shooting, where 1 or 2 targets are thrown away from a trap situated 15m in front of the shooter."
+  },
+  {
+    "no": 814,
+    "sport name": "TREC \u2014 a French equestrian sport in which the objective is to test both the horse and the rider in competitions consisting of three separate events."
+  },
+  {
+    "no": 815,
+    "sport name": "Tree Climbing \u2014 competitions in which competitors climb trees as fast as possible using various techniques based on the daily working conditions of arborists."
+  },
+  {
+    "no": 816,
+    "sport name": "Triathle \u2014 a shortened version of the Modern Pentathlon, athletes compete in shooting, swimming and running events as a part of a single race."
+  },
+  {
+    "no": 817,
+    "sport name": "Triathlon \u2014 a race consisting of three events, usually swimming, cycling, and running in consecutive order."
+  },
+  {
+    "no": 818,
+    "sport name": "Tricking \u2014 performers combine martial arts movements with flips, kicks, twists and various dance moves to show off their tricks."
+  },
+  {
+    "no": 819,
+    "sport name": " Triple jump \u2014 a track and field event where the participant attempts to hop, skip and jump the longest distance. Also called the hop, skip and jump for obvious reasons. Similar to the long jump."
+  },
+  {
+    "no": 820,
+    "sport name": "Trugo \u2014 Australian sport in which players strike a rubber ring, which is called a whell, with a mallet through goal posts."
+  },
+  {
+    "no": 821,
+    "sport name": "Tug of War \u2014 two teams pull on opposite ends of a rope."
+  },
+  {
+    "no": 822,
+    "sport name": "Tumbling \u2014 a gymnastics event involving tumbling along a mat performing flips, rolls, jumps, performing somersaults and handsprings."
+  },
+  {
+    "no": 823,
+    "sport name": "Twenty20 \u2014 a fast-paced limited over cricket match played 20 overs per team. Also known as T20 Cricket."
+  },
+  {
+    "no": 824,
+    "sport name": "Ulama \u2014 a traditional ball sport from Mexico, players keep the ball inbounds by hitting it with their hips or forearms."
+  },
+  {
+    "no": 825,
+    "sport name": "Ultimate \u2014 played with a disc (frisbee), with points scored by passing the disc to a teammate in the opposing end zone."
+  },
+  {
+    "no": 826,
+    "sport name": " Ultralight Aviation \u2014 events with lightweight aircraft which have 1 or 2 seat fixed-wings."
+  },
+  {
+    "no": 827,
+    "sport name": "Ultramarathon \u2014 very long distance endurance events, ranging from greater than Marathon distance to several days. Ultramarathons can either cover a specified distance, or take place during a specified time frame, with the winner covering the most distance in that time."
+  },
+  {
+    "no": 828,
+    "sport name": "Underwater Football \u2014 played in a swimming pool with snorkeling equipment, the aim is to manoeuvre a slightly negatively buoyant ball underwater (by carrying and passing) from one side of a pool to the other. Scoring is achieved by placing the ball in the gutter on the side of the pool."
+  },
+  {
+    "no": 829,
+    "sport name": "Underwater Hockey \u2014 two teams of six push a puck along the bottom of a swimming pool. (also known as 'Octopush' or Water Hockey)."
+  },
+  {
+    "no": 830,
+    "sport name": "Underwater Ice Hockey \u2014 A variation of Ice Hockey played upside-down underneath frozen pools or ponds. Participants wear snorkeling equipment and wet suits and use the underside of the frozen surface as the playing area for a floating puck (also called sub-aqua ice hockey)."
+  },
+  {
+    "no": 831,
+    "sport name": "Underwater Orienteering \u2014 individual and team events in which competitors wearing scuba diving equipment swim an underwater course following a route marked on a map prepared by the competition organizers, using a compass and a counter meter to measure the distance covered."
+  },
+  {
+    "no": 832,
+    "sport name": "Underwater Photography \u2014 teams of competitors using scuba gear and using a digital underwater camera dive and photograph the same saltwater ocean sites at the same time over a two-day period, with the submitted digital images assessed to find the winner."
+  },
+  {
+    "no": 833,
+    "sport name": "Underwater Rugby \u2014 two teams compete for a slightly negatively buoyant ball (filled with saltwater) and score by placing it into the opponents' goal (heavy metal bucket) at the bottom of a swimming pool."
+  },
+  {
+    "no": 834,
+    "sport name": "Underwater Target Shooting \u2014 competitors free dive in a swimming pool, using spearguns to fire at targets."
+  },
+  {
+    "no": 835,
+    "sport name": "Underwater Wrestling \u2014 an alternative name for Aquathlon."
+  },
+  {
+    "no": 836,
+    "sport name": "Uneven Bars \u2014 an artistic gymnastics apparatus used only by female gymnasts comprising a pair of parallel bars set at different heights (also called asymmetric bars)."
+  },
+  {
+    "no": 837,
+    "sport name": "Unicycle Basketball \u2014 a version of Basketball with all competitors riding unicycles. The sport uses a regulation basketball on a regular basketball court with the same rules."
+  },
+  {
+    "no": 838,
+    "sport name": "Unicycle Handball \u2014 competitors ride unicycles and a handball-sized ball, with the aim to throw it into a vertical hoop placed about 6 feet (1.8 m) above the ground."
+  },
+  {
+    "no": 839,
+    "sport name": " Unicycle Hockey \u2014 a team sport, similar to roller or inline hockey, though all competitors are riding a unicycle and using a tennis ball and ice-hockey sticks."
+  },
+  {
+    "no": 840,
+    "sport name": "Unicycling Racing \u2014 a competition which involves racing using a unicycle."
+  },
+  {
+    "no": 841,
+    "sport name": "Unicycle Trials \u2014 a form of unicycling which involves participants riding a unicycle over obstacles without any part of the rider touching the ground."
+  },
+  {
+    "no": 842,
+    "sport name": " Unicycling \u2014 sports using a single wheel cycle."
+  },
+  {
+    "no": 843,
+    "sport name": "Urban Golf \u2014 golf played anywhere that there's free space and not too many people about."
+  },
+  {
+    "no": 844,
+    "sport name": "Vajra-mushti \u2014 an Indian martial art in which a knuckleduster-like weapon called the Vajra-mushti is employed."
+  },
+  {
+    "no": 845,
+    "sport name": "Valencian Front\u00f3 \u2014 modified Valencian Pilota version of the original Basque Pelota game. The players don't stand face-to-face as in the more popular Valencian Pilota but share a common playing area."
+  },
+  {
+    "no": 846,
+    "sport name": "Valencian Pilota \u2014 is a traditional handball sport played in the Valencian Community of Spain. The ball is usually struck with a bare hand in a game involving two teams made from two up to five players each (depending on the particular version played). Unlike the original Basque Pelota, it is not played against a wall. Instead, teams are placed face to face separated either by a line on the ground or a net. Versions include Valencian Front\u00f3."
+  },
+  {
+    "no": 847,
+    "sport name": "Varpa \u2014 an old outdoor game dating back to the Viking Age. It is similar to boules but played with a flat and heavy thrower known as \"varpa\" instead of balls, once made of shaped stones but nowadays aluminium is more popular."
+  },
+  {
+    "no": 848,
+    "sport name": "Varzesh-e Bastani \u2014 a traditional Iranian martial arts. The sport is practiced in a gymnasium called Zourkhaneh, which is another name by which the sport is known. Also called  Varzesh-e Pahlavani."
+  },
+  {
+    "no": 849,
+    "sport name": "Vault \u2014 an artistic gymnastics event for men and women, in which the athlete leaps over a vault or pommel horse, using the hands for pushing off."
+  },
+  {
+    "no": 850,
+    "sport name": "Vert Skateboarding \u2014 an acrobatic sport in which athletes riding a skateboard perform various tricks while being airborne."
+  },
+  {
+    "no": 851,
+    "sport name": "Vert Skating \u2014 acrobatic inline or roller skating sport performed on a ramp."
+  },
+  {
+    "no": 852,
+    "sport name": "Vigoro \u2014 an Australian sport that combines elements of Cricket and Baseball, mainly played by women. Played on a pitch shorter than for cricket, with a bat with a long handle like a paddle."
+  },
+  {
+    "no": 853,
+    "sport name": "Vintage Racing \u2014 a form of Auto-Racing, with vehicles limited to Vintage types."
+  },
+  {
+    "no": 854,
+    "sport name": "Volleyball \u2014 a game for two teams of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court. See also Beach Volleyball. Similar sports and variations include Throwball, Newcomb Ball."
+  },
+  { "no": 855, "sport name": "Vovinam \u2014 a Vietnamese martial art." },
+  {
+    "no": 856,
+    "sport name": "Vx \u2014 a ball sport from the UK, originally known as Rock-It-Ball. It is played by two teams of five players. The court is roughly the size of a basketball court, with 5 balls in play. Players carry a VstiX for carrying, throwing and catching the ball."
+  },
+  {
+    "no": 857,
+    "sport name": "Wakeboarding \u2014 riding a board and doing tricks on the wake behind a boat."
+  },
+  {
+    "no": 858,
+    "sport name": "Walking Football \u2014 a version of association football in which players are only allowed to walk during game play, developed for older people to keep fit."
+  },
+  {
+    "no": 859,
+    "sport name": "Walking Netball \u2014 a variation of netball, in which players can only walk, developed for older people to keep active."
+  },
+  {
+    "no": 860,
+    "sport name": "Wallball \u2014 a wall based sport similar to squash in which a hi-bounce rubber ball has to be hit onto the wall after a single bounce."
+  },
+  {
+    "no": 861,
+    "sport name": "Wallyball \u2014 a variation of volleyball, which is played on a racquetball court enclosed with walls on all four sides."
+  },
+  {
+    "no": 862,
+    "sport name": "Washer Pitching \u2014 a target throwing game similar to horseshoes, in which players take turns to toss washers into a box or hole."
+  },
+  {
+    "no": 863,
+    "sport name": "Water Basketball \u2014 a mix of basketball and water polo played in a swimming pool with basketball goals."
+  },
+  {
+    "no": 864,
+    "sport name": "Water Polo \u2014 a team sport played in swimming pools, the aim is to pass the ball over the water and into the goal net."
+  },
+  {
+    "no": 865,
+    "sport name": "Water Skiing \u2014 riders are pulled along behind a boat skimming atop the water wearing one or two skis."
+  },
+  {
+    "no": 866,
+    "sport name": "Water Volleyball \u2014 a team sport derived from volleyball in which the games are played in water."
+  },
+  {
+    "no": 867,
+    "sport name": "Weightlifting \u2014 in Olympic Weightlifting competitors attempt to lift weights, mounted on barbells, above their head."
+  },
+  {
+    "no": 868,
+    "sport name": "Weight Throw \u2014 a family of heavy weight throwing events, in which the objective is to either throw the weight as far as possible or as high as possible."
+  },
+  {
+    "no": 869,
+    "sport name": "Western Pleasure \u2014 a horse show competition in which horses are evaluated for their manners and composure."
+  },
+  {
+    "no": 870,
+    "sport name": "Wheelchair Basketball \u2014 basically regular basketball played on a wheelchair."
+  },
+  {
+    "no": 871,
+    "sport name": "Wheelchair Curling \u2014 a variation of curling in which athletes with a disability affecting their lower limbs use a wheelchair to play the sport."
+  },
+  {
+    "no": 872,
+    "sport name": "Wheelchair Dancing \u2014 all of the participants of a team perform dance routines while riding on a wheelchair."
+  },
+  {
+    "no": 873,
+    "sport name": "Wheelchair Fencing \u2014 a version of Fencing in which disabled athletes fight with thin swords while sitting in wheelchairs which are tightly fastened to the floor."
+  },
+  {
+    "no": 874,
+    "sport name": "Wheelchair Racing \u2014 a type of racing in which athletes with physical disabilities compete with the help of a wheelchair."
+  },
+  {
+    "no": 875,
+    "sport name": "Wheelchair Rugby \u2014 a full contact indoor team sport conducted for players with disabilities."
+  },
+  {
+    "no": 876,
+    "sport name": "Wheelchair Rugby League \u2014 a version of rugby league football but played using a wheelchair."
+  },
+  {
+    "no": 877,
+    "sport name": "Wheelchair Tennis \u2014 a version of lawn tennis for those who have lower body disabilities."
+  },
+  {
+    "no": 878,
+    "sport name": "Whitewater Slalom \u2014 a kayaking and canoeing sport in which athletes use a kayak or canoe to navigate through a course that consists of hanging gates on river rapids."
+  },
+  {
+    "no": 879,
+    "sport name": "Wiffleball \u2014 a variation of Baseball designed for indoor or outdoor play in confined areas, using a perforated, light-weight, rubbery plastic ball and a long, plastic yellow) bat."
+  },
+  {
+    "no": 880,
+    "sport name": "Windsurfing \u2014 riding a modified surfboard manoeuvered using a sail on a movable mast."
+  },
+  {
+    "no": 881,
+    "sport name": "Wingsuit Flying \u2014 a type of skydiving, where a person will fly in the air using a special jumpsuit called the wingsuit."
+  },
+  {
+    "no": 882,
+    "sport name": "Winter Guard \u2014 an indoor sport of the color guard discipline in which teams perform several routines using supporting equipment to recorded background music."
+  },
+  {
+    "no": 883,
+    "sport name": "Winter Triathlon \u2014 athletes compete in running, mountain biking and cross-country skiing."
+  },
+  {
+    "no": 884,
+    "sport name": "Women's lacrosse \u2014 a limited-contact version of lacrosse."
+  },
+  {
+    "no": 885,
+    "sport name": "Woodball \u2014 a sport where a mallet is used to pass a ball through gates. This game can be played in grass, sand or indoor. See also Beach Woodball."
+  },
+  {
+    "no": 886,
+    "sport name": "Wood Chopping \u2014 participants attempt to cut or saw a log or other types of wood in the quickest time."
+  },
+  {
+    "no": 887,
+    "sport name": "Wrestling \u2014 a general term for a combat sport between two competitors involving grappling type techniques. Popular forms include the Olympic styles of Greco-Roman and Freestyle. There are many regional forms of wrestling."
+  },
+  {
+    "no": 888,
+    "sport name": "Wushu \u2014 a full-contact sport derived from traditional Chinese martial arts."
+  },
+  {
+    "no": 889,
+    "sport name": "Xare \u2014 a racket sport, a form of Basque pelota, where players face each other across a net which is strung across the middle of an indoor court."
+  },
+  {
+    "no": 890,
+    "sport name": "Xingyiquan \u2014 is one of the major \"internal\" styles of Chinese martial arts (probably not a sport)."
+  },
+  {
+    "no": 891,
+    "sport name": "Ya\u011fl\u0131 G\u00fcre\u015f \u2014 Turkish for Oil Wrestling, also called grease wrestling. In this form of wrestling  the wrestlers cover themselves in oil. It is the national sport of Turkey."
+  },
+  {
+    "no": 892,
+    "sport name": " Yak Polo \u2014 a Mongolian variation of the sport Polo played on yaks instead of on horses."
+  },
+  {
+    "no": 893,
+    "sport name": "Yotsudama \u2014 a variation of Four-Ball carom billiards played in East Asia."
+  },
+  {
+    "no": 894,
+    "sport name": "Yo-Yo \u2014 the competition version of playing with a yo-yo."
+  },
+  {
+    "no": 895,
+    "sport name": "Yubi Lakpi \u2014 a seven-a-side traditional football game with similarities to rugby played in Manipur, India, using a coconut."
+  },
+  {
+    "no": 896,
+    "sport name": "Yukigassen \u2014 a snowball fighting-competition played between two teams with seven players each, originated in Japan."
+  },
+  {
+    "no": 897,
+    "sport name": "Zorb Football \u2014 a team sport that was derived from association football (soccer) in which players are encased in an inflated bubble called Zorb."
+  },
+  {
+    "no": 898,
+    "sport name": "Zourkhaneh \u2014 the Zourkhaneh (house of strength) is the traditional gymnasium where the sport of Varzesh-e Bastani or Pahlavani is practiced. The sport is sometimes known by this name. Alternative spellings are Zurkhaneh, Zorkhana or Zourkhaneh."
+  },
+  {
+    "no": 899,
+    "sport name": "Zui Quan \u2014 The words mean Drunken Fist in Chinese. Also known as Drunken Boxing or Drunkard's Boxing."
+  }
+]
