@@ -8,8 +8,8 @@ start_time = time.time()
 china = '1'; vietnam = '3'; korea = '4'
 url = "http://www.bkipm.kkp.go.id/bkipmnew/upifn/index/"
 
-def importir_terdaftar():
-    res = requests.get(url + china)
+def importir_terdaftar(country):
+    res = requests.get(url + country)
     soup = BeautifulSoup(res.text, 'html.parser')
     importir_list = []
     no = 1
@@ -38,6 +38,6 @@ def importir_terdaftar():
     df = pd.DataFrame(importir_list)
     df.to_excel(f'data_excel/bkipm_china_{no - 1}.xlsx', index=False)
 
-importir_terdaftar()
+importir_terdaftar(china)
 
 print("--- %s seconds ---" % (time.time() - start_time))
