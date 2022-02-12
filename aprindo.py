@@ -12,7 +12,17 @@ def download_logo():
     td_main_content_wrap = td_outer_wrap.find('div', {'class': 'td-main-content-wrap'})
     td_container = td_main_content_wrap.find('div', {'class': 'td-container'})
     td_pb_row = td_container.find('div', {'class': 'td-pb-row'})
-    print(td_pb_row)
+    td_main_content = td_pb_row.find('div', {'class': 'td-main-content'})
+    td_ss_main_content = td_main_content.find('div', {'class': 'td-ss-main-content'})
+    td_page_content = td_ss_main_content.find('div', {'class': 'td-page-content'})
+    p_5 = td_page_content.find('p').findNextSibling().findNextSibling().findNextSibling().findNextSibling()
+    for img in p_5.find_all('img'):
+        img_src = img['src']
+        img_name = img_src.split('/')[-1]
+        img_res = requests.get(img_src)
+        with open(f'data_image/aprindo/{img_name}', 'wb') as f:
+            f.write(img_res.content)
+            f.close()
 
 download_logo()
 
