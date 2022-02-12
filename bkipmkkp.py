@@ -13,8 +13,8 @@ def importir_terdaftar():
     soup = BeautifulSoup(res.text, 'html.parser')
 
     table = soup.find('table')
-
-    print(table)
+    tr = table.find_all('tr')
+    print(tr)
 
 importir_terdaftar()
 
