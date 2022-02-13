@@ -12,9 +12,9 @@ for i in list_item:
         'animal': i.text,
         'link': i.find('a').get('href')
     })
-with open('data_json/azanimals.json', 'w') as f:
+with open(f'data_json/azanimals_{no}.json', 'w') as f:
     json.dump(animal_list, f, indent=4)
 df = pd.DataFrame(animal_list)
-df.to_csv('data_csv/azanimals.csv', index=False)
-df.to_excel('data_excel/azanimals.xlsx', index=False)
+df.to_csv(f'data_csv/azanimals_{no}.csv', index=False)
+df.to_excel(f'data_excel/azanimals_{no}.xlsx', index=False)
 print("--- %s seconds ---" % (time.time() - start_time))
