@@ -1,8 +1,4 @@
-import time
-import json
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
+import time; import json; import requests; import pandas as pd; from bs4 import BeautifulSoup
 
 start_time = time.time()
 china = '1'; vietnam = '3'; korea = '4'
@@ -11,8 +7,7 @@ url = "http://www.bkipm.kkp.go.id/bkipmnew/upifn/index/"
 def importir_terdaftar(country):
     res = requests.get(url + country)
     soup = BeautifulSoup(res.text, 'html.parser')
-    importir_list = []
-    no = 1
+    importir_list = []; no = 1
     table = soup.find('table', {'class': 'table_upi'})
     tr_upi_data = table.find_all('tr', {'class': 'upi_data'})
     for td in tr_upi_data:
@@ -29,15 +24,13 @@ def importir_terdaftar(country):
         })
         no += 1
 
-    with open(f'data_json/bkipm_china_{no - 1}.json', 'w') as f:
+    with open(f'data_json/bkipm_vietnam_{no - 1}.json', 'w') as f:
         json.dump(importir_list, f, indent=4)
 
     df = pd.DataFrame(importir_list)
-    df.to_csv(f'data_csv/bkipm_china_{no - 1}.csv', index=False)
+    df.to_csv(f'data_csv/bkipm_vietnam_{no - 1}.csv', index=False)
+    df.to_excel(f'data_excel/bkipm_vietnam_{no - 1}.xlsx', index=False)
 
-    df = pd.DataFrame(importir_list)
-    df.to_excel(f'data_excel/bkipm_china_{no - 1}.xlsx', index=False)
-
-importir_terdaftar(china)
+importir_terdaftar(vietnam)
 
 print("--- %s seconds ---" % (time.time() - start_time))
