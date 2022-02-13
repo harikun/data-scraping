@@ -1,0 +1,3628 @@
+[
+    {
+        "no": 1,
+        "reg number": "DL 10",
+        "name of establishment": "Workshop 2, Tho Quang Seafood Processing and Export Company",
+        "address": "Da Nang Fisheries Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 2,
+        "reg number": "DL 46",
+        "name of establishment": "Ha Tinh seaproducts import export share Company (HA TINH SEAPRODEX CO)",
+        "address": "Thach Son Village, Thach Ha District, Ha Tinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 3,
+        "reg number": "DL 49",
+        "name of establishment": "Quang Ninh Aquatic Products Export Joint Stock Company No 2 (Aquapexco)",
+        "address": "Hamlet 7, Road 10, Quang Yen Town, Yen Hung District, Quang Ninh Province",
+        "products": "Frozen, Dried"
+    },
+    {
+        "no": 4,
+        "reg number": "DL 415",
+        "name of establishment": "PHU MINH HUNG seafood joint stock company - PHUMINHHUNG JOSTOCO",
+        "address": "Road 10, Quang Yen Town, Yen Hung District, Quang Ninh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 5,
+        "reg number": "DL 517",
+        "name of establishment": "QuangNinh Seafoods Processing And Exporting Company Limited (QUANGNINH SEAFOODS CO., LTD)",
+        "address": "Zone 1, Hai Yen Ward, Mong Cai City, Quang Ninh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 6,
+        "reg number": "HK 535",
+        "name of establishment": "THAO LINH 908 Limited Liability Company - THAO LINH 908 Co., Ltd",
+        "address": "No.15, Minh Khai Street, Ha Lam Ward, Ha Long City, Quang Ninh Province",
+        "products": "Dried"
+    },
+    {
+        "no": 7,
+        "reg number": "DL 536",
+        "name of establishment": "IMPORT AND EXPORT SEAFOOD PROCESSING FACTORY - SON HAI MINH INVESTMENT ONE MEMBER COMPANY LIMITED (SOHAMICO).",
+        "address": "Dong Trung Hamlet, Dong Xa Commune, Van Don District, Quang Ninh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 8,
+        "reg number": "DH 40",
+        "name of establishment": "HaLong Canned Food Joint Stock Corporation - HALONG CANFOCO",
+        "address": "71 Le Lai Street, May Chai Ward, Ngo Quyen District, Hai Phong City",
+        "products": "Canned"
+    },
+    {
+        "no": 9,
+        "reg number": "DL 42",
+        "name of establishment": "Hai Phong Export Seaproducts processing Company  - SPC",
+        "address": "101 Ngo Quyen Street, Ngo Quyen District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 10,
+        "reg number": "DL 73",
+        "name of establishment": "Ha Long Service and Import Export  joint stock Company - HALONGSIMEXCO",
+        "address": "409 Le Lai Street, Ngo Quyen District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 11,
+        "reg number": "DL 93",
+        "name of establishment": "Viet Truong Co., Ltd.",
+        "address": "Vinh Niem Industrial Zone, Vinh Niem Ward, Le Chan District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 12,
+        "reg number": "DL 168",
+        "name of establishment": "SEAPRODEX HAIPHONG",
+        "address": "173 Ngo Quyen Street, May Chai Ward, Ngo Quyen District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 13,
+        "reg number": "DL 74",
+        "name of establishment": "Ha Long Fishery  Discovery Company - Ha Long FIDICOM\t",
+        "address": "409 Le Lai Street, Ngo Quyen District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 14,
+        "reg number": "DL 425",
+        "name of establishment": "HaLong Factory for production of Cakes filled with seafood - HaLong service and import export joint stock company (HALONG SIMEXCO)",
+        "address": "409 Le Lai Street, Ngo Quyen District, Hai Phong City",
+        "products": "Frozen"
+    },
+    {
+        "no": 15,
+        "reg number": "DL 494",
+        "name of establishment": "Trung Son Hung Yen Foodstuff Corporation - TRUNG SON CORP.",
+        "address": "Nhu Quynh Town, Van Lam District, Hung Yen Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 16,
+        "reg number": "DL 55",
+        "name of establishment": "Branch of Ha Noi Seaproducts Import Export joint stock Corporation (SEAPRODEX HANOI) - Xuan Thuy Seaproducts  processing Factory",
+        "address": "Xuan Vinh Village, Xuan Truong District, Nam Dinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 17,
+        "reg number": "NM 507",
+        "name of establishment": "Trung Thanh Company Limited - Trung Thanh Co., Ltd",
+        "address": "Lot D, Dong Van Industrial Zone, Duy Tien District, Ha Nam Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 18,
+        "reg number": "DL 429",
+        "name of establishment": "Viet Nam Rich Beauty Food company Limited (RB Co., LTD.)",
+        "address": "Tan Son Fishing Port, Thai Thuy District, Thai Binh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 19,
+        "reg number": "DL 47",
+        "name of establishment": "Thanh Hoa fishery import - export joint stock company (HASUVIMEX)",
+        "address": "Lot E, Le Mon Industrial Zone, Thanh Hoa City, Thanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 20,
+        "reg number": "DL 508",
+        "name of establishment": "LONG HAI TRADING -TRANSPORTATION-SEA PRODUCT - PROCESSING JOINT STOCK COMPANY (LONG HAI CO.,JSC)",
+        "address": "Tien Phong Village, Hai Binh Commune, Tinh Gia District, Thanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 21,
+        "reg number": "NM 519",
+        "name of establishment": "Hoa Hai seaproducts processing company limited (HOA HAI Co., Ltd.)",
+        "address": "Hoa Hai Hamlet, Hau Loc Commune, Hau Loc District, Thanh Hoa Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 22,
+        "reg number": "DL 247",
+        "name of establishment": "SEAPRODEXIM CO., NGHE AN II",
+        "address": "Cau Giat Town, Quynh Luu District, Nghe An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 23,
+        "reg number": "DL 45",
+        "name of establishment": "South Ha Tinh Seaproduct  Import & Export Joint Stock company - SHATICO ",
+        "address": "Vung Ang Industrial Zone, Ky Anh District, Ha Tinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 24,
+        "reg number": "DL 171",
+        "name of establishment": "Five stars Seafoods Joint Stock Company - FISSCO",
+        "address": "Thanh Trach Village, Bo Trach District , Quang Binh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 25,
+        "reg number": "DL 336",
+        "name of establishment": "Vinashin Quang Binh Trading and Tourism Limited Company",
+        "address": "National Road 1a, Phu Hai Precinct, Dong Hoi City, Quang Binh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 26,
+        "reg number": "DL 41",
+        "name of establishment": "Quang Ninh Seaproducts Import - Export Company",
+        "address": "35 Ben Tau Street, Ha Long City, Quang Ninh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 27,
+        "reg number": "DL 12",
+        "name of establishment": "Song Huong import export seafood company \u00e2\u0080\u0093 SOSEAFOOD",
+        "address": "165 Nguyen Sinh Cung Street, Phu Thuong Ward, Phu Vang District,, Thua Thien Hue Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 28,
+        "reg number": "DL 135",
+        "name of establishment": "Hue Fisheries Development Joint-Stock Company - FIDECO",
+        "address": "No. 86, Nguyen Gia Thieu Street, Hue City, Thua Thien Hue Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 29,
+        "reg number": "DL 225",
+        "name of establishment": "Seaproducts joint stock company of TT Hue - SEASPIMEX TT HUE",
+        "address": "Tan Cang, Thuan An Town, Phu Vang District, Thua Thien Hue Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 30,
+        "reg number": "DL 123",
+        "name of establishment": "HAI THANH CO., LTD.",
+        "address": "Tho Quang Seaproducts Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 31,
+        "reg number": "DL 131",
+        "name of establishment": "Thanh Khe Seafoods Factory - PROCIMEX Viet Nam Joint stock Company ",
+        "address": "C1 Block, Danang Aquatic Products Service & Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 32,
+        "reg number": "DL 172",
+        "name of establishment": "Da Nang processing Import - Export Trading Company ",
+        "address": "12/6 Duc Loi Street, Thuan Phuoc Ward, Hai Chau District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 33,
+        "reg number": "DL 32",
+        "name of establishment": "Frozen Seafoods Factory No 32 - Thuan Phuoc seafoods and trading corporation",
+        "address": "Tho Quang Seafoods Industrial Processing Zone, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 34,
+        "reg number": "DL 190",
+        "name of establishment": "Tho Quang Seafood processing and Export Company",
+        "address": "Da Nang Fisheries Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 35,
+        "reg number": "DL 164",
+        "name of establishment": "D&N Foods processing (Danang) Company limited - DANIFOODS",
+        "address": "62 Yet Kieu Street, Tho Quang Precinct, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 36,
+        "reg number": "DL 170",
+        "name of establishment": "Danang city Seaproducts Corporation - SEAFISH CORP.",
+        "address": "Nai Hung Block, Nai Hien Dong Precinct, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 37,
+        "reg number": "DL 419",
+        "name of establishment": "Nhat Hoang seafood joint stock company",
+        "address": "Lot C4, Da Nang Fisheries Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 38,
+        "reg number": "DL 421",
+        "name of establishment": "My Son Seafoods Factory - Thuan Phuoc seafoods and trading corporation",
+        "address": "Tho Quang Fisheries Service  Industrial Zone, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 39,
+        "reg number": "DL 506",
+        "name of establishment": "SEAPRODEX DA NANG - SON TRA FOODSTUFF PROCESSING FACTORY",
+        "address": "Da Nang Fisheries Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Frozen"
+    },
+    {
+        "no": 40,
+        "reg number": "HK 52",
+        "name of establishment": "HAI THANH CO., LTD.",
+        "address": "Tho Quang Seaproducts Service  Industrial Zone, Tho Quang Ward, Son Tra District, Da Nang City",
+        "products": "Dried"
+    },
+    {
+        "no": 41,
+        "reg number": "HK 94",
+        "name of establishment": "Phuoc Tien General Trading Company - Futco., Ltd.",
+        "address": "358/11 Ngu Hanh Son Street, Ngu Hanh Son District, Da Nang City",
+        "products": "Dried"
+    },
+    {
+        "no": 42,
+        "reg number": "HK 122",
+        "name of establishment": "Hai Vy production and trading company limited - HAVYCO., LTD",
+        "address": "Thach Nham Hamlet, Hoa Nhon Village, Hoa Vang District, Da Nang City",
+        "products": "Dried"
+    },
+    {
+        "no": 43,
+        "reg number": "DL 108",
+        "name of establishment": "Factory III - Dong Phuong company limited - DONG PHUONG Co., Ltd.",
+        "address": "Lot 3, Dien Nam - Dien Ngoc Industrial Zone, Dien Ban District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 44,
+        "reg number": "DL 399",
+        "name of establishment": "Vinashin Fishin Company., Ltd (VINASHIN)",
+        "address": "Lot 01, Tam Hiep Industrial Zone, Nui Thanh District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 45,
+        "reg number": "HK 91",
+        "name of establishment": "Quang Nam Marine Products Export Import Joint Stock Company - Quang Nam Co",
+        "address": "580 Cua Dai Street, Hoi An Town, Quang Nam Province",
+        "products": "Dried"
+    },
+    {
+        "no": 46,
+        "reg number": "HK 63",
+        "name of establishment": "TRUNG HAI FISHERIES CO., LTD. - MIOFISH",
+        "address": "Tam Hiep Industrial Zone, Nui Thanh District, Quang Nam Province",
+        "products": "Dried"
+    },
+    {
+        "no": 47,
+        "reg number": "DL 428",
+        "name of establishment": "Dong Phuong company limited - Dong Phuong Co., LTD.",
+        "address": "Lot 3, Dien Nam-dien Ngoc Industrial Zone, Dien Ban District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 48,
+        "reg number": "DL 474",
+        "name of establishment": "ASIA FOOD PROCESSING COMPANY LTD (AFC)",
+        "address": "K943 National Road Ia, Dien Thang Commune, Dien Ban District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 49,
+        "reg number": "HK 442",
+        "name of establishment": "Dong An Co., Ltd.",
+        "address": "Cam An Ward, Hoi An Town, Quang Nam Province",
+        "products": "Dried"
+    },
+    {
+        "no": 50,
+        "reg number": "HK 475",
+        "name of establishment": "SEO NAM COMPANY LIMITED (SEO NAM Co., LTD).",
+        "address": "Van Ly Industrial Zone, Dien Quang Commune, Dien Ban District, Quang Nam Province",
+        "products": "Dried"
+    },
+    {
+        "no": 51,
+        "reg number": "DL 388",
+        "name of establishment": "OCEAN BLUE CO., LTD",
+        "address": "Quang Phu Industrial Zone, Quang Ngai City, Quang Ngai Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 52,
+        "reg number": "DL 71",
+        "name of establishment": "Quang Nam Marine Products Export Import Joint Stock Company - Quang Nam Co",
+        "address": "580 Cua Dai Street, Hoi An Town, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 53,
+        "reg number": "DL 223",
+        "name of establishment": "ALPHASEA Co., Ltd.",
+        "address": "Lot 7, Dien Nam - Dien Ngoc Industrial Zone, Dien Ban District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 54,
+        "reg number": "DL 169",
+        "name of establishment": "Dong Phuong Co., Ltd.",
+        "address": "Lot 3, Dien Nam - Dien Ngoc Industrial Zone, Dien Ban District, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 55,
+        "reg number": "DL 383",
+        "name of establishment": "DONG AN Co., Ltd.",
+        "address": "Tan An Block, Cam An Ward, Hoi An Town, Quang Nam Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 56,
+        "reg number": "DL 510",
+        "name of establishment": "Phunghung Private Enterprise - PhungHung. PTE.",
+        "address": "Lot 6, Quang Phu Industrial Zone, Quang Ngai City, Quang Ngai Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 57,
+        "reg number": "DL 531",
+        "name of establishment": "Hung Phong CO., LTD ",
+        "address": "Lot 13, Quang Phu Industrial Zone, Quang Ngai City",
+        "products": "Frozen"
+    },
+    {
+        "no": 58,
+        "reg number": "DL 602",
+        "name of establishment": "GALLANT OCEAN (QUANG NGAI).,LTD ",
+        "address": "Quang Phu Industrial Zone, Quang Ngai City, Quang Ngai Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 59,
+        "reg number": "HK 604",
+        "name of establishment": "PRIVATE ENTERPRISE BUSINESS HAI PHU",
+        "address": "Lot 12, Quang Phu Industrial Zone, Quang Ngai City, Quang Ngai Province",
+        "products": "Dried"
+    },
+    {
+        "no": 60,
+        "reg number": "DL 16",
+        "name of establishment": "SEAPRODEX - FACTORY 16\t",
+        "address": "04 Phan Chu Trinh Street, Qui Nhon City, Binh Dinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 61,
+        "reg number": "DL 100",
+        "name of establishment": "LAM SON Import - Export Foodstuff Joint stock company -        LAMSON FIMEXCO\t",
+        "address": "Tay Son Street, Quang Trung Ward, Qui Nhon City, Binh Dinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 62,
+        "reg number": "DL 57",
+        "name of establishment": "Binh Dinh Fishery Joint Stock Company - BIDIFISCO\t",
+        "address": "2d Tran Hung Dao Street, Qui Nhon City, Binh Dinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 63,
+        "reg number": "DL 64",
+        "name of establishment": "Greenisle Seafood and Vessel Engineering Joint Stock Company (Greenisle Sevesco)\t",
+        "address": "06 Phan Chu Trinh Street, Quy Nhon City, Binh Dinh Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 64,
+        "reg number": "HK 372",
+        "name of establishment": "Tan Phu Tai Seafood processing and trading company Limited - TPT seafood Co., Ltd.\t",
+        "address": "Group 2, Area 8, Bui Thi Xuan Ward, Qui Nhon City, Binh Dinh Province",
+        "products": "Dried"
+    },
+    {
+        "no": 65,
+        "reg number": "DL 17",
+        "name of establishment": "NHATRANG SEAPRODUCT COMPANY (NHATRANG SEAFOODS) - Nhatrang Seafoods - F. 17",
+        "address": "58 B Hai Thang Tu Str. - Vinh Hai - Nha Trang City- Kh\u00e3\u00a1nh H\u00e3\u00b2a Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 66,
+        "reg number": "DL 90",
+        "name of establishment": "NHATRANG SEAPRODUCT COMPANY (NHATRANG SEAFOODS) - Nhatrang Seafoods - F. 90",
+        "address": "01 Phuoc Long Str. - Binh Tan - Nha Trang City- Kh\u00e3\u00a1nh H\u00e3\u00b2a Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 67,
+        "reg number": "DL 70",
+        "name of establishment": "Cafico Vietnam Corporation",
+        "address": "9 Nguyen Trong Ky Street, Cam Ranh Town, Khanh Hoa Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 68,
+        "reg number": "DL 140",
+        "name of establishment": "VIET THANG PRIVATE LTD.",
+        "address": "Tan Dao Hamlet, Ninh Ich Commune, Ninh Hoa District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 69,
+        "reg number": "DL 245",
+        "name of establishment": "Sea Association Factory",
+        "address": "Lot A4-a8, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 70,
+        "reg number": "DL 315",
+        "name of establishment": "Sakura Food Co., Ltd.",
+        "address": "28b Phuoc Long Street, Binh Tan Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 71,
+        "reg number": "DL 492",
+        "name of establishment": "VIET THANG PRIVATE LTD.",
+        "address": "135 Nguyen Khuyen Street, Vinh Hai Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 72,
+        "reg number": "DH 246",
+        "name of establishment": "United Resources Cannery",
+        "address": "Lot A4-a8, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Canned"
+    },
+    {
+        "no": 73,
+        "reg number": "HK 211",
+        "name of establishment": "Khai Thong Trading Co., Ltd.",
+        "address": "580 Le Hong Phong Street, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 74,
+        "reg number": "DL 115",
+        "name of establishment": "Nha Trang Fisco",
+        "address": "194 Le Hong Phong Treet, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 75,
+        "reg number": "HK 212",
+        "name of establishment": "Camranh Seafoods Processing & Exporting Company Limited (CAMRANH SEAFOODS Co., Ltd) ",
+        "address": "60 Nguyen Thai Hoc Street, Cam Loi Ward, Cam Ranh Town, Kh\u00e3\u00a1nh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 76,
+        "reg number": "DL 207",
+        "name of establishment": "Camranh Seafoods Processing & Exporting Company Limited (CAMRANH SEAFOODS Co., Ltd) ",
+        "address": "National Road 1 A, Cam Thinh Dong, Cam Ranh Town, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 77,
+        "reg number": "DL191",
+        "name of establishment": "KHANH HOA SEAFOODS EXPORTING COMPANY, LTD. (KHASPEXCO)",
+        "address": "No. 10 Vo Thi Sau Street, Phuoc Long Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 78,
+        "reg number": "HK210",
+        "name of establishment": "KHANH HOA SEAFOODS EXPORTING COMPANY, LTD. (KHASPEXCO)",
+        "address": "No. 50 Vo Thi Sau Street, Phuoc Long Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 79,
+        "reg number": "DL 95",
+        "name of establishment": "Viet Long Co., Ltd.",
+        "address": "2/7b Tan An Street, Binh Tan Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 80,
+        "reg number": "DH 203",
+        "name of establishment": "Ha Long Canned Food Stock Corporation (HA LONG CANFOCO)-Canned Worshop 2",
+        "address": "6 Phuoc Long Street, Binh Tan Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Canned"
+    },
+    {
+        "no": 81,
+        "reg number": "DL 153",
+        "name of establishment": "Factory 1 - TRUC AN Co., Ltd.",
+        "address": "Lot A 12-13, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 82,
+        "reg number": "DL 243",
+        "name of establishment": "GLOBAL SEA-PRODUCT CO.,LTD",
+        "address": "17 Nguyen Trong Ky Street, Cam Linh Ward, Cam Ranh City, Khanh Hoa Province - Viet Nam",
+        "products": "Frozen"
+    },
+    {
+        "no": 83,
+        "reg number": "DL 316",
+        "name of establishment": "Workshop 3, Long Shin Corporation (Long Shin Corp.)",
+        "address": "Lot 4a, Suoi Dau Industrial Zone, Cam Lam District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 84,
+        "reg number": "HK 98",
+        "name of establishment": "Hoan My Co., Ltd.",
+        "address": "45 Truong Son Street, Vinh Truong Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 85,
+        "reg number": "DL 179",
+        "name of establishment": "Bac Lieu Fisheries joint stock co - Branch Khanh Hoa",
+        "address": "Lot A9, Suoi Dau Industrial Zone, Dien Khanh District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 86,
+        "reg number": "DL 318",
+        "name of establishment": "Hai Vuong Company Limited (HAVUCO)",
+        "address": "Lot B, Road No.1, Suoi Dau Industrial Zone, Cam Lam District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 87,
+        "reg number": "DL 314",
+        "name of establishment": "Dragon Waves Frozen Food Factory Co., Ltd. (DRAGON WAVES)",
+        "address": "Lot C3-c6, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 88,
+        "reg number": "DL 361",
+        "name of establishment": "Workshop I & II, LONG SHIN CORPORATION",
+        "address": "Lot B2-b3, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 89,
+        "reg number": "DH 358",
+        "name of establishment": "Phillips Seafood (Viet Nam) Co., Ltd.",
+        "address": "Lot B3-4 Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Canned"
+    },
+    {
+        "no": 90,
+        "reg number": "HK 213",
+        "name of establishment": "Huy Quang Co., Ltd",
+        "address": "Phuoc Thuong Hamlet, Phuoc Dong Village, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 91,
+        "reg number": "HK 112",
+        "name of establishment": "Chin Tuy Private Enterprises Business",
+        "address": "69 Truong Son Street, Vinh Truong Ward, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 92,
+        "reg number": "HK 255",
+        "name of establishment": "Dried seafood processing factory - Luong Son branch - TA SHUN CORPORATION (TASHUNCO)",
+        "address": "Luong Hoa Hamlet, Vinh Luong Commune, Nha Trang City, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 93,
+        "reg number": "DL 448",
+        "name of establishment": "Frozen seafood processing factory - Luong Son branch - TA SHUN CORPORATION (TASHUNCO)",
+        "address": "Luong Hoa Hamlet, Vinh Luong Commune, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 94,
+        "reg number": "DL 257",
+        "name of establishment": "VN SEAFOOD COMPANY",
+        "address": "28b Phuoc Long Street, Nha Trang City, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 95,
+        "reg number": "DL 373",
+        "name of establishment": "Factory 2, Truc An  Co., LTD.",
+        "address": "Lot A1-14, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 96,
+        "reg number": "DL 385",
+        "name of establishment": "Tin Thinh Co.,Ltd.",
+        "address": "Lot F1, Suoi Dau Industrial Zone, Cam Lam District,  Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 97,
+        "reg number": "DL 394",
+        "name of establishment": "NHATRANG SEAPRODUCT COMPANY (NHATRANG SEAFOODS) - Nhatrang Seafoods - F. 394",
+        "address": "01 Phuoc Long Str. - Binh Tan - Nha Trang City- Kh\u00e3\u00a1nh H\u00e3\u00b2a Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 98,
+        "reg number": "DL 526",
+        "name of establishment": "THINH HUNG CO., LTD",
+        "address": "Lot F9-f10, Suoi Dau Industrial Zone, Cam Lam District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 99,
+        "reg number": "DL 605",
+        "name of establishment": "Quang Vinh Trading - Transportation one member Co., Ltd",
+        "address": "Lot 47, Group 5, Vinh Thanh, Vinh Phuong Ward, Nha Trang City, Kh\u00e3\u00a1nh H\u00e3\u00b2a Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 100,
+        "reg number": "DH 603",
+        "name of establishment": "KHANH HOA CANNED FOOD CO., LTD (KHACANFOOD)",
+        "address": "1a Road, Cu Thanh Hamlet, Suoi Hiep Commune, Dien Khanh District, Khanh Hoa Province",
+        "products": "Canned"
+    },
+    {
+        "no": 101,
+        "reg number": "HK 524",
+        "name of establishment": "BINH THEM Co., Ltd.",
+        "address": "Hon Khoi Industrial Zone, Ninh Hai Commune, Ninh Hoa District, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 102,
+        "reg number": "HK 600",
+        "name of establishment": "FUJIURA NHA TRANG LTD",
+        "address": "Plot F7+f8, Suoi Dau Industrial Zone, Cam Lam Village, Cam Ranh District, Khanh Hoa Province",
+        "products": "Dried"
+    },
+    {
+        "no": 103,
+        "reg number": "HK 80",
+        "name of establishment": "Ninh Thuan Agricultural products export company - NITAGREX",
+        "address": "158 Bac Ai Street, Do Vinh Ward, Phan Rang Thap Cham Town, Ninh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 104,
+        "reg number": "DL 601",
+        "name of establishment": "\"Thong Thuan Seafood Co., Ltd Shrimp Processing Factory - No 1\"",
+        "address": "No. 104, Ngo Gia Tu Street, Phan Rang-thap  Cham City, Ninh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 105,
+        "reg number": "HK 337",
+        "name of establishment": "Trang Thuy private Enterprise (Trang Thuy seafood)",
+        "address": "Lot A12, An Phu Industrial Zone, Tuy An District, Phu Yen Province",
+        "products": "Dried"
+    },
+    {
+        "no": 106,
+        "reg number": "HK 214",
+        "name of establishment": "Tae San Aqua - Product P&T Co.",
+        "address": "Lot B6, Hoa Hiep Industrial Zone, Tuy Hoa City, Phu Yen Province",
+        "products": "Dried"
+    },
+    {
+        "no": 107,
+        "reg number": "HK 289",
+        "name of establishment": "Viet Thai manufactural & commercial private business ",
+        "address": "Lot A5-15, An Phu Industrial Zone, Tuy Hoa District, Phu Yen Province",
+        "products": "Dried"
+    },
+    {
+        "no": 108,
+        "reg number": "DL 198",
+        "name of establishment": "PHU YEN SEAFOODS CO., LTD",
+        "address": "Lot A9-a11, Hoa Hiep Industrial Zone, Dong Hoa County, Phu Yen Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 109,
+        "reg number": "DL 481",
+        "name of establishment": "Ba Hai Co., Ltd.",
+        "address": "Lot A13, An Phu Industrial Zone, Tuy Hoa City, Phu Yen Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 110,
+        "reg number": "DL 606",
+        "name of establishment": "Tae San Aqua - Products P&T Co., Ltd Factory two",
+        "address": "Lot B6, Hoa Hiep Industrial Zone, Dong Hoa District, Phu Yen Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 111,
+        "reg number": "DL 125",
+        "name of establishment": "HAI NAM Co., LTD.",
+        "address": "27 Nguyen Thong Street, Phu Hai Ward, Phan Thiet  City, Binhthuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 112,
+        "reg number": "HK 104",
+        "name of establishment": "SON TUYEN Co., LTD.",
+        "address": "Hamlet 5, Ham Thang Village, Ham Thuan Bac District, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 113,
+        "reg number": "HK 238",
+        "name of establishment": "Workshop No. 2, HAINAM Co., Ltd.",
+        "address": "27 Nguyen Thong Street, Phu Hai Ward, Phan Thiet  City, Binhthuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 114,
+        "reg number": "DL 192",
+        "name of establishment": "Hai Thuan export seaproduct processing Co., Ltd (Hai Thuan Co., LTD)",
+        "address": "Lot No 8-9, Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 115,
+        "reg number": "DL 356",
+        "name of establishment": "Workshop No 3, HAI NAM Co., Ltd.",
+        "address": "Lot 15, Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 116,
+        "reg number": "DL 467",
+        "name of establishment": "Hoang Nam Co., Ltd.",
+        "address": "Quartier 10, Mui Ne Ward, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 117,
+        "reg number": "DL 468",
+        "name of establishment": "SEONGJIN VINA",
+        "address": "Lagi Fishing Port, Phuoc Loc Ward, Lagi Town, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 118,
+        "reg number": "HK 48",
+        "name of establishment": "Phan Thiet Factory",
+        "address": "77 Vo Thi Sau Street, Hung Long Ward, Phan Thiet City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 119,
+        "reg number": "HK 393",
+        "name of establishment": "Hai Viet Seafood export Co., Ltd",
+        "address": "A6 Gate No.2, Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 120,
+        "reg number": "HK 485",
+        "name of establishment": "Hai Tien Trading Co., Ltd.",
+        "address": "Lot A, Phan Thiet South Processing Seafood Zone, Phan Thiet City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 121,
+        "reg number": "HK 497",
+        "name of establishment": "WORKSHOP DRIED MARINE PRODUCTS \u00e2\u0080\u0093 PHU HAI SEAPRODUCTS FACTORY",
+        "address": "41 Nguyen Thong Street, Phan Thiet  City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 122,
+        "reg number": "DL 498",
+        "name of establishment": "WORKSHOP FROZEN MARINE PRODUCTS \u00e2\u0080\u0093 PHU HAI SEAPRODUCTS FACTORY",
+        "address": "Lot 16, Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 123,
+        "reg number": "DL 501",
+        "name of establishment": "PHU THUAN LIMITED COMPANY - PHU THUAN Co., LTD",
+        "address": "Lien Huong Street, Binh Thanh Village, Tuy Phong District, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 124,
+        "reg number": "DL 728",
+        "name of establishment": "Hai Wang Seafood Co., Ltd",
+        "address": "Lot 13 - 14, Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 125,
+        "reg number": "HK 522",
+        "name of establishment": "TUNG CHAU COMPANY LIMITED (TUNG CHAU Co., Ltd.)",
+        "address": "Zone A, South Of Phan Thiet Fishing Port, Phan Thiet City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 126,
+        "reg number": "DL 38",
+        "name of establishment": "Nghe An Seaproducts Import-Export Joint Stock Company (Nghe An Seaprodexim, JSC)",
+        "address": "Nghi Hai Ward, Cua Lo Town, Nghe An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 127,
+        "reg number": "DL 11",
+        "name of establishment": "Quang Binh Seaproducts Import - Export joint stock company - Quang Binh SEAFOOD",
+        "address": "8a Huong Giang Street, Dong Hoi City, Quang Binh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 128,
+        "reg number": "DL 150",
+        "name of establishment": "Thanh An Co., Ltd.",
+        "address": "No.12, Road 2, Song Than 1 Industrial Zone, Di An District, Binh Duong Province",
+        "products": "Frozen; Salted"
+    },
+    {
+        "no": 129,
+        "reg number": "DH 149",
+        "name of establishment": "Highland Dragon Enterprise",
+        "address": "No. 15, Road No.6, Song Than 1 Industrial Zone, Di An District, Binh Duong Province",
+        "products": "Canned"
+    },
+    {
+        "no": 130,
+        "reg number": "DL 317",
+        "name of establishment": "Seagift Company Ltd. (SEGICO)",
+        "address": "7/9-binh Duc 2 Quarter, Binh Hoa Ward, Thuan An Town,  Binh Duong Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 131,
+        "reg number": "DL 319",
+        "name of establishment": "United Seafood Packers Joint Stock Company (USPC)",
+        "address": "Lot D1, Road 3, Dong An Industrial Zone, Thuan An District, Binh Duong Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 132,
+        "reg number": "DL 455",
+        "name of establishment": "Highland Dragon Enterprise",
+        "address": "No.15, Road 6, Song Than I Industrial Zone, Di An District, Binh Duong Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 133,
+        "reg number": "DL 482",
+        "name of establishment": "Viet Trang Co., Ltd.",
+        "address": "No.27, Song Than 2 Industrial Zone, Di An District, Binh Duong Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 134,
+        "reg number": "HK 233",
+        "name of establishment": "Hoa Nam Marine Agricultural Co., Ltd.",
+        "address": "14/21a, Truong Son Street, Di An District, Binh Duong Province",
+        "products": "Dried"
+    },
+    {
+        "no": 135,
+        "reg number": "TS 718",
+        "name of establishment": "New Life Health Products Joint Stock Company (NEW LIFE)",
+        "address": "Binh Giao Hamlet, Thuan Giao Commune,  Thuan An District, Binh Duong Province",
+        "products": "Fish oil"
+    },
+    {
+        "no": 136,
+        "reg number": "DL 34",
+        "name of establishment": "Export Seaproducts processing Enterprise I (F 34) -Baria Vungtau seafoods processing and import-export joint stock company - BASEAFOOD",
+        "address": "National Road 51a, Phuoc Trung Precinct, Ba Ria Town, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 137,
+        "reg number": "DL 20",
+        "name of establishment": "Export Seaproducts processing Enterprise II (F 20) -Baria Vungtau seafoods processing and import-export joint stock company - BASEAFOOD",
+        "address": "460 Truong Cong Dinh Street, Ward 8, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 138,
+        "reg number": "DL 53",
+        "name of establishment": "Phuoc Co Seafood Joint Stock Company (PCSE)",
+        "address": "1738, 30/4 Street,  Ward 12, Vung Tau City, Ba Ria - Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 139,
+        "reg number": "DL 133",
+        "name of establishment": "VIFOODS Co., LTD - VIFOOD",
+        "address": "Road No.7, Dong Xuyen Industrial Zone, Rach Dua Ward, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 140,
+        "reg number": "DL 92",
+        "name of establishment": "Hai Ha Private enterprise",
+        "address": "1752, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 141,
+        "reg number": "DL 194",
+        "name of establishment": "Hai Viet Corporation (HAVICO)",
+        "address": "167/10 30/4 Street, Thanh Nhat Ward, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 142,
+        "reg number": "DL 195",
+        "name of establishment": "Eastern Sea Co., Ltd. Brand ESC",
+        "address": "1719a, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 143,
+        "reg number": "DL 197",
+        "name of establishment": "Anh Nguyen Son Co., Ltd.",
+        "address": "61a Phuoc Thang Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 144,
+        "reg number": "DL 266",
+        "name of establishment": "Ngoc Tung Co., Ltd.",
+        "address": "1589, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 145,
+        "reg number": "DL 272",
+        "name of establishment": "ChangHua Viet Nam Seafood Co., Ltd.- VINACHANGHUA",
+        "address": "1738, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 146,
+        "reg number": "DL 302",
+        "name of establishment": "THU TRONG 1 SEA CO., LTD",
+        "address": "My Xuan A Industrial Zone, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 147,
+        "reg number": "DL 286",
+        "name of establishment": "Seaproducts Processing Enterprise, ConDao Seaproducts and Import Export Joint Stock Company (COIMEX)",
+        "address": "1738, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau  Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 148,
+        "reg number": "DL 267",
+        "name of establishment": "Hai Long seafood joint stock company",
+        "address": "1752, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 149,
+        "reg number": "DL 402",
+        "name of establishment": "Duong Ha Processing Trading  Seafood Company Limited  (DUONG HA CO., LTD)",
+        "address": "1705, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 150,
+        "reg number": "DL 413",
+        "name of establishment": "The Phu Co., LTD.",
+        "address": "1743, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 151,
+        "reg number": "DL 438",
+        "name of establishment": "CO MAY FOOD COMPANY LIMITED (CO MAY Co., LTD.)",
+        "address": "No.63 30/4 Street, Thang Nhat Ward, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 152,
+        "reg number": "DL 464",
+        "name of establishment": "TRONG DUC SEAFOOD., PTE",
+        "address": "Lang Cat Hamlet, Tan Hai Village, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 153,
+        "reg number": "HK 235",
+        "name of establishment": "MINH HAI PRIVATE",
+        "address": "Tam Phuoc Commune, Long Dien District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 154,
+        "reg number": "DL 209",
+        "name of establishment": "Value added seafood processing factory - Triseafood joint stock company (TRISEAFOOD JSC)",
+        "address": "Lot 20a, Road No.8, Tan Tao Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 155,
+        "reg number": "DL 237",
+        "name of establishment": "COFIDEC",
+        "address": "32/4 Le Van Khuong Street, Thoi An Ward, District 12, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 156,
+        "reg number": "HK 156",
+        "name of establishment": "Binh Thoi Seafood processing Enterprise - Sai Gon Aquatic products trading joint stock company",
+        "address": "Lot 4-6-8 Road Ia, Tan Tao Industrial Zone, Tan Tao A Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 157,
+        "reg number": "HK 155",
+        "name of establishment": "Cho Lon Seafood processing Enterprise (Cholifood) - Sai Gon Aquatic products trading joint stock company",
+        "address": "Lot 4-6-8 Road Ia, Tan Tao Industrial Zone, Tan Tao A Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 158,
+        "reg number": "HK 222",
+        "name of establishment": "Hoang Lai import-export joint stock company (Hoang Lai Im-Ex JSC)",
+        "address": "04 Tong Van Tran Street, Ward 5, District 11, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 159,
+        "reg number": "NM 331",
+        "name of establishment": "MINH HA CO., LTD.",
+        "address": "Lot C42b/1 Street 7, Vinh Loc Industrial Zone, Binh Chanh  District, Ho Chi Minh City",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 160,
+        "reg number": "HK 417",
+        "name of establishment": "Thien Tue Co., Ltd.",
+        "address": "Road No.4, Tan Binh Industrial Zone, Tay Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 161,
+        "reg number": "HK 444",
+        "name of establishment": "Cho Lon trading producing company limited (Cho Lon Co., LTD)",
+        "address": "Hamlet 2a, Tan Thanh Tay Commune, Cu Chi District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 162,
+        "reg number": "HK 454",
+        "name of establishment": "HUY SON CO., LTD.",
+        "address": "63/4b, Tam Dong Hamlet, Thoi Tam Thon Commune, Hoc Mon District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 163,
+        "reg number": "HK 715",
+        "name of establishment": "DONGTIEN CO., LTD",
+        "address": "6, Do Van Day Street, Tan Hoa Hamlet, Tan Hiep Village, Hoc Mon District, Ho Chi Minh City.",
+        "products": "Dried"
+    },
+    {
+        "no": 164,
+        "reg number": "NM 469",
+        "name of establishment": "Lien Thanh seafood processing joint stock company",
+        "address": "595/37 Xo Viet Nghe Tinh Street, Ward 5, District 4, Ho Chi Minh City",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 165,
+        "reg number": "SG/001NL",
+        "name of establishment": "Live seafood factory - HOANG HA international Logistics joint stock company",
+        "address": "Lot Iii-22, Road 19/5a, Tan Binh Industrial Zone, Tan Phu District, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 166,
+        "reg number": "SG/003NL",
+        "name of establishment": "TUONG HUU Co., LTD",
+        "address": "Block 4, Street 3 No. 22b, Tan Binh Industrial Park, Tan Phu District, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 167,
+        "reg number": "79-001-DG",
+        "name of establishment": "ROYAL LEE VIET NAM IMPORT EXPORT TRADING COMPANY LIMITED",
+        "address": "29/22/7 Nguyen Van Qua Street, Tan Hung Thuan Ward, District 12, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 168,
+        "reg number": "79-002-DG",
+        "name of establishment": "Anh Nhan Trading Production Co.,Ltd (ANPRO)",
+        "address": "42/3e, Hamlet 4, Xuan Thoi Thuong Commune, Hoc Mon District, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 169,
+        "reg number": "79-003-NL",
+        "name of establishment": "Hai Thanh processing trading service seaproducts company limited (HT Processing trading Co., Ltd.)",
+        "address": "29/22/7 Nguyen Van Qua Street, 6th Quarter, Tan Hung Thuan Ward, District 12, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 170,
+        "reg number": "79-004-NL",
+        "name of establishment": "Branch of south pacific fishery co., Ltd. (SOFIS Co., Ltd.)",
+        "address": "47/9 Trinh Thi Mien Street, Thoi Tu Hamlet, Thoi Tam Thon Commune, Hoc Mon District, Ho Chi Minh City",
+        "products": "Alive"
+    },
+    {
+        "no": 171,
+        "reg number": "DL 353",
+        "name of establishment": "TAN THANH LOI Frozen Food Co., Ltd.",
+        "address": "546/1 Binh Cang 1 Small Village, Binh Thanh Village, Thu Thua District, Long An Province",
+        "products": "Frozen; Dried"
+    },
+    {
+        "no": 172,
+        "reg number": "DL 404",
+        "name of establishment": "Frozen Workshop - Yueh Chyang Canned Food Company Limited",
+        "address": "Nhut Chanh Village, Ben Luc District, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 173,
+        "reg number": "DL 443",
+        "name of establishment": "SIMMY SEAFOOD Co., Ltd.",
+        "address": "Lot B04-1, Duc Hoa 1 Industrial Zone, Duc Hoa District, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 174,
+        "reg number": "DL 472",
+        "name of establishment": "Frozen workshop - PACIFIC SEAFOOD Co., Ltd. (PSC)",
+        "address": "Lot La-1, Road No.1, Trans-asia Industrial&residential Park, Duc Hoa District, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 175,
+        "reg number": "DL 488",
+        "name of establishment": "Hoa Phat Aquatic products processing and trading service Co., Ltd",
+        "address": "Hai Son Industrial Park, Binh Tien Ii Hamlet, Duc Hoa Ha Ward, Duc Hoa Street, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 176,
+        "reg number": "DL 719",
+        "name of establishment": "GN Foods Joint Stock Company (GN FOODS)",
+        "address": "Plot P.02b, Center Street, Long Hau Industrial Zone, Long Hau Commune, Can Giuoc District, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 177,
+        "reg number": "DL 738",
+        "name of establishment": "Quoc Toan Seafood Processing Factory (QUOC TOAN PTE)",
+        "address": "Lot Q.1a, Center Road, Long Hau Industrial Zone, Long Hau Ward, Can Giuoc District, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 178,
+        "reg number": "HK 216",
+        "name of establishment": "AN LAC SEAFOOD Co., Ltd - ALSF Co., LTD",
+        "address": "Lot A14, Road 4a, Hai Son Industrial Zone, Duc Hoa District, Long An Province",
+        "products": "\"Dried; Alive; \r\nLive\""
+    },
+    {
+        "no": 179,
+        "reg number": "HK 473",
+        "name of establishment": "Dried workshop -PACIFIC SEAFOOD Co., Ltd. (PSC)",
+        "address": "Lot La-1, Road No.1, Trans-asia Industrial&residential Park, Duc Hoa District, Long An Province",
+        "products": "Dried"
+    },
+    {
+        "no": 180,
+        "reg number": "DH 165",
+        "name of establishment": "Yueh Chyang Canned Food Company Limited",
+        "address": "Hamlet 1, Nhut Chanh Village, Ben Luc District, Long An Province",
+        "products": "Canned"
+    },
+    {
+        "no": 181,
+        "reg number": "DH 174",
+        "name of establishment": "Foodtech Joint Stock Company (FOODTECH JSC)",
+        "address": "Hamlet 1 , Nhut Chanh Village, Ben Luc District, Long An Province",
+        "products": "Canned"
+    },
+    {
+        "no": 182,
+        "reg number": "NM 56",
+        "name of establishment": "THANH NHA SAUCE P.T.E - BRANCH 1 (T.N PTE BR.1)",
+        "address": "200b, Hamlet 9, Luong Hoa Village, Ben Luc District, Long An Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 183,
+        "reg number": "DL 19",
+        "name of establishment": "MeKong Group",
+        "address": "Hamlet No.3, An Hoa Commune, Chau Thanh District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 184,
+        "reg number": "DL 84",
+        "name of establishment": "Bentre Seafood joint stock company - BESEACO",
+        "address": "457c Nguyen Dinh Chieu Street, Ward 8, Ben Tre City, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 185,
+        "reg number": "DL 86",
+        "name of establishment": "Factory II, Ba Lai Processing Factory - Ben Tre Forestry and Aquaproduct Import-Export Company (FAQUIMEX)",
+        "address": "71 Lot B, National Road 60, Chau Thanh Townlet, Chau Thanh District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 186,
+        "reg number": "DL 22",
+        "name of establishment": "Ben Tre Aquaproduct Import and Export Joint Stock Company - AQUATEX BENTRE",
+        "address": "Tan Thach Village, Chau Thanh District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 187,
+        "reg number": "DL 28",
+        "name of establishment": "Ba Tri seafood Factory (B.T seafood)",
+        "address": "Hamlet 8, An Thuy Village, Ba Tri District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 188,
+        "reg number": "DL 333",
+        "name of establishment": "Ben Tre Forestry and Aquaproduct import - export joint stock company - Ba Lai processing plant (FAQUIMEX)",
+        "address": "No 71, 3rd Quarter, National Road 60, Chau Thanh Townlet, Chau Thanh District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 189,
+        "reg number": "DL 740",
+        "name of establishment": "Hai Huong Seafood Joint Stock Company (HHFISH)",
+        "address": "Lot A8-a9, An Hiep Industrial Zone, Chau Thanh District, Ben Tre Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 190,
+        "reg number": "HK 182",
+        "name of establishment": "PACIFIC SEAFOOD CO., LTD - PSC.",
+        "address": "3rd Quarter, Binh Dai Town, Binh Dai District, Ben Tre Province",
+        "products": "Dried"
+    },
+    {
+        "no": 191,
+        "reg number": "DL 21",
+        "name of establishment": "An Lac Company Limited - ANLAC SEAFOOD CO., LTD",
+        "address": "Phong Thuan Hamlet, Tan My Chanh Commune, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 192,
+        "reg number": "DL 27",
+        "name of establishment": "Asia Pangasius Co., Ltd.",
+        "address": "Block 38-39, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 193,
+        "reg number": "DL 127",
+        "name of establishment": "SONG TIEN SEAFOOD CORPORATION (SOTICO)",
+        "address": "Tan Thuan Hamlet, Binh Duc Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 194,
+        "reg number": "DL 252",
+        "name of establishment": "Vietphu foods & fish Corporation (VIET PHU FOODS AND FISH CORP)",
+        "address": "Lot 34-36, My Tho Industrial Zone, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 195,
+        "reg number": "DL 299",
+        "name of establishment": "Badavina Co., Ltd.",
+        "address": "Lot 52, My Tho Industrial Zone, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 196,
+        "reg number": "DL 350",
+        "name of establishment": "Gallant Ocean (Viet Nam) Co., Ltd.",
+        "address": "Lot B10-11, Suoi Dau Industrial Zone, Dien Khanh District, Khanh Hoa Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 197,
+        "reg number": "DL 259",
+        "name of establishment": "CA NA SEAFOOD IMPORT EXPORT JOINT STOCK COMPANY (CANASEAFOOD.CO)",
+        "address": "Ca Na Port, Ca Na Commune, Thuan Nam District, Ninh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 198,
+        "reg number": "DL 241",
+        "name of establishment": "Binh Thuan import export joint stock company - THAIMEX",
+        "address": "75-77 Vo Thi Sau Street, Hung Long Ward, Phan Thiet City, Binh Thuan Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 199,
+        "reg number": "HK 453",
+        "name of establishment": "Phuong Hai seaproduct Private business",
+        "address": "Lot A, Processing Seaproduct Zone, Phan Thiet South Of Seaproduct Port, Duc Thang Ward, Phan Thiet City, Binh Thuan Province",
+        "products": "Dried"
+    },
+    {
+        "no": 200,
+        "reg number": "DL 236",
+        "name of establishment": "Viet Nhan Co., Ltd.",
+        "address": "No. 5, Road No.6, Song Than1 Industrial Zone, Di An District, Binh Duong Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 201,
+        "reg number": "DL 484",
+        "name of establishment": "Export seaproducts processing enterprise III - Ba Ria Vung Tau seafoods processings and import - export joint stock company (BASEAFOOD).",
+        "address": "Phuoc Hai Townlet, Dat Do District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 202,
+        "reg number": "HK 173",
+        "name of establishment": "Export Seaproduct processing Enterprise IV - Ba Ria-Vung Tau Seafood processing and import-export joint stock company BASEAFOOD",
+        "address": "National Road 51a, Phuoc Trung Precinct, Ba Ria Town, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 203,
+        "reg number": "DL 355",
+        "name of establishment": "Van Duc Food Export Joint \u00e2\u0080\u0093 Stock Company",
+        "address": "Street 2f, Vinh Loc Industrial Zone, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 204,
+        "reg number": "DL 308",
+        "name of establishment": "Hung Vuong Corporation (HV Corp.)",
+        "address": "Lot 44, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 205,
+        "reg number": "DL 354",
+        "name of establishment": "GODACO SEAFOOD",
+        "address": "Lot 45, My Tho Industrial Zone, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 206,
+        "reg number": "DH 323",
+        "name of establishment": "Asia canned food factory, Asia food stuffs Import Export Company Limited",
+        "address": "Dong Hoa Village, Song Thuan Ward, Chau Thanh District, Tien Giang Province",
+        "products": "Canned"
+    },
+    {
+        "no": 207,
+        "reg number": "DH 459",
+        "name of establishment": "Trinity Viet Nam Co., Ltd (TRIVN)",
+        "address": "Tan My Chanh Industrial Zone, My Tho City, Tien Giang Provicne",
+        "products": "Canned"
+    },
+    {
+        "no": 208,
+        "reg number": "DL 493",
+        "name of establishment": "MINH THANG SEAFOODS CO.,LTD",
+        "address": "No. 487, Group 20, Doi Ma Ii Hamlet, Vam Lang Village, Go Cong Dong District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 209,
+        "reg number": "DH 466",
+        "name of establishment": "ROYAL FOODS CO., LTD.",
+        "address": "Lot 19-20, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Canned"
+    },
+    {
+        "no": 210,
+        "reg number": "DL 471",
+        "name of establishment": "DAI THANH SEAFOODS -DATHACO",
+        "address": "Dong Hoa Hamlet, Song Thuan Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 211,
+        "reg number": "DL 380",
+        "name of establishment": "VIETDUC Trading Company Ltd. (VIETDUC Co., Ltd.)",
+        "address": "Lot 45b, My Tho Industrial Zone, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 212,
+        "reg number": "DL 386",
+        "name of establishment": "Hung Vuong Corporation (HV Corp.) - Workshop II",
+        "address": "Lot 45-46, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen; Alive"
+    },
+    {
+        "no": 213,
+        "reg number": "DL 405",
+        "name of establishment": "Vinh Quang Fisheries Corp. - VQFC",
+        "address": "Lot 37-40, My Tho Industrial Zone, My Tho City, Tien Giang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 214,
+        "reg number": "DL 416",
+        "name of establishment": "Kim Son Seafood Export Processing Company ",
+        "address": "09 Hoi Hamlet, Kim Son Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 215,
+        "reg number": "DL 702",
+        "name of establishment": "Hiep Long Company",
+        "address": "Tan Thuan Hamlet, Binh Duc Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 216,
+        "reg number": "DL 709",
+        "name of establishment": "Thien Ha Seafoods Co., LTD",
+        "address": "Lot B21, Tan Thuan Hamlet, Binh Duc Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 217,
+        "reg number": "DL 724",
+        "name of establishment": "Li Chuan Food Products (Viet Nam) Company Limited",
+        "address": "Tan My Chanh Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 218,
+        "reg number": "DL 44",
+        "name of establishment": "Ngoc Thai Company Limited -Ngoc Thai Co., Ltd.",
+        "address": "Ngai Hoi 2 Hamlet, Dai Ngai Village, Long Phu District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 219,
+        "reg number": "DL 117",
+        "name of establishment": "Kim Anh company Ltd. - KIM ANH Co. LTD.",
+        "address": "49 National Road Ia, Ward 2, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 220,
+        "reg number": "DL 513",
+        "name of establishment": "Thanh Tri seafood processing company limited (TSF Co., Ltd.)",
+        "address": "Provincial Road 937, Hamlet 03, Phu Loc Town, Thanh Tri District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 221,
+        "reg number": "DL 707",
+        "name of establishment": "Viet Nam Clean Seafood Corporation (VINA CLEANFOOD)",
+        "address": "Block F, An Nghiep Industrial Zone, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 222,
+        "reg number": "DL 741",
+        "name of establishment": "Thanh Khiet Co., Ltd",
+        "address": "270 Le Loi Street, Area 1, Vinh Chau Town, Vinh Chau District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 223,
+        "reg number": "DL 29",
+        "name of establishment": "Nam Can Seaproducts import and export joint stock company - Seanamcan",
+        "address": "Nam Can Town, Nam Can District, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 224,
+        "reg number": "DL 130",
+        "name of establishment": "MINH HAI JOSTOCO",
+        "address": "09 Cao Thang Street, Townlet 2, Ward 8, Ca Mau  City, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 225,
+        "reg number": "DL 85",
+        "name of establishment": "Nam Long Seafood Export processing Factory - DRAGON Viet Nam",
+        "address": "Tran Thoi Village, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 226,
+        "reg number": "DL 154",
+        "name of establishment": "Minh Chau import - export seafood processing company limited - Minh Chau Co., Ltd.",
+        "address": "Hoa Trung Hamlet, Luong The Tran Commune, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 227,
+        "reg number": "DL 321",
+        "name of establishment": "MINH QUI Seafood Co.,Ltd",
+        "address": "Ward 8 Industrial Zone, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 228,
+        "reg number": "DL 294",
+        "name of establishment": "PHU CUONG JOSTOCO SEAFOOD CORPORATION (PHU CUONG JOSTOCO CORP)",
+        "address": "454 Ly Thuong Kiet Street, Ward 6, Ca Mau City,  Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 229,
+        "reg number": "DL 295",
+        "name of establishment": "Ca Mau Seafood processing&service joint stock Corporation (CASES)",
+        "address": "Area 4, Song Doc Town, Tran Van Thoi District,  Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 230,
+        "reg number": "DL 230",
+        "name of establishment": "Workshop 1, Nam Can Seaproducts import and export joint stock company -  SEANAMICO",
+        "address": "No.3, San Bay Street, Nam Can Town, Nam Can District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 231,
+        "reg number": "DL 348",
+        "name of establishment": "FINE FOODS Co., (FFC)",
+        "address": "Nam Dam Hamlet, Luong The Tran Village, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 232,
+        "reg number": "DL 351",
+        "name of establishment": "CAMAU SEAFOOD FACTORY No.5 (CAMIMEX)",
+        "address": "999 Ly Thuong Kiet Street, Precinct 6, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 233,
+        "reg number": "DL 375",
+        "name of establishment": "SEAPRIMEXCO VIET NAM, Song Doc seaproducts processing factory - FSD (SEAPRIMEXCO)",
+        "address": "169, Ward 7, Song Doc Townlet, Tran Van Thoi District, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 234,
+        "reg number": "DL 391",
+        "name of establishment": "Thanh Doan Sea Products Import & Export processing Joint-Stock company - THADIMEXCO",
+        "address": "01a Truong Phung Xuan Street, Ward 8, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 235,
+        "reg number": "DL 401",
+        "name of establishment": "TacVan Frozen Seafood Processing Export Company - TACVAN SEAFOODS CO.",
+        "address": "180a Cay Tram A Hamlet, Dinh Binh Village, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 236,
+        "reg number": "DL 458",
+        "name of establishment": "OCEAN FOOD CORPORATION",
+        "address": "999 Nam Dam Hamlet, Luong The Tran Commune, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 237,
+        "reg number": "DL 465",
+        "name of establishment": "Anh Khoa Company Limited - AK Seafoods",
+        "address": "335a Ly Thuong Kiet Street, Hamlet 9, Ward 6, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 238,
+        "reg number": "DL 470",
+        "name of establishment": "Hoa Trung seafood corporation - HOA TRUNG",
+        "address": "Hoa Trung Hamlet, Luong The Tran Village, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 239,
+        "reg number": "DL 505",
+        "name of establishment": "Huynh Huong Trading and Import Export Joint Stock Company (HUYNH HUONG JSC)",
+        "address": "Thi Tuong A Hamlet, Hung My Commune, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 240,
+        "reg number": "DL 512",
+        "name of establishment": "Minh cuong seafood import-export processing joint stock company (MC SEAFOOD)",
+        "address": "254 National Road 1a, Hamlet 3, Tac Van Commune, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 241,
+        "reg number": "DL 747",
+        "name of establishment": "Quoc Ai Seafood Processing Import - Export Company Limited (QAIMEXCO)",
+        "address": "63, Tac Thu Hamlet, Ho Thi Ky Commune, Thoi Binh District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 242,
+        "reg number": "HK 708",
+        "name of establishment": "Song Hung Seafood Import - Export and Processing Joint Stock Company",
+        "address": "Kinh Tac Hamlet, Ham Rong Village, Nam Can District, Ca Mau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 243,
+        "reg number": "DL 161",
+        "name of establishment": "Vinh Loi Import Export Company - VIMEX",
+        "address": "National Road Ia, Hoa Binh Town, Hoa Binh District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 244,
+        "reg number": "DL 89",
+        "name of establishment": "Nha Trang Seafoods - F89",
+        "address": "97 National Road 1a, Ho Phong Commune, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 245,
+        "reg number": "DL 99",
+        "name of establishment": "Gia Rai General import export joint stock company - GIRIMEX",
+        "address": "Hamlet 5, National Road Ia, Ho Phong Town, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 246,
+        "reg number": "DL 78",
+        "name of establishment": "SEAPRODEX MINH HAI",
+        "address": "Km 2184, National Road Ia, Ward 8, Bac Lieu Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 247,
+        "reg number": "DL 124",
+        "name of establishment": "NIGICO Co., Ltd. - NIGICO",
+        "address": "National Road Ia, Ho Phong Town, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 248,
+        "reg number": "DL 240",
+        "name of establishment": "BAC LIEU FISHERIES JOINT STOCK COMPANY (BAC LIEU FIS)",
+        "address": "No. 89, National Road Ia, Hamlet 2, Gia Rai Town, Gia Rai District,  Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 249,
+        "reg number": "DL 204",
+        "name of establishment": "SEAPRODEX Minh Hai (Workshop 3)",
+        "address": "Km 2158, National Road Ia, Ward 8, Bac Lieu Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 250,
+        "reg number": "DL 224",
+        "name of establishment": "Phuong Anh seafood processing import & export joint stock company (PHUONG ANH SEAFOOD)",
+        "address": "Lung Sinh Hamlet, Dinh Thanh Commune, Dong Hai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 251,
+        "reg number": "DL 343",
+        "name of establishment": "Trang Khanh trading company limited (TRANG KHANH SEAFOOD Co., Ltd)",
+        "address": "No.99, Lo Ren Street, Ward 5, Bac Lieu Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 252,
+        "reg number": "DL 374",
+        "name of establishment": "WORKSHOP I SEAPRODEX  Minh Hai",
+        "address": "Ward 8, National Road Ia, Bac Lieu Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 253,
+        "reg number": "DL 403",
+        "name of establishment": "Minh Hieu Seafood Company (MIHIMEX) ",
+        "address": "Hamlet 2,  Gia Rai Town, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 254,
+        "reg number": "DL 411",
+        "name of establishment": "Viet Cuong Seafood Processing Import - Export Joint Stock Company - Viet Cuong Seafood",
+        "address": "No. 99, Kim Cau Hamlet, Vinh Trach Village, Bac Lieu Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 255,
+        "reg number": "DL 424",
+        "name of establishment": "Minh Anh Seafood",
+        "address": "Nhan Dan B Hamlet, Tan Phong Village, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 256,
+        "reg number": "DL 445",
+        "name of establishment": "Quoc Lap seafood joint stock company (QLSEACO)",
+        "address": "National Road Ia, Khuc Treo B Hamlet, Tan Phong Village, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 257,
+        "reg number": "DL 446",
+        "name of establishment": "Au Vung seafood processing and exporting joint stock company (Au Vung Co.)",
+        "address": "99 Xom Moi Hamlet, Tan Thanh Commune, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 258,
+        "reg number": "DL 504",
+        "name of establishment": "Bach Linh seafood import-export a member limited company - BACHLINHIMEXCO",
+        "address": "398, Khuc Treo A Hamlet, Tan Phong Commune, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 259,
+        "reg number": "DL 527",
+        "name of establishment": "Bac Lieu Fisheries joint stock Company - Ganh Hao Branch ",
+        "address": "Hamlet Iii, Ganh Hao Town, Dong Hai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 260,
+        "reg number": "DL 701",
+        "name of establishment": "Minh Bach Seafood Co., LTD",
+        "address": "Khuc Treo B Hamlet, Tan Phong Village, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 261,
+        "reg number": "DL 713",
+        "name of establishment": "Lang Tram Seafoods.",
+        "address": "Km 2231, National Road 1a, Tan Phong Village, Gia Rai County, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 262,
+        "reg number": "DL 721",
+        "name of establishment": "Ngoc Tri Seafood Company",
+        "address": "Ward 3, Phong Thanh Dong A Commune, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 263,
+        "reg number": "DL 726",
+        "name of establishment": "Long Thanh Seafood Processing Factory - Truong Phu Seafood Joint Stock Company",
+        "address": "108 National Road 1a, Long Thanh Commune, Vinh Loi District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 264,
+        "reg number": "DL 727",
+        "name of establishment": "Tan Phong Phu Seafood Company Limited (TD CO., LTD)",
+        "address": "Thi Tran A Hamlet, Hoa Binh Town, Hoa Binh District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 265,
+        "reg number": "DL 260",
+        "name of establishment": "MAI LINH COMPANY LIMITED (MAI LINH Co., LTD.)",
+        "address": "1774, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 266,
+        "reg number": "DL 82",
+        "name of establishment": "PHAMFOOD Co., Ltd.",
+        "address": "1007/17, 30/4 Street, Ward 11, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 267,
+        "reg number": "DL 332",
+        "name of establishment": "Manh Ha trading and seafood processing Company LTD.(MANH HA CO., LTD.)",
+        "address": "1717a, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 268,
+        "reg number": "DL 334",
+        "name of establishment": "Tien Dat Seafood processing Co., Ltd.(Tien Dat Co., Ltd)",
+        "address": "Lang Cat Hamlet, Tan Hai Commune, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 269,
+        "reg number": "DL 352",
+        "name of establishment": "Phu Quy Co., Ltd.",
+        "address": "97 Phuoc Thang Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 270,
+        "reg number": "DL 357",
+        "name of establishment": "Hai Ha Co., Ltd.",
+        "address": "973, 30/4 Street, Ward 11, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 271,
+        "reg number": "DL 362",
+        "name of establishment": "Hai Viet Coporation (HAVICO 2)",
+        "address": "Dong Xuyen Industrial Zone, Rach Dua Ward, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 272,
+        "reg number": "DL 382",
+        "name of establishment": "Thinh An company Limited - THINH AN Co., Ltd.",
+        "address": "Lang Cat - Long Son Street, Hoi Bai Commune, Tan Thanh District, Ba Ria  Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 273,
+        "reg number": "DL 412",
+        "name of establishment": "Tu Hai Co., LTD.",
+        "address": "80 Phuoc Thang Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 274,
+        "reg number": "DL 305",
+        "name of establishment": "Phuc Anh Seafood Co., Ltd",
+        "address": "973 Street 30/4, Ward 11, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 275,
+        "reg number": "HK 242",
+        "name of establishment": "Export seaproducts processing enterprise V - Ba Ria Vung Tau seafoods processing and import - export joint stock company (BASEAFOOD)",
+        "address": "Provincial Road 44, Phuoc Hung Commune, Long Dien District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 276,
+        "reg number": "HK 439",
+        "name of establishment": "Trung Son seafood processing and export factory - Dried workshop Trung Son PTE branch 3 (Trung Son PTE)",
+        "address": "Lang Cat Hamlet, Tan Hai Village, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 277,
+        "reg number": "HK 748",
+        "name of establishment": "Tu Hai Company Limited (Tu Hai Co., Ltd)",
+        "address": "78 Phuoc Thang Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 278,
+        "reg number": "DL 456",
+        "name of establishment": "Trung Son seafood processing and export factory - Frozen workshop Trung Son PTE branch 3 (Trung Son PTE)",
+        "address": "Lang Cat Hamlet, Tan Hai Village, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 279,
+        "reg number": "DL 457",
+        "name of establishment": "PHUOC AN Co., LTD. (FACOL)",
+        "address": "Lang Cat Hamlet, Tan Hai Village, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 280,
+        "reg number": "DL 520",
+        "name of establishment": "Seaproducts processing enterprise 01- COIMEX branch",
+        "address": "335 Tran Phu, Ward 5, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 281,
+        "reg number": "DL 523",
+        "name of establishment": "HOA THANG SEAFOOD COMPANY LIMITED (HOA THANG SEAFOOD Co., Ltd.)",
+        "address": "Lang Cat Long Son Street, Tan Hai Commune, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 282,
+        "reg number": "HK 258",
+        "name of establishment": "Dai Quang private enterprise",
+        "address": "Lang Cat Long Son Street, Tan Hai Ward, Tan Thanh District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 283,
+        "reg number": "HK 313",
+        "name of establishment": "Bao Ngoc company limited - Bao Ngoc Co., Ltd",
+        "address": "14 Huong Dien, Long Huong Ward, Ba Ria Town, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 284,
+        "reg number": "HK 477",
+        "name of establishment": "THUAN DU PRIVATE ENTERPRISE",
+        "address": "Tan Hoi Hamlet, Phuoc Hoi Commune, Dat Do District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 285,
+        "reg number": "HK 287",
+        "name of establishment": "Trong Nhan private enterprise",
+        "address": "C 52/1 Lo Voi Hamlet, Phuoc Hung Village, Long Dien District, Ba Ria Vung Tau Province",
+        "products": "Dried"
+    },
+    {
+        "no": 286,
+        "reg number": "DL 533",
+        "name of establishment": "Pacific Seafoods Company Limited (PASECO)",
+        "address": "1738, 30/4 Street, Ward 12, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 287,
+        "reg number": "DL 729",
+        "name of establishment": "Minh Hai Private Branch",
+        "address": "Phuoc Thang Street, Ward 12, Vung Tau City, Ba Ria - Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 288,
+        "reg number": "DL 303",
+        "name of establishment": "C.P. Vietnam Corporation",
+        "address": "Bau Xeo Industrial Zone, Song Trau Village, Trang Bom District, Dong Nai Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 289,
+        "reg number": "DL 307",
+        "name of establishment": "Amanda Foods (Vietnam) Ltd.",
+        "address": "102/6 Road Amata 2, Amata Industrial Zone, Long Binh Ward, Bien Hoa City, Dong Nai Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 290,
+        "reg number": "DL 463",
+        "name of establishment": "TUNG KONG SEAFOOD ICE COMPANY LIMITED",
+        "address": "Road 25c, Nhon Trach Iii Industrial Zone, Nhon Trach District, Dong Nai Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 291,
+        "reg number": "HK 136",
+        "name of establishment": "Anh Long Seafood processing., PTE",
+        "address": "198a, Hamlet 8, An Phuoc Village, Long Thanh District, Dong Nai Province",
+        "products": "Dried"
+    },
+    {
+        "no": 292,
+        "reg number": "DL 02",
+        "name of establishment": "Factory No.2 - Binh Chanh foodstuff Company Limited (BCF Co., Ltd) - Special aquatic products Joint Stock Company (SEASPIMEX - VIETNAM)",
+        "address": "B23/63 Hoang Phan Thai Street, Binh Chanh Ward, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 293,
+        "reg number": "DH 226",
+        "name of establishment": "EVERWIN INDUSTRIAL CO., LTD.",
+        "address": "Road A, Lot E, Binh Chieu Industrial Zone, Thu Duc District, Ho Chi Minh City",
+        "products": "Canned"
+    },
+    {
+        "no": 294,
+        "reg number": "DH 137",
+        "name of establishment": "Canning Factory - Binh Chanh foodstuff Company Limited (BCF Co., Ltd) - Special aquatic products Joint Stock Company (SEASPIMEX - VIETNAM)",
+        "address": "B23/63 Hoang Phan Thai Street, Binh Chanh Ward, Ho Chi Minh City",
+        "products": "Canned"
+    },
+    {
+        "no": 295,
+        "reg number": "HK 148",
+        "name of establishment": "Factory No.1, Binh Chanh foodstuff Company Limited (BCF Co., Ltd) - Special aquatic products Joint Stock Company (SEASPIMEX - VIETNAM)",
+        "address": "B23/63, Hamlet 2, Hoang Phan Thai Street, Binh Chanh Commune, Binh Chanh District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 296,
+        "reg number": "DL 01",
+        "name of establishment": "Seafood Joint Stock Company No. 1  - Tan Phu Trung Food Processing Factory",
+        "address": "Lot No C2-1, D4 Street, Tan Phu Trung Industrial Zone, National Road 22, Tan Phu Trung Commune, Cu Chi District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 297,
+        "reg number": "DL 312",
+        "name of establishment": "Hop Tan seafood Corp",
+        "address": "Lot 19, Road No.8, Tan Tao Indistrial Zone, Tan Tao A Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 298,
+        "reg number": "DL 157",
+        "name of establishment": "Seafood joint stock company No1 (Seajoco Vietnam)",
+        "address": "1004a Au Co Street, Phu Trung Ward, Tan Phu District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 299,
+        "reg number": "DL 06",
+        "name of establishment": "SEAPRIMFICO",
+        "address": "Tran Nao Street, An Loi Dong Precinct, District 2, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 300,
+        "reg number": "DL 05",
+        "name of establishment": "VIETROSCO (VRC)",
+        "address": "100/26 Binh Thoi Street, Ward 14, District 11,  Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 301,
+        "reg number": "DL 04",
+        "name of establishment": "Seafood joint stock company No.4 (SEAPRIEXCO No.4)",
+        "address": "320 Hung Phu Street, District 8, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 302,
+        "reg number": "DL 35",
+        "name of establishment": "Kho Van factory - Sai Gon seaproducts Import Export Joint Stock Company - SEAPRODEX SAIGON (SSGN)",
+        "address": "678 Au Co Street, Ward 14, District Tan Binh, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 303,
+        "reg number": "DL 107",
+        "name of establishment": "NAM HAI CO., LTD.",
+        "address": "279a Kinh Duong Vuong Street, An Lac Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 304,
+        "reg number": "DL 111",
+        "name of establishment": "Tan Thuan Factory (AGREX SAIGON)",
+        "address": "10 Ben Nghe Street, Tan Thuan Dong Ward, District 7, Ho Chi Minh City.",
+        "products": "Frozen"
+    },
+    {
+        "no": 305,
+        "reg number": "DL 142",
+        "name of establishment": "Aquatic products trading and service center",
+        "address": "157 Hung Phu Street, Precinct 8, District 8, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 306,
+        "reg number": "DL 50",
+        "name of establishment": "Viet Long Sai Gon Joint Stock Company - VISA JSC",
+        "address": "208 Nguyen Duy Street, Ward 9, District 8, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 307,
+        "reg number": "DL 167",
+        "name of establishment": "TRUNG SON CORP.",
+        "address": "Lot 2, Song Hanh Street, Tan Tao Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 308,
+        "reg number": "DL 105",
+        "name of establishment": "Seafood and Agricultural Product Company of Vien Thang - VIEN THANG PTE Co., LTD. ",
+        "address": "8 Tong Van Tran Street, Precinct 5, District 11, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 309,
+        "reg number": "HK 217",
+        "name of establishment": "VIPHIMEX",
+        "address": "262 Luy Ban Bich Street, Hoa Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 310,
+        "reg number": "HK 221",
+        "name of establishment": "Gia Dinh Import Export Joint Stock Company - GIDICO",
+        "address": "285 No Trang Long Street, Ward 13, Binh Thanh District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 311,
+        "reg number": "HK 128",
+        "name of establishment": "Tam Tam company",
+        "address": "230a, Kha Van Can Street, Linh Trung Ward, Thu Duc District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 312,
+        "reg number": "DL 158",
+        "name of establishment": "Phuoc Hung Trading Co., Ltd.",
+        "address": "130-131 Kha Van Can Street, Thu Duc District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 313,
+        "reg number": "DL 261",
+        "name of establishment": "Kien Giang Co., Ltd.",
+        "address": "81 La Xuan Oai Street, Truong Thanh Ward, District 9 , Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 314,
+        "reg number": "HK 234",
+        "name of establishment": "NAMMAICO",
+        "address": "78b National Road 13, Ward 26, Binh Thanh District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 315,
+        "reg number": "HK 220",
+        "name of establishment": "C.D CO., LTD",
+        "address": "31/10 Hoa Long Quarter, Vinh Phu Ward, Thuan An Town, Binh Duong Province",
+        "products": "Dried"
+    },
+    {
+        "no": 316,
+        "reg number": "HK 436",
+        "name of establishment": "CANGIO service and trading joint stock company (CAGICO)",
+        "address": "Nguyen Phan Vinh Street, Can Thanh Town, Can Gio District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 317,
+        "reg number": "DL 54",
+        "name of establishment": "TRONG NHAN SEAFOOD",
+        "address": "31 Nguyen Thi Bay Street, Ward 6, Tan An Town, Long An Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 318,
+        "reg number": "DL 121",
+        "name of establishment": "Ngoc Ha Company Ltd. Food processing and Trading",
+        "address": "Hoi Hamlet, Kim Son Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 319,
+        "reg number": "DL 476",
+        "name of establishment": "GODACO SEAFOOD",
+        "address": "Lot 25, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 320,
+        "reg number": "DL 487",
+        "name of establishment": "Ngoc Xuan seafood Corporation (Ngoc Xuan seafood Corp).",
+        "address": "Dong Hoa Hamlet, Song Thuan Commune, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 321,
+        "reg number": "DL 511",
+        "name of establishment": "Van Duc Tien Giang food export company",
+        "address": "Dong Hoa Hamlet, Song Thuan Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 322,
+        "reg number": "DL 518",
+        "name of establishment": "EUROPE JOINT STOCK COMPANY (EJS Co.,)",
+        "address": "Lot 69, My Tho Industrial Zone, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 323,
+        "reg number": "DL 737",
+        "name of establishment": "Minh Quy Seafoods Co., Ltd",
+        "address": "Lot 14, Tan My Chanh Industrial Group, Ward 9, My Tho City, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 324,
+        "reg number": "DL 739",
+        "name of establishment": "Dai Dai Thanh Seafoods",
+        "address": "Dong Hoa Hamlet, Song Thuan Village, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 325,
+        "reg number": "TS 744",
+        "name of establishment": "Honoroad Viet Nam Edible Oil Co., Ltd",
+        "address": "Lot 26a, Long Giang Industrial Zone, Tan Lap 1 Commune, Tan Phuoc District, Tien Giang Province",
+        "products": "Fish oil"
+    },
+    {
+        "no": 326,
+        "reg number": "DL 132",
+        "name of establishment": "SAOTA foods joint stock company - FIMEX VN.",
+        "address": "Km No. 2132, National Road 1a, Ward 2, Soc Trang Town, Soc Trang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 327,
+        "reg number": "DL 162",
+        "name of establishment": "New Dragon Seafood Factory - Soc Trang Seafood Joint Stock Company (STAPIMEX)",
+        "address": "220 National Road 1 A, Ward 7, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 328,
+        "reg number": "DL 23",
+        "name of establishment": "TAN HAI IM-EX Co., Ltd. (TAHACO)",
+        "address": "33 Nam Ky Khoi Nghia Street, Ward 7, Soc Trang City, Soc Trang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 329,
+        "reg number": "DL 159",
+        "name of establishment": "Thai Tan Seafood Factory",
+        "address": "145 National Road 1a, Precinct 7, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 330,
+        "reg number": "DL 199",
+        "name of establishment": "SaoTa seafood factory ",
+        "address": "89 National Roard Ia, Ward 2, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 331,
+        "reg number": "DL 181",
+        "name of establishment": "PHUONG NAM FOODSTUFF CORPORATION (PHUONG NAM FOODSTUFF CORP)",
+        "address": "Km 2127, National Road Ia, Ward 7, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 332,
+        "reg number": "DL 208",
+        "name of establishment": "Ngoc Thu Company Limited - Ngoc Thu Co., Ltd.",
+        "address": "147 National Road 1, Ward 7, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 333,
+        "reg number": "DL 229",
+        "name of establishment": "PHAT DAT SEAFOOD FACTORY - STAPIMEX",
+        "address": "220 National Road 1 A, Ward 7, Soc Trang Town, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 334,
+        "reg number": "DL 406",
+        "name of establishment": "KHANH HOANG SEAPREX CO., LTD.",
+        "address": "Cang Hamlet, Trung Binh Village, Long Phu District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 335,
+        "reg number": "DL 431",
+        "name of establishment": "Hoang Phong Seafood Factory",
+        "address": "Provincial Highway 8, Tai Van Village, Tran De District, Soc Trang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 336,
+        "reg number": "DL 449",
+        "name of establishment": "MINH DANG Co., LTD.",
+        "address": "83 Provincial Road No.8, My Xuyen District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 337,
+        "reg number": "DL 450",
+        "name of establishment": " QUOC HAI FACTORY",
+        "address": "Tran De Port, Tran De Town, Tran De District, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 338,
+        "reg number": "DL 25",
+        "name of establishment": "Ca Mau Frozen Seafood processing Import Export Corporation (CAMIMEX)",
+        "address": "333 Cao Thang, Precinct 8, Ca Mau City, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 339,
+        "reg number": "DL 437",
+        "name of establishment": "ANH MINH QUAN CORPORATION (AMQ CORP)",
+        "address": "Lot 6, Cat Lo Fishing Port, Ward 11, Vung Tau City, Ba Ria Vung Tau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 340,
+        "reg number": "HK 232",
+        "name of establishment": "TIHA Co., Ltd.",
+        "address": "449/1b No Trang Long Street, Ward 13, Binh Thanh District,  Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 341,
+        "reg number": "DL 366",
+        "name of establishment": "Sai Gon Food Joint Stock Company (SAI GON FOOD JSC)",
+        "address": "Lot C24 - C24b/ii, Road 2f, Vinh Loc Industrial Zone, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 342,
+        "reg number": "DL 346",
+        "name of establishment": "THANH HAI FISH CO., LTD.",
+        "address": "25 Road No.1, Tan Tao Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 343,
+        "reg number": "HK 300",
+        "name of establishment": "SeaFood VN Co., Ltd.",
+        "address": "1/97/29 5th Quarter, Dong Hung Thuan Ward, District 12, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 344,
+        "reg number": "DL 379",
+        "name of establishment": "Frozen factory - HOANG HA international Logistics joint stock company",
+        "address": "Lot Iii-22, Road 19/5a, Tan Binh Industrial Zone, Tan Phu District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 345,
+        "reg number": "DL 113",
+        "name of establishment": "Ca Mau Seafood Processing and Service Joint - Stock corporation - CASES",
+        "address": "No. 4, Nguyen Cong Tru Street, Ward 8, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 346,
+        "reg number": "DL 116",
+        "name of establishment": "Nhat Duc Company Limited - Nhat Duc Co., Ltd.",
+        "address": "234 National Road Ia, Dinh Binh Village, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 347,
+        "reg number": "DL 178",
+        "name of establishment": "CAMAU SEAFOOD FACTORY No.4 (CAMIMEX)",
+        "address": "224 Cao Thang, Precinct 8, Ca Mau City, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 348,
+        "reg number": "DL 72",
+        "name of establishment": "Cadovimex Seafood import export and processing Joint Stock Company (CADOVIMEX -VIETNAM)",
+        "address": "Cai Doi Vam Town, Phu Tan District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 349,
+        "reg number": "DL 97",
+        "name of establishment": "Tan Thanh Export Products processing Enterprise - Ca Mau Agricultural Products and foodstuff imp-exp joint stock company (AGRIMEXCO CAMAU)",
+        "address": "969 Ly Thuong Kiet Street,  Precinct 6, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 350,
+        "reg number": "DL 118",
+        "name of establishment": "SEAPRIMEXCO VIET NAM, New seaproducts processing factory  - FNF - SEAPRIMEXCO",
+        "address": "No. 8 Cao Thang Street, Ward 8, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 351,
+        "reg number": "DL 143",
+        "name of establishment": "VIET HAI SEAFOOD IMP-EXP CO., LTD (VIHACO)",
+        "address": "Hoa Trung Industrial Zone, Luong The Tran Commune, Cai Nuoc District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 352,
+        "reg number": "DL 231",
+        "name of establishment": "\"SEAPRIMEXCO VIET NAM,  Dam Doi seaproducts processing Factory - FDD (SEAPRIMEXCO)\"",
+        "address": "Sub-ward  4, Dam Doi Town, Dam Doi District, Ca Mau Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 353,
+        "reg number": "DL 145",
+        "name of establishment": "Minh Phu Seafood Joint - Stock Company - Minh Phu Seafood Corp.",
+        "address": "Industrial Zone Ward 8, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 354,
+        "reg number": "DL 196",
+        "name of establishment": "SEAPRIMEXCO VIET NAM, New seaproducts processing factory  - FNF 2 (SEAPRIMEXCO)",
+        "address": "8 Cao Thang Street, Ward 8, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 355,
+        "reg number": "DL 200",
+        "name of establishment": "Quoc Viet seaproducts processing trading and import - export company - Quoc Viet Co. Ltd.",
+        "address": "444 Ly Thuong Kiet Street, Ward 6, Ca Mau City, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 356,
+        "reg number": "DL 201",
+        "name of establishment": "Ngoc Sinh SEAFOODS",
+        "address": "Khanh An Village, U Minh District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 357,
+        "reg number": "DL 180",
+        "name of establishment": "Phu Tan seafood export processing factory - PHUTANEXCO",
+        "address": "Cai Doi Vam Town, Phu Tan District, Ca Mau Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 358,
+        "reg number": "DL 349",
+        "name of establishment": "VIET I-MEI FROZEN FOODS CO.,LTD",
+        "address": "No. 281, National Road 1 A, Nhan Dan B Hamlet, Tan Phong Village, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 359,
+        "reg number": "DL 502",
+        "name of establishment": "THIEN PHU EXPORT SEAFOOD PROCESSING COMPANY LIMITED",
+        "address": "199 Xom Moi, Tan Thanh Village, Gia Rai Town, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 360,
+        "reg number": "DL 532",
+        "name of establishment": "PHU GIA COMPANY LIMITED (PHU GIA CO., LTD) ",
+        "address": "Khuc Treo B Hamlet, Tan Phong Commune, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 361,
+        "reg number": "DL 736",
+        "name of establishment": "PhuocDat Co.,Ltd (PDCL)",
+        "address": "Thi Tran B1 Village, Hoa Binh Town, Hoa Binh District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 362,
+        "reg number": "DL 743",
+        "name of establishment": "Minh Hieu Bac Lieu Seafood Company (MIHIMEX)",
+        "address": "National Road 1a, Hamlet 2, Gia Rai Town, Gia Rai District, Bac Lieu Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 363,
+        "reg number": "HK 129",
+        "name of establishment": "Factory 2, Sa Giang Import Export Corporation (SAGIMEXCO)",
+        "address": "88/6 Tran Hung Dao Street, Sa Dec Town, Dong Thap Province",
+        "products": "Dried"
+    },
+    {
+        "no": 364,
+        "reg number": "HK 328",
+        "name of establishment": "Factory 1, Sa Giang Import Export Corporation (SAGIMEXCO)",
+        "address": "Lot Cii-3, Sector C, Sa Dec Industrial Zone, Sa Dec Town,  Dong Thap Province",
+        "products": "Dried"
+    },
+    {
+        "no": 365,
+        "reg number": "DL 26",
+        "name of establishment": "An Phu seafood Corporation (ASEAFOOD)",
+        "address": "An Phu Village, An Nhon Ward, Chau Thanh District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 366,
+        "reg number": "DL 60",
+        "name of establishment": "HUNG VUONG SA DEC FOOD PROCESSING PLANT",
+        "address": "Lot Iii-5, Zone C, Sa Dec Industrial Zone, Sa Dec Town, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 367,
+        "reg number": "DL 101",
+        "name of establishment": "K&K Aquafish Imex company limited",
+        "address": "National Road 80, Binh Phu Quoi Hamlet, Binh Thanh Village, Lap Vo District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 368,
+        "reg number": "DL 126",
+        "name of establishment": "HUNGCA Co.",
+        "address": "Thanh Binh Industrial Zone, National Road 30, Thanh Binh District, Dong Thap Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 369,
+        "reg number": "DL 147",
+        "name of establishment": "Vinh Hoan CORPORATION (VINH HOAN CORP).",
+        "address": "1645, National Road 30, Ward 11, Cao Lanh City, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 370,
+        "reg number": "DL 239",
+        "name of establishment": "DOCIFISH CORPORATION (DOCIFISH)",
+        "address": "Zone C, Lot Vi, Sa Dec Industrial Zone, Sa Dec Town, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 371,
+        "reg number": "DL 61",
+        "name of establishment": "Workshop 2 - Vinh Hoan CORPORATION (VINH HOAN CORP).",
+        "address": "1645a, National Road 30, Ward 11, Cao Lanh City, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 372,
+        "reg number": "DL 285",
+        "name of establishment": "BINH MINH FISH CORPORATION (BMF)",
+        "address": "Lot 8, 9, 10 Song Hau Industrial Zone, Tan Thanh Ward, Lai Vung District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 373,
+        "reg number": "DL 367",
+        "name of establishment": "Thanh Hung frozen Seafood processing import-export Co., Ltd.",
+        "address": "Lot Ciii-1, Sector C, Sa Dec Industrial Zone, Dec Town, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 374,
+        "reg number": "DL 376",
+        "name of establishment": "QVD Dong Thap Food Co., Ltd",
+        "address": "Lot C, Sa Dec Industrial Zone, Sa Dec Town, Dong Thap Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 375,
+        "reg number": "DL 395",
+        "name of establishment": "THANH HAI PRIVATE ENTERPRISE",
+        "address": "Natioanl Road 54, Tan Thanh Village, Lai Vung District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 376,
+        "reg number": "DL 478",
+        "name of establishment": "TG FISHERY HOLDINGS CORPORATION (TG FISHERY HOLDING CORP.)",
+        "address": "Lot Iv-8, Area A1, Sa Dec Industrial Zone, An Hoa Ward, Sa Dec District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 377,
+        "reg number": "DL 479",
+        "name of establishment": "International development & investment Corporation (IDI Corporation)",
+        "address": "Vam Cong Industrial Zone, Binh Thanh Commune, Lap Vo District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 378,
+        "reg number": "DL 483",
+        "name of establishment": "CADOVIMEX II freezing factory No.1 - CADOVIMEX II seafood import - export and processing joint stock company",
+        "address": "Lot Iii-8, Area C, Sa Dec Industrial Zone, Sa Dec District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 379,
+        "reg number": "DL 489",
+        "name of establishment": "To Chau joint stock company (TO CHAU JSC)",
+        "address": "No.1553, Highway 30, Hamlet 4, Ward 11, Cao Lanh City, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 380,
+        "reg number": "DL 500",
+        "name of establishment": "WORKSHOP 3 - VINH HOAN CORP.",
+        "address": "1643, National Road 30, Ward 11, Cao Lanh City, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 381,
+        "reg number": "DL 516",
+        "name of establishment": "SEAFOOD JOINT STOCK COMPANY No.4 Branch - Dong Tam fisheries processing company (DOTASEAFOOD Co.,)",
+        "address": "Binh Thanh Industrial Zone, Thanh Binh District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 382,
+        "reg number": "DL 530",
+        "name of establishment": "Hoang Long Seafood Processing Company Limited - HOANG LONG SEAFOOD",
+        "address": "Tan Cuong Hamlet, Phu Cuong Commune, Tam Nong District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 383,
+        "reg number": "DL 704",
+        "name of establishment": "Fatifish Company Limited (FATIFISH Co., Ltd)",
+        "address": "Lot B3, Road No.2, My Hiep Industrial Zone, My Hiep Ward, Cao Lanh District, Dongthap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 384,
+        "reg number": "DL 711",
+        "name of establishment": "Asia Seafood Processing  Factory - Asia Commerce Fisheries Joint Stock Company (ACOMFISH)",
+        "address": "Lot No 1, Road No 2, Binh Thanh Industrial Park, Thanh Binh District, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 385,
+        "reg number": "DL 714",
+        "name of establishment": "Cuu Long Fish Import - Export Corporation (CLPANGAFISH CORP.)",
+        "address": "Lot Iii-9, Area C, Sa Dec Industrial Zone, Sa Dec Town, Dong Thap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 386,
+        "reg number": "DL 717",
+        "name of establishment": "VANY Corporation (VANYCO)",
+        "address": "Lot C, Binhthanh Industrial Zone, National Road 30, Thanh Binh District, Dongthap Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 387,
+        "reg number": "DL 14",
+        "name of establishment": "Southern Fishery Industries Company Ltd. - SOUTHVINA",
+        "address": "Lot 2.14, Tra Noc Industrial Pack 2, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 388,
+        "reg number": "DL 15",
+        "name of establishment": "Bien Dong Seafood Co., Ltd.",
+        "address": "Lot Ii, 18b1-18b2, Tra Noc 2 Industrial Zone, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 389,
+        "reg number": "DL 18",
+        "name of establishment": "Indian Ocean Co., Ltd - Indian Ocean seafood freezing Factory N.V",
+        "address": "Industrial Zone, Thoi Thuan Ward, Thot Not District, Can Tho City.",
+        "products": "Frozen"
+    },
+    {
+        "no": 390,
+        "reg number": "DL 39",
+        "name of establishment": "TRUONG NGUYEN SEAFOODS CO., LTD (TN SEAFOODS CO., LTD)",
+        "address": "Lot 06, Tra Noc 1 Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 391,
+        "reg number": "DL 69",
+        "name of establishment": "Hiep Thanh Seafood Joint Stock Company ",
+        "address": "National Highway 91, Thoi An Hamlet, Thoi Thuan Commune Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 392,
+        "reg number": "DL 79",
+        "name of establishment": "Vinh Nguyen Co. , Ltd",
+        "address": "Lot 16a9-1, Road No.02, Tra Noc I Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 393,
+        "reg number": "DL 134",
+        "name of establishment": "Can Tho Import Export fishery limited company (CAFISH VIETNAM)",
+        "address": "Lot 4, Tra Noc Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 394,
+        "reg number": "DL 325",
+        "name of establishment": "Cantho Seafood Export - CASEAFOOD",
+        "address": "Lot 3, Tra Noc Export Processing & Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 395,
+        "reg number": "DL 183",
+        "name of establishment": "Mekong fisheries joint stock company \u00e2\u0080\u0093 MEKONGFISH CO. ",
+        "address": "Tra Noc Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 396,
+        "reg number": "DH 146",
+        "name of establishment": "PATAYA FOOD INDUSTRIES (VIETNAM) Ltd.",
+        "address": "Lot 44, Tra Noc Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Canned"
+    },
+    {
+        "no": 397,
+        "reg number": "DL 151",
+        "name of establishment": "Song Hau Food processing Joint Stock Corporation (SOHAFOOD CORP)",
+        "address": "Hamlet 1, Thoi Hung Commune, Co Do District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 398,
+        "reg number": "DL 185",
+        "name of establishment": "Thuan Hung Fisheries Company - THUFICO",
+        "address": "Km 2078+300, National Road I, Ba Lang Ward, Cai Rang District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 399,
+        "reg number": "DL 293",
+        "name of establishment": "PANGA MEKONG CO., LTD.",
+        "address": "Lot 19a5-2, Road 3, Tra Noc Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 400,
+        "reg number": "DL 306",
+        "name of establishment": "PHUONG DONG SEAFOOD CO., LTD.",
+        "address": "Lot 17 D, Street 5, Tra Noc Industrial Zone, Tra Noc Ward, Binh Thuy District, Can Tho City.",
+        "products": "Frozen"
+    },
+    {
+        "no": 401,
+        "reg number": "DL 340",
+        "name of establishment": "Factory TFC - Thuan Hung Fisheries Company ",
+        "address": "Area 1, Ba Lang Ward, Cai Rang District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 402,
+        "reg number": "DL 347",
+        "name of establishment": "BASA Joint stock company - BASACO",
+        "address": "Thoi Thanh Hamlet, Thoi Thuan Village, Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 403,
+        "reg number": "DL 369",
+        "name of establishment": "MEKONG DELTA FOOD FACTORY - CASEAMEX",
+        "address": "Lot 02-12, Tra Noc Ii Industrial Zone, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 404,
+        "reg number": "DL 387",
+        "name of establishment": "HASA SEAFOOD CORPORATION (HASACO)",
+        "address": "Thoi Thanh Area, Thoi Thuan Ward, Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 405,
+        "reg number": "DL 397",
+        "name of establishment": "An Khang Co., Ltd ",
+        "address": "Lot No. 2-9a2, Tra Noc Ii Industrial Zone, Phuoc Thoi Ward, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 406,
+        "reg number": "DL 408",
+        "name of establishment": "Atlantic Seafood Freezing Factory N.V",
+        "address": "Lot A4, Industrial Zone, Thoi Thuan Ward, Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 407,
+        "reg number": "DL 423",
+        "name of establishment": "HANACO., LTD (HANACO)",
+        "address": "Lot 16a9, Tra Noc I Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 408,
+        "reg number": "DL 432",
+        "name of establishment": "Factory 2 - Hiep Thanh seafood joint stock company (HTC)",
+        "address": "National Highway 91, Thoi An Hamlet, Thoi Thuan Commune, Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 409,
+        "reg number": "DL 103",
+        "name of establishment": " Workshop No.3 - Cau Tre Export Goods Processing Joint Stock Company -CTE JSCO",
+        "address": "125/208 Luong The Vinh Street, Tan Thoi Hoa Ward, Tan Phu District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 410,
+        "reg number": "DL 163",
+        "name of establishment": "NEW WIND SEAFOOD CO., LTD.",
+        "address": "Lot 1-2, Area D1, Tan Thoi Hiep Industrial Zone, District 12, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 411,
+        "reg number": "DL 175",
+        "name of establishment": "Hua Heong food industries Vietnam Co., Ltd.",
+        "address": "D3a-d3b Le Minh Xuan Industrial Zone, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 412,
+        "reg number": "DL 176",
+        "name of establishment": "Vinh Loc Food processing & Trading Company Limited - VILFOOD CO., LTD.",
+        "address": "Lot C 38/i-39/i, Road No.7, Vinh Loc Industrial Zone, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 413,
+        "reg number": "DL 177",
+        "name of establishment": "Ken Ken (Vietnam) Food MFG Co., LTD.",
+        "address": "208/8 Hang Sao, Dong Hung Thuan Precinct, District 12, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 414,
+        "reg number": "DL 62",
+        "name of establishment": "Cholimex Food Joint Stock Company- CHOLIMEX FOOD",
+        "address": "Lot C40-43/i, C51-55/ii, Road 7, Vinh Loc Industrial Zone, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 415,
+        "reg number": "DL 189",
+        "name of establishment": "Investment commerce fisheries corporation - INCOMFISH Corporation, Seafood and foodstuff processing Factory No. 2",
+        "address": "A 77/i, Road No 7, Vinh Loc Industrial Zone, Binh Tan District, Ho Chi Minh City.",
+        "products": "Frozen"
+    },
+    {
+        "no": 416,
+        "reg number": "HK 187",
+        "name of establishment": "Investment commerce fisheries corporation \u00e2\u0080\u0093 INCOMFISH Corporation, Seafood & foodstuff processing factory No 5",
+        "address": "A77/i, Road No.7, Vinh Loc Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 417,
+        "reg number": "NM 188",
+        "name of establishment": "Investment commerce fisheries corporation \u00e2\u0080\u0093 INCOMFISH Corporation, Seafood & foodstuff processing factory No 4",
+        "address": "A77/i, Road No.7, Vinh Loc Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 418,
+        "reg number": "DL 193",
+        "name of establishment": "VIET NHAT SEAFOOD CORPORATION (VISEA CORP.)",
+        "address": "C34/i, 2g Street, Vinh Loc Industrial Park, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 419,
+        "reg number": "DL 202",
+        "name of establishment": "The Liability Limited Pacific Company",
+        "address": "74 An Duong Vuong Street, Ward 16, District 8, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 420,
+        "reg number": "HK 215",
+        "name of establishment": "Hoa Mai manufacturing-trading joint stock company (HOA MAI MT JSC)",
+        "address": "118/3 Highway No.13, Hiep Binh Phuoc Ward, Thu Duc District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 421,
+        "reg number": "DL 279",
+        "name of establishment": "Thien Tue Co., Ltd.",
+        "address": "Road No. 4, Tan Binh Industrial Zone, Tay Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 422,
+        "reg number": "DL 364",
+        "name of establishment": "Thang Loi Frozen Food Enterprise (VIEFOOD) - Sai Gon Aquatic products trading joint stock company",
+        "address": "Lot 4-6-8 Road Ia, Tan Tao Industrial Zone, Tan Tao A Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 423,
+        "reg number": "DL 378",
+        "name of establishment": "VINHTRAN PTE",
+        "address": "Hamlet 1, Road 15, Tan Nhut Village, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 424,
+        "reg number": "DL 381",
+        "name of establishment": "TRANG CORPORATION (TRANG CORP)",
+        "address": "Lot A-14b, Hiep Phuoc Industrial Park, Nha Be District, Ho Chi  Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 425,
+        "reg number": "DL 368",
+        "name of establishment": "Investment commerce fisheries corporation \u00e2\u0080\u0093 Incomfish Corporation, Seafood and Foodstuff processing Factory No. 3",
+        "address": "Lot A77/i, Road No.7, Vinh Loc Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 426,
+        "reg number": "DL 389",
+        "name of establishment": "Hai Thanh Food Co., Ltd.",
+        "address": "Lot A 14a, Hiep Phuoc Industrial Zone, Nha Be District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 427,
+        "reg number": "DL 390",
+        "name of establishment": "Phuoc Hung Seafood Factory, Van Duc Food Export Joint Stock Company",
+        "address": "Road No.6, Vinh Loc Industrial Park, Binh Chanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 428,
+        "reg number": "HK 392",
+        "name of establishment": "Thuan Nghia Co., Ltd.",
+        "address": "B23/54c, Hoang Phan Thai Street, Hamlet 2, Binh Chanh Commune, Binh Chanh District, Ho Chi Minh City",
+        "products": "Dried"
+    },
+    {
+        "no": 429,
+        "reg number": "DL 102",
+        "name of establishment": "Binh Dong Fisheries Joint Stock Company - BD FISCO JSC; BINH DONG FISCO",
+        "address": "49 Ben Binh Dong Street, Ward 11, District 8, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 430,
+        "reg number": "DL 271",
+        "name of establishment": "Hoang Cam Trading Manufacturing Co., Ltd (HOCACo.,Ltd.)",
+        "address": "109a Ho Hoc Lam Street, An Lac Ward, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 431,
+        "reg number": "DL 426",
+        "name of establishment": "Gia Dinh import export joint stock company (GIDICO)",
+        "address": "285 No Trang Long Street, Ward 13, Binh Thanh District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 432,
+        "reg number": "DL 427",
+        "name of establishment": "Trung Dung seaproducts trading Co., LTD.",
+        "address": "Lot 16a, Road No.7, Tan Tao Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 433,
+        "reg number": "DL 434",
+        "name of establishment": "HALONGFIDICOM",
+        "address": "Lot 3-9a, Road 12, Tan Binh Industrial Zone, Tan Phu District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 434,
+        "reg number": "DL 435",
+        "name of establishment": "LOTUS food and processing company limited - LOTUS FOOD Co., LTD.",
+        "address": "Lot 29-31, Tan Tao Industrial Zone, Binh Tan District, Ho Chi Minh City",
+        "products": "Frozen"
+    },
+    {
+        "no": 435,
+        "reg number": "DL 422",
+        "name of establishment": "ASIA Frozen Factory - Asia Food stuffs Import Export Company Limited",
+        "address": "Dong Hoa Village, Song Thuan Ward, Chau Thanh District, Tien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 436,
+        "reg number": "DL 322",
+        "name of establishment": "Hoang Phuong Seafood Factory",
+        "address": "Provincial Highway 8, Tai Van Village, Tran De District, Soc Trang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 437,
+        "reg number": "DL 447",
+        "name of establishment": "AN PHU factory - Soc Trang seafood joint stock company (STAPIMEX)",
+        "address": "Lot N2, An Nghiep Industrial Zone, Soc Trang City, Soc Trang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 438,
+        "reg number": "DL 433",
+        "name of establishment": "Phuong Dong Seafood Co., LTD - Factory 2",
+        "address": "Lot 17d, Street 5, Tra Noc Industrial Zone, Tra Noc Ward, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 439,
+        "reg number": "DL 451",
+        "name of establishment": "PATAYA food industries (Viet nam) limited",
+        "address": "Lot 44, Tra Noc I Industrial Zone, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 440,
+        "reg number": "DL 461",
+        "name of establishment": "NTSF seafoods joint stock company",
+        "address": "Lot C3, Thot Not Industrial Zone, Thot Not District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 441,
+        "reg number": "DL 462",
+        "name of establishment": "BINH AN SEAFOOD JOINT STOCK COMPANY (BIANFISHCO)",
+        "address": "Main Road, Tra Noc Industrial Park Ii, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 442,
+        "reg number": "DL 499",
+        "name of establishment": "Seavina Joint Stock Company (SEAVINA)",
+        "address": "16a-18, 1fl Street, Tra Noc Industrial Processing Zone 1, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 443,
+        "reg number": "DL 509",
+        "name of establishment": "NAMPHUONG seafood company limited (NAFISHCO)",
+        "address": "Lot 2.20b Tra Noc Ii Industrial Zone, Phuoc Thoi Ward, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 444,
+        "reg number": "DL 515",
+        "name of establishment": "QUANG MINH SEAFOOD Co., Ltd. (QUANG MINH SEAFOOD)",
+        "address": "Lot 2.20a, Tra Noc 2 Industrial Zone, Phuoc Thoi Ward, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 445,
+        "reg number": "DL 730",
+        "name of establishment": "Dong Hai Seafood Limited Company (DONGHAI)",
+        "address": "Lot 2.20a, Tra Noc 2 Industrial Zone, O Mon Ward, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 446,
+        "reg number": "DL 733",
+        "name of establishment": "Thien Ma Seafood Co., Ltd - Factory 3 (THIMACO)",
+        "address": "Lot 2.11e, Road No. 9, Tra Noc Ii Industrial Zone, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 447,
+        "reg number": "DL 327",
+        "name of establishment": "Phu Thanh Seafoods Foodstuffs Enterprise",
+        "address": "Km 2082 National Road Ia, Tan Phu Thanh Village, Chau Thanh A District,  Hau Giang Province",
+        "products": "Frozen; Dried"
+    },
+    {
+        "no": 448,
+        "reg number": "DL 141",
+        "name of establishment": "PhuThanh Frozen Factory",
+        "address": "690 National Road 1a, Tan Phu Thanh Village,  Chau Thanh A District, Hau Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 449,
+        "reg number": "DL 186",
+        "name of establishment": "Vietnam fish - one Co., Ltd.",
+        "address": "Km 2087+500 National Road 1, Long Thanh Industrial Zone, Phung Hiep District, Hau Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 450,
+        "reg number": "DL 365",
+        "name of establishment": "Taydo Seafood Enterprise",
+        "address": "Tan Phu Thanh Ward, Chau Thanh A District, Hau Giang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 451,
+        "reg number": "DL 734",
+        "name of establishment": "Minh Phu - Hau Giang Seafood Processing Corporation (Minh Phu - Hau Giang Seafood Corp)",
+        "address": "3a Street, Song Hau Industrial Zone, Chau Thanh District, Hau Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 452,
+        "reg number": "DL 36",
+        "name of establishment": "Hung Vuong - Vinh Long Co., Ltd.",
+        "address": "197 Road 14/9, Ward 5, Vinh Long Town, Vinh Long Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 453,
+        "reg number": "DL 430",
+        "name of establishment": "Hung Cuong seafood processing import-export joint stock company (HUNG CUONG SEAFOOD) ",
+        "address": "Thanh My 2 Hamlet, Thanh Duc Village, Long Ho District, Vinh Long Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 454,
+        "reg number": "DL 460",
+        "name of establishment": "Workshop II- Hung Vuong - Vinh Long Co., Ltd.",
+        "address": "No.197, 14/9 Street, Ward 5, Vinh Long Town, Vinh Long Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 455,
+        "reg number": "DL 712",
+        "name of establishment": "An Phuoc Fish Joint Stock Company (APFISH)",
+        "address": "Thanh Thuy Hamlet, An Phuoc Commune, Mang Thit District, Vinh Long Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 456,
+        "reg number": "DL 206",
+        "name of establishment": "Long Toan Company",
+        "address": "Hamlet 2, Duyen Hai Town, Duyen Hai District, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 457,
+        "reg number": "DL 31",
+        "name of establishment": "Workshop 2, Cuu Long Seaproducts Company - WORKSHOP 2, CUU LONG SEAPRO",
+        "address": "36 Bach Dang Street, Ward 4, Tra Vinh Town, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 458,
+        "reg number": "DL 329",
+        "name of establishment": "Sao Bien seafood joint stock company (SACOIMEX)",
+        "address": "Hamlet 1, Duyen Hai Town, Duyen Hai District, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 459,
+        "reg number": "DL 326",
+        "name of establishment": "Workshop 1&3 - Cuu Long Seaproducts Company (CUULONG SEAPRO)",
+        "address": "36 Bach Dang Street, Ward 4, Tra Vinh City, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 460,
+        "reg number": "DL 418",
+        "name of establishment": "DINH AN SEAFOOD Co., LTD.",
+        "address": "Cho Hamlet, Dinh An Village, Tra Cu District, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 461,
+        "reg number": "DL 491",
+        "name of establishment": "Saigon-Mekong Fishery Co., Ltd (SAMEFICo.)",
+        "address": "Vinh Hoi Hamlet, Long Duc Village, Tra Vinh Town, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 462,
+        "reg number": "Dl 205",
+        "name of establishment": "DONG NAM SEAFOOD CORPORATION - DUYEN HAI BRANCH (DONGNAMFOODS)",
+        "address": "Long Toan Village, Duyen Hai District, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 463,
+        "reg number": "DL 525",
+        "name of establishment": "TRA VINH FOOD-STUFFS AND AGRICULTURAL PRODUCTS COMPANY (TRAVIFACO)",
+        "address": "Hamlet 3, Cau Quan Town, Tieu Can District, Tra Vinh Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 464,
+        "reg number": "DL 08",
+        "name of establishment": "An Giang Fisheries Import - Export Joint Stock Company, Factory 8 (AGIFISH Co.)",
+        "address": "National Road 91, An Chau Town, Chau Thanh District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 465,
+        "reg number": "DL 07",
+        "name of establishment": "An Giang fisheries import - export joint stock company, Factory 7 \u00e2\u0080\u0093 (AGIFISH Co.)",
+        "address": "1234 Tran Hung Dao Street, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 466,
+        "reg number": "DL 09",
+        "name of establishment": "Frozen Factory AGF 9",
+        "address": "2222 Tran Hung Dao Street, Binh Duc Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 467,
+        "reg number": "DL 33",
+        "name of establishment": "An Xuyen Joint stock company - ANXUYEN JOINTSTOCK",
+        "address": "09 Hung Vuong Street, My Quy Industrial Zone, My Quy Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 468,
+        "reg number": "DL 75",
+        "name of establishment": "Viet Thang Factory - ANVIFISH Joint stock company (ANVIFISH Co)",
+        "address": "National Road 91, Thanh An Hamlet, My Thoi Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 469,
+        "reg number": "DL 184",
+        "name of establishment": "AFIEX Seafood Industry, An Giang AFIEX Joint Stock Company",
+        "address": "National Road 91, Vinh Thanh Trung Ward, Chau Phu District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 470,
+        "reg number": "DL 152",
+        "name of establishment": "Nam Viet Fish Freezing Factory- Nam Viet Corporation",
+        "address": "My Quy Industrial Zone, My Quy Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 471,
+        "reg number": "DL 218",
+        "name of establishment": "GMG Co., Ltd",
+        "address": "Binh Duc 3 Hamlet, Binh Duc Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 472,
+        "reg number": "DL 311",
+        "name of establishment": "An My fish joint stock company - ANMY FISH CO",
+        "address": "Lot A2-a3, Phu Hoa Industrial Zone, Phu Hoa Town, Thoai Son District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 473,
+        "reg number": "DL 292",
+        "name of establishment": "Thuan An production trading and service CO., LTD. (TAFISHCO) - Thuan An I enterprise of Aquatic product processing ",
+        "address": "National Road 91, Binh Hung 2 Hamlet, Binh My Village, Chau Phu District, An Giang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 474,
+        "reg number": "DL 301",
+        "name of establishment": "An Giang Fruit-Vegetables & Foodstuff Joint Stock Company (ANTESCO)",
+        "address": "My An Village, Cho Moi District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 475,
+        "reg number": "DL 324",
+        "name of establishment": "NTACO CORP.",
+        "address": "99 Hung Vuong Street, My Quy Industrial Zone, Long Xuyen City,  An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 476,
+        "reg number": "DL 359",
+        "name of establishment": "An Thinh Factory - ANVIFISH Joint stock company (ANVIFISH Co)",
+        "address": "National Road 91, Thanh An Hamlet, My Thoi Ward, Long Xuyen City,  An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 477,
+        "reg number": "DL 68",
+        "name of establishment": "Binh An Seafood Joint stock company.",
+        "address": "Lot 2.17, Tra Noc Industrial Park 2, O Mon District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 478,
+        "reg number": "DL 77",
+        "name of establishment": "GEPIMEX 404 COMPANY",
+        "address": "Le Hong Phong Street, Binh Thuy District, Can Tho City.",
+        "products": "Frozen"
+    },
+    {
+        "no": 479,
+        "reg number": "DL 396",
+        "name of establishment": "Factory 2 - Song Hau Food processing Joint Stock Corporation - SOHAFOOD 2",
+        "address": "Hamlet 1, Thoi Hung Commune, Co Do District, Can Tho City",
+        "products": "Frozen"
+    },
+    {
+        "no": 480,
+        "reg number": "DL 65",
+        "name of establishment": "Cafatex Fishery Joint Stock Company (Cafatex Corporation)",
+        "address": "Km 2081, National Road 1, Chau Thanh A District, Hau Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 481,
+        "reg number": "DL 360",
+        "name of establishment": "Binh Duc processing Food Factory",
+        "address": "1245 Tran Hung Dao Street, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 482,
+        "reg number": "DL 363",
+        "name of establishment": "Ben Cat Foods Factory, An Giang AFIEX Joint Stock Company (BECAFOODS)",
+        "address": "National Road 91, Vinh Thanh Trung Ward, Chau Phu District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 483,
+        "reg number": "DL 370",
+        "name of establishment": "Cuu Long fish joint stock company (CL-FISH CORP.)",
+        "address": "90 Hung Vuong Street, My Quy Industrial Zone, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 484,
+        "reg number": "DL 371",
+        "name of establishment": "Sunrise Corporation (SUNRISE CORP)",
+        "address": "National Road 91, An Thoi Hamlet, My Thoi Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 485,
+        "reg number": "DL 384",
+        "name of establishment": "Pacific seafood freezing factory N.V - Nam Viet corporation",
+        "address": "Hung Vuong Road, My Quy Industrial Zone, My Quy Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 486,
+        "reg number": "DL 490",
+        "name of establishment": "VINAFISH import export corporation (Vinafish Corp.)",
+        "address": "Trung Hung Hamlet, My Thoi Ward, Long Xuyen City, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 487,
+        "reg number": "DL 529",
+        "name of establishment": "Binh Long Company Limited - BILOFISH ",
+        "address": "Lot E, Binh Long Industrial Zone, Chau Phu District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 488,
+        "reg number": "DL 703",
+        "name of establishment": "Thuan An Production Trading and Service Co., LTD- Thuan An III Enterprise of Aquatic Processing and Exporting (SONASEAFOOD)",
+        "address": "478 National Road 91, Hoa Long 3 Hamlet, An Chau Town, Chau Thanh District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 489,
+        "reg number": "DL 725",
+        "name of establishment": "Hoa Phat Seafood Import Export And Processing JSC (HOPHAFISH)",
+        "address": "Lot A, Binh Long Industrial Zone, Chau Phu District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 490,
+        "reg number": "DL 732",
+        "name of establishment": " Dong A Seafood Company Limited (DONG A SEAFOOD)",
+        "address": "Block B, Binh Long Industrial Pack, Chau Phu District, An Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 491,
+        "reg number": "DL 420",
+        "name of establishment": "Hai Minh Seafoods joint stock company/Hai Minh Seafoods JSC",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chauthanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 492,
+        "reg number": "NM 138",
+        "name of establishment": "Hung Thanh Phu Quoc fish sauce manufacture enterprise",
+        "address": "5th  Quarter,  Duong Dong Town, Phu Quoc District, Kien Giang Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 493,
+        "reg number": "NM 139",
+        "name of establishment": "Thanh Ha Fish Sauce Co., Ltd.",
+        "address": "4th  Quarter,  Duong Dong Town, Phu Quoc District, Kien Giang Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 494,
+        "reg number": "DL 66",
+        "name of establishment": "Minh Ha Seafood Co.,  Ltd",
+        "address": "9 Team, Sua Dua Hamlet, Vinh Hoa Hiep Commune, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen; Salted"
+    },
+    {
+        "no": 495,
+        "reg number": "DL 120",
+        "name of establishment": "An Hoa KISIMEX Factory - Kien Giang Seaproduct Corporation - KISIMEX",
+        "address": "13 Ngo Thoi Nhiem Street, An Binh Ward, Rach Gia City, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 496,
+        "reg number": "DL 495",
+        "name of establishment": "KIEN LONG SEAFOODS COMPANY., LTD - KIEN LONG SEAFOODS",
+        "address": "616 Tran Khanh Du Street, An Hoa Ward, Rach Gia City, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 497,
+        "reg number": "DL 496",
+        "name of establishment": "Vina Kien Giang Changhua Aquatic Co., LTD - VINA CHANGHUA",
+        "address": "Tac Cau Fishing Port, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 498,
+        "reg number": "DL 110",
+        "name of establishment": "Kien Giang KISIMEX Factory - Kien Giang Seaproduct Corporation - KISIMEX",
+        "address": "62 Ngo Thoi Nhiem Street, 7th Quarter, An Binh Ward, Rach Gia City, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 499,
+        "reg number": "DH 335",
+        "name of establishment": "Kien Giang joint stock Foodstuff Canning Company (KIFOCAN)",
+        "address": "Tac Cau Fishing Port Industrial Zone, Binh An Village, Chau Thanh District, Kien Giang Province",
+        "products": "Canned"
+    },
+    {
+        "no": 500,
+        "reg number": "DL 144",
+        "name of establishment": "Rach Gia KISIMEX Factory - KIEN GIANG SEAPRODUCT CORPORATION (KISIMEX)",
+        "address": "Minh Phong Hamlet, Binh An Village, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 501,
+        "reg number": "DL 160",
+        "name of establishment": "An Minh seafood import-export joint stock company (AMIMEXCO)",
+        "address": "8 Xang Hamlet, Dong Hoa Village, An Minh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 502,
+        "reg number": "DL 166",
+        "name of establishment": "KIEN LUONG SEAFOOD CORPORATION",
+        "address": "Ba Hon Hamlet, Kien Luong Town, Kien Luong District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 503,
+        "reg number": "DL 297",
+        "name of establishment": "Kien Hung joint stock company VN (KIHUSEA VN)",
+        "address": "Tan Dien Hamlet, Giuc Tuong Village, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 504,
+        "reg number": "DL 51",
+        "name of establishment": "Ca Mau seafood processing & service joint stock corporation (CASES) - Kien Giang branch",
+        "address": "Tac Cau Fishing Port Industrial Zone, Minh Phong Hamlet, Binh An Village, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 505,
+        "reg number": "DL 344",
+        "name of establishment": "Huy Nam Seafoods Co., Ltd.",
+        "address": "Tac Cau Industrial Park, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 506,
+        "reg number": "DL 377",
+        "name of establishment": "Mai Sao seafood Co., Ltd.",
+        "address": "Tac Cau Industrial Park, Chau Thanh District, Kien Giang Province.",
+        "products": "Frozen"
+    },
+    {
+        "no": 507,
+        "reg number": "DL 398",
+        "name of establishment": "HIEP PHAT SEAFOOD JOINT STOCK COMPANY (HP SEAFOOD)",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 508,
+        "reg number": "DL 400",
+        "name of establishment": "Seafood Joint Stock Company No. 4 - Kien Giang Branch (SEAFRIEX CO No.4)",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 509,
+        "reg number": "DL 407",
+        "name of establishment": "Ngo Quyen Processing Export Joint Stock Company -NGOPREXCO",
+        "address": "326-328 Ngo Quyen Street, Rach Gia City, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 510,
+        "reg number": "DL 409",
+        "name of establishment": "Kien Cuong Seafood processing import - export joint stock company (Kien Cuong Seafood)",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 511,
+        "reg number": "DL 440",
+        "name of establishment": "NT SEAFOODS CORPORATION",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 512,
+        "reg number": "DL 452",
+        "name of establishment": "Tac Cau seafood processing and exporting Factory - BIM FOODS JOINT STOCK COMPANY (BIMFOODS)",
+        "address": "Tac Cau Fishing Port Industrial Zone, Binh An Commune, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 513,
+        "reg number": "DL 486",
+        "name of establishment": "TRUNG SON CORP",
+        "address": "Tac Cau Fishing Port Industrial Zone, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 514,
+        "reg number": "DL 521",
+        "name of establishment": "TACCAU SEAPRODUCTS JOINT  STOCK COMPANY (KICOIMEX)",
+        "address": "Tac Cau Fishing Port Area, Binh An Commune, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 515,
+        "reg number": "DL 746",
+        "name of establishment": "Minh Khue Seafoods Company Limited (Minh Khue Co.,Ltd)",
+        "address": "Ward 1, An Phuoc Hamlet, Binh An Commune, Chau Thanh District, Kien Giang Province",
+        "products": "Frozen"
+    },
+    {
+        "no": 516,
+        "reg number": "NM 503",
+        "name of establishment": "Hung Thinh fish sauce limited company (HUNG THINH Co., Ltd)",
+        "address": "Hamlet No4, 30/4 Street, Duong Dong Town, Phu Quoc District, Kien Giang Province",
+        "products": "Fish sauce"
+    },
+    {
+        "no": 517,
+        "reg number": "DH 528",
+        "name of establishment": "HUONG GIANG CO., LTD ",
+        "address": "National Road 80, Ward 2, Hoa Phu Hamlet, Mong Tho Commune, Chau Thanh District, Kien Giang Province",
+        "products": "Canned"
+    },
+    {
+        "no": 518,
+        "reg number": "DL 345",
+        "name of establishment": "Viet Foods Co.,Ltd (VF)",
+        "address": "Lot 14, Export Processing Zone Tra Noc 1, Binh Thuy District, Can Tho City",
+        "products": "Frozen"
+    }
+]
