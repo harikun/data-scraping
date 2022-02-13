@@ -1,7 +1,4 @@
-import json
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
+import json; import requests; import pandas as pd; from bs4 import BeautifulSoup
 
 url = 'https://arebijatim.org/anggota'
 res = requests.get(url)
@@ -9,8 +6,7 @@ soup = BeautifulSoup(res.text, 'html.parser')
 
 tbody = soup.find('tbody')
 tr = tbody.find_all('tr')
-no = 1
-member_arebijatim = []
+no = 1; member_arebijatim = []
 for td in tr:
     member_id = td.find('td').text
     logo = td.find('img').get('src')
@@ -34,10 +30,7 @@ for td in tr:
 
 with open('data_json/arebijatim_144.json', 'w') as f:
     json.dump(member_arebijatim, f, indent=4)
-
 df = pd.DataFrame(member_arebijatim)
 df.to_csv('data_csv/arebijatim_144.csv', index=False)
-
-df = pd.DataFrame(member_arebijatim)
 df.to_excel('data_excel/arebijatim_144.xlsx', index=False)
 print('Done!')
