@@ -1,0 +1,898 @@
+[
+    {
+        "no": 1,
+        "reg number": "KID-147",
+        "name of establishment": "YONWOO COLD STORAGE CO., LTD.",
+        "address": "228, Chungmu-daero, Seo-gu, Busan, Republic Of Korea",
+        "products": ""
+    },
+    {
+        "no": 2,
+        "reg number": "KID-107",
+        "name of establishment": "Dongwon Industry Co., Ltd(BUSAN PLANT)",
+        "address": "147, Wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 3,
+        "reg number": "KID-081",
+        "name of establishment": "NATIONAL FEDERATION OF FISHERIES COOPERATIVES KAM CHUN HANG DISTRIBUTION  CENTER",
+        "address": "119, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 4,
+        "reg number": "KID-084",
+        "name of establishment": "HWAJIN ENETRPRISES  CO.,LTD WEST ICHEON DISTRIBUTION&PROCESSING CENTER",
+        "address": "145, Ijang-ro, Majang-myeon, Icheon-si, Gyeonggi-do, South Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 5,
+        "reg number": "KID-131",
+        "name of establishment": "Namdo Kkomak Co.,Ltd",
+        "address": "90-46, 90-44 Moraemokgil, Yulchon, Yeosu-si, Jeollanam-do, Republic Of Korea",
+        "products": "Fishery Product"
+    },
+    {
+        "no": 6,
+        "reg number": "KID-127",
+        "name of establishment": "Our Family Co., Ltd.",
+        "address": "173, Wangnim-ro, Opo-eup Gwangju-si, Gyeonggi- Do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 7,
+        "reg number": "KID-132",
+        "name of establishment": "Gimpo Seafood Export Center",
+        "address": "54, Wanjeong-ro 188beon 2-gil, Seo-gu, Incheon, Republic Of Korea",
+        "products": "Fishery Product"
+    },
+    {
+        "no": 8,
+        "reg number": "1206001-6261103",
+        "name of establishment": "SUNSTAR",
+        "address": "-",
+        "products": "Fishing vessel (BOTTOM LONGLINE FISHERIES)"
+    },
+    {
+        "no": 9,
+        "reg number": "1405002-6261100",
+        "name of establishment": "KINGSTAR",
+        "address": "-",
+        "products": "Fishing vessel (BOTTOM LONGLINE FISHERIES)"
+    },
+    {
+        "no": 10,
+        "reg number": "KID-116",
+        "name of establishment": "M.H FISHERY CO.,LTD",
+        "address": "61-3, Dadae-ro 1066beon-gil, Saha-gu, Busan,  Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 11,
+        "reg number": "0104003-6260001",
+        "name of establishment": "SHILLA JUPITER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 12,
+        "reg number": "KID-149",
+        "name of establishment": "WOOYANG COLD STORAGE Co.,LTD SECOND FACTORY",
+        "address": "234, Chungmu-daero, Seo-gu, Busan, Republic Of Korea",
+        "products": ""
+    },
+    {
+        "no": 13,
+        "reg number": "KID-096",
+        "name of establishment": "OTTOGI SF Co., Ltd.",
+        "address": "2771, Namhaean-daero, Goseong-eup, Goseong-gun, Gyeongsangsam-do, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 14,
+        "reg number": "KID-155",
+        "name of establishment": "INCHEON SEAFOOD EXPORT DISTRIBUTION CENTER",
+        "address": "35, Chukhang-daero 296beon-gil, Jung-gu, Incheon, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 15,
+        "reg number": "KID-159",
+        "name of establishment": "Samhwa Agri-Fishery",
+        "address": "10, Jangpyeong-ro 71beon-gil, Saha-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 16,
+        "reg number": "KID-108",
+        "name of establishment": "Chungsanbada co., Ltd",
+        "address": "22-7, Nonggongdanji-4 Gil, Wando-eup, Wando-gun, Jeollanam-do, Republic Of Korea",
+        "products": "Live, Frozen, Canned, Dried abalone"
+    },
+    {
+        "no": 17,
+        "reg number": "KID-102",
+        "name of establishment": "YOU WANG CO.,LTD",
+        "address": "10, Eulsukdo-daero 677 Beon-gil, Saha-gi, Busan, Republic Of Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 18,
+        "reg number": "KID-002",
+        "name of establishment": "SAMJIN GLOBALNET CO., LTD",
+        "address": "269 Jangpyeong-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 19,
+        "reg number": "KID-003",
+        "name of establishment": "CHONG YANG INDUSTRY CO., LTD",
+        "address": "359 Wonyang-ro, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 20,
+        "reg number": "KID-004",
+        "name of establishment": "SHINWOO AGRI-FISHERY CO., LTD",
+        "address": "1,dadaedong-ro 6beon-gil, Saha-gu,busan,korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 21,
+        "reg number": "KID-005",
+        "name of establishment": "SAMSUNG COLD STORAGE CO., LTD",
+        "address": "313, Wonyang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 22,
+        "reg number": "KID-006",
+        "name of establishment": "Dong Yang Cold Storage Songdo Branch ",
+        "address": "140, Chungmu-daero, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 23,
+        "reg number": "KID-007",
+        "name of establishment": "YOUNG SIN FISHERIES CO., LTD",
+        "address": "3, Sinchu-gil, Dolsan-eup, Yeosu-si, Jeollanam-do, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 24,
+        "reg number": "KID-008",
+        "name of establishment": "DONGWON INDUSTRY CO.,LTD BUSAN COLD STORAGE CENTER",
+        "address": "147,wonyang-ro,seo-gu,busan,korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 25,
+        "reg number": "KID-009",
+        "name of establishment": "HAEWON COLD STORAGE CO., LTD",
+        "address": "67, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 26,
+        "reg number": "KID-010",
+        "name of establishment": "DONGWON TONGYOUNG FISHERIES, Co.,LTD",
+        "address": "24, Gamcheonhang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 27,
+        "reg number": "KID-054",
+        "name of establishment": "SHIN HYUN MARINE CO.,LTD",
+        "address": "265, Dusong-ro, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 28,
+        "reg number": "KID-012",
+        "name of establishment": "WOO SHIN COLD STORAGE CO., LTD",
+        "address": "123, Deungdae-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 29,
+        "reg number": "KID-014",
+        "name of establishment": "SAJO SEAFOOD CO., LTD",
+        "address": "71, Wonyang-ro, Seo-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 30,
+        "reg number": "KID-015",
+        "name of establishment": "HEE CHANG TRADING CO., LTD",
+        "address": "146, Chungmu-daero, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 31,
+        "reg number": "KID-016",
+        "name of establishment": "POSUNG COLD STORAGE CO., LTD",
+        "address": "139, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 32,
+        "reg number": "KID-018",
+        "name of establishment": "BORIM LOGISTICS CO., LTD. BUSAN COLD STORAGE",
+        "address": "73, Wonyang-ro, Seu-gu Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 33,
+        "reg number": "KID-020",
+        "name of establishment": "Samil Cold Storage Co.,Ltd 2nd Logistics Center",
+        "address": "2239, Gamcheonhang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 34,
+        "reg number": "KID-021",
+        "name of establishment": "SAMWON SEA FOOD",
+        "address": "51, Dasan-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 35,
+        "reg number": "KID-086",
+        "name of establishment": "Agricultural Corp. HUMANWELL Co.",
+        "address": "130,  Noi-gil, Nongong-eup, Dalseong-gun, Daegu, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 36,
+        "reg number": "KID-026",
+        "name of establishment": "KOREA COLD STORES CO., LTD GAMCHUN FIRST FACTORY",
+        "address": "353, Wonyang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 37,
+        "reg number": "KID-088",
+        "name of establishment": "SEA SKY GLOBAL CO.,LTD.",
+        "address": "111, Wonyang-ro, Seo-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 38,
+        "reg number": "KID-032",
+        "name of establishment": "Korea Cold Stores Co., Ltd.",
+        "address": "360, Dadae-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 39,
+        "reg number": "KID-033",
+        "name of establishment": "BIFEX-LOGISTICS CO., LTD",
+        "address": "35, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 40,
+        "reg number": "KID-036",
+        "name of establishment": "SUNG JIN FISHERY CO., LTD",
+        "address": "87, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 41,
+        "reg number": "KID-039",
+        "name of establishment": "SI WON MOOLSAN CO., LTD",
+        "address": "463, Amnamgongwon-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 42,
+        "reg number": "KID-047",
+        "name of establishment": "BUSAN COLD STORAGE INC.",
+        "address": "328, Wonyang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 43,
+        "reg number": "KID-048",
+        "name of establishment": "ASIA COLD STORAGE CO,LTD",
+        "address": "179, Wonyang-ro, Seo-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 44,
+        "reg number": "KID-051",
+        "name of establishment": "SAMIL COLD STORAGE, Co, LTD",
+        "address": "36, Seopo-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 45,
+        "reg number": "KID-087",
+        "name of establishment": "SUNHAE F&S CO.,LTD",
+        "address": "1366-2, Hwayang-ro, Hwayang-myeon, Yeosu-si, Jeollanam-do, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 46,
+        "reg number": "KID-067",
+        "name of establishment": "JUSIN FOODS CO.,LTD",
+        "address": "201, Uljindaego-ro, Hupo-myeon, Uljin-gun, Gyeongsangbuk-do, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 47,
+        "reg number": "KID-069",
+        "name of establishment": "DAI HAN FISHERIES CO.,LTD",
+        "address": "349,\u00e2\u00a0Wonyang-ro,\u00e2\u00a0Saha-gu,\u00e2\u00a0Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 48,
+        "reg number": "KID-157",
+        "name of establishment": "FISHERY CORPORATION HANIL FISHERIES CO., LTD ",
+        "address": "139-41, Saemangeumbuk-ro, Gunsan-si, Jeollabuk-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 49,
+        "reg number": "KID-074",
+        "name of establishment": "DAIHUNG MULSAN, Co",
+        "address": "73, Miujihaean-ro Tongyeong-city Gyeongsangnam-do",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 50,
+        "reg number": "KID-075",
+        "name of establishment": "DONG WON MUL SAN CO., LTD",
+        "address": "2358, Dosanilju-ro,, Dosan-myeon, Tongyeong-city, Kyungsangnam-do, Republic Of Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 51,
+        "reg number": "KID-082",
+        "name of establishment": "DAEHU ENTERPRISE CO.,LTD",
+        "address": "318 Donghae-daero, Hupo-myon, Uljin-gun, Kyungbuk",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 52,
+        "reg number": "KID-013",
+        "name of establishment": "DONGWON FISHERIES CO.,LTD",
+        "address": "685, Eulsukdo-daero, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 53,
+        "reg number": "KID-001",
+        "name of establishment": "COLD STORAGE INTER-BURGO II CO., LTD",
+        "address": "125, Wonyang-ro, Seo-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 54,
+        "reg number": "KID-101",
+        "name of establishment": "MI SIK MARINE PRODUCTS CO.,LTD",
+        "address": "43, Bansogol-gil, Hupo-myeon, Uljin-gun, Gyeongsangbuk-do, Reepublic Of Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 55,
+        "reg number": "KID-103",
+        "name of establishment": "YANGJI ENTERPRISE CO.,LTD",
+        "address": "679-25, Geumpo-ro, Gochon-eup, Gimpo-si, Gyeonggi-do, Republic Of Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 56,
+        "reg number": "KID-112",
+        "name of establishment": "HANIL COLD STORAGE Co., LTD",
+        "address": "319, Wonyang-ro, Saha-gu, Busan, Republic\r\nOf Korea",
+        "products": "Fishery\r\nProduct"
+    },
+    {
+        "no": 57,
+        "reg number": "KID-113",
+        "name of establishment": "Seyang Co.,Ltd",
+        "address": "2133-17, Namhaean-daero, Wonsan-ri, Dosan-myeon, Tongyeong-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 58,
+        "reg number": "KID-130",
+        "name of establishment": "KOREA COLD STORES CO.,LTD. GAMCHEON PORT FACTORY",
+        "address": "214, Wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 59,
+        "reg number": "KID-133",
+        "name of establishment": "DEOK YEON SEAFOOD CO.,LTD.",
+        "address": "506, Yongho-ro, Gwangdo-myeon, Tongyeong-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 60,
+        "reg number": "KID-135",
+        "name of establishment": "Bu Young Surimi Coldstorage Co.,Ltd",
+        "address": "86 Jangnim-ro Saha-gu Busan Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 61,
+        "reg number": "KID-138",
+        "name of establishment": "NK FISHERY CO., LTD",
+        "address": "244, Wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 62,
+        "reg number": "0112003-6260004",
+        "name of establishment": "SUR ESTE 707",
+        "address": "-",
+        "products": "Fishing vessel (Distant water Trawler fisheries)"
+    },
+    {
+        "no": 63,
+        "reg number": "KID-158",
+        "name of establishment": "ARAWOOM. CO.,LTD",
+        "address": "506-16, Mangyang-ro Road, Yeosu-si, Jeollanam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 64,
+        "reg number": "KID-162",
+        "name of establishment": "KOREAN SEAFOODS CO.,LTD",
+        "address": "32, Gamcheonhang-ro 419beon-gil, Saha-gu, Busan, Republic Of",
+        "products": "Fishery product"
+    },
+    {
+        "no": 65,
+        "reg number": "KID-163",
+        "name of establishment": "CHEONGHAEINTL CO., LTD",
+        "address": "14, Yeonanbudu-ro 75beon-gil, Jung-gu, Incheon, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 66,
+        "reg number": "KID-017",
+        "name of establishment": "SAJO SEAFOOD CO.,LTD SECOND DISTRIBUTION CENTER",
+        "address": "79, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 67,
+        "reg number": "KID-022",
+        "name of establishment": "JEIL C.S. INDUSTRIES CO., LTD",
+        "address": "471 Amnamgongwon-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 68,
+        "reg number": "KID-027",
+        "name of establishment": "KOREA COLD STORES CO., LTD GAMCHUN SECOND  FACTORY",
+        "address": "363, Wonyang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 69,
+        "reg number": "KID-028",
+        "name of establishment": "JEONGIL GLOBAL CORPORATION",
+        "address": "243, Wonyang-ro, Seo-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 70,
+        "reg number": "KID-024",
+        "name of establishment": "DONGIL COLD STORAGE CO., LTD",
+        "address": "10, Dadae-ro 170beon-gil, Saha-gu, Busan-si, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 71,
+        "reg number": "KID-029",
+        "name of establishment": "HANNIL COLD STORAGE CO., LTD SECOND FACTORY",
+        "address": "314, Wonyang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 72,
+        "reg number": "KID-030",
+        "name of establishment": "DONG YEONG COLD PLAZA CO., LTD",
+        "address": "295, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 73,
+        "reg number": "KID-035",
+        "name of establishment": "DAEJOO CO., LTD",
+        "address": "435, Amnamgongwon-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 74,
+        "reg number": "KID-037",
+        "name of establishment": "YOORIM COLD STORAGE CO., LTD",
+        "address": "175,wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 75,
+        "reg number": "KID-038",
+        "name of establishment": "DONGNAM CO.,LTD",
+        "address": "171, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 76,
+        "reg number": "KID-042",
+        "name of establishment": "HONGLIM FISHERIES REFRIGERATION CO.LTD",
+        "address": "340, Wonyang-ro, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 77,
+        "reg number": "KID-043",
+        "name of establishment": "CHUNG YUN ICE TECH CO,LTD",
+        "address": "250,gamcheonhang-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 78,
+        "reg number": "KID-044",
+        "name of establishment": "BUSAN HAESARANG CO,LTD",
+        "address": "717, Eulsukdo-daero, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 79,
+        "reg number": "KID-045",
+        "name of establishment": "KOREA COLD STORES CO,LTD. YUNAN FACTORY",
+        "address": "197, Songdohaebyeon-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 80,
+        "reg number": "KID-105",
+        "name of establishment": "WANDOABALONE.CO.,LTD",
+        "address": "12, Nonggongdanji 6 Gil, Wando-eup, Wando-gun, Jeollanamdo, Republic Of Korea",
+        "products": "Fishery Product"
+    },
+    {
+        "no": 81,
+        "reg number": "KID-148",
+        "name of establishment": "NURI FISHERY UNION CORPORATION",
+        "address": "38, Nonggongdanji 4-gil, Wando-eup, Wando-gun, Jeollanam-do, Republic Of Korea",
+        "products": ""
+    },
+    {
+        "no": 82,
+        "reg number": "KID-117",
+        "name of establishment": "HAEDOMULSAN CO.,LTD",
+        "address": "47 Goheung-ro, Goheung-gun, Jeollanam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 83,
+        "reg number": "KID-118",
+        "name of establishment": "DONGWON F&B CO., LTD",
+        "address": "201, Nammyeon-ro, Seongsan-gu, Changwon-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 84,
+        "reg number": "KID-119",
+        "name of establishment": "ASIA COLD STORAGE CO., LTD SECOND FACTORY",
+        "address": "224, Wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 85,
+        "reg number": "KID-120",
+        "name of establishment": "Dongwon LOEX Cold Storage Co., Ltd.",
+        "address": "351, Sinhang 8-ro ,jinhae-gu, Changwon-si, Gyeongsangnam-do,republic Of  Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 86,
+        "reg number": "KID-126",
+        "name of establishment": "HAEDAMON",
+        "address": "1625-17, Sanyangilju-ro, Sanyang-eup, Tongyeong-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery Product"
+    },
+    {
+        "no": 87,
+        "reg number": "KID-128",
+        "name of establishment": "Osung Fisheries",
+        "address": "367, Pyeongsa-ro, Dolsan-eup, Yeosu-si, Jeollanam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 88,
+        "reg number": "KID-134",
+        "name of establishment": "Samjin Moolsan Co., Ltd.",
+        "address": "36, Sanjeing Industrial Park Road,  Mokpo-si Jeollanam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 89,
+        "reg number": "KID-136",
+        "name of establishment": "KWANG MYUNG SUSAN",
+        "address": "31, Bieungnam-ro, Gunsan-si, Jeollabuk-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 90,
+        "reg number": "KID-139",
+        "name of establishment": "BANCHAN DANJI CO.,LTD",
+        "address": "20, Geonji-ro, 95beon-gil, Seo-gu, Incheon, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 91,
+        "reg number": "KID-140",
+        "name of establishment": "YD KOREA",
+        "address": "187 Gangyeong-ro, Ganggu-myun, Yeongdeuk-gun, Gyungsangbuk-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 92,
+        "reg number": "KID-160",
+        "name of establishment": "Saerim Fishery. CO.,LTD",
+        "address": "1-6, Jangpyeong-ro 15beon-gil, Saha-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 93,
+        "reg number": "KID-142",
+        "name of establishment": "Jangsoo Corporation Busan Branch",
+        "address": "17, Dadae-ro 605beon-gil, Saha-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 94,
+        "reg number": "KID-144",
+        "name of establishment": "Shin-A Cold Storage Co.,Ltd",
+        "address": "(nambumin-dong)117, Deungdae-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 95,
+        "reg number": "KID-145",
+        "name of establishment": "Jaeho Products Co., Ltd.",
+        "address": "196, Jangnim-ro, Saha-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 96,
+        "reg number": "KID-146",
+        "name of establishment": "EUNHA MARINE Co.,Ltd",
+        "address": "36, Noksansandan 381-ro, Gangseo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 97,
+        "reg number": "1209001-6261107",
+        "name of establishment": "KOSTAR",
+        "address": "-",
+        "products": "Fishing vessel (BOTTOM LONGLINE FISHERIES)"
+    },
+    {
+        "no": 98,
+        "reg number": "0201008-6260000",
+        "name of establishment": "PRATIDINA NO.28",
+        "address": "-",
+        "products": "Fishing vessel (Distant water Trawler fisheries)"
+    },
+    {
+        "no": 99,
+        "reg number": "1205001-6261105",
+        "name of establishment": "SHILLA SPRINTER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 100,
+        "reg number": "KID-156",
+        "name of establishment": "DAEPYUNG SEA FOOD CO., LTD",
+        "address": "B-308, 1, Wonyang-ro, Seo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 101,
+        "reg number": "KID-164",
+        "name of establishment": "BOHEUNG SEAFOOD",
+        "address": "1ho 2f, 9, Dadae-ro 605beon-gil, Saha-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 102,
+        "reg number": "1808001-6261107",
+        "name of establishment": "SHILLA PIONEER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 103,
+        "reg number": "9512410-6260004",
+        "name of establishment": "SHILLA CHALLENGER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 104,
+        "reg number": "KID-143",
+        "name of establishment": "Samda Co.,Ltd.",
+        "address": "48, Guemneungnonggong-gil, Hallimeup, Jeju-si, Jeju-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 105,
+        "reg number": "1201001-6261103",
+        "name of establishment": "SHILLA HARVESTER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 106,
+        "reg number": "KID-053",
+        "name of establishment": "CHOUNG RYONG FISHRIES CO.,LTD",
+        "address": "7825, Iljudong-ro, Namwon-eup, Seogwipo-si, Jeju-do",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 107,
+        "reg number": "KID-055",
+        "name of establishment": "GATMAUL SUSAN",
+        "address": "1310, Haemajihaean-ro, Gujwa-eup, Jeju-si, Jeju-do",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 108,
+        "reg number": "KID-056",
+        "name of establishment": "SAMHYUP SUSAN",
+        "address": "415, Hwanhaejangseong-ro, Seongsan-eup, Seogwipo-si, Jeju-do",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 109,
+        "reg number": "KID-057",
+        "name of establishment": "SNB INTERNATIONAL CO.,LTD",
+        "address": "1346,  Hanjae-ro, Ganknam-myeon, Cheongdo-gun, Gyeongsangbuk-do, 714-822, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 110,
+        "reg number": "KID-059",
+        "name of establishment": "SHINHAN COLD STORAGES",
+        "address": "22, Jangpyeong-ro 76beon-gil, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 111,
+        "reg number": "KID-060",
+        "name of establishment": "SEI YOUNG FISHERY Co., LTD",
+        "address": "119, Wonyang-ro, Seo-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 112,
+        "reg number": "KID-150",
+        "name of establishment": "Off-Shore Trap Fisheries Cooperatives",
+        "address": "54-77, Dosanilju-ro, Dosan-myeon, Tongyeong-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": ""
+    },
+    {
+        "no": 113,
+        "reg number": "KID-090",
+        "name of establishment": "GEUM JEONG Seafood Co, Ltd\t",
+        "address": "265, Dusong-ro, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 114,
+        "reg number": "KID-064",
+        "name of establishment": "MOKYANG F1 CO.,LTD",
+        "address": "43-7, Jungbamteo2gil, Hupo-myun Uljin-gun,gyeongsangbuk-do",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 115,
+        "reg number": "KID-076",
+        "name of establishment": "TAEIL FOOD Co., Ltd",
+        "address": "#2129,dosanilju-ro, Dosan-myeon,tongyeong-si, Gyeongsangnam-do,korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 116,
+        "reg number": "KID-079",
+        "name of establishment": "DONG BANG CO.,LTD",
+        "address": "37, Gamcheonhang-ro 429beon-gil, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 117,
+        "reg number": "KID-091",
+        "name of establishment": "MS DISTRIPARK CO.,LTD",
+        "address": "63, Sinhang 7-ro, Jinhae-gu, Changwon-si, Gyeongsangnam-do,korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 118,
+        "reg number": "KID-095",
+        "name of establishment": "JAEHO FOODS CO.,LTD",
+        "address": "196, Janglim-ro, Saha-gu, Busan, Korea",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 119,
+        "reg number": "KID-070",
+        "name of establishment": "YANGPO FOODS CO.,LTD",
+        "address": "3296,  Donghaean-ro, Janggi-myeon, Nam-gu, Pohang-si, Gyeongsangbuk-do, 790-931,  Korea, Republic Of",
+        "products": "Canned Food"
+    },
+    {
+        "no": 120,
+        "reg number": "KID-072",
+        "name of establishment": "COLD STORAGE INTER-BURGO CO.,LTD",
+        "address": "359, Dadae-ro, Saha-gu, Busan",
+        "products": "Frozen Fish"
+    },
+    {
+        "no": 121,
+        "reg number": "KID-111",
+        "name of establishment": "Deailsusan Seafood",
+        "address": "638-10, Byeonsanhaebyeon-ro, Byeonsanmyeon,\r\nBuan-gun, Jeollabuk-do, Republic Of\r\nKorea\r\n\u0014",
+        "products": "Fishery\r\nproduct"
+    },
+    {
+        "no": 122,
+        "reg number": "1504001-6261101",
+        "name of establishment": "GREENSTAR",
+        "address": "-",
+        "products": "Fishing vessel (Fishing vessel)"
+    },
+    {
+        "no": 123,
+        "reg number": "KID-161",
+        "name of establishment": "HANARO TNS Busan Cold chain Center",
+        "address": "38-17, Noksansandan 232-ro, Gangseo-gu, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 124,
+        "reg number": "KID-123",
+        "name of establishment": "Woojin Co.,Ltd.",
+        "address": "2624-64, Gongnyong-ro, Samsan-myeon, Goseong-gun, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery Product"
+    },
+    {
+        "no": 125,
+        "reg number": "KID-129",
+        "name of establishment": "KOOKJAE DSF",
+        "address": "825-20, Samcheonpodaegyo-ro, Sacheon-si, Gyeongsangnam-do, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 126,
+        "reg number": "1808002-6261106",
+        "name of establishment": "SHILLA EXPLORER",
+        "address": "-",
+        "products": "Fishing Vessel (Distant Water Tuna Purse Seine Fisheries)"
+    },
+    {
+        "no": 127,
+        "reg number": "KID-137",
+        "name of establishment": "G.East Cold Storage Co.,LTD",
+        "address": "640, Gijanghaean-ro, Gijang-eup, Gigang-gun, Busan, Republic Of Korea",
+        "products": "Fishery product"
+    },
+    {
+        "no": 128,
+        "reg number": "KID-141",
+        "name of establishment": "Sumbisori Co., Ltd.",
+        "address": "48-22, Geumneungnonggong-gil, Hallim-eup, Jeju-si, Jeju-do, Republic Of Korea",
+        "products": "Fishery product"
+    }
+]
