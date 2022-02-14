@@ -1,0 +1,1304 @@
+[
+    {
+        "no": "1",
+        "nama kapal": "GRACE V, BULK & LIGHTER (LPG)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 1500 YOB: 1989"
+    },
+    {
+        "no": "2",
+        "nama kapal": "SOECHI PRESTASI, BULK & LIGHTER (PETROCHEMICAL)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 1544 YOB: 1992"
+    },
+    {
+        "no": "3",
+        "nama kapal": "IRIANI, BULK & LIGHTER (WO)",
+        "pemilik": "Hanlyn Jaya Mandiri",
+        "keterangan": "DWT: 1100 YOB: 1993"
+    },
+    {
+        "no": "4",
+        "nama kapal": "CELYN, BULK & LIGHTER (WO)",
+        "pemilik": "Hanlyn Jaya Mandiri",
+        "keterangan": "DWT: 1683 YOB: 1994"
+    },
+    {
+        "no": "5",
+        "nama kapal": "KINSHO, BULK & LIGHTER (WO)",
+        "pemilik": "Indo Shipping Operator",
+        "keterangan": "DWT: 1950 MT\u00a0 YOB: 1993"
+    },
+    {
+        "no": "6",
+        "nama kapal": "MT ANGELIA, BULK & LIGHTER (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 1932 YOB: 1992"
+    },
+    {
+        "no": "7",
+        "nama kapal": "MT MICHIKO, BULK & LIGHTER (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 2080 YOB: 2003"
+    },
+    {
+        "no": "8",
+        "nama kapal": "HIMIKO, BULK & LIGHTER (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 1999 YOB: 2000"
+    },
+    {
+        "no": "9",
+        "nama kapal": "TOWO ARYO, BULK & LIGHTER (WO)",
+        "pemilik": "Pelumin",
+        "keterangan": "DWT: 1550 YOB: 1996"
+    },
+    {
+        "no": "10",
+        "nama kapal": "ZALEHA, BULK & LIGHTER (WO)",
+        "pemilik": "Pelumin",
+        "keterangan": "DWT: 1622 YOB: 2017"
+    },
+    {
+        "no": "11",
+        "nama kapal": "PATRA TANKER I, BULK & LIGHTER (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 1500 YOB: 2009"
+    },
+    {
+        "no": "12",
+        "nama kapal": "SERENA, BULK & LIGHTER (WO)",
+        "pemilik": "Rezeki Energi Nautika",
+        "keterangan": "DWT: 2031 YOB: 1990"
+    },
+    {
+        "no": "13",
+        "nama kapal": "SAMUGARA 27, BULK & LIGHTER (WO)",
+        "pemilik": "Samudera Shipping Services",
+        "keterangan": "DWT: 1198 YOB: 1998"
+    },
+    {
+        "no": "14",
+        "nama kapal": "ANDRIANA XX, BULK & LIGHTER (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 2297 YOB: 1994"
+    },
+    {
+        "no": "15",
+        "nama kapal": "STEPHANIE - XVIII, BULK & LIGHTER (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 1585 YOB: 1995"
+    },
+    {
+        "no": "16",
+        "nama kapal": "ALMIRA XXII, BULK & LIGHTER (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 2254 YOB: 1993"
+    },
+    {
+        "no": "17",
+        "nama kapal": "MITRA KEMAKMURAN, BULK & LIGHTER (WO)",
+        "pemilik": "Sumber Rejeki Bahari Permai",
+        "keterangan": "DWT: 3002 YOB: 1993"
+    },
+    {
+        "no": "18",
+        "nama kapal": "TRIAKSA 15, BULK & LIGHTER (WO)",
+        "pemilik": "Tridarma Wahana",
+        "keterangan": "DWT: 1500 YOB: 1995"
+    },
+    {
+        "no": "19",
+        "nama kapal": "PETRO MARINE 2200, BULK & LIGHTER (WO)",
+        "pemilik": "Moda Global Maritime",
+        "keterangan": "DWT: 2051 YOB: 1995"
+    },
+    {
+        "no": "20",
+        "nama kapal": "Samugara 45, BULK & LIGHTER (WO)",
+        "pemilik": "PT Samugara Arta Jaya",
+        "keterangan": "DWT: 14145 YOB: 2000"
+    },
+    {
+        "no": "21",
+        "nama kapal": "GRIYA FLORES, BULK & LIGHTER (WO)",
+        "pemilik": "PT Pelayaran Korindo",
+        "keterangan": "DWT: 2076 YOB: 1994"
+    },
+    {
+        "no": "22",
+        "nama kapal": "GRIYA GAYO, GENERAL PURPOSE (AVTUR)",
+        "pemilik": "Humpuss",
+        "keterangan": "DWT: 18050 YOB: 2001"
+    },
+    {
+        "no": "23",
+        "nama kapal": "GRACE POSEIDON, GENERAL PURPOSE (AVTUR)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 12824 YOB: 2005"
+    },
+    {
+        "no": "24",
+        "nama kapal": "SINAR BUSAN, GENERAL PURPOSE (AVTUR)",
+        "pemilik": "Samudera Shipping Services",
+        "keterangan": "DWT: 11278 YOB: 2006"
+    },
+    {
+        "no": "25",
+        "nama kapal": "SINAR AGRA, GENERAL PURPOSE (AVTUR)",
+        "pemilik": "Samudera Shipping Services",
+        "keterangan": "DWT: 11244 YOB: 2006"
+    },
+    {
+        "no": "26",
+        "nama kapal": "LAYAR ARTHAWIBAWA EX ANDHIKA ADINUGRAHA, GENERAL PURPOSE (BO)",
+        "pemilik": "Bumi International Tankers",
+        "keterangan": "DWT: 17998 YOB: 1998"
+    },
+    {
+        "no": "27",
+        "nama kapal": "SUCCESS ALTAIR XLII, GENERAL PURPOSE (BO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 19996 YOB: 1999"
+    },
+    {
+        "no": "28",
+        "nama kapal": "MEDELIN MASTER EX BRUCE PARK, GENERAL PURPOSE (BO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 13940 YOB: 1992"
+    },
+    {
+        "no": "29",
+        "nama kapal": "MEDELIN EXPO, GENERAL PURPOSE (BO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 17712 YOB: 1993"
+    },
+    {
+        "no": "30",
+        "nama kapal": "MEDELIN WEST, GENERAL PURPOSE (BO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 15999 YOB: 1991"
+    },
+    {
+        "no": "31",
+        "nama kapal": "JOHN CHAINE 2, GENERAL PURPOSE (CO)",
+        "pemilik": "Atamimi Group Of Companies",
+        "keterangan": "DWT: 17988 YOB: 1998"
+    },
+    {
+        "no": "32",
+        "nama kapal": "ETERNAL OIL - I, GENERAL PURPOSE (CO)",
+        "pemilik": "Bumi Perkasa Bahtera Grup",
+        "keterangan": "DWT: 17989 YOB: 1998"
+    },
+    {
+        "no": "33",
+        "nama kapal": "ETERNAL OIL-II, GENERAL PURPOSE (CO)",
+        "pemilik": "Bumi Perkasa Bahtera Grup",
+        "keterangan": "DWT: 18219 YOB: 1998"
+    },
+    {
+        "no": "34",
+        "nama kapal": "KALIMANTAN PALM, GENERAL PURPOSE (CO)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 17006 YOB: 2008"
+    },
+    {
+        "no": "35",
+        "nama kapal": "SUCCESS MARLINA XXXIII, GENERAL PURPOSE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 16476 YOB: 2000"
+    },
+    {
+        "no": "36",
+        "nama kapal": "YELLOW PARK, GENERAL PURPOSE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 19937 YOB: 2003"
+    },
+    {
+        "no": "37",
+        "nama kapal": "VIJAYANTI, GENERAL PURPOSE (WO)",
+        "pemilik": "Arpeni Pratama Ocean Line",
+        "keterangan": "DWT: 16636 YOB: 2011"
+    },
+    {
+        "no": "38",
+        "nama kapal": "M.PATRICIA, GENERAL PURPOSE (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 17925 YOB: 1998"
+    },
+    {
+        "no": "39",
+        "nama kapal": "JOHN CAINE, GENERAL PURPOSE (WO)",
+        "pemilik": "Atamimi Group Of Companies",
+        "keterangan": "DWT: 18056 YOB: 1993"
+    },
+    {
+        "no": "40",
+        "nama kapal": "GANDAWATI I, GENERAL PURPOSE (WO)",
+        "pemilik": "Berlian Laju Tanker (BLT)",
+        "keterangan": "DWT: 16408 YOB: 1999"
+    },
+    {
+        "no": "41",
+        "nama kapal": "AE PIONER, GENERAL PURPOSE (WO)",
+        "pemilik": "Bumi Perkasa Bahtera Grup",
+        "keterangan": "DWT: 14217 YOB: 2009"
+    },
+    {
+        "no": "42",
+        "nama kapal": "SHARON, GENERAL PURPOSE (WO)",
+        "pemilik": "Gebari Medan Segara",
+        "keterangan": "DWT: 18294 YOB: 1998"
+    },
+    {
+        "no": "43",
+        "nama kapal": "GRIYA AMBON, GENERAL PURPOSE (WO)",
+        "pemilik": "Humpuss",
+        "keterangan": "DWT: 18144 YOB: 1999"
+    },
+    {
+        "no": "44",
+        "nama kapal": "GRIYA JAWA, GENERAL PURPOSE (WO)",
+        "pemilik": "Humpuss",
+        "keterangan": "DWT: 16583 YOB: 2000"
+    },
+    {
+        "no": "45",
+        "nama kapal": "GRIYA ENIM, GENERAL PURPOSE (WO)",
+        "pemilik": "Humpuss",
+        "keterangan": "DWT: 18010 YOB: 2000"
+    },
+    {
+        "no": "46",
+        "nama kapal": "KIRANA DWITYA, GENERAL PURPOSE (WO)",
+        "pemilik": "Kharisma Pranedya Shipping",
+        "keterangan": "DWT: 18773 YOB: 2004"
+    },
+    {
+        "no": "47",
+        "nama kapal": "ONTARI, GENERAL PURPOSE (WO)",
+        "pemilik": "Mahameru Kencana Abadi Group",
+        "keterangan": "DWT: 18773 YOB: 2004"
+    },
+    {
+        "no": "48",
+        "nama kapal": "MICHELLE XXV, GENERAL PURPOSE (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 13185 YOB: 2006"
+    },
+    {
+        "no": "49",
+        "nama kapal": "GRACE HARMONY, GENERAL PURPOSE (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 11706 YOB: 2009"
+    },
+    {
+        "no": "50",
+        "nama kapal": "SUMATERA PALM, GENERAL PURPOSE (WO)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 16720 YOB: 2008"
+    },
+    {
+        "no": "51",
+        "nama kapal": "SULAWESI PALM, GENERAL PURPOSE (WO)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 16677 YOB: 2008"
+    },
+    {
+        "no": "52",
+        "nama kapal": "BRO COMBO, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 16050 YOB: 2003"
+    },
+    {
+        "no": "53",
+        "nama kapal": "MAIDEN TARGET, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 15037 YOB: 1991"
+    },
+    {
+        "no": "54",
+        "nama kapal": "GREEN PARK, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 19940 YOB: 2003"
+    },
+    {
+        "no": "55",
+        "nama kapal": "PEARL ORCHID, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 19980 YOB: 2007"
+    },
+    {
+        "no": "56",
+        "nama kapal": "KEI, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 16899 YOB: 2011"
+    },
+    {
+        "no": "57",
+        "nama kapal": "NEW WINNER, GENERAL PURPOSE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 19161 YOB: 2000"
+    },
+    {
+        "no": "58",
+        "nama kapal": "BULL KALIMANTAN, LARGE RANGE (CO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 106548 YOB: 2002"
+    },
+    {
+        "no": "59",
+        "nama kapal": "OCEANIA, LARGE RANGE (CO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 106560 YOB: 2002"
+    },
+    {
+        "no": "60",
+        "nama kapal": "BULL DAMAI 1, LARGE RANGE (CO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 115000 YOB: 2004"
+    },
+    {
+        "no": "61",
+        "nama kapal": "ERAWAN 99, LARGE RANGE (CO)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 105715 YOB: 1999"
+    },
+    {
+        "no": "62",
+        "nama kapal": "MT Phoenix Alpha XXXV, LARGE RANGE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 104707 YOB: 2003"
+    },
+    {
+        "no": "63",
+        "nama kapal": "OCEAN LI, LARGE RANGE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 105051 YOB: 1999"
+    },
+    {
+        "no": "64",
+        "nama kapal": "SC CHAMPION XLV, LARGE RANGE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 109325 YOB: 2001"
+    },
+    {
+        "no": "65",
+        "nama kapal": "CSK VALIANT, LARGE RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 107200 YOB: 2003"
+    },
+    {
+        "no": "66",
+        "nama kapal": "DEFIANCE, LARGE RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 105538 YOB: 2002"
+    },
+    {
+        "no": "67",
+        "nama kapal": "ALPHA POINT, LARGE RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 106029 YOB: 2005"
+    },
+    {
+        "no": "68",
+        "nama kapal": "SEABORN PETRO, LARGE RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 106638 YOB: 2003"
+    },
+    {
+        "no": "69",
+        "nama kapal": "NECTAR, LARGE RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 105317 YOB: 2005"
+    },
+    {
+        "no": "70",
+        "nama kapal": "PETROLEUM 115, LARGE RANGE (CO)",
+        "pemilik": "Suasa Benua Sukses",
+        "keterangan": "DWT: 109280 YOB: 2000"
+    },
+    {
+        "no": "71",
+        "nama kapal": "NUSA MERDEKA, LARGE RANGE (CO)",
+        "pemilik": "PT Mahameru Nusa Mentari",
+        "keterangan": "DWT: 117709 YOB: 2003"
+    },
+    {
+        "no": "72",
+        "nama kapal": "SC WARRIOR L, LARGE RANGE (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 105426 YOB: 1997"
+    },
+    {
+        "no": "73",
+        "nama kapal": "MT.SAMBU, MEDIUM RANGE (AVTUR)",
+        "pemilik": "Pertamina International Shipping",
+        "keterangan": "DWT: 29775 YOB: 2011"
+    },
+    {
+        "no": "74",
+        "nama kapal": "MT.SEI GERONG, MEDIUM RANGE (AVTUR)",
+        "pemilik": "Pertamina International Shipping",
+        "keterangan": "DWT: 29775 YOB: 2011"
+    },
+    {
+        "no": "75",
+        "nama kapal": "MT.SEI PAKNING, MEDIUM RANGE (AVTUR)",
+        "pemilik": "Pertamina International Shipping",
+        "keterangan": "DWT: 29775 YOB: 2011"
+    },
+    {
+        "no": "76",
+        "nama kapal": "FORTUNE GLORY XLI, MEDIUM RANGE (BO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 33540 YOB: 1997"
+    },
+    {
+        "no": "77",
+        "nama kapal": "CHAMPION ONE, MEDIUM RANGE (BO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 36362 YOB: 1993"
+    },
+    {
+        "no": "78",
+        "nama kapal": "EXPLORINDO 1, MEDIUM RANGE (CO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 35751 YOB: 2001"
+    },
+    {
+        "no": "79",
+        "nama kapal": "GRIYA CIREBON, MEDIUM RANGE (CO)",
+        "pemilik": "Humpuss",
+        "keterangan": "DWT: 44995 YOB: 2003"
+    },
+    {
+        "no": "80",
+        "nama kapal": "MARLIN 88, MEDIUM RANGE (CO)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 46986 YOB: 1998"
+    },
+    {
+        "no": "81",
+        "nama kapal": "SUCCESS DALIA XLVIII, MEDIUM RANGE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 37419 YOB: 2001"
+    },
+    {
+        "no": "82",
+        "nama kapal": "ALIA XVII, MEDIUM RANGE (CO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 35669 YOB: 2003"
+    },
+    {
+        "no": "83",
+        "nama kapal": "UNION TRUST, MEDIUM RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 37383 YOB: 2004"
+    },
+    {
+        "no": "84",
+        "nama kapal": "ARTEMIS, MEDIUM RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 36997 YOB: 2004"
+    },
+    {
+        "no": "85",
+        "nama kapal": "GREEN PLUS, MEDIUM RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 37229 YOB: 2001"
+    },
+    {
+        "no": "86",
+        "nama kapal": "GREEN STARS, MEDIUM RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 36038 YOB: 2001"
+    },
+    {
+        "no": "87",
+        "nama kapal": "EMMANUEL, MEDIUM RANGE (CO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 37113 YOB: 2002"
+    },
+    {
+        "no": "88",
+        "nama kapal": "TENDER HARMONY, MEDIUM RANGE (CO)",
+        "pemilik": "PT Global Maritim Industri",
+        "keterangan": "DWT: 37217 YOB: 2004"
+    },
+    {
+        "no": "89",
+        "nama kapal": "NAVIGATOR ARIES, MEDIUM RANGE (LPG)",
+        "pemilik": "Mahameru Kencana Abadi Group",
+        "keterangan": "DWT: 23330 YOB: 2008"
+    },
+    {
+        "no": "90",
+        "nama kapal": "NAVIGATOR GLOBAL, MEDIUM RANGE (LPG)",
+        "pemilik": "Mahameru Kencana Abadi Group",
+        "keterangan": "DWT: 16687 YOB: 2011"
+    },
+    {
+        "no": "91",
+        "nama kapal": "LPG/C NAVIGATOR PLUTO, MEDIUM RANGE (LPG)",
+        "pemilik": "Mahameru Kencana Abadi Group",
+        "keterangan": "DWT: 23485 YOB: 2000"
+    },
+    {
+        "no": "92",
+        "nama kapal": "DECORA, MEDIUM RANGE (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 23276 YOB: 2011"
+    },
+    {
+        "no": "93",
+        "nama kapal": "MARINER EKS NAVIGATOR MARINER, MEDIUM RANGE (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 23273 YOB: 2000"
+    },
+    {
+        "no": "94",
+        "nama kapal": "APODA Exs KURZEME, MEDIUM RANGE (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 17294 YOB: 1997"
+    },
+    {
+        "no": "95",
+        "nama kapal": "RAGGIANA, MEDIUM RANGE (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 23479 YOB: 1997"
+    },
+    {
+        "no": "96",
+        "nama kapal": "MATHRAKI, MEDIUM RANGE (LPG)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 19621 YOB: 2003"
+    },
+    {
+        "no": "97",
+        "nama kapal": "RATU RUWAIDAH, MEDIUM RANGE (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 37025 YOB: 2005"
+    },
+    {
+        "no": "98",
+        "nama kapal": "OLYMPUS I, MEDIUM RANGE (WO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 34826 YOB: 2001"
+    },
+    {
+        "no": "99",
+        "nama kapal": "BULL FLORES, MEDIUM RANGE (WO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 37383 YOB: 2002"
+    },
+    {
+        "no": "100",
+        "nama kapal": "PETRO SAMUDRA, MEDIUM RANGE (WO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 37329,9 YOB: 2004"
+    },
+    {
+        "no": "101",
+        "nama kapal": "MAHAKAMAH I, MEDIUM RANGE (WO)",
+        "pemilik": "Pelita Bara Samudera",
+        "keterangan": "DWT: 31690 YOB: 2001"
+    },
+    {
+        "no": "102",
+        "nama kapal": "MT.FASTRON, MEDIUM RANGE (WO)",
+        "pemilik": "Pertamina International Shipping",
+        "keterangan": "DWT: 30770 YOB: 2005"
+    },
+    {
+        "no": "103",
+        "nama kapal": "SC EXPRESS LV, MEDIUM RANGE (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 37270 YOB: 2001"
+    },
+    {
+        "no": "104",
+        "nama kapal": "SC ESTEEM LII, MEDIUM RANGE (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 37320 YOB: 2003"
+    },
+    {
+        "no": "105",
+        "nama kapal": "SC EXPLORER LIII, MEDIUM RANGE (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 37321 YOB: 2003"
+    },
+    {
+        "no": "106",
+        "nama kapal": "SAAMIS ADVENTURER, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 30929 YOB: 1996"
+    },
+    {
+        "no": "107",
+        "nama kapal": "AMBERMAR, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 31491 YOB: 2002"
+    },
+    {
+        "no": "108",
+        "nama kapal": "MADONNA SUN, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 30561 YOB: 1999"
+    },
+    {
+        "no": "109",
+        "nama kapal": "SHIP TRINITY, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 35834 YOB: 2000"
+    },
+    {
+        "no": "110",
+        "nama kapal": "HIPPO, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 45992 YOB: 1997"
+    },
+    {
+        "no": "111",
+        "nama kapal": "RHONE, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 35769 YOB: 2000"
+    },
+    {
+        "no": "112",
+        "nama kapal": "AIKATERINI, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 35769 YOB: 2001"
+    },
+    {
+        "no": "113",
+        "nama kapal": "GLOBAL TOP, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 41109 YOB: 1995"
+    },
+    {
+        "no": "114",
+        "nama kapal": "OVERSEAS PETROMAR, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 35769 YOB: 2001"
+    },
+    {
+        "no": "115",
+        "nama kapal": "LOMBA MAS, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 35841 YOB: 2000"
+    },
+    {
+        "no": "116",
+        "nama kapal": "TANKER VICTORY, MEDIUM RANGE (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 40485 YOB: 1997"
+    },
+    {
+        "no": "117",
+        "nama kapal": "TB.PERMATA POWER 1/OB PERMATA SUCCESS 5003, SATGAS (CO)",
+        "pemilik": "Permata Lautan Mandiri",
+        "keterangan": "DWT: 0 YOB: 2014"
+    },
+    {
+        "no": "118",
+        "nama kapal": "TB ELANG NUSANTARA/ OB BB SAS 9, SATGAS (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 0 YOB: 2016/2007"
+    },
+    {
+        "no": "119",
+        "nama kapal": "TB. RAJAWALI NUSANTARA / OB RATU JUWITA, SATGAS (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 0 YOB: 2016/2011"
+    },
+    {
+        "no": "120",
+        "nama kapal": "TB. NURI NUSANTARA / OB. RATU INTAN, SATGAS (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 0 YOB: 2017/2016"
+    },
+    {
+        "no": "121",
+        "nama kapal": "TB.SEA MASTER/OB PATIH GAJAH MADA, SATGAS (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 0 YOB: 2010/2010"
+    },
+    {
+        "no": "122",
+        "nama kapal": "TB ALBATROSS 2/OB FLAMINGO 8, SATGAS (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 0 YOB: 2014/2007"
+    },
+    {
+        "no": "123",
+        "nama kapal": "TB. ALBATROSS 5/OB. FLAMINGGO 9, SATGAS (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 0 YOB: 2014"
+    },
+    {
+        "no": "124",
+        "nama kapal": "TB PANCARAN III 815/OB PMT III 815, SATGAS (WO)",
+        "pemilik": "Pancaran Maritim Transportindo",
+        "keterangan": "DWT: 0 YOB: 2017"
+    },
+    {
+        "no": "125",
+        "nama kapal": "TB OCEAN POWER 02 / OB ANDALAN 02, SATGAS (WO)",
+        "pemilik": "Pancaran Maritim Transportindo",
+        "keterangan": "DWT: 0 YOB: 2013"
+    },
+    {
+        "no": "126",
+        "nama kapal": "TB.PATRA 1204/OB PATRA 2304, SATGAS (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 0 YOB: 2011/2011"
+    },
+    {
+        "no": "127",
+        "nama kapal": "TB.BINTANG MAULANA 08/OB TRANSKO RANAU, SATGAS (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 0 YOB: 2011/2016"
+    },
+    {
+        "no": "128",
+        "nama kapal": "TB.OSCO IX/OB.OSCO PETRO V, SATGAS (WO)",
+        "pemilik": "PT. Osco Utama",
+        "keterangan": "DWT: 0 YOB: 1996"
+    },
+    {
+        "no": "129",
+        "nama kapal": "TB.GOLDEN HAND/OB.SANCHUAN NO.1, SATGAS (WO)",
+        "pemilik": "Rezeki Energi Nautika",
+        "keterangan": "DWT: 0 YOB: 2004/2005"
+    },
+    {
+        "no": "130",
+        "nama kapal": "TB MARTHA IV/OB SENTANA IV, SATGAS (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 0 YOB: 2012/2011"
+    },
+    {
+        "no": "131",
+        "nama kapal": "TB.MEDELIN ULTRA/OB.SENTANA AGRO, SATGAS (WO)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 0 YOB: 2012/2011"
+    },
+    {
+        "no": "132",
+        "nama kapal": "TB OCEAN KILO/ OB SWR 1801, SATGAS (WO)",
+        "pemilik": "Jalur Anugerah Indonesia",
+        "keterangan": "DWT: 0 YOB: 1998/2015"
+    },
+    {
+        "no": "133",
+        "nama kapal": "TB RP 96/ OB UDJU BESAR, SATGAS (WO)",
+        "pemilik": "PT Pelayaran Baharimas Kalimantan",
+        "keterangan": "DWT: 0 YOB: 2000/2003"
+    },
+    {
+        "no": "134",
+        "nama kapal": "MARGARETHA I, SMALL - 1 (ASPHALT)",
+        "pemilik": "Aspindo Bahari Luas",
+        "keterangan": "DWT: 1305 YOB: 1995"
+    },
+    {
+        "no": "135",
+        "nama kapal": "TRANSKO BIMA, SMALL - 1 (ASPHALT)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 4923 YOB: 2008"
+    },
+    {
+        "no": "136",
+        "nama kapal": "DEWAYANI, SMALL - 1 (AVTUR)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 3560 YOB: 1999"
+    },
+    {
+        "no": "137",
+        "nama kapal": "MPMT XI, SMALL - 1 (AVTUR)",
+        "pemilik": "Maritim Prima Mandiri",
+        "keterangan": "DWT: 4999 YOB: 2017"
+    },
+    {
+        "no": "138",
+        "nama kapal": "MPMT XII, SMALL - 1 (AVTUR)",
+        "pemilik": "Maritim Prima Mandiri",
+        "keterangan": "DWT: 4999 YOB: 2019"
+    },
+    {
+        "no": "139",
+        "nama kapal": "SRIKANDI, SMALL - 1 (AVTUR)",
+        "pemilik": "Parnaraya Nusantara",
+        "keterangan": "DWT: 3582 YOB: 1997"
+    },
+    {
+        "no": "140",
+        "nama kapal": "FORTUNE SPIRIT, SMALL - 1 (AVTUR)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 3636 YOB: 2018"
+    },
+    {
+        "no": "141",
+        "nama kapal": "GAS INDONESIA, SMALL - 1 (LPG)",
+        "pemilik": "Berlian Laju Tanker (BLT)",
+        "keterangan": "DWT: 3607 YOB: 1990"
+    },
+    {
+        "no": "142",
+        "nama kapal": "AE GAS, SMALL - 1 (LPG)",
+        "pemilik": "Bumi Perkasa Bahtera Grup",
+        "keterangan": "DWT: 2601 YOB: 1995"
+    },
+    {
+        "no": "143",
+        "nama kapal": "ASIAN GAS II, SMALL - 1 (LPG)",
+        "pemilik": "Bumi Perkasa Bahtera Grup",
+        "keterangan": "DWT: 2609 YOB: 1995"
+    },
+    {
+        "no": "144",
+        "nama kapal": "LPG/C ELEANOR I, SMALL - 1 (LPG)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 4316 YOB: 1990"
+    },
+    {
+        "no": "145",
+        "nama kapal": "GAS PATRA 2 Ex GAS CZAR, SMALL - 1 (LPG)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3034 YOB: 1995"
+    },
+    {
+        "no": "146",
+        "nama kapal": "GAS PATRA 3, SMALL - 1 (LPG)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3034 YOB: 1995"
+    },
+    {
+        "no": "147",
+        "nama kapal": "GAS PATRA EX LADY BARBARA, SMALL - 1 (LPG)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3953 YOB: 1990"
+    },
+    {
+        "no": "148",
+        "nama kapal": "GAS SOECHI XXVIII, SMALL - 1 (LPG)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 4199 YOB: 1995"
+    },
+    {
+        "no": "149",
+        "nama kapal": "SC DISCOVERY XLVI, SMALL - 1 (LPG)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 3499 YOB: 1996"
+    },
+    {
+        "no": "150",
+        "nama kapal": "GAS LAURA, SMALL - 1 (LPG)",
+        "pemilik": "Waruna Group",
+        "keterangan": "DWT: 4313 YOB: 2001"
+    },
+    {
+        "no": "151",
+        "nama kapal": "JABBAR ENERGY, SMALL - 1 (LPG)",
+        "pemilik": "Jalur Anugerah Indonesia",
+        "keterangan": "DWT: 3847 YOB: 2000"
+    },
+    {
+        "no": "152",
+        "nama kapal": "GAS SUASA Ex. GAS ENCHANTED, SMALL - 1 (LPG)",
+        "pemilik": "Suasa Benua Sukses",
+        "keterangan": "DWT: 0 YOB: 2006"
+    },
+    {
+        "no": "153",
+        "nama kapal": "ANGGRAINI EXCELLENT Ex DASA SAMUDERA, SMALL - 1 (WO)",
+        "pemilik": "Adovelin Raharja",
+        "keterangan": "DWT: 3565 YOB: 1997"
+    },
+    {
+        "no": "154",
+        "nama kapal": "BANGUN REJO EX PETRO MARINE I, SMALL - 1 (WO)",
+        "pemilik": "Ardila Segara Intan Lines",
+        "keterangan": "DWT: 3668 YOB: 2004"
+    },
+    {
+        "no": "155",
+        "nama kapal": "LAMIWURI 01, SMALL - 1 (WO)",
+        "pemilik": "Ardila Segara Intan Lines",
+        "keterangan": "DWT: 3783 YOB: 2006"
+    },
+    {
+        "no": "156",
+        "nama kapal": "ELISABET SATU, SMALL - 1 (WO)",
+        "pemilik": "Arta Samudera Line",
+        "keterangan": "DWT: 3500 YOB: 2017"
+    },
+    {
+        "no": "157",
+        "nama kapal": "SAMUDERA BIRU 168, SMALL - 1 (WO)",
+        "pemilik": "Bahtera Arung Samudera",
+        "keterangan": "DWT: 3390 YOB: 1996"
+    },
+    {
+        "no": "158",
+        "nama kapal": "DEWI SRI, SMALL - 1 (WO)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 3560 YOB: 1999"
+    },
+    {
+        "no": "159",
+        "nama kapal": "NOER POPPY, SMALL - 1 (WO)",
+        "pemilik": "Hanlyn Jaya Mandiri",
+        "keterangan": "DWT: 3300 YOB: 2001"
+    },
+    {
+        "no": "160",
+        "nama kapal": "KAPUAS MARINE EX AS MARINE TIGA, SMALL - 1 (WO)",
+        "pemilik": "Kapuas Armada Nusantara",
+        "keterangan": "DWT: 3500 YOB: 2013"
+    },
+    {
+        "no": "161",
+        "nama kapal": "MT.JASMINE, SMALL - 1 (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 3203 YOB: 1993"
+    },
+    {
+        "no": "162",
+        "nama kapal": "MARGARET XI, SMALL - 1 (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 5483 YOB: 1990"
+    },
+    {
+        "no": "163",
+        "nama kapal": "MPMTXV, SMALL - 1 (WO)",
+        "pemilik": "Maritim Prima Mandiri",
+        "keterangan": "DWT: 4999 YOB: 2019"
+    },
+    {
+        "no": "164",
+        "nama kapal": "FALCON 18, SMALL - 1 (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 2990 YOB: 1994"
+    },
+    {
+        "no": "165",
+        "nama kapal": "TRANSKO ARAFURA, SMALL - 1 (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 0 YOB: 2017"
+    },
+    {
+        "no": "166",
+        "nama kapal": "PATRA TANKER 2 Ex CAMAR MAS, SMALL - 1 (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3502 YOB: 1998"
+    },
+    {
+        "no": "167",
+        "nama kapal": "PATRA TANKER 3 Ex CAMAR SAKTI, SMALL - 1 (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3502 YOB: 1998"
+    },
+    {
+        "no": "168",
+        "nama kapal": "SUKSES GLOBAL, SMALL - 1 (WO)",
+        "pemilik": "Rezeki Energi Nautika",
+        "keterangan": "DWT: 3794 YOB: 2006"
+    },
+    {
+        "no": "169",
+        "nama kapal": "MAHOGANI BANDA, SMALL - 1 (WO)",
+        "pemilik": "Segara Laju Perkasa",
+        "keterangan": "DWT: 4164 YOB: 2017"
+    },
+    {
+        "no": "170",
+        "nama kapal": "GEGER LINTANG, SMALL - 1 (WO)",
+        "pemilik": "Segara Laju Perkasa",
+        "keterangan": "DWT: 4163,9 YOB: 2016"
+    },
+    {
+        "no": "171",
+        "nama kapal": "ANGELIA XVI, SMALL - 1 (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 3545 YOB: 1995"
+    },
+    {
+        "no": "172",
+        "nama kapal": "PRIBUMI, SMALL - 1 (WO)",
+        "pemilik": "Tridarma Wahana",
+        "keterangan": "DWT: 3726 YOB: 1995"
+    },
+    {
+        "no": "173",
+        "nama kapal": "TRIAKSA 17, SMALL - 1 (WO)",
+        "pemilik": "Tridarma Wahana",
+        "keterangan": "DWT: 0 YOB: 2017"
+    },
+    {
+        "no": "174",
+        "nama kapal": "OLYVIA, SMALL - 2 (AVTUR)",
+        "pemilik": "Sumber Kencana Patria",
+        "keterangan": "DWT: 7224 YOB: 2009"
+    },
+    {
+        "no": "175",
+        "nama kapal": "Andhika Vidyanata, SMALL - 2 (AVTUR)",
+        "pemilik": "Adnyana",
+        "keterangan": "DWT: 6698 YOB: 2018"
+    },
+    {
+        "no": "176",
+        "nama kapal": "BAHARI MAJU I, SMALL - 2 (AVTUR)",
+        "pemilik": "PT Pelayaran Bahari Maju",
+        "keterangan": "DWT: 5306 YOB: 2014"
+    },
+    {
+        "no": "177",
+        "nama kapal": "TRANSKO TAURUS, SMALL - 2 (BO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 6299 YOB: 2009"
+    },
+    {
+        "no": "178",
+        "nama kapal": "GAS ARTEMIS, SMALL - 2 (LPG)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 4999 YOB: 1995"
+    },
+    {
+        "no": "179",
+        "nama kapal": "GAS NURI ARIZONA, SMALL - 2 (LPG)",
+        "pemilik": "Samudera Shiping Services",
+        "keterangan": "DWT: 5590 YOB: 1995"
+    },
+    {
+        "no": "180",
+        "nama kapal": "SULTAN ZULKARNAEN, SMALL - 2 (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 6074 YOB: 2017"
+    },
+    {
+        "no": "181",
+        "nama kapal": "BUMI INDONESIA, SMALL - 2 (WO)",
+        "pemilik": "Bumi International Tankers",
+        "keterangan": "DWT: 6935 YOB: 1998"
+    },
+    {
+        "no": "182",
+        "nama kapal": "JAYNE - I, SMALL - 2 (WO)",
+        "pemilik": "Bumi International Tankers",
+        "keterangan": "DWT: 6935 YOB: 1999"
+    },
+    {
+        "no": "183",
+        "nama kapal": "MT MICHIKO XXVII, SMALL - 2 (WO)",
+        "pemilik": "Bahari Nusantara",
+        "keterangan": "DWT: 4925 YOB: 1996"
+    },
+    {
+        "no": "184",
+        "nama kapal": "ARCADIA, SMALL - 2 (WO)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 7450 YOB: 1997"
+    },
+    {
+        "no": "185",
+        "nama kapal": "ATHENA, SMALL - 2 (WO)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 4896 YOB: 1995"
+    },
+    {
+        "no": "186",
+        "nama kapal": "MARLIN 8, SMALL - 2 (WO)",
+        "pemilik": "Arcadia Shipping",
+        "keterangan": "DWT: 6602 YOB: 1998"
+    },
+    {
+        "no": "187",
+        "nama kapal": "TRANSKO YUDHISTIRA, SMALL - 2 (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 6500 YOB: 2019"
+    },
+    {
+        "no": "188",
+        "nama kapal": "TRANSKO ANTASENA, SMALL - 2 (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 6500 YOB: 2019"
+    },
+    {
+        "no": "189",
+        "nama kapal": "BRILLIANT 8899, SMALL - 2 (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 6715 YOB: 1995"
+    },
+    {
+        "no": "190",
+        "nama kapal": "ALICE XXV, SMALL - 2 (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 4814 YOB: 1993"
+    },
+    {
+        "no": "191",
+        "nama kapal": "FORTUNE PACIFIC XLIX, SMALL - 2 (WO)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 6428 YOB: 2008"
+    },
+    {
+        "no": "192",
+        "nama kapal": "NONI T, SMALL - 2 (WO)",
+        "pemilik": "Sumber Kencana Patria",
+        "keterangan": "DWT: 7240 YOB: 2008"
+    },
+    {
+        "no": "193",
+        "nama kapal": "AS MARINE LIMA, SMALL - 2 (WO)",
+        "pemilik": "Moda Global Maritime",
+        "keterangan": "DWT: 4995 YOB: 2018"
+    },
+    {
+        "no": "194",
+        "nama kapal": "RATU YAMANI, SPOB (BO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 5000 YOB: 2014"
+    },
+    {
+        "no": "195",
+        "nama kapal": "SPOB JEANITA, SPOB (WO)",
+        "pemilik": "Agniputra Jayakusuma",
+        "keterangan": "DWT: 4194 YOB: 2012"
+    },
+    {
+        "no": "196",
+        "nama kapal": "SPOB JELITA NADIA, SPOB (WO)",
+        "pemilik": "Agniputra Jayakusuma",
+        "keterangan": "DWT: 4190 YOB: 2012"
+    },
+    {
+        "no": "197",
+        "nama kapal": "SPOB WIJAYA KUSUMA 3, SPOB (WO)",
+        "pemilik": "Agniputra Jayakusuma",
+        "keterangan": "DWT: 3500 YOB: 2010"
+    },
+    {
+        "no": "198",
+        "nama kapal": "SPOB WIJAYA KUSUMA 2, SPOB (WO)",
+        "pemilik": "Agniputra Jayakusuma",
+        "keterangan": "DWT: 3350 YOB: 2011"
+    },
+    {
+        "no": "199",
+        "nama kapal": "SPOB MELISSA 1, SPOB (WO)",
+        "pemilik": "Agniputra Jayakusuma",
+        "keterangan": "DWT: 3000 YOB: 2008"
+    },
+    {
+        "no": "200",
+        "nama kapal": "SEA ROYAL 18, SPOB (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 6600 YOB: 2015"
+    },
+    {
+        "no": "201",
+        "nama kapal": "SPOB ANINDHITA 81, SPOB (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 5000 YOB: 2013"
+    },
+    {
+        "no": "202",
+        "nama kapal": "SPOB KAISAR, SPOB (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 3500 YOB: 2013"
+    },
+    {
+        "no": "203",
+        "nama kapal": "SPOB KERTANEGARA, SPOB (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 3500 YOB: 2015"
+    },
+    {
+        "no": "204",
+        "nama kapal": "SPOB SEA ROYAL 27, SPOB (WO)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 6600 YOB: 2016"
+    },
+    {
+        "no": "205",
+        "nama kapal": "SPOB CITRA S 4001, SPOB (WO)",
+        "pemilik": "Citra Maritime",
+        "keterangan": "DWT: 4216 YOB: 2016"
+    },
+    {
+        "no": "206",
+        "nama kapal": "SPOB SEAGULL 351, SPOB (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 2820 YOB: 2015"
+    },
+    {
+        "no": "207",
+        "nama kapal": "SPOB SEAGULL 201, SPOB (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 2100 YOB: 2015"
+    },
+    {
+        "no": "208",
+        "nama kapal": "SPOB SEAGULL 202, SPOB (WO)",
+        "pemilik": "Odyssey Shipping Lines",
+        "keterangan": "DWT: 2100 YOB: 2015"
+    },
+    {
+        "no": "209",
+        "nama kapal": "SPOB KAPUAS, SPOB (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3540 YOB: 2012"
+    },
+    {
+        "no": "210",
+        "nama kapal": "SPOB MUSI, SPOB (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3540 YOB: 2012"
+    },
+    {
+        "no": "211",
+        "nama kapal": "SPOB MAHAKAM, SPOB (WO)",
+        "pemilik": "Pertamina Trans Kontinental",
+        "keterangan": "DWT: 3540 YOB: 2012"
+    },
+    {
+        "no": "212",
+        "nama kapal": "SPOB BERKAT ANUGERAH 05, SPOB (WO)",
+        "pemilik": "Sumber Rejeki Bahari Permai",
+        "keterangan": "DWT: 3000 YOB: 2014"
+    },
+    {
+        "no": "213",
+        "nama kapal": "SPOB BORNEO PERKASA, SPOB (WO/AVTUR)",
+        "pemilik": "Armada Samudra Global",
+        "keterangan": "DWT: 3973 YOB: 2008"
+    },
+    {
+        "no": "214",
+        "nama kapal": "GAS KOMODO, VLGC (LPG)",
+        "pemilik": "Buana Lintas Lautan (BULL)",
+        "keterangan": "DWT: 56875 YOB: 1991"
+    },
+    {
+        "no": "215",
+        "nama kapal": "LPG/C BW CLIPPER, VLGC (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 56864 YOB: 1992"
+    },
+    {
+        "no": "216",
+        "nama kapal": "RUBRA EX BW DENISE, VLGC (LPG)",
+        "pemilik": "Nusantara Bright Internasional Grup",
+        "keterangan": "DWT: 52799 YOB: 2001"
+    },
+    {
+        "no": "217",
+        "nama kapal": "SC COMMANDER LVII, VLGC (LPG)",
+        "pemilik": "Soechi Group",
+        "keterangan": "DWT: 49723 YOB: 1999"
+    }
+]
