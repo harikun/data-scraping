@@ -1,7 +1,8 @@
 import json; import time; import requests; import pandas as pd; from bs4 import BeautifulSoup
 start_time = time.time()
 url = 'https://a-z-animals.com/animals/'
-res = requests.get(url)
+url_pets = 'https://a-z-animals.com/pets/'
+res = requests.get(url_pets)
 soup = BeautifulSoup(res.content, 'html.parser')
 no = 0; animal_list = []
 list_item = soup.find_all('li', {'class': 'list-item'})
