@@ -1,7 +1,7 @@
 import json; import requests; import pandas as pd; from bs4 import BeautifulSoup; import urllib3; import time
 start_time = time.time()
 url_varieatas = 'https://www.litbang.pertanian.go.id/varietas/'
-p = 1; daftar_varietas = []
+p = 1; no = 1; daftar_varietas = []
 params = { 'p': p }
 requests.packages.urllib3.disable_warnings()
 requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS += ':HIGH:!DH:!aNULL'
@@ -12,14 +12,6 @@ except AttributeError:
     pass
 
 while p < 107:
-    params = { 'p': p }
-    requests.packages.urllib3.disable_warnings()
-    requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS += ':HIGH:!DH:!aNULL'
-    try:
-        requests.packages.urllib3.contrib.pyopenssl.util.ssl_.DEFAULT_CIPHERS += ':HIGH:!DH:!aNULL'
-    except AttributeError:
-        # no pyopenssl support used / needed / available
-        pass
     res = requests.get(url_varieatas, params=params, verify=False)
     soup = BeautifulSoup(res.text, 'html.parser')
     containter = soup.find('div', {'class': 'col-lg-9 mt-4'})
