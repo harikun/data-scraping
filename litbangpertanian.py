@@ -24,20 +24,6 @@ while p < 107:
         komoditas = td.find('td').find_next_sibling('td').find_next_sibling('td').text
 
         varietas_detail = url_varieatas + td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find('a')['href']
-        requests.packages.urllib3.disable_warnings()
-        requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS += ':HIGH:!DH:!aNULL'
-        try:
-            requests.packages.urllib3.contrib.pyopenssl.util.ssl_.DEFAULT_CIPHERS += ':HIGH:!DH:!aNULL'
-        except AttributeError:
-            # no pyopenssl support used / needed / available
-            pass
-        varietas_detail_res = requests.get(varietas_detail, verify=False)
-        varietas_detail_soup = BeautifulSoup(varietas_detail_res.text, 'html.parser')
-        varietas_detail_containter = varietas_detail_soup.find('div', {'class': 'col-lg-9 mt-4'})
-        varietas_detail_table = varietas_detail_containter.find('table', {'class':'table table-sm detail'})
-        varietas_detail_tbody = varietas_detail_table.find('tbody').text
-
-
         nama_varietas = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find('a').text
         tahun = int(td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text)
         daftar_varietas.append({
