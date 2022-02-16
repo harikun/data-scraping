@@ -42,13 +42,8 @@ while p < 107:
         varietas_detail_res = requests.get(varietas_detail, verify=False)
         varietas_detail_soup = BeautifulSoup(varietas_detail_res.text, 'html.parser')
         varietas_detail_containter = varietas_detail_soup.find('div', {'class': 'col-lg-9 mt-4'})
-        varietas_detail_table = varietas_detail_containter.find('table', {'class':'table table-striped'})
-        varietas_detail_tbody = varietas_detail_table.find('tbody')
-        varietas_detail_tr = varietas_detail_tbody.find_all('tr')
-        sk_mentan = varietas_detail_tr[2].find('td').text
-        keterangan = varietas_detail_tr[3].find('td').text
-        status = varietas_detail_tr[4].find('td').text
-        kontak = varietas_detail_tr[5].find('td').text
+        varietas_detail_table = varietas_detail_containter.find('table', {'class':'table table-sm detail'})
+        varietas_detail_tbody = varietas_detail_table.find('tbody').text
 
 
         nama_varietas = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find('a').text
@@ -58,12 +53,7 @@ while p < 107:
             'nama varietas': nama_varietas,
             'komoditas': komoditas,
             'kelompok': kelompok,
-            'varietas detail': {
-                'keterangan': keterangan,
-                'status': status,
-                'sk mentan': sk_mentan,
-                'kontak': kontak
-            },
+            'varietas detail': varietas_detail,
             'tahun': tahun
         })
     p += 1
