@@ -18,13 +18,12 @@ def get_flowers():
 
 daftar_bibit_benih_tanaman = []
 def get_bibit_benih_tanaman():
-    page = 1
+    page = 1; no = 0
     url = 'https://bibitonline.com/kategori/benih-bibit-tanaman/page/'
     while page <= 86:
         res = requests.get(url + str(page))
         soup = BeautifulSoup(res.text, 'html.parser')
         box_text_products = soup.find_all('div', class_='box-text box-text-products')
-        no = 0
         for i in box_text_products:
             no += 1
             product_link = i.find('p', class_='product-title').find('a')['href']
