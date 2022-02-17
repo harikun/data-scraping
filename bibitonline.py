@@ -4,10 +4,10 @@ url = 'https://bibitonline.com/artikel/kumpulan-nama-bunga-lengkap-dari-a-z-bese
 res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
 figcaption = soup.find_all('figcaption')
-daftar_bunga = []; no = 1
+daftar_bunga = []; no = 0
 for i in figcaption:
-    daftar_bunga.append({ 'no': no, 'nama bunga': i.text })
     no += 1
+    daftar_bunga.append({ 'no': no, 'nama bunga': i.text })
 df = pd.DataFrame(daftar_bunga)
 df.to_csv(f'data_csv/bunga_{no}.csv', index=False)
 df.to_excel(f'data_excel/bunga_{no}.xlsx', index=False)
