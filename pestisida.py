@@ -3,7 +3,7 @@ start_time = time.time()
 
 def get_formula(s_kategori, max_page):
     url_rekap_formula = 'https://pestisida.id/simpes_app/rekap_formula_nama.php?'
-    page = 0
+    page = 1
     pestisida_list = []
     while page < max_page:
         params = {
