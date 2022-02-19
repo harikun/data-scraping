@@ -15,7 +15,7 @@ def get_formula(s_kategori, max_page):
         tr = soup.find_all('tr', class_='Row')
         for td in tr:
             no = td.find('td', {'style' : 'TEXT-ALIGN: right'}).text
-            merek_dagang = td.find('td').find_next_sibling('td').contents[0].text.replace('(Teknis)', '').replace('(teknis)', '').strip()
+            merek_dagang = td.find('td').find_next_sibling('td').contents[0].text.replace('(Ekspor)', '').replace('(ekspor)', '').strip()
             bahan_aktif = td.find('td').find_next_sibling('td').contents[3].text.strip()
             deskripsi_singkat = td.find('td').find_next_sibling('td').contents[6].text.strip()
             cara_pemakaian = td.find('td').find_next_sibling('td').find_next_sibling('td').text.strip()
@@ -36,6 +36,6 @@ def get_formula(s_kategori, max_page):
     df.to_csv(f'data_csv/pestisida_{s_kategori}_{no}.csv', index=False)
     df.to_excel(f'data_excel/pestisida_{s_kategori}_{no}.xlsx', index=False)
     df.to_json(f'data_json/pestisida_{s_kategori}_{no}.json', orient='records')
-#s_kategori yang tersedia ['umum', 'teknis']
-get_formula('teknis', 2)
+#s_kategori yang tersedia ['umum', 'teknis', 'ekspor']
+get_formula('ekspor', 2)
 print("--- %s seconds ---" % (time.time() - start_time))
