@@ -1,17 +1,17 @@
-import json
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
-
+import requests; import pandas as pd; from bs4 import BeautifulSoup; import time
+start_time = time.time()
 page = 1
-# total page 678
+# total page 678 / ekporti 218
 kemenperin_data = []
-while page < 679:
+while page < 219:
  url = 'https://kemenperin.go.id/direktori-perusahaan?'
+ url_eksportir = 'https://www.kemenperin.go.id/direktori-eksportir?'
  params = {
   "hal": page,
+  "what": 'a',
+  "prov": 0,
  }
- res = requests.get(url, params=params)
+ res = requests.get(url_eksportir, params=params)
  soup = BeautifulSoup(res.text, 'html.parser')
  content = soup.find('tbody')
  all_content = content.find_all('tr')
@@ -22,7 +22,9 @@ while page < 679:
    company_name = item.find('td').find_next_sibling('td').find('b').text
    address = item.find('td').find_next_sibling('td').contents[2].strip()
    telp = item.find('td').find_next_sibling('td').contents[4].replace('Telp. ', '').strip()
+   web = item.find('td').find_next_sibling('td').find('a')['href']
    komoditi = item.find('td').find_next_sibling('td').find_next_sibling('td').text
+   bidang_usaha = item.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
   except:
    no = '-'
    company_name = '-'
@@ -35,19 +37,17 @@ while page < 679:
    'Nama Perusahaan':company_name,
    'Alamat':address,
    'Telepon':telp,
-   'Komoditi':komoditi
+   'website':web,
+   'Komoditi':komoditi,
+   'Bidang Usaha':bidang_usaha,
   }
   kemenperin_data.append(data_dict)
  print(page)
  page += 1
 
-with open(f'data_json/kemenperin.json', 'w') as f:
- json.dump(kemenperin_data, f, indent=4)
- print(f'Successfully export my {page} page data to json file')
-
 df = pd.DataFrame(kemenperin_data)
-df.to_csv(f'data_csv/kemenperin.csv', index=False)
-print(f'Successfully export my {page} page data to csv file')
+df.to_csv(f'kemenperin_exportir_{no}.csv', index=False)
+df.to_json(f'kemenperin_exportir_{no}.json', orient='records')
+df.to_excel(f'kemenperin_exportir_{no}.xlsx', index=False)
+print(f'{time.time() - start_time} seconds')
 
-df.to_excel(f'data_excel/kemenperin.xlsx', index=False)
-print(f'Successfully export my {page} page data to xlsx file')
