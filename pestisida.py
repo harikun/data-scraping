@@ -21,14 +21,14 @@ def get_formula(max_page):
             kategori = td.find('td').find_next_sibling('td').find_next_sibling('td').text
             merek = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
 
-            merek_dagang = td.find('td').find_next_sibling('td').contents[0].text.replace('(Ekspor)', '').replace('(ekspor)', '').strip()
-            bahan_aktif = td.find('td').find_next_sibling('td').contents[3].text.strip()
-            deskripsi_singkat = td.find('td').find_next_sibling('td').contents[6].text.strip()
-            cara_pemakaian = td.find('td').find_next_sibling('td').find_next_sibling('td').text.strip()
-            perusahaan = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[0].text.strip()
-            jenis_izin = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[4].text.strip()
-            tanggal_akhir_izin = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[6].text.strip()
-            no_pendaftaran = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[8].text.strip()
+            # merek_dagang = td.find('td').find_next_sibling('td').contents[0].text.replace('(Ekspor)', '').replace('(ekspor)', '').strip()
+            # bahan_aktif = td.find('td').find_next_sibling('td').contents[3].text.strip()
+            # deskripsi_singkat = td.find('td').find_next_sibling('td').contents[6].text.strip()
+            # cara_pemakaian = td.find('td').find_next_sibling('td').find_next_sibling('td').text.strip()
+            # perusahaan = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[0].text.strip()
+            # jenis_izin = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[4].text.strip()
+            # tanggal_akhir_izin = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[6].text.strip()
+            # no_pendaftaran = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').contents[8].text.strip()
             pestisida_list.append({
                 'no': no,
                 'merek dagang': merek,
