@@ -16,7 +16,7 @@ def get_formula(max_page):
         soup = BeautifulSoup(res.text, 'html.parser')
         tr = soup.find_all('tr', class_='Row')
         for td in tr:
-            no = td.find('td', {'style' : 'TEXT-ALIGN: right'}).text.strip()
+            no = td.find('td', {'style' : 'TEXT-ALIGN: left'}).text.strip()
             tujuan = td.find('td').find_next_sibling('td').text
             kategori = td.find('td').find_next_sibling('td').find_next_sibling('td').text
             merek = td.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
