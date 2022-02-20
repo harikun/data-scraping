@@ -7,9 +7,9 @@ while page < 219:
  url = 'https://kemenperin.go.id/direktori-perusahaan?'
  url_eksportir = 'https://www.kemenperin.go.id/direktori-eksportir?'
  params = {
-  "hal": page,
+  "&hal": page,
   "what": 'a',
-  "prov": 0,
+  "&prov": 0,
  }
  res = requests.get(url_eksportir, params=params)
  soup = BeautifulSoup(res.text, 'html.parser')
@@ -22,7 +22,10 @@ while page < 219:
    company_name = item.find('td').find_next_sibling('td').find('b').text
    address = item.find('td').find_next_sibling('td').contents[2].strip()
    telp = item.find('td').find_next_sibling('td').contents[4].replace('Telp. ', '').strip()
-   web = item.find('td').find_next_sibling('td').find('a')['href']
+   try:
+    web = item.find('td').find_next_sibling('td').find('a').text
+   except:
+    web = ''
    komoditi = item.find('td').find_next_sibling('td').find_next_sibling('td').text
    bidang_usaha = item.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
   except:
@@ -50,4 +53,3 @@ df.to_csv(f'kemenperin_exportir_{no}.csv', index=False)
 df.to_json(f'kemenperin_exportir_{no}.json', orient='records')
 df.to_excel(f'kemenperin_exportir_{no}.xlsx', index=False)
 print(f'{time.time() - start_time} seconds')
-
