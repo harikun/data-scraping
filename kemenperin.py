@@ -1,6 +1,6 @@
 import requests; import pandas as pd; from bs4 import BeautifulSoup; import time
 start_time = time.time()
-page = 1
+page = 1; no = 0
 # total page 678 / ekporti 218
 kemenperin_data = []
 while page < 219:
@@ -17,8 +17,7 @@ while page < 219:
  all_content = content.find_all('tr')
  for item in all_content:
   try:
-   no = item.find('td', {'align': 'right'}).text.replace('.', '')
-   no = int(no)
+   no += 1
    company_name = item.find('td').find_next_sibling('td').find('b').text
    address = item.find('td').find_next_sibling('td').contents[2].strip()
    telp = item.find('td').find_next_sibling('td').contents[4].replace('Telp. ', '').strip()
@@ -49,7 +48,7 @@ while page < 219:
  page += 1
 
 df = pd.DataFrame(kemenperin_data)
-df.to_csv(f'kemenperin_exportir_{no}.csv', index=False)
-df.to_json(f'kemenperin_exportir_{no}.json', orient='records')
-df.to_excel(f'kemenperin_exportir_{no}.xlsx', index=False)
+df.to_csv(f'data_csv/kemenperin_exportir_{no}.csv', index=False)
+df.to_json(f'data_json/kemenperin_exportir_{no}.json', orient='records')
+df.to_excel(f'data_excel/kemenperin_exportir_{no}.xlsx', index=False)
 print(f'{time.time() - start_time} seconds')
