@@ -7,7 +7,7 @@ base_url = 'https://www.worldometers.info/'
 res = requests.get(url_coronavirus)
 soup = BeautifulSoup(res.content, 'html.parser')
 tbody = soup.find('tbody')
-all_content = tbody.find_all('tr')
+all_content = tbody.find_all('tr')[7:]
 world_pop_2020 = []
 for td in all_content:
     no = td.find('td').text
