@@ -1,28 +1,25 @@
 import requests; from bs4 import BeautifulSoup; import time; import pandas as pd;
 start_time = time.time()
 url = 'https://modi.esdm.go.id/portal/dataPerusahaan/'
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'
-}
-page = 1; max_page = 302; modi_perusahaan_list = []; no = 0
-params = {
-    'page' : 1,
-}
+page = 1; max_page = 3; modi_perusahaan_list = []
 while page < max_page:
-    res = requests.get(url, params=params,  headers=headers)
-    soup = BeautifulSoup(res.text, 'html.parser')
+    params = {
+        'page' : page,
+    }
+    res = requests.get(url, params=params)
+    soup = BeautifulSoup(res.content, 'html.parser')
     tbody = soup.find('tbody')
     tr = tbody.find_all('tr')[:20]
     for i in tr:
-        no = i.find_all('td')[0].text
-        nama_perusahaan = i.find_all('td')[1].text
-        jenis_perizinan = i.find_all('td')[4].text
-
+        no = i.find('td').text
+        nama_perusahaan = i.find('td').find_next_sibling('td')
+        jenis_perizinan = i.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
         modi_perusahaan_list.append({
             'no' : no,
             'nama_perusahaan' : nama_perusahaan,
             'jenis_perizinan' : jenis_perizinan
         })
+    print(page)
     page += 1
 df = pd.DataFrame(modi_perusahaan_list)
 df.to_csv(f'data_csv/modi_perusahaan_{no}.csv', index=False)
