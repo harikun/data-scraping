@@ -1,7 +1,7 @@
 import requests; from bs4 import BeautifulSoup; import time; import pandas as pd;
 start_time = time.time()
 url = 'https://modi.esdm.go.id/portal/dataPerusahaan/'
-page = 1; max_page = 302; modi_perusahaan_list = []
+page = 1; max_page = 301; modi_perusahaan_list = []
 while page < max_page:
     params = {
         'page' : page,
