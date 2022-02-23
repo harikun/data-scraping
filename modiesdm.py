@@ -1,7 +1,7 @@
 import requests; from bs4 import BeautifulSoup; import time; import pandas as pd;
 start_time = time.time()
 url = 'https://modi.esdm.go.id/portal/dataPerusahaan/'
-page = 1; max_page = 3; modi_perusahaan_list = []
+page = 1; max_page = 302; modi_perusahaan_list = []
 while page < max_page:
     params = {
         'page' : page,
@@ -12,12 +12,14 @@ while page < max_page:
     tr = tbody.find_all('tr')[:20]
     for i in tr:
         no = i.find('td').text
-        nama_perusahaan = i.find('td').find_next_sibling('td')
+        nama_perusahaan = i.find('td').find_next_sibling('td').text
+        tautan_detail = i.find('td').find_next_sibling('td').find('a').get('href')
         jenis_perizinan = i.find('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').find_next_sibling('td').text
         modi_perusahaan_list.append({
             'no' : no,
-            'nama_perusahaan' : nama_perusahaan,
-            'jenis_perizinan' : jenis_perizinan
+            'nama perusahaan' : nama_perusahaan,
+            'jenis perizinan' : jenis_perizinan,
+            'tautan detail' : tautan_detail
         })
     print(page)
     page += 1
