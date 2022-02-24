@@ -1,7 +1,8 @@
+from tkinter.ttk import Style
 import requests; import time; import pandas as pd; from bs4 import BeautifulSoup;
 start_time = time.time()
 url = 'https://www.periplus.com/c/1/books?'
-sar = 1; page = 1; page_end = 417; periplus_list = []; no = 0
+sar = 1; page = 1; page_end = 210; periplus_list = []; no = 0
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'
 }
@@ -20,19 +21,33 @@ while page < page_end:
     row = row_categor_grid[2].find_all('div', class_='col-xl-2 col-lg-4 col-md-6 col-6')
     for item in row:
         no += 1
-        img = item.find('img')['src']
-        title = item.find('h3').text
+        try:
+            img = item.find('img')['src']
+        except:
+            img = '-'
+        title = item.find('h3').text.strip()
         author = item.find('div', class_ = 'product-author').text.strip()
         binding = item.find('div', class_ = 'product-binding').text.strip()
-        price = item.find('div', class_ = 'product-price').text.strip().replace(',' , '.')
+        price = item.find('div', class_ = 'product-price')
+        try:
+            price_discount = price.find('span').text.strip()
+            price_old = price.find('div', {'style': 'color:#565656;display:inline;font-size:12px;margin-left:5px;text-decoration:line-through;'}).text.strip().replace(',', '.')
+            price_now = price.find('div', {'style': 'font-size:100%;color:#000000;font-weight:600;'}).text.strip().replace(',', '.')
+        except:
+            price_discount = ''
+            price_old = ''
+            price_now = ''
         periplus_list.append({
             'no' : no,
             'img' : img,
             'title' : title,
             'author' : author,
             'binding' : binding,
-            'price' : price,
+            'discount' : price_discount,
+            'normal price' : price_old,
+            'price' : price_now,
         })
+        print(f'{no}. {title} . {price} . {author} . {binding}')
     print(page)
     page += 1
 df = pd.DataFrame(periplus_list)
