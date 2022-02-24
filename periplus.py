@@ -1,7 +1,7 @@
 import requests; import time; import pandas as pd; from bs4 import BeautifulSoup;
 start_time = time.time()
 url = 'https://www.periplus.com/c/1/books?'
-sar = 1; page = 1; page_end = 418; periplus_list = []; no = 0
+sar = 1; page = 1; page_end = 417; periplus_list = []; no = 0
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'
 }
@@ -33,6 +33,7 @@ while page < page_end:
             'binding' : binding,
             'price' : price,
         })
+    print(page)
     page += 1
 df = pd.DataFrame(periplus_list)
 df.to_csv(f'data_csv/periplus_{no}.csv', index=False)
