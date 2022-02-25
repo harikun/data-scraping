@@ -25,4 +25,3 @@ headers = {
             }
 res = requests.get(url, headers=headers)
 soup = BeautifulSoup(res.text, 'html.parser')
-print(soup.data)
