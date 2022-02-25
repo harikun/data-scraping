@@ -25,3 +25,8 @@ while page < 583:
             'harga': price
         })
     page += 1
+df = pd.DataFrame(data_lelang_bri)
+df.to_csv(f'data_csv/data_lelang_bri_{no}.csv', index=False)
+df.to_excel(f'data_excel/data_lelang_bri_{no}.xlsx', index=False)
+df.to_json(f'data_json/data_lelang_bri_{no}.json', orient='records')
+print("--- %s seconds ---" % (time.time() - start_time))
