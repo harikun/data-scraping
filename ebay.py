@@ -1,6 +1,6 @@
 import requests; import pandas as pd; from bs4 import BeautifulSoup
 page = 1; no = 0; sony_digital_camera = []
-while page is not None:
+while page < 209:
     url = 'https://www.ebay.com/b/Sony-Digital-Cameras/31388/bn_772?'
     params = {
         'pgn': page,
@@ -15,20 +15,20 @@ while page is not None:
         no += 1
         link = data.find('a', class_='s-item__link')['href']
         title = data.find('h3', class_='s-item__title').text
-        price = data.find('span', class_='s-item__price').text
+        price = data.find('span', class_='s-item__price').text.replace('IDR', '')
         img = data.find('img', class_='s-item__image-img').get('src')
         try:
-            review = data.find('span', class_='s-item__reviews-count').find('span', {'aria-hidden': 'true'}).text.replace('(', '').replace(')', '')
+            review = int(data.find('span', class_='s-item__reviews-count').find('span', {'aria-hidden': 'true'}).text.replace('(', '').replace(')', ''))
         except:
             review = ''
-        print(no, title)
+        print(no)
         sony_digital_camera.append({
             'No': no,
             'Title': title,
             'Price': price,
             'Review': review,
             'Image': img,
-            'Link': link,
+            'Link Product': link,
         })
     page += 1
 df = pd.DataFrame(sony_digital_camera)
