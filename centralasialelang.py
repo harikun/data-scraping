@@ -10,7 +10,7 @@ for tr in all_tr[7:]:
     bank = tr.find_all('td')[2].text
     deskripsi = tr.find_all('td')[3].text
     lokasi = tr.find_all('td')[4].text
-    properti_lelang.apppend({'no': no, 'jenis': jenis, 'kategori': kategori, 'bank': bank, 'deskripsi': deskripsi, 'lokasi': lokasi})
+    properti_lelang.append({'no': no, 'jenis': jenis, 'kategori': kategori, 'bank': bank, 'deskripsi': deskripsi, 'lokasi': lokasi})
 df = pd.DataFrame(properti_lelang)
 df.to_csv(f'data_csv/centralasialelang_{no}.csv', index=False)
 df.to_excel(f'data_excel/centralasialelang_{no}.xlsx', index=False)
