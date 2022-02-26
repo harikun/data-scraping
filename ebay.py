@@ -1,5 +1,5 @@
 import requests; import pandas as pd; from bs4 import BeautifulSoup
-page = 1; no = 0
+page = 1; no = 0; sony_digital_camera = []
 while page is not None:
     url = 'https://www.ebay.com/b/Sony-Digital-Cameras/31388/bn_772?'
     params = {
@@ -22,5 +22,15 @@ while page is not None:
         except:
             review = ''
         print(no, title)
+        sony_digital_camera.append({
+            'No': no,
+            'Title': title,
+            'Price': price,
+            'Review': review,
+            'Image': img,
+            'Link': link,
+        })
     page += 1
-
+df = pd.DataFrame(sony_digital_camera)
+df.to_excel(f'data_excel/sony_digital_camera-{no}.xlsx', index=False)
+print('Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
