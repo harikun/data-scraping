@@ -24,6 +24,6 @@ for data in a:
         'released': released
     })
 df = pd.DataFrame(top_sellers_windows)
-df.to_excel(f'top_sellers_windows_{no}.xlsx', index=False)
+df.to_excel(f'data_excel/top_sellers_windows_{no}.xlsx', index=False)
 
-print('Support me on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print('Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')

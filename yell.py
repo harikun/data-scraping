@@ -97,6 +97,8 @@ def run():
         json.dump(final_result, f)
         f.close()
     print('Data berhasil di simpan di data_json/yell.json')
+    print('Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+
 
 if __name__ == '__main__':
     # get_total_pages()
