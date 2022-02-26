@@ -15,6 +15,15 @@ for data in a:
     else:
         price = data.find('div', class_='search_price').contents[3].text
     print(no, name)
-
+    top_sellers_windows.append({
+        'no': no,
+        'nama': name,
+        'harga': price,
+        'img': img,
+        'link': link,
+        'released': released
+    })
+df = pd.DataFrame(top_sellers_windows)
+df.to_excel(f'top_sellers_windows_{no}.xlsx', index=False)
 
 print('Support me on karyakarsa: https://karyakarsa.com/ciptosuhari')
