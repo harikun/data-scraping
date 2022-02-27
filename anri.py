@@ -1,12 +1,12 @@
 import requests; import pandas as pd; from bs4 import BeautifulSoup
 page = 1; daftar_arsip = []; no = 0; base_url = 'https://anri.go.id/'
-while page < 2:
+while page < 3:
     res = requests.get(f'https://anri.go.id/sekitar-arsip/arsip-statis/sarana-temu-balik-arsip/daftar-arsip?page={str(page)}')
     soup = BeautifulSoup(res.text, 'html.parser')
     tbody = soup.find('tbody')
     all_tr = tbody.find_all('tr')
     for tr in all_tr:
-        no = int(tr.find('td').text)
+        no += 1
         nama_file = tr.find_all('td')[1].text
         tahun = int(tr.find_all('td')[2].text)
         tautan = base_url + tr.find_all('td')[3].find('a')['href']
