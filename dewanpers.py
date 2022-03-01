@@ -28,6 +28,9 @@ while page < max_page:
         alamat = td[7].get_text()
         telp = td[8].get_text()
         email = td[9].get_text()
+        website = td[10].get_text()
+        status = td[11].get_text()
+        tgl_approve = td[12].get_text()
         daftar_perusahaan_pers.append({
             'no': no,
             'nama media': nama_media,
