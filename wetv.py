@@ -4,4 +4,5 @@ soup=BeautifulSoup(res.content,'html.parser')
 module__list = soup.find('div',{'class':'module__list'})
 module__item = module__list.find_all('div',{'class':'module__item'})
 anime_list = []; no = 0
-print(module__item)
+for i in module__item:
+    print(i)
