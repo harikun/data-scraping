@@ -21,3 +21,9 @@ while page <= 2:
         })
         print(buku_kita_populer)
     page += 1
+df = pd.DataFrame(buku_kita_populer)
+df.to_csv(f'data_csv/buku_kita_populer-{no}.csv', index=False)
+df.to_excel(f'data_excel/buku_kita_populer-{no}.xlsx', index=False)
+df.to_json(f'data_json/buku_kita_populer-{no}.json', orient='records')
+
+print('\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
