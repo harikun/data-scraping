@@ -1,6 +1,6 @@
 import requests; from bs4 import BeautifulSoup; import pandas as pd
 page = 1; max_page = 8; buku_kita_populer = []; no = 0
-while page <= 2:
+while page <= max_page:
     res = requests.get(f'https://www.bukukita.com/katalogbukuatribut.php?page={str(page)}&atrId=3')
     soup = BeautifulSoup(res.text, 'html.parser')
     product = soup.find_all('div', class_='product-preview')
