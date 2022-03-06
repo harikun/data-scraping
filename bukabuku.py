@@ -12,9 +12,9 @@ while page <= max_page:
         status_product = item.find('span', class_='product_status_orange').text.strip()
         link = base_url + item.find('span', class_='product_list_title').find('a').get('href')
         print(no,title, price, status_product)
-        buku_kita_populer.append({ 'no': no, 'title': title, 'author': author, 'price': price, 'status_product': status_product, 'link': link})
+        buku_kita_softcover.append({ 'no': no, 'title': title, 'author': author, 'price': price, 'status_product': status_product, 'link': link})
     page += 1
-df = pd.DataFrame(buku_kita_populer)
+df = pd.DataFrame(buku_kita_softcover)
 df.to_csv(f'data_csv/buku_kita_softcover-{no}.csv', index=False)
 df.to_excel(f'data_excel/buku_kita_softcover-{no}.xlsx', index=False)
 df.to_json(f'data_json/buku_kita_softcover-{no}.json', orient='records')
