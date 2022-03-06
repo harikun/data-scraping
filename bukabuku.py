@@ -8,8 +8,12 @@ while page <= max_page:
         no += 1
         title = item.find('span', class_='product_list_title').find('a').text
         author = item.find('div', class_='product_author text_smaller').text.replace('oleh', '').strip()
-        price = int(item.find('span', class_='price').text.replace('Rp.', '').replace('.', '').strip())
-        status_product = item.find('span', class_='product_status_orange').text.strip()
+        try:
+            price = int(item.find('span', class_='price').text.replace('Rp.', '').replace('.', '').strip())
+            status_product = item.find('span', class_='product_status_orange').text.strip()
+        except:
+            price = ''
+            status_product = 'Stock tidak tersedia'
         link = base_url + item.find('span', class_='product_list_title').find('a').get('href')
         print(no,title, price, status_product)
         buku_kita_softcover.append({ 'no': no, 'title': title, 'author': author, 'price': price, 'status_product': status_product, 'link': link})
