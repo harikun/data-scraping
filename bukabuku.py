@@ -19,7 +19,7 @@ while page <= max_page:
         buku_kita_softcover.append({ 'no': no, 'title': title, 'author': author, 'price': price, 'status_product': status_product, 'link': link})
     page += 1
 df = pd.DataFrame(buku_kita_softcover)
-df.to_csv(f'data_csv/buku_kita_softcover-{no}.csv', index=False)
-df.to_excel(f'data_excel/buku_kita_softcover-{no}.xlsx', index=False)
-df.to_json(f'data_json/buku_kita_softcover-{no}.json', orient='records')
+df.to_csv(f'data_csv/buka_buku_softcover-{no}.csv', index=False)
+df.to_excel(f'data_excel/buka_buku_softcover-{no}.xlsx', index=False)
+df.to_json(f'data_json/buka_buku_softcover-{no}.json', orient='records')
 print('\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
