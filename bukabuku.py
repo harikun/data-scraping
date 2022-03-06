@@ -1,5 +1,5 @@
 import requests; from bs4 import BeautifulSoup; import pandas as pd
-page =1; max_page = 741; buku_kita_softcover = []; no = 0; base_url = 'http://www.bukabuku.com'
+page =1; max_page = 20; buku_kita_softcover = []; no = 0; base_url = 'http://www.bukabuku.com'
 while page <= max_page:
     res = requests.get(f'http://www.bukabuku.com/browses/index/dept:book/cid:44/format:Soft%20Cover/page:{str(page)}')
     soup = BeautifulSoup(res.text, 'html.parser')
