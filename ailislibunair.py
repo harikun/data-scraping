@@ -9,5 +9,10 @@ while page <= max_page:
     container = content_wrapper.find('div', class_='container')
     content = container.find('section', class_='content')
     box_box_default = content.find('div', class_='box box-default')
-    print(box_box_default)
+    content2 = box_box_default.find('section', class_='content')
+    box_box_default2 = content2.find('div', class_='box box-default')
+    box_body = box_box_default2.find('div', class_='box-body')
+    row2 = box_body.find('div', class_='row').find_next_sibling('div', class_='row')
+    col_sm_9 = row2.find('div', class_='col-sm-9')
+    print(col_sm_9)
     page += 1
