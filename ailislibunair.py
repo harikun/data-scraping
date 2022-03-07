@@ -23,6 +23,22 @@ while page < max_page:
             no += 1
             title = data.find('div', class_='col-sm-9').find('a').text
             link = data.find('div', class_='col-sm-9').find('a').get('href')
-            jenis_bahan = data.find('div', class_='col-sm-9').find('td',{'width': "78%"}).text
-            print(no, title, jenis_bahan)
+            material_type = data.find('div', class_='col-sm-9').find('td',{'width': "78%"}).text
+            publisher = data.find('div', class_='col-sm-9').find('td',{'valign': 'top'}).find_next_sibling('td').text.strip()
+            availability = data.find('div', class_='col-sm-9').find('a', {'data-toggle':'collapse'}).text
+            print(no, title, availability)
+            buku_perpus_unair.append({
+                'no': no,
+                'link': link,
+                'material_type': material_type,
+                'publisher': publisher,
+                'availability': availability
+                'title': title,
+            })
     page += 1
+df = pd.DataFrame(buku_perpus_unair)
+df.to_csv(f'data_csv/buku_perpus_unair-{no}.csv', index=False)
+df.to_excel(f'data_excel/buku_perpus_unair-{no}.xlsx', index=False)
+df.to_json(f'data_json/buku_perpus_unair-{no}.json', orient='records')
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
