@@ -1,6 +1,6 @@
 import requests; import pandas as pd; from bs4 import BeautifulSoup;
 page = 1; max_page = 2; buku_perpus_unair = []; no = 0
-while page <= max_page:
+while page < max_page:
     res = requests.get(f'http://ailis.lib.unair.ac.id/opac/pencarian-sederhana?action=pencarianSederhana&katakunci=&ruas=Semua+Ruas&bahan=Semua+Jenis+Bahan&fAuthor=&fPublisher=&fPublishLoc=&fPublishYear=&page={str(page)}&limit=10&location=Perpustakaan+Pusat')
     soup = BeautifulSoup(res.text, 'html.parser')
     body = soup.find('body', class_='skin-blue layout-top-nav')
@@ -14,5 +14,15 @@ while page <= max_page:
     box_body = box_box_default2.find('div', class_='box-body')
     row2 = box_body.find('div', class_='row').find_next_sibling('div', class_='row')
     col_sm_9 = row2.find('div', class_='col-sm-9')
-    print(col_sm_9)
+    form = col_sm_9.find('form')
+    table = form.find('table', class_='table2 table-striped')
+    tr = table.find_all('tr')
+    for td in tr:
+        row = td.find_all('div', class_='row')
+        for data in row[:1]:
+            no += 1
+            title = data.find('div', class_='col-sm-9').find('a').text
+            link = data.find('div', class_='col-sm-9').find('a').get('href')
+            jenis_bahan = data.find('div', class_='col-sm-9').find('td',{'width': "78%"}).text
+            print(no, title, jenis_bahan)
     page += 1
