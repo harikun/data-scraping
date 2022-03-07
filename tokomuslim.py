@@ -23,3 +23,4 @@ df.to_excel(f'data_excel/buku_toko_muslim-{no}.xlsx', index=False)
 df.to_json(f'data_json/buku_toko_muslim-{no}.json', orient='records')
 
 print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
