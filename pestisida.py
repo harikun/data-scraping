@@ -47,3 +47,6 @@ def get_formula(max_page):
 #s_kategori yang tersedia ['umum', 'teknis', 'ekspor']
 get_formula(32)
 print("--- %s seconds ---" % (time.time() - start_time))
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
