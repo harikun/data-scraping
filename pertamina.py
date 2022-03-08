@@ -25,3 +25,6 @@ df = pd.DataFrame(kapal_list)
 df.to_csv(f'data_csv/pertamina_{no}.csv', index=False)
 df.to_excel(f'data_excel/pertamina_{no}.xlsx', index=False)
 print("--- %s seconds ---" % (time.time() - start_time))
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
