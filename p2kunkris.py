@@ -13,4 +13,6 @@ for island in content[:2058]:
     list_island.append({'no': no, 'name': name})
 df = pd.DataFrame(list_island)
 df.to_excel(f'data_excel/p2kunkris_pulau_{no}.xlsx', index=False)
-print('Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
