@@ -55,3 +55,6 @@ df.to_csv(f'data_csv/DaftarAsosiasi_{no - 1}.csv', index=False)
 df = pd.DataFrame(daftar_sub_klasifikasi)
 df.to_excel(f'data_excel/DaftarAsosiasi_{no - 1}.xlsx', index=False)
 print(f'Successfully export {no}  sub klasifikasi to csv, json and excel file')
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
