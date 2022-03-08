@@ -25,3 +25,6 @@ df.to_csv(f'data_csv/sahamok_{no}.csv', index=False)
 df.to_excel(f'data_excel/sahamok_{no}.xlsx', index=False)
 df.to_json(f'data_json/sahamok_{no}.json', orient='records')
 print('--- %s seconds ---' % (time.time() - start_time))
+
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
