@@ -40,5 +40,7 @@ def get_bibit_benih_tanaman():
 
 get_bibit_benih_tanaman()
 print("--- %s seconds ---" % (time.time() - start_time))
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
 
 
