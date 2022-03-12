@@ -33,4 +33,5 @@ with open('data_json/arebijatim_144.json', 'w') as f:
 df = pd.DataFrame(member_arebijatim)
 df.to_csv('data_csv/arebijatim_144.csv', index=False)
 df.to_excel('data_excel/arebijatim_144.xlsx', index=False)
-print('Done!')
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
