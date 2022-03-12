@@ -8,7 +8,7 @@ member_arebi = []; no = 0
 for td in tr:
     no = int(td.find('td').text)
     Merk = td.find('td').find_next_sibling('td').text
-    # alamat = td.find('td').find_next_sibling('td').find_next_sibling('td').text
+    alamat = td.find('td').find_next_sibling('td').find_next_sibling('td').text
     member_arebi.append({'no': no, 'Merk': Merk})
 df = pd.DataFrame(member_arebi)
 df.to_csv(f'data_csv/member_arebi_{no}.csv', index=False)
