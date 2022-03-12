@@ -34,3 +34,5 @@ def importir_terdaftar(country):
 importir_terdaftar(vietnam)
 
 print("--- %s seconds ---" % (time.time() - start_time))
+print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
