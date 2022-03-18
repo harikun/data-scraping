@@ -23,3 +23,4 @@ df.to_excel(f'data_excel/sports_list_{no - 1}.xlsx', index=False)
 
 print("--- %s seconds ---" % (time.time() - start_time))
 print('Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+print(f'\n Support Hari on paypal: https://www.paypal.com/paypalme/ciptosuhari')
