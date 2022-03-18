@@ -153,6 +153,8 @@ def get_all_manga():
     df.to_excel(f'data_excel/mymangalist_{limit}.xlsx', index=False)
     print(f'Successfully export my {limit}  manga to xlsx file')
 
+    print(f'\n Support Hari on karyakarsa: https://karyakarsa.com/ciptosuhari')
+
 # get_all_manga()
 
 # scraping anime from myanimelist
