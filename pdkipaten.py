@@ -1,6 +1,6 @@
 from time import sleep
 import requests; import pandas as pd; from bs4 import BeautifulSoup; import json
-page = 1; max_page = 2; paten_terdaftar = []; no = 0
+page = 1; max_page = 900; paten_terdaftar = []; no = 0
 
 while page < max_page:
     res = requests.get(f'https://pdki-indonesia-api.dgip.go.id/api/patent/search?keyword=&page={str(page)}&type=patent&order_state=asc')
