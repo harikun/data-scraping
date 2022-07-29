@@ -37,7 +37,7 @@ while page < max_page:
     print(page)
     page += 1
 df = pd.DataFrame(paten_terdaftar)
-df.to_excel(f'data_excel/paten_terdaftar.xlsx', index=False)
-df.to_json(f'data_json/paten_terdaftar.json', orient='records')
+df.to_json('data_json/paten_terdaftar.json', orient='records')
+df.to_excel('data_excel/paten_terdaftar.xlsx', index=True)
 
 print('-----done----')
